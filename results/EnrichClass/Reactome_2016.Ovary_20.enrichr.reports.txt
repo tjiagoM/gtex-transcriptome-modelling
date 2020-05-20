@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Activation of HOX genes during differentiation Homo sapiens R-HSA-5619507	1/89	0.017682713077126194	1.0	0	0	56.179775280898866	226.69481904252842	HOXC4
+Reactome_2016	Activation of anterior HOX genes in hindbrain development during early embryogenesis Homo sapiens R-HSA-5617472	1/89	0.017682713077126194	1.0	0	0	56.179775280898866	226.69481904252842	HOXC4
+Reactome_2016	Developmental Biology Homo sapiens R-HSA-1266738	1/786	0.14818356499277238	1.0	0	0	6.361323155216285	12.145696372483446	HOXC4

@@ -1,0 +1,9 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Transcriptional regulation of white adipocyte differentiation Homo sapiens R-HSA-381340	2/79	0.0001528690500520884	0.23388964657969524	0	0	101.26582278481013	889.7143174744774	ADIPOQ;PLIN1
+Reactome_2016	AMPK inhibits chREBP transcriptional activation activity Homo sapiens R-HSA-163680	1/8	0.001998563431658992	1.0	0	0	500.0	3107.663320341183	ADIPOQ
+Reactome_2016	Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis Homo sapiens R-HSA-163560	1/20	0.0049904406959516605	1.0	0	0	200.0	1060.0462114592692	PLIN1
+Reactome_2016	Developmental Biology Homo sapiens R-HSA-1266738	2/786	0.014251513925450153	1.0	0	0	10.178117048346056	43.26607773565517	ADIPOQ;PLIN1
+Reactome_2016	Lipid digestion, mobilization, and transport Homo sapiens R-HSA-73923	1/71	0.017626030405779067	1.0	0	0	56.338028169014095	227.51427995794063	PLIN1
+Reactome_2016	Integration of energy metabolism Homo sapiens R-HSA-163685	1/110	0.027201672447497008	1.0	0	0	36.36363636363636	131.07188438291288	ADIPOQ
+Reactome_2016	Metabolism Homo sapiens R-HSA-1430728	2/1908	0.07483527614973971	1.0	0	0	4.19287211740042	10.869877982780096	ADIPOQ;PLIN1
+Reactome_2016	Metabolism of lipids and lipoproteins Homo sapiens R-HSA-556833	1/659	0.1542589012401827	1.0	0	0	6.0698027314112295	11.345207352231801	PLIN1

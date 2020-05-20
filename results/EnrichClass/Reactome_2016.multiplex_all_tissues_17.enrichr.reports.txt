@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	HDMs demethylate histones Homo sapiens R-HSA-3214842	1/25	0.002498457037470075	1.0	0	0	400.0	2396.8327690628093	KDM5C
+Reactome_2016	Chromatin organization Homo sapiens R-HSA-4839726	1/226	0.022472709814022468	1.0	0	0	44.24778761061947	167.94042491510564	KDM5C
+Reactome_2016	Chromatin modifying enzymes Homo sapiens R-HSA-3247509	1/226	0.022472709814022468	1.0	0	0	44.24778761061947	167.94042491510564	KDM5C

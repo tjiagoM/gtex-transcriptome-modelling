@@ -1,0 +1,9 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	The activation of arylsulfatases_Homo sapiens_R-HSA-1663150	1/13	0.005189022379499861	1.0	0	0	192.3076923076923	1011.7711472562453	STS
+Reactome_2016	Gamma carboxylation, hypusine formation and arylsulfatase activation_Homo sapiens_R-HSA-163841	1/39	0.015496505807542109	1.0	0	0	64.1025641025641	267.1244046308958	STS
+Reactome_2016	Glycosphingolipid metabolism_Homo sapiens_R-HSA-1660662	1/41	0.01628550529596983	1.0	0	0	60.97560975609756	251.06584222127447	STS
+Reactome_2016	Sphingolipid metabolism_Homo sapiens_R-HSA-428157	1/74	0.02922436787889263	1.0	0	0	33.78378378378378	119.34974328792826	STS
+Reactome_2016	Post-translational protein modification_Homo sapiens_R-HSA-597592	1/521	0.1903874206856848	1.0	0	0	4.798464491362764	7.959185348535186	STS
+Reactome_2016	Metabolism of lipids and lipoproteins_Homo sapiens_R-HSA-556833	1/659	0.23515934747482795	1.0	0	0	3.793626707132018	5.491244007077229	STS
+Reactome_2016	Metabolism of proteins_Homo sapiens_R-HSA-392499	1/1074	0.3570213303104104	1.0	0	0	2.327746741154562	2.3974854520920106	STS
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.5516789004156767	1.0	0	0	1.3102725366876309	0.7793358282296755	STS

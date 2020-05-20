@@ -1,0 +1,12 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Apoptotic cleavage of cell adhesion  proteins Homo sapiens R-HSA-351906	1/11	0.009312583434128836	1.0	0	0	106.95187165775404	500.14852790877603	DSG3
+Reactome_2016	Amine compound SLC transporters Homo sapiens R-HSA-425428	1/30	0.025206075066878136	1.0	0	0	39.215686274509814	144.34000938964633	RHCG
+Reactome_2016	Apoptotic cleavage of cellular proteins Homo sapiens R-HSA-111465	1/37	0.031000847034435945	1.0	0	0	31.79650238473768	110.452806078817	DSG3
+Reactome_2016	Apoptotic execution  phase Homo sapiens R-HSA-75153	1/51	0.04249326897973699	1.0	0	0	23.06805074971165	72.85835276913689	DSG3
+Reactome_2016	Stimuli-sensing channels Homo sapiens R-HSA-2672351	1/100	0.08171463267155568	1.0	0	0	11.764705882352944	29.464966949248122	CLCA4
+Reactome_2016	Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds Homo sapiens R-HSA-425366	1/101	0.0824990961274289	1.0	0	0	11.648223645894001	29.061944574638144	RHCG
+Reactome_2016	Transmembrane transport of small molecules Homo sapiens R-HSA-382551	2/594	0.08929068422700948	1.0	0	0	3.961180431768667	9.569649897039767	RHCG;CLCA4
+Reactome_2016	Apoptosis Homo sapiens R-HSA-109581	1/163	0.12992265948743134	1.0	0	0	7.217610970768676	14.729815464349427	DSG3
+Reactome_2016	Programmed Cell Death Homo sapiens R-HSA-5357801	1/166	0.13215778044759025	1.0	0	0	7.0871722182849055	14.342726887204751	DSG3
+Reactome_2016	Ion channel transport Homo sapiens R-HSA-983712	1/203	0.15928366315461118	1.0	0	0	5.795421616922631	10.64658719955024	CLCA4
+Reactome_2016	SLC-mediated transmembrane transport Homo sapiens R-HSA-425407	1/268	0.2050148974017132	1.0	0	0	4.389815627743634	6.9564206858289035	RHCG

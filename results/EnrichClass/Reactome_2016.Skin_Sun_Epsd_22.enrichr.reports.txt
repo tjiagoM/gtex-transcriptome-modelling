@@ -1,0 +1,7 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Creatine metabolism_Homo sapiens_R-HSA-71288	1/10	0.0049898178893478615	1.0	0	0	200.0	1060.0711730010682	CKM
+Reactome_2016	Metabolism of polyamines_Homo sapiens_R-HSA-351202	1/84	0.041223909420819466	1.0	0	0	23.809523809523807	75.92230631434472	CKM
+Reactome_2016	Factors involved in megakaryocyte development and platelet production_Homo sapiens_R-HSA-983231	1/141	0.06831953723801258	1.0	0	0	14.184397163120568	38.06467380103626	MYB
+Reactome_2016	Metabolism of amino acids and derivatives_Homo sapiens_R-HSA-71291	1/335	0.15545441833302373	1.0	0	0	5.970149253731344	11.112852059850264	CKM
+Reactome_2016	Hemostasis_Homo sapiens_R-HSA-109582	1/552	0.2441736679335285	1.0	0	0	3.6231884057971016	5.108244757389953	MYB
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.6331710096822573	1.0	0	0	1.0482180293501049	0.4790510857945501	CKM

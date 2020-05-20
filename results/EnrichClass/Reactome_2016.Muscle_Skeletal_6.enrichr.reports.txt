@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Digestion of dietary lipid_Homo sapiens_R-HSA-192456	1/17	0.009312583434128836	1.0	0	0	106.951871657754	500.1485279087759	CEL
+Reactome_2016	Lipid digestion, mobilization, and transport_Homo sapiens_R-HSA-73923	1/71	0.03837340635379309	1.0	0	0	25.60819462227913	83.49271708519889	CEL
+Reactome_2016	Metabolism of lipids and lipoproteins_Homo sapiens_R-HSA-556833	1/659	0.3083317665663587	1.0	0	0	2.7590012415505587	3.246182677768344	CEL
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.6681838834716249	1.0	0	0	0.952925481227368	0.3842118054778799	CEL

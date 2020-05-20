@@ -1,0 +1,10 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Erythrocytes take up oxygen and release carbon dioxide_Homo sapiens_R-HSA-1247673	1/8	0.0011995541091196305	1.0	0	0	833.3333333333335	5604.837805810994	HBB
+Reactome_2016	Erythrocytes take up carbon dioxide and release oxygen_Homo sapiens_R-HSA-1237044	1/12	0.0017989757687595922	1.0	0	0	555.5555555555555	3511.409885215341	HBB
+Reactome_2016	O2/CO2 exchange in erythrocytes_Homo sapiens_R-HSA-1480926	1/12	0.0017989757687595922	0.917477642067392	0	0	555.5555555555555	3511.409885215341	HBB
+Reactome_2016	Scavenging of heme from plasma_Homo sapiens_R-HSA-2168880	1/46	0.006884403448256826	1.0	0	0	144.92753623188406	721.521274737505	HBB
+Reactome_2016	Binding and Uptake of Ligands by Scavenger Receptors_Homo sapiens_R-HSA-2173782	1/74	0.011059422838055624	1.0	0	0	90.0900900900901	405.8083305291783	HBB
+Reactome_2016	Factors involved in megakaryocyte development and platelet production_Homo sapiens_R-HSA-983231	1/141	0.0210021311855888	1.0	0	0	47.28132387706856	182.65396507706538	HBB
+Reactome_2016	Vesicle-mediated transport_Homo sapiens_R-HSA-5653656	1/492	0.07200264695610477	1.0	0	0	13.550135501355017	35.651116495428205	HBB
+Reactome_2016	Hemostasis_Homo sapiens_R-HSA-109582	1/552	0.08053937661283361	1.0	0	0	12.07729468599034	30.422814778776928	HBB
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.25977606435265005	1.0	0	0	3.494060097833683	4.709766981279243	HBB

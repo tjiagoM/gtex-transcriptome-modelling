@@ -1,0 +1,4 @@
+,Adjusted P-value,Combined Score,Gene_set,Genes,Odds Ratio,Old Adjusted P-value,Old P-value,Overlap,P-value,Term
+0,0.005990261809332021,7781.65198403845,Reactome_2016,CA1;HBB,625.0,0,0,2/8,3.915203796949034e-06,Erythrocytes take up oxygen and release carbon dioxide_Homo sapiens_R-HSA-1247673
+1,0.007054373100697386,4830.8264126327085,Reactome_2016,CA1;HBB,416.6666666666666,0,0,2/12,9.221402746009655e-06,Erythrocytes take up carbon dioxide and release oxygen_Homo sapiens_R-HSA-1237044
+2,0.004702915400464925,4830.8264126327085,Reactome_2016,CA1;HBB,416.6666666666666,0,0,2/12,9.221402746009655e-06,O2/CO2 exchange in erythrocytes_Homo sapiens_R-HSA-1480926

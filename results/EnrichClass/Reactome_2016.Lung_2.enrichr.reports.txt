@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation_Homo sapiens_R-HSA-1474151	1/10	0.002497707864196744	1.0	0	0	400.0	2396.9527287989176	SPR
+Reactome_2016	eNOS activation and regulation_Homo sapiens_R-HSA-203765	1/20	0.0049904406959516605	1.0	0	0	200.0	1060.0462114592692	SPR
+Reactome_2016	Metabolism of nitric oxide_Homo sapiens_R-HSA-202131	1/20	0.0049904406959516605	1.0	0	0	200.0	1060.0462114592692	SPR
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.3942960714888931	1.0	0	0	2.0964360587002098	1.951054929564629	SPR

@@ -1,0 +1,12 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Synthesis of Dolichyl-phosphate_Homo sapiens_R-HSA-446199	1/6	0.0011995241237685768	1.0	0	0	833.3333333333333	5604.858636972064	MVD
+Reactome_2016	Cholesterol biosynthesis_Homo sapiens_R-HSA-191273	1/23	0.004592351033521324	1.0	0	0	217.3913043478261	1170.2963431096607	MVD
+Reactome_2016	Activation of gene expression by SREBF (SREBP)_Homo sapiens_R-HSA-2426168	1/42	0.008374110589681004	1.0	0	0	119.04761904761904	569.3583815663671	MVD
+Reactome_2016	Regulation of cholesterol biosynthesis by SREBP (SREBF)_Homo sapiens_R-HSA-1655829	1/55	0.010955418103578723	1.0	0	0	90.9090909090909	410.3564673740871	MVD
+Reactome_2016	Synthesis of substrates in N-glycan biosythesis_Homo sapiens_R-HSA-446219	1/63	0.012541409107047851	1.0	0	0	79.36507936507934	347.51741119898423	MVD
+Reactome_2016	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein_Homo sapiens_R-HSA-446193	1/78	0.015510001824185196	1.0	0	0	64.1025641025641	267.0686015500134	MVD
+Reactome_2016	Asparagine N-linked glycosylation_Homo sapiens_R-HSA-446203	1/259	0.05080594367283248	1.0	0	0	19.305019305019304	57.523975478921315	MVD
+Reactome_2016	Post-translational protein modification_Homo sapiens_R-HSA-597592	1/521	0.1002055443888445	1.0	0	0	9.596928982725528	22.078039910174642	MVD
+Reactome_2016	Metabolism of lipids and lipoproteins_Homo sapiens_R-HSA-556833	1/659	0.12543630460601546	1.0	0	0	7.587253414264036	15.750813219033187	MVD
+Reactome_2016	Metabolism of proteins_Homo sapiens_R-HSA-392499	1/1074	0.19812221786170497	1.0	0	0	4.655493482309124	7.536644212232701	MVD
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.3304039250735147	1.0	0	0	2.6205450733752618	2.9020947527343406	MVD

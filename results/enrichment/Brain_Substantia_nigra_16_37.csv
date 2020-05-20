@@ -1,0 +1,3 @@
+,Adjusted P-value,Combined Score,Gene_set,Genes,Odds Ratio,Old Adjusted P-value,Old P-value,Overlap,P-value,Term
+0,0.0045694952470395405,1325.143285811245,Reactome_2016,LYN;HCK;SYK,104.16666666666666,0,0,3/18,2.9865982006794387e-06,Regulation of signaling by CBL_Homo sapiens_R-HSA-912631
+1,0.04987803101500195,368.80295155157853,Reactome_2016,LYN;HCK;SYK,38.265306122448976,0,0,3/49,6.520004054248621e-05,FCGR activation_Homo sapiens_R-HSA-2029481

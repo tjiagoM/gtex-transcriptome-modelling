@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Interferon gamma signaling Homo sapiens R-HSA-877300	1/93	0.0631881450049838	1.0	0	0	15.360983102918587	42.42148347864116	TRIM29
+Reactome_2016	Interferon Signaling Homo sapiens R-HSA-913531	1/196	0.12883279317309204	1.0	0	0	7.288629737609328	14.936150818784142	TRIM29
+Reactome_2016	Cytokine Signaling in Immune system Homo sapiens R-HSA-1280215	1/620	0.3566163790088729	1.0	0	0	2.3041474654377883	2.3757941096033868	TRIM29
+Reactome_2016	Immune System Homo sapiens R-HSA-168256	1/1547	0.6761430739414962	1.0	0	0	0.923446301597562	0.3613912434121044	TRIM29

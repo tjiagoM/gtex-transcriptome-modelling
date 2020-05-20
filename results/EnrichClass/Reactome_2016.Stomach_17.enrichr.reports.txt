@@ -1,0 +1,3 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Cell surface interactions at the vascular wall_Homo sapiens_R-HSA-202733	1/101	0.024998564628756072	1.0	0	0	39.603960396039604	146.09650972720752	MIF
+Reactome_2016	Hemostasis_Homo sapiens_R-HSA-109582	1/552	0.13060175375687605	1.0	0	0	7.246376811594202	14.750743722970777	MIF

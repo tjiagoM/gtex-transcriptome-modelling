@@ -1,0 +1,6 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	LDL-mediated lipid transport_Homo sapiens_R-HSA-171052	1/6	0.0074774468101390735	1.0	0	0	133.33333333333331	652.7818507742521	LPA
+Reactome_2016	Lipoprotein metabolism_Homo sapiens_R-HSA-174824	1/34	0.04166847497443899	1.0	0	0	23.529411764705877	74.77671604477965	LPA
+Reactome_2016	Lipid digestion, mobilization, and transport_Homo sapiens_R-HSA-73923	1/71	0.08511880115859828	1.0	0	0	11.267605633802814	27.76008267741965	LPA
+Reactome_2016	Metabolism of lipids and lipoproteins_Homo sapiens_R-HSA-556833	1/659	0.5674843479614883	1.0	0	0	1.2139605462822458	0.6877597701869931	LPA
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.9185793329188244	1.0	0	0	0.419287211740042	0.0356088074628877	LPA

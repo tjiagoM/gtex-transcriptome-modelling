@@ -1,0 +1,6 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Apoptotic cleavage of cell adhesion  proteins Homo sapiens R-HSA-351906	1/11	0.009312583434128836	1.0	0	0	106.95187165775404	500.14852790877603	DSG1
+Reactome_2016	Apoptotic cleavage of cellular proteins Homo sapiens R-HSA-111465	1/37	0.031000847034435945	1.0	0	0	31.79650238473768	110.452806078817	DSG1
+Reactome_2016	Apoptotic execution  phase Homo sapiens R-HSA-75153	1/51	0.04249326897973699	1.0	0	0	23.06805074971165	72.85835276913689	DSG1
+Reactome_2016	Apoptosis Homo sapiens R-HSA-109581	1/163	0.12992265948743134	1.0	0	0	7.217610970768676	14.729815464349427	DSG1
+Reactome_2016	Programmed Cell Death Homo sapiens R-HSA-5357801	1/166	0.13215778044759025	1.0	0	0	7.0871722182849055	14.342726887204751	DSG1

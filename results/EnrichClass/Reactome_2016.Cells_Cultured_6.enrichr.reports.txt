@@ -1,0 +1,6 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Cholesterol biosynthesis_Homo sapiens_R-HSA-191273	1/23	0.008023389804178622	1.0	0	0	124.22360248447204	599.4278605655687	MVK
+Reactome_2016	Activation of gene expression by SREBF (SREBP)_Homo sapiens_R-HSA-2426168	1/42	0.014609763532150127	1.0	0	0	68.02721088435375	287.48743120358745	MVK
+Reactome_2016	Regulation of cholesterol biosynthesis by SREBP (SREBF)_Homo sapiens_R-HSA-1655829	1/55	0.01909460637657269	1.0	0	0	51.94805194805195	205.6285388296028	MVK
+Reactome_2016	Metabolism of lipids and lipoproteins_Homo sapiens_R-HSA-556833	1/659	0.2090897673522237	1.0	0	0	4.335573379579451	6.78513596517468	MVK
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.5043803363400446	1.0	0	0	1.4974543276430068	1.024894668927396	MVK

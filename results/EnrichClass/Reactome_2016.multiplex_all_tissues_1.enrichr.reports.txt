@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	rRNA modification in the nucleus Homo sapiens R-HSA-6790901	1/58	0.005791660825928318	1.0	0	0	172.41379310344826	888.1614111504667	PWP2
+Reactome_2016	Major pathway of rRNA processing in the nucleolus Homo sapiens R-HSA-6791226	1/166	0.0165313861843238	1.0	0	0	60.24096385542168	247.13822361231172	PWP2
+Reactome_2016	rRNA processing Homo sapiens R-HSA-72312	1/180	0.01791930465837746	1.0	0	0	55.555555555555564	223.4375930407829	PWP2
+Reactome_2016	Gene Expression Homo sapiens R-HSA-74160	1/1631	0.1564530055642246	1.0	0	0	6.131207847946046	11.373388093383474	PWP2

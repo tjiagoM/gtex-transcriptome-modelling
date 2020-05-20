@@ -1,0 +1,5293 @@
+Going with Pituitary
+-- Predicting Adipose_Subcutaneous with Pituitary community 1
+Accuracy: 0.2744 (0.1412)
+F1 score: 0.0907 (0.0124)
+ROC AUC: 0.5959 (0.0679)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 1
+Accuracy: 0.2638 (0.1378)
+F1 score: 0.0742 (0.0129)
+ROC AUC: 0.5755 (0.0854)
+-- Predicting Adrenal_Gland with Pituitary community 1
+Accuracy: 0.8635 (0.0867)
+F1 score: 0.2313 (0.0945)
+ROC AUC: 0.9310 (0.0406)
+-- Predicting Artery_Aorta with Pituitary community 1
+Accuracy: 0.2650 (0.1393)
+F1 score: 0.0625 (0.0101)
+ROC AUC: 0.5783 (0.0586)
+-- Predicting Artery_Coronary with Pituitary community 1
+Accuracy: 0.2762 (0.1464)
+F1 score: 0.0336 (0.0044)
+ROC AUC: 0.5601 (0.0647)
+-- Predicting Artery_Tibial with Pituitary community 1
+Accuracy: 0.2725 (0.1437)
+F1 score: 0.0943 (0.0187)
+ROC AUC: 0.5841 (0.0879)
+-- Predicting Brain_Amygdala with Pituitary community 1
+Accuracy: 0.8567 (0.0965)
+F1 score: 0.1448 (0.0669)
+ROC AUC: 0.9374 (0.0473)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 1
+Accuracy: 0.8578 (0.0947)
+F1 score: 0.1611 (0.0730)
+ROC AUC: 0.9264 (0.0493)
+-- Predicting Brain_Caudate with Pituitary community 1
+Accuracy: 0.8611 (0.0900)
+F1 score: 0.2009 (0.0856)
+ROC AUC: 0.9373 (0.0451)
+-- Predicting Brain_Cerebellar with Pituitary community 1
+Accuracy: 0.8632 (0.0879)
+F1 score: 0.1867 (0.0797)
+ROC AUC: 0.9365 (0.0456)
+-- Predicting Brain_Cerebellum with Pituitary community 1
+Accuracy: 0.2545 (0.1136)
+F1 score: 0.0351 (0.0047)
+ROC AUC: 0.5746 (0.0763)
+-- Predicting Brain_Cortex with Pituitary community 1
+Accuracy: 0.2701 (0.1159)
+F1 score: 0.0347 (0.0058)
+ROC AUC: 0.5591 (0.0796)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 1
+Accuracy: 0.8596 (0.0921)
+F1 score: 0.1850 (0.0807)
+ROC AUC: 0.9158 (0.0528)
+-- Predicting Brain_Hippocampus with Pituitary community 1
+Accuracy: 0.2738 (0.1377)
+F1 score: 0.0271 (0.0035)
+ROC AUC: 0.5612 (0.0389)
+-- Predicting Brain_Hypothalamus with Pituitary community 1
+Accuracy: 0.2889 (0.1317)
+F1 score: 0.0266 (0.0029)
+ROC AUC: 0.5413 (0.0617)
+-- Predicting Brain_Nucleus with Pituitary community 1
+Accuracy: 0.8620 (0.0888)
+F1 score: 0.2074 (0.0875)
+ROC AUC: 0.9352 (0.0593)
+-- Predicting Brain_Putamen with Pituitary community 1
+Accuracy: 0.9997 (0.0003)
+F1 score: 0.9858 (0.0144)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Brain_Spinal_cord with Pituitary community 1
+Accuracy: 0.2862 (0.1507)
+F1 score: 0.0184 (0.0018)
+ROC AUC: 0.5313 (0.0527)
+-- Predicting Brain_Substantia_nigra with Pituitary community 1
+Accuracy: 0.8559 (0.0974)
+F1 score: 0.1303 (0.0612)
+ROC AUC: 0.9342 (0.0565)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 1
+Accuracy: 0.2708 (0.1291)
+F1 score: 0.0618 (0.0094)
+ROC AUC: 0.5697 (0.0715)
+-- Predicting Cells_Cultured with Pituitary community 1
+Accuracy: 0.9836 (0.0199)
+F1 score: 0.8385 (0.1776)
+ROC AUC: 0.9931 (0.0097)
+-- Predicting Cells_EBV with Pituitary community 1
+Accuracy: 0.3003 (0.1927)
+F1 score: 0.0195 (0.0018)
+ROC AUC: 0.5417 (0.0245)
+-- Predicting Colon_Sigmoid with Pituitary community 1
+Accuracy: 0.2481 (0.1007)
+F1 score: 0.0511 (0.0075)
+ROC AUC: 0.5739 (0.0798)
+-- Predicting Colon_Transverse with Pituitary community 1
+Accuracy: 0.2371 (0.1068)
+F1 score: 0.0576 (0.0078)
+ROC AUC: 0.5927 (0.0566)
+-- Predicting Esophagus_Gastro with Pituitary community 1
+Accuracy: 0.2500 (0.1206)
+F1 score: 0.0505 (0.0053)
+ROC AUC: 0.5687 (0.0546)
+-- Predicting Esophagus_Mucosa with Pituitary community 1
+Accuracy: 0.2741 (0.1088)
+F1 score: 0.0778 (0.0072)
+ROC AUC: 0.5839 (0.0401)
+-- Predicting Esophagus_Muscularis with Pituitary community 1
+Accuracy: 0.2570 (0.1035)
+F1 score: 0.0717 (0.0089)
+ROC AUC: 0.5839 (0.0716)
+-- Predicting Heart_Atrial with Pituitary community 1
+Accuracy: 0.2601 (0.1095)
+F1 score: 0.0584 (0.0080)
+ROC AUC: 0.5684 (0.0576)
+-- Predicting Heart_L_Vent with Pituitary community 1
+Accuracy: 0.8735 (0.1259)
+F1 score: 0.4516 (0.2492)
+ROC AUC: 0.9312 (0.0620)
+-- Predicting Kidney_Cortex with Pituitary community 1
+Accuracy: 0.9791 (0.0278)
+F1 score: 0.6407 (0.3638)
+ROC AUC: 0.9891 (0.0154)
+-- Predicting Liver with Pituitary community 1
+Accuracy: 0.9657 (0.0451)
+F1 score: 0.6861 (0.3315)
+ROC AUC: 0.9841 (0.0223)
+-- Predicting Lung with Pituitary community 1
+Accuracy: 0.2511 (0.1054)
+F1 score: 0.0827 (0.0106)
+ROC AUC: 0.5958 (0.0426)
+-- Predicting Minor_Salivary with Pituitary community 1
+Accuracy: 0.2938 (0.1165)
+F1 score: 0.0215 (0.0039)
+ROC AUC: 0.5228 (0.0708)
+-- Predicting Muscle_Skeletal with Pituitary community 1
+Accuracy: 0.2631 (0.1074)
+F1 score: 0.1071 (0.0132)
+ROC AUC: 0.5889 (0.0633)
+-- Predicting Nerve_Tibial with Pituitary community 1
+Accuracy: 0.2462 (0.1103)
+F1 score: 0.0821 (0.0124)
+ROC AUC: 0.5901 (0.0667)
+-- Predicting Ovary with Pituitary community 1
+Accuracy: 0.2773 (0.0951)
+F1 score: 0.0247 (0.0032)
+ROC AUC: 0.5578 (0.0656)
+-- Predicting Pancreas with Pituitary community 1
+Accuracy: 0.9943 (0.0063)
+F1 score: 0.8911 (0.1131)
+ROC AUC: 0.9974 (0.0037)
+-- Predicting Pituitary with Pituitary community 1
+Accuracy: 0.2452 (0.1141)
+F1 score: 0.0373 (0.0050)
+ROC AUC: 0.5530 (0.0737)
+-- Predicting Prostate with Pituitary community 1
+Accuracy: 0.2362 (0.1033)
+F1 score: 0.0346 (0.0036)
+ROC AUC: 0.5636 (0.0754)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 1
+Accuracy: 0.2388 (0.0998)
+F1 score: 0.0832 (0.0111)
+ROC AUC: 0.5969 (0.0651)
+-- Predicting Skin_Sun_Epsd with Pituitary community 1
+Accuracy: 0.2490 (0.1121)
+F1 score: 0.0976 (0.0144)
+ROC AUC: 0.5965 (0.0575)
+-- Predicting Small_Intestine with Pituitary community 1
+Accuracy: 0.3088 (0.0837)
+F1 score: 0.0242 (0.0053)
+ROC AUC: 0.5361 (0.0814)
+-- Predicting Spleen with Pituitary community 1
+Accuracy: 0.2448 (0.1168)
+F1 score: 0.0370 (0.0051)
+ROC AUC: 0.5770 (0.0490)
+-- Predicting Stomach with Pituitary community 1
+Accuracy: 0.2685 (0.1077)
+F1 score: 0.0512 (0.0056)
+ROC AUC: 0.5676 (0.0646)
+-- Predicting Testis with Pituitary community 1
+Accuracy: 0.2808 (0.1290)
+F1 score: 0.0466 (0.0056)
+ROC AUC: 0.5567 (0.0371)
+-- Predicting Thyroid with Pituitary community 1
+Accuracy: 0.2463 (0.1070)
+F1 score: 0.0895 (0.0101)
+ROC AUC: 0.5931 (0.0572)
+-- Predicting Uterus with Pituitary community 1
+Accuracy: 0.2490 (0.1017)
+F1 score: 0.0215 (0.0030)
+ROC AUC: 0.5688 (0.0624)
+-- Predicting Vagina with Pituitary community 1
+Accuracy: 0.2795 (0.1469)
+F1 score: 0.0228 (0.0026)
+ROC AUC: 0.5682 (0.0280)
+-- Predicting Whole_Blood with Pituitary community 1
+Accuracy: 0.2586 (0.1319)
+F1 score: 0.0931 (0.0031)
+ROC AUC: 0.5655 (0.0371)
+-- Predicting Adipose_Subcutaneous with Pituitary community 2
+Accuracy: 0.2868 (0.2068)
+F1 score: 0.0784 (0.0052)
+ROC AUC: 0.5232 (0.0407)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 2
+Accuracy: 0.2961 (0.1849)
+F1 score: 0.0527 (0.0043)
+ROC AUC: 0.4476 (0.0344)
+-- Predicting Adrenal_Gland with Pituitary community 2
+Accuracy: 0.2719 (0.0814)
+F1 score: 0.0252 (0.0032)
+ROC AUC: 0.4023 (0.0476)
+-- Predicting Artery_Aorta with Pituitary community 2
+Accuracy: 0.2177 (0.0939)
+F1 score: 0.0444 (0.0058)
+ROC AUC: 0.4158 (0.0651)
+-- Predicting Artery_Coronary with Pituitary community 2
+Accuracy: 0.2975 (0.1471)
+F1 score: 0.0256 (0.0022)
+ROC AUC: 0.4449 (0.0068)
+-- Predicting Artery_Tibial with Pituitary community 2
+Accuracy: 0.2646 (0.1683)
+F1 score: 0.0761 (0.0002)
+ROC AUC: 0.5006 (0.0142)
+-- Predicting Brain_Amygdala with Pituitary community 2
+Accuracy: 0.9883 (0.0163)
+F1 score: 0.7684 (0.3113)
+ROC AUC: 0.9949 (0.0073)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 2
+Accuracy: 0.9209 (0.1064)
+F1 score: 0.5820 (0.3567)
+ROC AUC: 0.9560 (0.0621)
+-- Predicting Brain_Caudate with Pituitary community 2
+Accuracy: 0.9245 (0.1023)
+F1 score: 0.6279 (0.3704)
+ROC AUC: 0.9688 (0.0442)
+-- Predicting Brain_Cerebellar with Pituitary community 2
+Accuracy: 0.2776 (0.1586)
+F1 score: 0.0219 (0.0005)
+ROC AUC: 0.4754 (0.0074)
+-- Predicting Brain_Cerebellum with Pituitary community 2
+Accuracy: 0.2114 (0.1195)
+F1 score: 0.0252 (0.0033)
+ROC AUC: 0.4511 (0.0338)
+-- Predicting Brain_Cortex with Pituitary community 2
+Accuracy: 0.3538 (0.2240)
+F1 score: 0.0235 (0.0008)
+ROC AUC: 0.4318 (0.0267)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 2
+Accuracy: 0.2464 (0.1748)
+F1 score: 0.0209 (0.0013)
+ROC AUC: 0.4837 (0.0083)
+-- Predicting Brain_Hippocampus with Pituitary community 2
+Accuracy: 0.9211 (0.1040)
+F1 score: 0.5652 (0.3385)
+ROC AUC: 0.9598 (0.0566)
+-- Predicting Brain_Hypothalamus with Pituitary community 2
+Accuracy: 0.9217 (0.1037)
+F1 score: 0.5747 (0.3428)
+ROC AUC: 0.9564 (0.0614)
+-- Predicting Brain_Nucleus with Pituitary community 2
+Accuracy: 0.9247 (0.1013)
+F1 score: 0.6222 (0.3627)
+ROC AUC: 0.9666 (0.0472)
+-- Predicting Brain_Putamen with Pituitary community 2
+Accuracy: 0.9912 (0.0122)
+F1 score: 0.8153 (0.2488)
+ROC AUC: 0.9959 (0.0058)
+-- Predicting Brain_Spinal_cord with Pituitary community 2
+Accuracy: 0.9995 (0.0002)
+F1 score: 0.9694 (0.0140)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Brain_Substantia_nigra with Pituitary community 2
+Accuracy: 0.3493 (0.1570)
+F1 score: 0.0128 (0.0014)
+ROC AUC: 0.4648 (0.0218)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 2
+Accuracy: 0.3159 (0.2135)
+F1 score: 0.0510 (0.0032)
+ROC AUC: 0.4885 (0.0389)
+-- Predicting Cells_Cultured with Pituitary community 2
+Accuracy: 0.2420 (0.0962)
+F1 score: 0.0609 (0.0050)
+ROC AUC: 0.4791 (0.0152)
+-- Predicting Cells_EBV with Pituitary community 2
+Accuracy: 0.3027 (0.1755)
+F1 score: 0.0178 (0.0022)
+ROC AUC: 0.4471 (0.0408)
+-- Predicting Colon_Sigmoid with Pituitary community 2
+Accuracy: 0.2776 (0.0928)
+F1 score: 0.0321 (0.0062)
+ROC AUC: 0.3905 (0.0558)
+-- Predicting Colon_Transverse with Pituitary community 2
+Accuracy: 0.2566 (0.0974)
+F1 score: 0.0427 (0.0024)
+ROC AUC: 0.4448 (0.0327)
+-- Predicting Esophagus_Gastro with Pituitary community 2
+Accuracy: 0.2010 (0.0989)
+F1 score: 0.0382 (0.0046)
+ROC AUC: 0.4469 (0.0535)
+-- Predicting Esophagus_Mucosa with Pituitary community 2
+Accuracy: 0.2159 (0.0902)
+F1 score: 0.0650 (0.0065)
+ROC AUC: 0.4488 (0.0369)
+-- Predicting Esophagus_Muscularis with Pituitary community 2
+Accuracy: 0.2543 (0.1655)
+F1 score: 0.0638 (0.0054)
+ROC AUC: 0.5097 (0.0318)
+-- Predicting Heart_Atrial with Pituitary community 2
+Accuracy: 0.2942 (0.1750)
+F1 score: 0.0473 (0.0035)
+ROC AUC: 0.4983 (0.0393)
+-- Predicting Heart_L_Vent with Pituitary community 2
+Accuracy: 0.2425 (0.1259)
+F1 score: 0.0433 (0.0080)
+ROC AUC: 0.4419 (0.0395)
+-- Predicting Kidney_Cortex with Pituitary community 2
+Accuracy: 0.3996 (0.1649)
+F1 score: 0.0061 (0.0023)
+ROC AUC: 0.3580 (0.0427)
+-- Predicting Liver with Pituitary community 2
+Accuracy: 0.3261 (0.2005)
+F1 score: 0.0253 (0.0006)
+ROC AUC: 0.4531 (0.0013)
+-- Predicting Lung with Pituitary community 2
+Accuracy: 0.2970 (0.1966)
+F1 score: 0.0629 (0.0015)
+ROC AUC: 0.4757 (0.0070)
+-- Predicting Minor_Salivary with Pituitary community 2
+Accuracy: 0.3047 (0.2144)
+F1 score: 0.0186 (0.0015)
+ROC AUC: 0.4868 (0.0416)
+-- Predicting Muscle_Skeletal with Pituitary community 2
+Accuracy: 0.2740 (0.1603)
+F1 score: 0.0849 (0.0079)
+ROC AUC: 0.4793 (0.0083)
+-- Predicting Nerve_Tibial with Pituitary community 2
+Accuracy: 0.2448 (0.0877)
+F1 score: 0.0587 (0.0091)
+ROC AUC: 0.4077 (0.0557)
+-- Predicting Ovary with Pituitary community 2
+Accuracy: 0.3828 (0.1990)
+F1 score: 0.0199 (0.0021)
+ROC AUC: 0.4543 (0.0359)
+-- Predicting Pancreas with Pituitary community 2
+Accuracy: 0.2489 (0.1335)
+F1 score: 0.0364 (0.0029)
+ROC AUC: 0.4588 (0.0269)
+-- Predicting Pituitary with Pituitary community 2
+Accuracy: 0.3256 (0.2469)
+F1 score: 0.0290 (0.0025)
+ROC AUC: 0.4873 (0.0070)
+-- Predicting Prostate with Pituitary community 2
+Accuracy: 0.3349 (0.2275)
+F1 score: 0.0278 (0.0009)
+ROC AUC: 0.4949 (0.0188)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 2
+Accuracy: 0.2866 (0.1814)
+F1 score: 0.0603 (0.0106)
+ROC AUC: 0.4333 (0.0505)
+-- Predicting Skin_Sun_Epsd with Pituitary community 2
+Accuracy: 0.2951 (0.1856)
+F1 score: 0.0705 (0.0111)
+ROC AUC: 0.4667 (0.0366)
+-- Predicting Small_Intestine with Pituitary community 2
+Accuracy: 0.3612 (0.1458)
+F1 score: 0.0180 (0.0037)
+ROC AUC: 0.4093 (0.0460)
+-- Predicting Spleen with Pituitary community 2
+Accuracy: 0.2668 (0.1228)
+F1 score: 0.0232 (0.0056)
+ROC AUC: 0.4117 (0.0618)
+-- Predicting Stomach with Pituitary community 2
+Accuracy: 0.2647 (0.1519)
+F1 score: 0.0357 (0.0055)
+ROC AUC: 0.4300 (0.0564)
+-- Predicting Testis with Pituitary community 2
+Accuracy: 0.3290 (0.2034)
+F1 score: 0.0394 (0.0033)
+ROC AUC: 0.4722 (0.0060)
+-- Predicting Thyroid with Pituitary community 2
+Accuracy: 0.3039 (0.2291)
+F1 score: 0.0768 (0.0081)
+ROC AUC: 0.5157 (0.0385)
+-- Predicting Uterus with Pituitary community 2
+Accuracy: 0.3873 (0.0764)
+F1 score: 0.0141 (0.0008)
+ROC AUC: 0.4441 (0.0541)
+-- Predicting Vagina with Pituitary community 2
+Accuracy: 0.2458 (0.0969)
+F1 score: 0.0168 (0.0043)
+ROC AUC: 0.3879 (0.0513)
+-- Predicting Whole_Blood with Pituitary community 2
+Accuracy: 0.3014 (0.1894)
+F1 score: 0.0797 (0.0100)
+ROC AUC: 0.4713 (0.0182)
+-- Predicting Adipose_Subcutaneous with Pituitary community 3
+Accuracy: 0.2015 (0.1649)
+F1 score: 0.0743 (0.0006)
+ROC AUC: 0.5103 (0.0153)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 3
+Accuracy: 0.1584 (0.0938)
+F1 score: 0.0624 (0.0008)
+ROC AUC: 0.5032 (0.0165)
+-- Predicting Adrenal_Gland with Pituitary community 3
+Accuracy: 0.3258 (0.1403)
+F1 score: 0.0255 (0.0021)
+ROC AUC: 0.4681 (0.0120)
+-- Predicting Artery_Aorta with Pituitary community 3
+Accuracy: 0.1635 (0.0871)
+F1 score: 0.0510 (0.0004)
+ROC AUC: 0.5003 (0.0108)
+-- Predicting Artery_Coronary with Pituitary community 3
+Accuracy: 0.1954 (0.1445)
+F1 score: 0.0281 (0.0001)
+ROC AUC: 0.4965 (0.0210)
+-- Predicting Artery_Tibial with Pituitary community 3
+Accuracy: 0.2823 (0.1650)
+F1 score: 0.0707 (0.0076)
+ROC AUC: 0.4733 (0.0183)
+-- Predicting Brain_Amygdala with Pituitary community 3
+Accuracy: 0.2560 (0.2444)
+F1 score: 0.0163 (0.0012)
+ROC AUC: 0.4764 (0.0070)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 3
+Accuracy: 0.4043 (0.1201)
+F1 score: 0.0152 (0.0016)
+ROC AUC: 0.4403 (0.0164)
+-- Predicting Brain_Caudate with Pituitary community 3
+Accuracy: 0.2649 (0.0319)
+F1 score: 0.0255 (0.0013)
+ROC AUC: 0.4620 (0.0331)
+-- Predicting Brain_Cerebellar with Pituitary community 3
+Accuracy: 0.4109 (0.0775)
+F1 score: 0.0195 (0.0002)
+ROC AUC: 0.4439 (0.0094)
+-- Predicting Brain_Cerebellum with Pituitary community 3
+Accuracy: 0.3236 (0.1415)
+F1 score: 0.0234 (0.0015)
+ROC AUC: 0.4544 (0.0034)
+-- Predicting Brain_Cortex with Pituitary community 3
+Accuracy: 0.3307 (0.1485)
+F1 score: 0.0248 (0.0005)
+ROC AUC: 0.4628 (0.0196)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 3
+Accuracy: 0.4491 (0.0246)
+F1 score: 0.0181 (0.0013)
+ROC AUC: 0.4323 (0.0190)
+-- Predicting Brain_Hippocampus with Pituitary community 3
+Accuracy: 0.1989 (0.1435)
+F1 score: 0.0217 (0.0006)
+ROC AUC: 0.4833 (0.0229)
+-- Predicting Brain_Hypothalamus with Pituitary community 3
+Accuracy: 0.2238 (0.1309)
+F1 score: 0.0226 (0.0010)
+ROC AUC: 0.4656 (0.0255)
+-- Predicting Brain_Nucleus with Pituitary community 3
+Accuracy: 0.1464 (0.0709)
+F1 score: 0.0269 (0.0014)
+ROC AUC: 0.5035 (0.0181)
+-- Predicting Brain_Putamen with Pituitary community 3
+Accuracy: 0.2561 (0.0251)
+F1 score: 0.0218 (0.0018)
+ROC AUC: 0.4696 (0.0315)
+-- Predicting Brain_Spinal_cord with Pituitary community 3
+Accuracy: 0.3005 (0.2127)
+F1 score: 0.0151 (0.0011)
+ROC AUC: 0.4615 (0.0400)
+-- Predicting Brain_Substantia_nigra with Pituitary community 3
+Accuracy: 0.2420 (0.1963)
+F1 score: 0.0146 (0.0012)
+ROC AUC: 0.4823 (0.0100)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 3
+Accuracy: 0.1995 (0.1342)
+F1 score: 0.0511 (0.0017)
+ROC AUC: 0.5010 (0.0156)
+-- Predicting Cells_Cultured with Pituitary community 3
+Accuracy: 0.9999 (0.0001)
+F1 score: 0.9990 (0.0015)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Pituitary community 3
+Accuracy: 0.5792 (0.0554)
+F1 score: 0.0135 (0.0018)
+ROC AUC: 0.3987 (0.0056)
+-- Predicting Colon_Sigmoid with Pituitary community 3
+Accuracy: 0.2010 (0.1150)
+F1 score: 0.0374 (0.0010)
+ROC AUC: 0.4840 (0.0210)
+-- Predicting Colon_Transverse with Pituitary community 3
+Accuracy: 0.2396 (0.1140)
+F1 score: 0.0440 (0.0023)
+ROC AUC: 0.4616 (0.0371)
+-- Predicting Esophagus_Gastro with Pituitary community 3
+Accuracy: 0.2346 (0.1903)
+F1 score: 0.0372 (0.0040)
+ROC AUC: 0.4442 (0.0405)
+-- Predicting Esophagus_Mucosa with Pituitary community 3
+Accuracy: 0.2324 (0.1245)
+F1 score: 0.0644 (0.0089)
+ROC AUC: 0.4590 (0.0216)
+-- Predicting Esophagus_Muscularis with Pituitary community 3
+Accuracy: 0.3108 (0.1789)
+F1 score: 0.0512 (0.0052)
+ROC AUC: 0.4474 (0.0239)
+-- Predicting Heart_Atrial with Pituitary community 3
+Accuracy: 0.2409 (0.1803)
+F1 score: 0.0442 (0.0054)
+ROC AUC: 0.4375 (0.0319)
+-- Predicting Heart_L_Vent with Pituitary community 3
+Accuracy: 0.2077 (0.1538)
+F1 score: 0.0481 (0.0039)
+ROC AUC: 0.4508 (0.0145)
+-- Predicting Kidney_Cortex with Pituitary community 3
+Accuracy: 0.3849 (0.1008)
+F1 score: 0.0072 (0.0014)
+ROC AUC: 0.4104 (0.0256)
+-- Predicting Liver with Pituitary community 3
+Accuracy: 0.2750 (0.1973)
+F1 score: 0.0232 (0.0057)
+ROC AUC: 0.4291 (0.0325)
+-- Predicting Lung with Pituitary community 3
+Accuracy: 0.1570 (0.1382)
+F1 score: 0.0652 (0.0025)
+ROC AUC: 0.4564 (0.0149)
+-- Predicting Minor_Salivary with Pituitary community 3
+Accuracy: 0.4490 (0.1219)
+F1 score: 0.0165 (0.0012)
+ROC AUC: 0.4080 (0.0328)
+-- Predicting Muscle_Skeletal with Pituitary community 3
+Accuracy: 0.2164 (0.1304)
+F1 score: 0.0836 (0.0038)
+ROC AUC: 0.4557 (0.0230)
+-- Predicting Nerve_Tibial with Pituitary community 3
+Accuracy: 0.2756 (0.2100)
+F1 score: 0.0600 (0.0053)
+ROC AUC: 0.4721 (0.0463)
+-- Predicting Ovary with Pituitary community 3
+Accuracy: 0.3277 (0.1504)
+F1 score: 0.0172 (0.0031)
+ROC AUC: 0.4229 (0.0345)
+-- Predicting Pancreas with Pituitary community 3
+Accuracy: 0.3230 (0.1756)
+F1 score: 0.0348 (0.0038)
+ROC AUC: 0.4553 (0.0257)
+-- Predicting Pituitary with Pituitary community 3
+Accuracy: 0.2913 (0.1835)
+F1 score: 0.0271 (0.0028)
+ROC AUC: 0.4305 (0.0251)
+-- Predicting Prostate with Pituitary community 3
+Accuracy: 0.2182 (0.1651)
+F1 score: 0.0253 (0.0017)
+ROC AUC: 0.4603 (0.0266)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 3
+Accuracy: 0.3754 (0.1280)
+F1 score: 0.0545 (0.0039)
+ROC AUC: 0.4371 (0.0297)
+-- Predicting Skin_Sun_Epsd with Pituitary community 3
+Accuracy: 0.3286 (0.1062)
+F1 score: 0.0675 (0.0021)
+ROC AUC: 0.4499 (0.0284)
+-- Predicting Small_Intestine with Pituitary community 3
+Accuracy: 0.3049 (0.2376)
+F1 score: 0.0178 (0.0053)
+ROC AUC: 0.4496 (0.0526)
+-- Predicting Spleen with Pituitary community 3
+Accuracy: 0.0958 (0.0674)
+F1 score: 0.0306 (0.0004)
+ROC AUC: 0.4570 (0.0221)
+-- Predicting Stomach with Pituitary community 3
+Accuracy: 0.2220 (0.1247)
+F1 score: 0.0408 (0.0015)
+ROC AUC: 0.4991 (0.0193)
+-- Predicting Testis with Pituitary community 3
+Accuracy: 0.4640 (0.0924)
+F1 score: 0.0325 (0.0007)
+ROC AUC: 0.4066 (0.0100)
+-- Predicting Thyroid with Pituitary community 3
+Accuracy: 0.1851 (0.1407)
+F1 score: 0.0725 (0.0022)
+ROC AUC: 0.4888 (0.0184)
+-- Predicting Uterus with Pituitary community 3
+Accuracy: 0.2711 (0.1577)
+F1 score: 0.0143 (0.0015)
+ROC AUC: 0.4211 (0.0455)
+-- Predicting Vagina with Pituitary community 3
+Accuracy: 0.2630 (0.1389)
+F1 score: 0.0180 (0.0018)
+ROC AUC: 0.4415 (0.0234)
+-- Predicting Whole_Blood with Pituitary community 3
+Accuracy: 0.0978 (0.0497)
+F1 score: 0.0878 (0.0025)
+ROC AUC: 0.4647 (0.0246)
+-- Predicting Adipose_Subcutaneous with Pituitary community 4
+Accuracy: 0.4240 (0.0233)
+F1 score: 0.0616 (0.0029)
+ROC AUC: 0.4367 (0.0033)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 4
+Accuracy: 0.4452 (0.0041)
+F1 score: 0.0459 (0.0024)
+ROC AUC: 0.4120 (0.0099)
+-- Predicting Adrenal_Gland with Pituitary community 4
+Accuracy: 0.4890 (0.0330)
+F1 score: 0.0208 (0.0039)
+ROC AUC: 0.3858 (0.0218)
+-- Predicting Artery_Aorta with Pituitary community 4
+Accuracy: 0.4575 (0.0257)
+F1 score: 0.0376 (0.0038)
+ROC AUC: 0.4161 (0.0151)
+-- Predicting Artery_Coronary with Pituitary community 4
+Accuracy: 0.4933 (0.0086)
+F1 score: 0.0181 (0.0023)
+ROC AUC: 0.3721 (0.0185)
+-- Predicting Artery_Tibial with Pituitary community 4
+Accuracy: 0.4494 (0.0029)
+F1 score: 0.0612 (0.0049)
+ROC AUC: 0.4274 (0.0207)
+-- Predicting Brain_Amygdala with Pituitary community 4
+Accuracy: 0.4885 (0.0111)
+F1 score: 0.0087 (0.0010)
+ROC AUC: 0.3394 (0.0062)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 4
+Accuracy: 0.5524 (0.0556)
+F1 score: 0.0091 (0.0014)
+ROC AUC: 0.3266 (0.0219)
+-- Predicting Brain_Caudate with Pituitary community 4
+Accuracy: 0.5235 (0.0141)
+F1 score: 0.0131 (0.0005)
+ROC AUC: 0.3347 (0.0046)
+-- Predicting Brain_Cerebellar with Pituitary community 4
+Accuracy: 0.5106 (0.0023)
+F1 score: 0.0130 (0.0014)
+ROC AUC: 0.3625 (0.0161)
+-- Predicting Brain_Cerebellum with Pituitary community 4
+Accuracy: 0.5316 (0.0381)
+F1 score: 0.0169 (0.0010)
+ROC AUC: 0.3808 (0.0061)
+-- Predicting Brain_Cortex with Pituitary community 4
+Accuracy: 0.5273 (0.0121)
+F1 score: 0.0172 (0.0012)
+ROC AUC: 0.3674 (0.0124)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 4
+Accuracy: 0.5420 (0.0583)
+F1 score: 0.0137 (0.0027)
+ROC AUC: 0.3550 (0.0206)
+-- Predicting Brain_Hippocampus with Pituitary community 4
+Accuracy: 0.4827 (0.0291)
+F1 score: 0.0136 (0.0034)
+ROC AUC: 0.3558 (0.0296)
+-- Predicting Brain_Hypothalamus with Pituitary community 4
+Accuracy: 0.5190 (0.0570)
+F1 score: 0.0130 (0.0005)
+ROC AUC: 0.3532 (0.0056)
+-- Predicting Brain_Nucleus with Pituitary community 4
+Accuracy: 0.4339 (0.0178)
+F1 score: 0.0180 (0.0010)
+ROC AUC: 0.3964 (0.0100)
+-- Predicting Brain_Putamen with Pituitary community 4
+Accuracy: 0.4679 (0.0475)
+F1 score: 0.0160 (0.0022)
+ROC AUC: 0.3871 (0.0182)
+-- Predicting Brain_Spinal_cord with Pituitary community 4
+Accuracy: 0.4843 (0.0403)
+F1 score: 0.0093 (0.0014)
+ROC AUC: 0.3481 (0.0178)
+-- Predicting Brain_Substantia_nigra with Pituitary community 4
+Accuracy: 0.5771 (0.0209)
+F1 score: 0.0075 (0.0011)
+ROC AUC: 0.3346 (0.0068)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 4
+Accuracy: 0.4712 (0.0367)
+F1 score: 0.0401 (0.0029)
+ROC AUC: 0.4228 (0.0101)
+-- Predicting Cells_Cultured with Pituitary community 4
+Accuracy: 0.5776 (0.0432)
+F1 score: 0.0467 (0.0025)
+ROC AUC: 0.4010 (0.0108)
+-- Predicting Cells_EBV with Pituitary community 4
+Accuracy: 0.4767 (0.0188)
+F1 score: 0.0124 (0.0009)
+ROC AUC: 0.3879 (0.0204)
+-- Predicting Colon_Sigmoid with Pituitary community 4
+Accuracy: 0.4842 (0.0333)
+F1 score: 0.0268 (0.0004)
+ROC AUC: 0.3902 (0.0036)
+-- Predicting Colon_Transverse with Pituitary community 4
+Accuracy: 0.5280 (0.0193)
+F1 score: 0.0383 (0.0033)
+ROC AUC: 0.4148 (0.0117)
+-- Predicting Esophagus_Gastro with Pituitary community 4
+Accuracy: 0.4772 (0.0046)
+F1 score: 0.0312 (0.0027)
+ROC AUC: 0.3982 (0.0109)
+-- Predicting Esophagus_Mucosa with Pituitary community 4
+Accuracy: 0.5044 (0.0415)
+F1 score: 0.0479 (0.0010)
+ROC AUC: 0.4108 (0.0044)
+-- Predicting Esophagus_Muscularis with Pituitary community 4
+Accuracy: 0.4546 (0.0264)
+F1 score: 0.0461 (0.0054)
+ROC AUC: 0.4125 (0.0102)
+-- Predicting Heart_Atrial with Pituitary community 4
+Accuracy: 0.4896 (0.0243)
+F1 score: 0.0341 (0.0011)
+ROC AUC: 0.3988 (0.0024)
+-- Predicting Heart_L_Vent with Pituitary community 4
+Accuracy: 0.4737 (0.0287)
+F1 score: 0.0350 (0.0009)
+ROC AUC: 0.4135 (0.0039)
+-- Predicting Kidney_Cortex with Pituitary community 4
+Accuracy: 0.4999 (0.0224)
+F1 score: 0.0039 (0.0005)
+ROC AUC: 0.2934 (0.0274)
+-- Predicting Liver with Pituitary community 4
+Accuracy: 0.5324 (0.0365)
+F1 score: 0.0156 (0.0011)
+ROC AUC: 0.3553 (0.0103)
+-- Predicting Lung with Pituitary community 4
+Accuracy: 0.4493 (0.0158)
+F1 score: 0.0518 (0.0033)
+ROC AUC: 0.4177 (0.0098)
+-- Predicting Minor_Salivary with Pituitary community 4
+Accuracy: 0.4646 (0.0417)
+F1 score: 0.0104 (0.0006)
+ROC AUC: 0.3573 (0.0109)
+-- Predicting Muscle_Skeletal with Pituitary community 4
+Accuracy: 0.5331 (0.0154)
+F1 score: 0.0718 (0.0048)
+ROC AUC: 0.4297 (0.0145)
+-- Predicting Nerve_Tibial with Pituitary community 4
+Accuracy: 0.4466 (0.0145)
+F1 score: 0.0514 (0.0006)
+ROC AUC: 0.4284 (0.0023)
+-- Predicting Ovary with Pituitary community 4
+Accuracy: 0.5121 (0.0299)
+F1 score: 0.0143 (0.0021)
+ROC AUC: 0.3675 (0.0224)
+-- Predicting Pancreas with Pituitary community 4
+Accuracy: 0.5486 (0.0281)
+F1 score: 0.0289 (0.0013)
+ROC AUC: 0.3984 (0.0080)
+-- Predicting Pituitary with Pituitary community 4
+Accuracy: 0.4857 (0.0182)
+F1 score: 0.0183 (0.0009)
+ROC AUC: 0.3625 (0.0051)
+-- Predicting Prostate with Pituitary community 4
+Accuracy: 0.4917 (0.0511)
+F1 score: 0.0180 (0.0010)
+ROC AUC: 0.3622 (0.0022)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 4
+Accuracy: 0.4850 (0.0154)
+F1 score: 0.0497 (0.0023)
+ROC AUC: 0.4124 (0.0123)
+-- Predicting Skin_Sun_Epsd with Pituitary community 4
+Accuracy: 0.4571 (0.0247)
+F1 score: 0.0604 (0.0025)
+ROC AUC: 0.4316 (0.0062)
+-- Predicting Small_Intestine with Pituitary community 4
+Accuracy: 0.5521 (0.0292)
+F1 score: 0.0133 (0.0016)
+ROC AUC: 0.3528 (0.0169)
+-- Predicting Spleen with Pituitary community 4
+Accuracy: 0.5563 (0.0009)
+F1 score: 0.0203 (0.0016)
+ROC AUC: 0.3803 (0.0298)
+-- Predicting Stomach with Pituitary community 4
+Accuracy: 0.4853 (0.0540)
+F1 score: 0.0325 (0.0014)
+ROC AUC: 0.4134 (0.0057)
+-- Predicting Testis with Pituitary community 4
+Accuracy: 0.5052 (0.0243)
+F1 score: 0.0294 (0.0017)
+ROC AUC: 0.4033 (0.0044)
+-- Predicting Thyroid with Pituitary community 4
+Accuracy: 0.4844 (0.0180)
+F1 score: 0.0582 (0.0023)
+ROC AUC: 0.4294 (0.0073)
+-- Predicting Uterus with Pituitary community 4
+Accuracy: 0.5140 (0.0431)
+F1 score: 0.0098 (0.0022)
+ROC AUC: 0.3472 (0.0203)
+-- Predicting Vagina with Pituitary community 4
+Accuracy: 0.4919 (0.0361)
+F1 score: 0.0097 (0.0009)
+ROC AUC: 0.3419 (0.0092)
+-- Predicting Whole_Blood with Pituitary community 4
+Accuracy: 0.4491 (0.0166)
+F1 score: 0.0692 (0.0027)
+ROC AUC: 0.4354 (0.0087)
+-- Predicting Adipose_Subcutaneous with Pituitary community 5
+Accuracy: 0.3517 (0.0099)
+F1 score: 0.0669 (0.0036)
+ROC AUC: 0.4590 (0.0065)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 5
+Accuracy: 0.4179 (0.0931)
+F1 score: 0.0563 (0.0024)
+ROC AUC: 0.4747 (0.0108)
+-- Predicting Adrenal_Gland with Pituitary community 5
+Accuracy: 0.4992 (0.0972)
+F1 score: 0.0267 (0.0009)
+ROC AUC: 0.4361 (0.0057)
+-- Predicting Artery_Aorta with Pituitary community 5
+Accuracy: 0.5569 (0.0970)
+F1 score: 0.0449 (0.0042)
+ROC AUC: 0.4437 (0.0136)
+-- Predicting Artery_Coronary with Pituitary community 5
+Accuracy: 0.3734 (0.0866)
+F1 score: 0.0238 (0.0028)
+ROC AUC: 0.4601 (0.0149)
+-- Predicting Artery_Tibial with Pituitary community 5
+Accuracy: 0.3572 (0.0661)
+F1 score: 0.0690 (0.0034)
+ROC AUC: 0.4661 (0.0093)
+-- Predicting Brain_Amygdala with Pituitary community 5
+Accuracy: 0.5687 (0.0557)
+F1 score: 0.0126 (0.0013)
+ROC AUC: 0.3926 (0.0441)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 5
+Accuracy: 0.5565 (0.0610)
+F1 score: 0.0140 (0.0023)
+ROC AUC: 0.4095 (0.0286)
+-- Predicting Brain_Caudate with Pituitary community 5
+Accuracy: 0.5963 (0.0273)
+F1 score: 0.0177 (0.0008)
+ROC AUC: 0.3929 (0.0274)
+-- Predicting Brain_Cerebellar with Pituitary community 5
+Accuracy: 0.6184 (0.0075)
+F1 score: 0.0163 (0.0009)
+ROC AUC: 0.3817 (0.0322)
+-- Predicting Brain_Cerebellum with Pituitary community 5
+Accuracy: 0.4791 (0.1122)
+F1 score: 0.0229 (0.0036)
+ROC AUC: 0.4552 (0.0143)
+-- Predicting Brain_Cortex with Pituitary community 5
+Accuracy: 0.5340 (0.0211)
+F1 score: 0.0229 (0.0018)
+ROC AUC: 0.4234 (0.0129)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 5
+Accuracy: 0.6342 (0.0524)
+F1 score: 0.0195 (0.0008)
+ROC AUC: 0.3780 (0.0299)
+-- Predicting Brain_Hippocampus with Pituitary community 5
+Accuracy: 0.5171 (0.0106)
+F1 score: 0.0174 (0.0015)
+ROC AUC: 0.4227 (0.0136)
+-- Predicting Brain_Hypothalamus with Pituitary community 5
+Accuracy: 0.5839 (0.0796)
+F1 score: 0.0164 (0.0011)
+ROC AUC: 0.3952 (0.0288)
+-- Predicting Brain_Nucleus with Pituitary community 5
+Accuracy: 0.5082 (0.0331)
+F1 score: 0.0230 (0.0016)
+ROC AUC: 0.4468 (0.0105)
+-- Predicting Brain_Putamen with Pituitary community 5
+Accuracy: 0.5460 (0.0587)
+F1 score: 0.0161 (0.0017)
+ROC AUC: 0.3970 (0.0254)
+-- Predicting Brain_Spinal_cord with Pituitary community 5
+Accuracy: 0.6356 (0.1050)
+F1 score: 0.0098 (0.0031)
+ROC AUC: 0.3649 (0.0125)
+-- Predicting Brain_Substantia_nigra with Pituitary community 5
+Accuracy: 0.5283 (0.0475)
+F1 score: 0.0092 (0.0019)
+ROC AUC: 0.3758 (0.0293)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 5
+Accuracy: 0.5152 (0.0847)
+F1 score: 0.0441 (0.0013)
+ROC AUC: 0.4559 (0.0154)
+-- Predicting Cells_Cultured with Pituitary community 5
+Accuracy: 0.6080 (0.0358)
+F1 score: 0.0512 (0.0041)
+ROC AUC: 0.4454 (0.0021)
+-- Predicting Cells_EBV with Pituitary community 5
+Accuracy: 0.7074 (0.0979)
+F1 score: 0.0199 (0.0056)
+ROC AUC: 0.3917 (0.0135)
+-- Predicting Colon_Sigmoid with Pituitary community 5
+Accuracy: 0.3216 (0.0430)
+F1 score: 0.0392 (0.0013)
+ROC AUC: 0.4474 (0.0059)
+-- Predicting Colon_Transverse with Pituitary community 5
+Accuracy: 0.3029 (0.0333)
+F1 score: 0.0510 (0.0014)
+ROC AUC: 0.4587 (0.0105)
+-- Predicting Esophagus_Gastro with Pituitary community 5
+Accuracy: 0.3473 (0.0910)
+F1 score: 0.0418 (0.0010)
+ROC AUC: 0.4599 (0.0078)
+-- Predicting Esophagus_Mucosa with Pituitary community 5
+Accuracy: 0.3371 (0.0434)
+F1 score: 0.0612 (0.0025)
+ROC AUC: 0.4463 (0.0089)
+-- Predicting Esophagus_Muscularis with Pituitary community 5
+Accuracy: 0.3980 (0.0557)
+F1 score: 0.0539 (0.0029)
+ROC AUC: 0.4545 (0.0057)
+-- Predicting Heart_Atrial with Pituitary community 5
+Accuracy: 0.5592 (0.0916)
+F1 score: 0.0450 (0.0026)
+ROC AUC: 0.4560 (0.0037)
+-- Predicting Heart_L_Vent with Pituitary community 5
+Accuracy: 0.7313 (0.0485)
+F1 score: 0.0476 (0.0061)
+ROC AUC: 0.4220 (0.0078)
+-- Predicting Kidney_Cortex with Pituitary community 5
+Accuracy: 0.7095 (0.0727)
+F1 score: 0.0059 (0.0009)
+ROC AUC: 0.3271 (0.0416)
+-- Predicting Liver with Pituitary community 5
+Accuracy: 0.6356 (0.0431)
+F1 score: 0.0217 (0.0019)
+ROC AUC: 0.3999 (0.0219)
+-- Predicting Lung with Pituitary community 5
+Accuracy: 0.4120 (0.0782)
+F1 score: 0.0564 (0.0024)
+ROC AUC: 0.4551 (0.0081)
+-- Predicting Minor_Salivary with Pituitary community 5
+Accuracy: 0.5551 (0.1551)
+F1 score: 0.0167 (0.0022)
+ROC AUC: 0.3954 (0.0201)
+-- Predicting Muscle_Skeletal with Pituitary community 5
+Accuracy: 0.4264 (0.0608)
+F1 score: 0.0770 (0.0010)
+ROC AUC: 0.4635 (0.0006)
+-- Predicting Nerve_Tibial with Pituitary community 5
+Accuracy: 0.3765 (0.0406)
+F1 score: 0.0621 (0.0005)
+ROC AUC: 0.4564 (0.0021)
+-- Predicting Ovary with Pituitary community 5
+Accuracy: 0.4637 (0.0300)
+F1 score: 0.0159 (0.0007)
+ROC AUC: 0.4157 (0.0082)
+-- Predicting Pancreas with Pituitary community 5
+Accuracy: 0.5202 (0.0381)
+F1 score: 0.0314 (0.0032)
+ROC AUC: 0.4383 (0.0165)
+-- Predicting Pituitary with Pituitary community 5
+Accuracy: 0.5351 (0.0873)
+F1 score: 0.0232 (0.0010)
+ROC AUC: 0.4236 (0.0044)
+-- Predicting Prostate with Pituitary community 5
+Accuracy: 0.3838 (0.0354)
+F1 score: 0.0238 (0.0021)
+ROC AUC: 0.4374 (0.0074)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 5
+Accuracy: 0.4407 (0.1027)
+F1 score: 0.0584 (0.0050)
+ROC AUC: 0.4616 (0.0202)
+-- Predicting Skin_Sun_Epsd with Pituitary community 5
+Accuracy: 0.4066 (0.0663)
+F1 score: 0.0695 (0.0021)
+ROC AUC: 0.4638 (0.0022)
+-- Predicting Small_Intestine with Pituitary community 5
+Accuracy: 0.4558 (0.0058)
+F1 score: 0.0171 (0.0019)
+ROC AUC: 0.4258 (0.0150)
+-- Predicting Spleen with Pituitary community 5
+Accuracy: 0.4194 (0.0209)
+F1 score: 0.0252 (0.0000)
+ROC AUC: 0.4480 (0.0046)
+-- Predicting Stomach with Pituitary community 5
+Accuracy: 0.3720 (0.0607)
+F1 score: 0.0375 (0.0048)
+ROC AUC: 0.4422 (0.0184)
+-- Predicting Testis with Pituitary community 5
+Accuracy: 0.7127 (0.0660)
+F1 score: 0.0421 (0.0059)
+ROC AUC: 0.4051 (0.0159)
+-- Predicting Thyroid with Pituitary community 5
+Accuracy: 0.4350 (0.0033)
+F1 score: 0.0641 (0.0006)
+ROC AUC: 0.4616 (0.0043)
+-- Predicting Uterus with Pituitary community 5
+Accuracy: 0.3780 (0.0651)
+F1 score: 0.0151 (0.0018)
+ROC AUC: 0.4425 (0.0197)
+-- Predicting Vagina with Pituitary community 5
+Accuracy: 0.3063 (0.0404)
+F1 score: 0.0171 (0.0011)
+ROC AUC: 0.4072 (0.0106)
+-- Predicting Whole_Blood with Pituitary community 5
+Accuracy: 0.6241 (0.0928)
+F1 score: 0.0759 (0.0083)
+ROC AUC: 0.4479 (0.0049)
+-- Predicting Adipose_Subcutaneous with Pituitary community 6
+Accuracy: 0.2663 (0.1991)
+F1 score: 0.0714 (0.0035)
+ROC AUC: 0.5013 (0.0141)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 6
+Accuracy: 0.1136 (0.0252)
+F1 score: 0.0632 (0.0021)
+ROC AUC: 0.5063 (0.0142)
+-- Predicting Adrenal_Gland with Pituitary community 6
+Accuracy: 0.3281 (0.1661)
+F1 score: 0.0266 (0.0007)
+ROC AUC: 0.4787 (0.0105)
+-- Predicting Artery_Aorta with Pituitary community 6
+Accuracy: 0.2214 (0.1260)
+F1 score: 0.0504 (0.0023)
+ROC AUC: 0.5011 (0.0017)
+-- Predicting Artery_Coronary with Pituitary community 6
+Accuracy: 0.2562 (0.0335)
+F1 score: 0.0281 (0.0016)
+ROC AUC: 0.4888 (0.0216)
+-- Predicting Artery_Tibial with Pituitary community 6
+Accuracy: 0.3182 (0.1932)
+F1 score: 0.0684 (0.0064)
+ROC AUC: 0.4680 (0.0255)
+-- Predicting Brain_Amygdala with Pituitary community 6
+Accuracy: 0.3683 (0.0295)
+F1 score: 0.0132 (0.0010)
+ROC AUC: 0.4111 (0.0304)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 6
+Accuracy: 0.2584 (0.1410)
+F1 score: 0.0189 (0.0020)
+ROC AUC: 0.4877 (0.0141)
+-- Predicting Brain_Caudate with Pituitary community 6
+Accuracy: 0.2282 (0.0202)
+F1 score: 0.0262 (0.0012)
+ROC AUC: 0.4910 (0.0126)
+-- Predicting Brain_Cerebellar with Pituitary community 6
+Accuracy: 0.3337 (0.1993)
+F1 score: 0.0229 (0.0001)
+ROC AUC: 0.4938 (0.0022)
+-- Predicting Brain_Cerebellum with Pituitary community 6
+Accuracy: 0.3497 (0.2382)
+F1 score: 0.0255 (0.0007)
+ROC AUC: 0.4869 (0.0192)
+-- Predicting Brain_Cortex with Pituitary community 6
+Accuracy: 0.3081 (0.1280)
+F1 score: 0.0257 (0.0016)
+ROC AUC: 0.4970 (0.0207)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 6
+Accuracy: 0.2480 (0.1887)
+F1 score: 0.0231 (0.0007)
+ROC AUC: 0.4892 (0.0257)
+-- Predicting Brain_Hippocampus with Pituitary community 6
+Accuracy: 0.3799 (0.1056)
+F1 score: 0.0190 (0.0009)
+ROC AUC: 0.4347 (0.0126)
+-- Predicting Brain_Hypothalamus with Pituitary community 6
+Accuracy: 0.2887 (0.1438)
+F1 score: 0.0208 (0.0018)
+ROC AUC: 0.4721 (0.0279)
+-- Predicting Brain_Nucleus with Pituitary community 6
+Accuracy: 0.3346 (0.0994)
+F1 score: 0.0248 (0.0020)
+ROC AUC: 0.4828 (0.0131)
+-- Predicting Brain_Putamen with Pituitary community 6
+Accuracy: 0.3293 (0.0933)
+F1 score: 0.0210 (0.0012)
+ROC AUC: 0.4672 (0.0244)
+-- Predicting Brain_Spinal_cord with Pituitary community 6
+Accuracy: 0.3633 (0.2061)
+F1 score: 0.0154 (0.0014)
+ROC AUC: 0.4633 (0.0269)
+-- Predicting Brain_Substantia_nigra with Pituitary community 6
+Accuracy: 0.2856 (0.2614)
+F1 score: 0.0151 (0.0006)
+ROC AUC: 0.4868 (0.0325)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 6
+Accuracy: 0.2790 (0.0755)
+F1 score: 0.0490 (0.0022)
+ROC AUC: 0.4855 (0.0164)
+-- Predicting Cells_Cultured with Pituitary community 6
+Accuracy: 0.9977 (0.0012)
+F1 score: 0.9653 (0.0172)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Pituitary community 6
+Accuracy: 0.6323 (0.0865)
+F1 score: 0.0125 (0.0016)
+ROC AUC: 0.3715 (0.0161)
+-- Predicting Colon_Sigmoid with Pituitary community 6
+Accuracy: 0.2226 (0.1956)
+F1 score: 0.0384 (0.0019)
+ROC AUC: 0.4828 (0.0311)
+-- Predicting Colon_Transverse with Pituitary community 6
+Accuracy: 0.3122 (0.1611)
+F1 score: 0.0418 (0.0037)
+ROC AUC: 0.4558 (0.0076)
+-- Predicting Esophagus_Gastro with Pituitary community 6
+Accuracy: 0.2762 (0.2679)
+F1 score: 0.0401 (0.0014)
+ROC AUC: 0.5040 (0.0184)
+-- Predicting Esophagus_Mucosa with Pituitary community 6
+Accuracy: 0.2864 (0.2343)
+F1 score: 0.0686 (0.0022)
+ROC AUC: 0.5001 (0.0160)
+-- Predicting Esophagus_Muscularis with Pituitary community 6
+Accuracy: 0.2845 (0.2524)
+F1 score: 0.0512 (0.0071)
+ROC AUC: 0.4755 (0.0399)
+-- Predicting Heart_Atrial with Pituitary community 6
+Accuracy: 0.2263 (0.2090)
+F1 score: 0.0456 (0.0027)
+ROC AUC: 0.4705 (0.0318)
+-- Predicting Heart_L_Vent with Pituitary community 6
+Accuracy: 0.2551 (0.2404)
+F1 score: 0.0475 (0.0033)
+ROC AUC: 0.4765 (0.0214)
+-- Predicting Kidney_Cortex with Pituitary community 6
+Accuracy: 0.4824 (0.0850)
+F1 score: 0.0067 (0.0007)
+ROC AUC: 0.3975 (0.0369)
+-- Predicting Liver with Pituitary community 6
+Accuracy: 0.3239 (0.3353)
+F1 score: 0.0296 (0.0029)
+ROC AUC: 0.4747 (0.0225)
+-- Predicting Lung with Pituitary community 6
+Accuracy: 0.2055 (0.1657)
+F1 score: 0.0696 (0.0016)
+ROC AUC: 0.5083 (0.0194)
+-- Predicting Minor_Salivary with Pituitary community 6
+Accuracy: 0.2812 (0.1188)
+F1 score: 0.0180 (0.0014)
+ROC AUC: 0.4632 (0.0203)
+-- Predicting Muscle_Skeletal with Pituitary community 6
+Accuracy: 0.3760 (0.1369)
+F1 score: 0.0777 (0.0022)
+ROC AUC: 0.4624 (0.0081)
+-- Predicting Nerve_Tibial with Pituitary community 6
+Accuracy: 0.3345 (0.1203)
+F1 score: 0.0583 (0.0034)
+ROC AUC: 0.4447 (0.0093)
+-- Predicting Ovary with Pituitary community 6
+Accuracy: 0.4265 (0.1966)
+F1 score: 0.0178 (0.0026)
+ROC AUC: 0.4571 (0.0116)
+-- Predicting Pancreas with Pituitary community 6
+Accuracy: 0.4200 (0.0160)
+F1 score: 0.0318 (0.0012)
+ROC AUC: 0.4212 (0.0131)
+-- Predicting Pituitary with Pituitary community 6
+Accuracy: 0.2090 (0.0327)
+F1 score: 0.0269 (0.0020)
+ROC AUC: 0.4602 (0.0275)
+-- Predicting Prostate with Pituitary community 6
+Accuracy: 0.2658 (0.1496)
+F1 score: 0.0273 (0.0003)
+ROC AUC: 0.4870 (0.0145)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 6
+Accuracy: 0.4125 (0.3142)
+F1 score: 0.0771 (0.0170)
+ROC AUC: 0.4736 (0.0204)
+-- Predicting Skin_Sun_Epsd with Pituitary community 6
+Accuracy: 0.4102 (0.2269)
+F1 score: 0.0745 (0.0051)
+ROC AUC: 0.4818 (0.0165)
+-- Predicting Small_Intestine with Pituitary community 6
+Accuracy: 0.4662 (0.1147)
+F1 score: 0.0197 (0.0010)
+ROC AUC: 0.4484 (0.0477)
+-- Predicting Spleen with Pituitary community 6
+Accuracy: 0.1014 (0.0628)
+F1 score: 0.0314 (0.0011)
+ROC AUC: 0.4747 (0.0169)
+-- Predicting Stomach with Pituitary community 6
+Accuracy: 0.1580 (0.1102)
+F1 score: 0.0429 (0.0020)
+ROC AUC: 0.5057 (0.0113)
+-- Predicting Testis with Pituitary community 6
+Accuracy: 0.2908 (0.1575)
+F1 score: 0.0371 (0.0013)
+ROC AUC: 0.4867 (0.0190)
+-- Predicting Thyroid with Pituitary community 6
+Accuracy: 0.3274 (0.2097)
+F1 score: 0.0696 (0.0024)
+ROC AUC: 0.4943 (0.0179)
+-- Predicting Uterus with Pituitary community 6
+Accuracy: 0.4848 (0.0427)
+F1 score: 0.0141 (0.0002)
+ROC AUC: 0.4399 (0.0158)
+-- Predicting Vagina with Pituitary community 6
+Accuracy: 0.3818 (0.2692)
+F1 score: 0.0167 (0.0034)
+ROC AUC: 0.4586 (0.0222)
+-- Predicting Whole_Blood with Pituitary community 6
+Accuracy: 0.1308 (0.0706)
+F1 score: 0.0926 (0.0071)
+ROC AUC: 0.4995 (0.0243)
+-- Predicting Adipose_Subcutaneous with Pituitary community 7
+Accuracy: 0.4561 (0.0050)
+F1 score: 0.0547 (0.0019)
+ROC AUC: 0.4037 (0.0112)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 7
+Accuracy: 0.5173 (0.0118)
+F1 score: 0.0374 (0.0034)
+ROC AUC: 0.3660 (0.0165)
+-- Predicting Adrenal_Gland with Pituitary community 7
+Accuracy: 0.5024 (0.0209)
+F1 score: 0.0152 (0.0023)
+ROC AUC: 0.3240 (0.0260)
+-- Predicting Artery_Aorta with Pituitary community 7
+Accuracy: 0.4966 (0.0215)
+F1 score: 0.0252 (0.0016)
+ROC AUC: 0.3449 (0.0161)
+-- Predicting Artery_Coronary with Pituitary community 7
+Accuracy: 0.5795 (0.0067)
+F1 score: 0.0132 (0.0030)
+ROC AUC: 0.3219 (0.0113)
+-- Predicting Artery_Tibial with Pituitary community 7
+Accuracy: 0.5507 (0.0299)
+F1 score: 0.0428 (0.0034)
+ROC AUC: 0.3525 (0.0026)
+-- Predicting Brain_Amygdala with Pituitary community 7
+Accuracy: 0.4736 (0.0187)
+F1 score: 0.0099 (0.0004)
+ROC AUC: 0.3454 (0.0057)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 7
+Accuracy: 0.5233 (0.0258)
+F1 score: 0.0080 (0.0006)
+ROC AUC: 0.3025 (0.0101)
+-- Predicting Brain_Caudate with Pituitary community 7
+Accuracy: 0.5298 (0.0163)
+F1 score: 0.0097 (0.0016)
+ROC AUC: 0.2873 (0.0062)
+-- Predicting Brain_Cerebellar with Pituitary community 7
+Accuracy: 0.5069 (0.0164)
+F1 score: 0.0103 (0.0010)
+ROC AUC: 0.3382 (0.0238)
+-- Predicting Brain_Cerebellum with Pituitary community 7
+Accuracy: 0.5740 (0.0493)
+F1 score: 0.0143 (0.0002)
+ROC AUC: 0.3300 (0.0075)
+-- Predicting Brain_Cortex with Pituitary community 7
+Accuracy: 0.5791 (0.0168)
+F1 score: 0.0146 (0.0024)
+ROC AUC: 0.3231 (0.0211)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 7
+Accuracy: 0.5281 (0.0055)
+F1 score: 0.0110 (0.0004)
+ROC AUC: 0.3186 (0.0164)
+-- Predicting Brain_Hippocampus with Pituitary community 7
+Accuracy: 0.5068 (0.0193)
+F1 score: 0.0119 (0.0019)
+ROC AUC: 0.3373 (0.0118)
+-- Predicting Brain_Hypothalamus with Pituitary community 7
+Accuracy: 0.4540 (0.0203)
+F1 score: 0.0147 (0.0014)
+ROC AUC: 0.3686 (0.0026)
+-- Predicting Brain_Nucleus with Pituitary community 7
+Accuracy: 0.4940 (0.0226)
+F1 score: 0.0145 (0.0019)
+ROC AUC: 0.3501 (0.0152)
+-- Predicting Brain_Putamen with Pituitary community 7
+Accuracy: 0.5443 (0.0221)
+F1 score: 0.0113 (0.0026)
+ROC AUC: 0.3243 (0.0285)
+-- Predicting Brain_Spinal_cord with Pituitary community 7
+Accuracy: 0.4173 (0.0257)
+F1 score: 0.0096 (0.0013)
+ROC AUC: 0.3491 (0.0120)
+-- Predicting Brain_Substantia_nigra with Pituitary community 7
+Accuracy: 0.4655 (0.0136)
+F1 score: 0.0059 (0.0006)
+ROC AUC: 0.2952 (0.0020)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 7
+Accuracy: 0.4983 (0.0025)
+F1 score: 0.0288 (0.0016)
+ROC AUC: 0.3546 (0.0118)
+-- Predicting Cells_Cultured with Pituitary community 7
+Accuracy: 0.4187 (0.0285)
+F1 score: 0.0469 (0.0030)
+ROC AUC: 0.4031 (0.0081)
+-- Predicting Cells_EBV with Pituitary community 7
+Accuracy: 0.5606 (0.0285)
+F1 score: 0.0098 (0.0005)
+ROC AUC: 0.3222 (0.0233)
+-- Predicting Colon_Sigmoid with Pituitary community 7
+Accuracy: 0.5111 (0.0097)
+F1 score: 0.0190 (0.0032)
+ROC AUC: 0.3261 (0.0096)
+-- Predicting Colon_Transverse with Pituitary community 7
+Accuracy: 0.5211 (0.0149)
+F1 score: 0.0251 (0.0019)
+ROC AUC: 0.3548 (0.0162)
+-- Predicting Esophagus_Gastro with Pituitary community 7
+Accuracy: 0.5593 (0.0231)
+F1 score: 0.0201 (0.0018)
+ROC AUC: 0.3293 (0.0186)
+-- Predicting Esophagus_Mucosa with Pituitary community 7
+Accuracy: 0.6029 (0.0302)
+F1 score: 0.0309 (0.0028)
+ROC AUC: 0.3163 (0.0160)
+-- Predicting Esophagus_Muscularis with Pituitary community 7
+Accuracy: 0.5438 (0.0297)
+F1 score: 0.0323 (0.0020)
+ROC AUC: 0.3372 (0.0058)
+-- Predicting Heart_Atrial with Pituitary community 7
+Accuracy: 0.5692 (0.0038)
+F1 score: 0.0236 (0.0022)
+ROC AUC: 0.3162 (0.0134)
+-- Predicting Heart_L_Vent with Pituitary community 7
+Accuracy: 0.5691 (0.0398)
+F1 score: 0.0263 (0.0031)
+ROC AUC: 0.3291 (0.0110)
+-- Predicting Kidney_Cortex with Pituitary community 7
+Accuracy: 0.5106 (0.0364)
+F1 score: 0.0048 (0.0009)
+ROC AUC: 0.2795 (0.0230)
+-- Predicting Liver with Pituitary community 7
+Accuracy: 0.5090 (0.0326)
+F1 score: 0.0134 (0.0021)
+ROC AUC: 0.3143 (0.0091)
+-- Predicting Lung with Pituitary community 7
+Accuracy: 0.5361 (0.0225)
+F1 score: 0.0319 (0.0044)
+ROC AUC: 0.3378 (0.0211)
+-- Predicting Minor_Salivary with Pituitary community 7
+Accuracy: 0.5855 (0.0579)
+F1 score: 0.0066 (0.0023)
+ROC AUC: 0.2685 (0.0391)
+-- Predicting Muscle_Skeletal with Pituitary community 7
+Accuracy: 0.5786 (0.0142)
+F1 score: 0.0517 (0.0032)
+ROC AUC: 0.3441 (0.0109)
+-- Predicting Nerve_Tibial with Pituitary community 7
+Accuracy: 0.4928 (0.0168)
+F1 score: 0.0382 (0.0039)
+ROC AUC: 0.3639 (0.0150)
+-- Predicting Ovary with Pituitary community 7
+Accuracy: 0.4542 (0.0137)
+F1 score: 0.0112 (0.0004)
+ROC AUC: 0.3204 (0.0115)
+-- Predicting Pancreas with Pituitary community 7
+Accuracy: 0.5441 (0.0382)
+F1 score: 0.0214 (0.0017)
+ROC AUC: 0.3518 (0.0233)
+-- Predicting Pituitary with Pituitary community 7
+Accuracy: 0.5536 (0.0219)
+F1 score: 0.0125 (0.0020)
+ROC AUC: 0.2938 (0.0078)
+-- Predicting Prostate with Pituitary community 7
+Accuracy: 0.5196 (0.0107)
+F1 score: 0.0127 (0.0005)
+ROC AUC: 0.3151 (0.0050)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 7
+Accuracy: 0.5308 (0.0135)
+F1 score: 0.0362 (0.0042)
+ROC AUC: 0.3505 (0.0166)
+-- Predicting Skin_Sun_Epsd with Pituitary community 7
+Accuracy: 0.5073 (0.0265)
+F1 score: 0.0474 (0.0035)
+ROC AUC: 0.3686 (0.0125)
+-- Predicting Small_Intestine with Pituitary community 7
+Accuracy: 0.4962 (0.0175)
+F1 score: 0.0113 (0.0019)
+ROC AUC: 0.3167 (0.0062)
+-- Predicting Spleen with Pituitary community 7
+Accuracy: 0.5108 (0.0120)
+F1 score: 0.0185 (0.0031)
+ROC AUC: 0.3469 (0.0252)
+-- Predicting Stomach with Pituitary community 7
+Accuracy: 0.5400 (0.0045)
+F1 score: 0.0221 (0.0030)
+ROC AUC: 0.3204 (0.0214)
+-- Predicting Testis with Pituitary community 7
+Accuracy: 0.5910 (0.0335)
+F1 score: 0.0251 (0.0038)
+ROC AUC: 0.3272 (0.0183)
+-- Predicting Thyroid with Pituitary community 7
+Accuracy: 0.5176 (0.0070)
+F1 score: 0.0428 (0.0025)
+ROC AUC: 0.3687 (0.0063)
+-- Predicting Uterus with Pituitary community 7
+Accuracy: 0.5194 (0.0424)
+F1 score: 0.0077 (0.0010)
+ROC AUC: 0.2851 (0.0258)
+-- Predicting Vagina with Pituitary community 7
+Accuracy: 0.5842 (0.0399)
+F1 score: 0.0072 (0.0002)
+ROC AUC: 0.2535 (0.0114)
+-- Predicting Whole_Blood with Pituitary community 7
+Accuracy: 0.4498 (0.0208)
+F1 score: 0.0553 (0.0070)
+ROC AUC: 0.3844 (0.0104)
+-- Predicting Adipose_Subcutaneous with Pituitary community 8
+Accuracy: 0.7804 (0.0226)
+F1 score: 0.2595 (0.0211)
+ROC AUC: 0.8629 (0.0401)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 8
+Accuracy: 0.3721 (0.0240)
+F1 score: 0.0754 (0.0022)
+ROC AUC: 0.6185 (0.0120)
+-- Predicting Adrenal_Gland with Pituitary community 8
+Accuracy: 0.3693 (0.0321)
+F1 score: 0.0401 (0.0012)
+ROC AUC: 0.6083 (0.0218)
+-- Predicting Artery_Aorta with Pituitary community 8
+Accuracy: 0.7660 (0.0061)
+F1 score: 0.1788 (0.0038)
+ROC AUC: 0.8721 (0.0063)
+-- Predicting Artery_Coronary with Pituitary community 8
+Accuracy: 0.3894 (0.0345)
+F1 score: 0.0345 (0.0024)
+ROC AUC: 0.6035 (0.0189)
+-- Predicting Artery_Tibial with Pituitary community 8
+Accuracy: 0.7789 (0.0215)
+F1 score: 0.2593 (0.0197)
+ROC AUC: 0.8670 (0.0272)
+-- Predicting Brain_Amygdala with Pituitary community 8
+Accuracy: 0.3704 (0.0174)
+F1 score: 0.0241 (0.0001)
+ROC AUC: 0.6071 (0.0150)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 8
+Accuracy: 0.3919 (0.0301)
+F1 score: 0.0253 (0.0007)
+ROC AUC: 0.5693 (0.0095)
+-- Predicting Brain_Caudate with Pituitary community 8
+Accuracy: 0.3801 (0.0289)
+F1 score: 0.0341 (0.0008)
+ROC AUC: 0.5878 (0.0049)
+-- Predicting Brain_Cerebellar with Pituitary community 8
+Accuracy: 0.3511 (0.0209)
+F1 score: 0.0337 (0.0013)
+ROC AUC: 0.6011 (0.0146)
+-- Predicting Brain_Cerebellum with Pituitary community 8
+Accuracy: 0.3477 (0.0210)
+F1 score: 0.0395 (0.0010)
+ROC AUC: 0.6066 (0.0093)
+-- Predicting Brain_Cortex with Pituitary community 8
+Accuracy: 0.3781 (0.0108)
+F1 score: 0.0357 (0.0013)
+ROC AUC: 0.5928 (0.0308)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 8
+Accuracy: 0.3817 (0.0288)
+F1 score: 0.0322 (0.0009)
+ROC AUC: 0.5860 (0.0101)
+-- Predicting Brain_Hippocampus with Pituitary community 8
+Accuracy: 0.3649 (0.0186)
+F1 score: 0.0309 (0.0010)
+ROC AUC: 0.6027 (0.0087)
+-- Predicting Brain_Hypothalamus with Pituitary community 8
+Accuracy: 0.3896 (0.0372)
+F1 score: 0.0295 (0.0010)
+ROC AUC: 0.5759 (0.0130)
+-- Predicting Brain_Nucleus with Pituitary community 8
+Accuracy: 0.3565 (0.0206)
+F1 score: 0.0376 (0.0005)
+ROC AUC: 0.6072 (0.0264)
+-- Predicting Brain_Putamen with Pituitary community 8
+Accuracy: 0.3944 (0.0308)
+F1 score: 0.0273 (0.0031)
+ROC AUC: 0.5701 (0.0399)
+-- Predicting Brain_Spinal_cord with Pituitary community 8
+Accuracy: 0.3806 (0.0127)
+F1 score: 0.0220 (0.0009)
+ROC AUC: 0.5929 (0.0236)
+-- Predicting Brain_Substantia_nigra with Pituitary community 8
+Accuracy: 0.3959 (0.0300)
+F1 score: 0.0188 (0.0009)
+ROC AUC: 0.5792 (0.0083)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 8
+Accuracy: 0.3595 (0.0332)
+F1 score: 0.0700 (0.0028)
+ROC AUC: 0.6234 (0.0201)
+-- Predicting Cells_Cultured with Pituitary community 8
+Accuracy: 0.3767 (0.0160)
+F1 score: 0.0770 (0.0024)
+ROC AUC: 0.6239 (0.0190)
+-- Predicting Cells_EBV with Pituitary community 8
+Accuracy: 0.7501 (0.0440)
+F1 score: 0.0738 (0.0118)
+ROC AUC: 0.8492 (0.0278)
+-- Predicting Colon_Sigmoid with Pituitary community 8
+Accuracy: 0.3858 (0.0257)
+F1 score: 0.0497 (0.0020)
+ROC AUC: 0.6072 (0.0183)
+-- Predicting Colon_Transverse with Pituitary community 8
+Accuracy: 0.3818 (0.0302)
+F1 score: 0.0590 (0.0038)
+ROC AUC: 0.6125 (0.0189)
+-- Predicting Esophagus_Gastro with Pituitary community 8
+Accuracy: 0.7620 (0.0588)
+F1 score: 0.1613 (0.0361)
+ROC AUC: 0.8699 (0.0288)
+-- Predicting Esophagus_Mucosa with Pituitary community 8
+Accuracy: 0.3975 (0.0391)
+F1 score: 0.0796 (0.0030)
+ROC AUC: 0.6070 (0.0145)
+-- Predicting Esophagus_Muscularis with Pituitary community 8
+Accuracy: 0.7711 (0.0700)
+F1 score: 0.2253 (0.0605)
+ROC AUC: 0.8632 (0.0475)
+-- Predicting Heart_Atrial with Pituitary community 8
+Accuracy: 0.3764 (0.0152)
+F1 score: 0.0610 (0.0008)
+ROC AUC: 0.6079 (0.0100)
+-- Predicting Heart_L_Vent with Pituitary community 8
+Accuracy: 0.3764 (0.0236)
+F1 score: 0.0633 (0.0013)
+ROC AUC: 0.6151 (0.0194)
+-- Predicting Kidney_Cortex with Pituitary community 8
+Accuracy: 0.4696 (0.0702)
+F1 score: 0.0103 (0.0019)
+ROC AUC: 0.5122 (0.0506)
+-- Predicting Liver with Pituitary community 8
+Accuracy: 0.7572 (0.0477)
+F1 score: 0.1045 (0.0184)
+ROC AUC: 0.8958 (0.0463)
+-- Predicting Lung with Pituitary community 8
+Accuracy: 0.3672 (0.0248)
+F1 score: 0.0862 (0.0030)
+ROC AUC: 0.6281 (0.0201)
+-- Predicting Minor_Salivary with Pituitary community 8
+Accuracy: 0.4460 (0.0119)
+F1 score: 0.0223 (0.0027)
+ROC AUC: 0.5533 (0.0343)
+-- Predicting Muscle_Skeletal with Pituitary community 8
+Accuracy: 0.3746 (0.0213)
+F1 score: 0.1168 (0.0032)
+ROC AUC: 0.6313 (0.0267)
+-- Predicting Nerve_Tibial with Pituitary community 8
+Accuracy: 0.3754 (0.0232)
+F1 score: 0.0844 (0.0034)
+ROC AUC: 0.6259 (0.0384)
+-- Predicting Ovary with Pituitary community 8
+Accuracy: 0.3800 (0.0180)
+F1 score: 0.0283 (0.0035)
+ROC AUC: 0.5855 (0.0383)
+-- Predicting Pancreas with Pituitary community 8
+Accuracy: 0.3918 (0.0210)
+F1 score: 0.0482 (0.0014)
+ROC AUC: 0.6022 (0.0308)
+-- Predicting Pituitary with Pituitary community 8
+Accuracy: 0.3552 (0.0172)
+F1 score: 0.0451 (0.0016)
+ROC AUC: 0.5963 (0.0159)
+-- Predicting Prostate with Pituitary community 8
+Accuracy: 0.3805 (0.0377)
+F1 score: 0.0373 (0.0014)
+ROC AUC: 0.5937 (0.0089)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 8
+Accuracy: 0.3789 (0.0190)
+F1 score: 0.0855 (0.0030)
+ROC AUC: 0.6288 (0.0225)
+-- Predicting Skin_Sun_Epsd with Pituitary community 8
+Accuracy: 0.3733 (0.0221)
+F1 score: 0.0992 (0.0032)
+ROC AUC: 0.6281 (0.0226)
+-- Predicting Small_Intestine with Pituitary community 8
+Accuracy: 0.4194 (0.0513)
+F1 score: 0.0263 (0.0016)
+ROC AUC: 0.5721 (0.0152)
+-- Predicting Spleen with Pituitary community 8
+Accuracy: 0.7555 (0.0456)
+F1 score: 0.1117 (0.0169)
+ROC AUC: 0.8565 (0.0237)
+-- Predicting Stomach with Pituitary community 8
+Accuracy: 0.7619 (0.0524)
+F1 score: 0.1565 (0.0294)
+ROC AUC: 0.8690 (0.0226)
+-- Predicting Testis with Pituitary community 8
+Accuracy: 0.3816 (0.0281)
+F1 score: 0.0542 (0.0038)
+ROC AUC: 0.5991 (0.0393)
+-- Predicting Thyroid with Pituitary community 8
+Accuracy: 0.3670 (0.0306)
+F1 score: 0.0950 (0.0041)
+ROC AUC: 0.6300 (0.0189)
+-- Predicting Uterus with Pituitary community 8
+Accuracy: 0.3940 (0.0475)
+F1 score: 0.0218 (0.0013)
+ROC AUC: 0.5726 (0.0224)
+-- Predicting Vagina with Pituitary community 8
+Accuracy: 0.4110 (0.0524)
+F1 score: 0.0226 (0.0015)
+ROC AUC: 0.5623 (0.0115)
+-- Predicting Whole_Blood with Pituitary community 8
+Accuracy: 0.9994 (0.0002)
+F1 score: 0.9933 (0.0018)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Adipose_Subcutaneous with Pituitary community 9
+Accuracy: 0.8522 (0.0909)
+F1 score: 0.3998 (0.1503)
+ROC AUC: 0.9227 (0.0512)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 9
+Accuracy: 0.5021 (0.1803)
+F1 score: 0.1199 (0.0481)
+ROC AUC: 0.7413 (0.0853)
+-- Predicting Adrenal_Gland with Pituitary community 9
+Accuracy: 0.4676 (0.1681)
+F1 score: 0.0589 (0.0221)
+ROC AUC: 0.7189 (0.0758)
+-- Predicting Artery_Aorta with Pituitary community 9
+Accuracy: 0.4854 (0.1804)
+F1 score: 0.0949 (0.0340)
+ROC AUC: 0.7371 (0.0801)
+-- Predicting Artery_Coronary with Pituitary community 9
+Accuracy: 0.4617 (0.1717)
+F1 score: 0.0525 (0.0209)
+ROC AUC: 0.7069 (0.0919)
+-- Predicting Artery_Tibial with Pituitary community 9
+Accuracy: 0.8524 (0.0911)
+F1 score: 0.4016 (0.1508)
+ROC AUC: 0.9241 (0.0485)
+-- Predicting Brain_Amygdala with Pituitary community 9
+Accuracy: 0.9901 (0.0140)
+F1 score: 0.7881 (0.2996)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 9
+Accuracy: 0.9301 (0.0793)
+F1 score: 0.4989 (0.3754)
+ROC AUC: 0.9636 (0.0411)
+-- Predicting Brain_Caudate with Pituitary community 9
+Accuracy: 0.9802 (0.0279)
+F1 score: 0.7649 (0.3271)
+ROC AUC: 0.9900 (0.0141)
+-- Predicting Brain_Cerebellar with Pituitary community 9
+Accuracy: 0.8036 (0.1296)
+F1 score: 0.2050 (0.1809)
+ROC AUC: 0.9092 (0.0638)
+-- Predicting Brain_Cerebellum with Pituitary community 9
+Accuracy: 0.8158 (0.1219)
+F1 score: 0.2517 (0.2246)
+ROC AUC: 0.9246 (0.0515)
+-- Predicting Brain_Cortex with Pituitary community 9
+Accuracy: 0.9339 (0.0739)
+F1 score: 0.5397 (0.3542)
+ROC AUC: 0.9634 (0.0420)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 9
+Accuracy: 0.9319 (0.0767)
+F1 score: 0.5195 (0.3646)
+ROC AUC: 0.9650 (0.0402)
+-- Predicting Brain_Hippocampus with Pituitary community 9
+Accuracy: 0.9313 (0.0776)
+F1 score: 0.5124 (0.3686)
+ROC AUC: 0.9605 (0.0464)
+-- Predicting Brain_Hypothalamus with Pituitary community 9
+Accuracy: 0.9786 (0.0301)
+F1 score: 0.7505 (0.3466)
+ROC AUC: 0.9879 (0.0172)
+-- Predicting Brain_Nucleus with Pituitary community 9
+Accuracy: 0.8026 (0.1226)
+F1 score: 0.1966 (0.1578)
+ROC AUC: 0.9084 (0.0606)
+-- Predicting Brain_Putamen with Pituitary community 9
+Accuracy: 0.7999 (0.1399)
+F1 score: 0.2148 (0.2038)
+ROC AUC: 0.9048 (0.0645)
+-- Predicting Brain_Spinal_cord with Pituitary community 9
+Accuracy: 0.9287 (0.0812)
+F1 score: 0.4820 (0.3839)
+ROC AUC: 0.9637 (0.0408)
+-- Predicting Brain_Substantia_nigra with Pituitary community 9
+Accuracy: 0.9279 (0.0823)
+F1 score: 0.4717 (0.3891)
+ROC AUC: 0.9603 (0.0449)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 9
+Accuracy: 0.4743 (0.1796)
+F1 score: 0.0925 (0.0302)
+ROC AUC: 0.7113 (0.0863)
+-- Predicting Cells_Cultured with Pituitary community 9
+Accuracy: 0.9543 (0.0626)
+F1 score: 0.7592 (0.3107)
+ROC AUC: 0.9804 (0.0274)
+-- Predicting Cells_EBV with Pituitary community 9
+Accuracy: 0.9301 (0.0989)
+F1 score: 0.6948 (0.4316)
+ROC AUC: 0.9662 (0.0477)
+-- Predicting Colon_Sigmoid with Pituitary community 9
+Accuracy: 0.9436 (0.0772)
+F1 score: 0.7070 (0.3579)
+ROC AUC: 0.9714 (0.0402)
+-- Predicting Colon_Transverse with Pituitary community 9
+Accuracy: 0.4596 (0.1647)
+F1 score: 0.0850 (0.0288)
+ROC AUC: 0.7071 (0.0829)
+-- Predicting Esophagus_Gastro with Pituitary community 9
+Accuracy: 0.9438 (0.0769)
+F1 score: 0.7099 (0.3547)
+ROC AUC: 0.9720 (0.0393)
+-- Predicting Esophagus_Mucosa with Pituitary community 9
+Accuracy: 0.4622 (0.1481)
+F1 score: 0.1089 (0.0285)
+ROC AUC: 0.7097 (0.0753)
+-- Predicting Esophagus_Muscularis with Pituitary community 9
+Accuracy: 0.4488 (0.1565)
+F1 score: 0.0968 (0.0269)
+ROC AUC: 0.6959 (0.0762)
+-- Predicting Heart_Atrial with Pituitary community 9
+Accuracy: 0.4421 (0.1531)
+F1 score: 0.0783 (0.0197)
+ROC AUC: 0.7047 (0.0633)
+-- Predicting Heart_L_Vent with Pituitary community 9
+Accuracy: 0.7709 (0.1311)
+F1 score: 0.2427 (0.1371)
+ROC AUC: 0.9194 (0.0363)
+-- Predicting Kidney_Cortex with Pituitary community 9
+Accuracy: 0.4357 (0.1524)
+F1 score: 0.0150 (0.0055)
+ROC AUC: 0.6460 (0.0979)
+-- Predicting Liver with Pituitary community 9
+Accuracy: 0.4630 (0.1455)
+F1 score: 0.0519 (0.0167)
+ROC AUC: 0.7052 (0.0795)
+-- Predicting Lung with Pituitary community 9
+Accuracy: 0.4703 (0.1680)
+F1 score: 0.1166 (0.0374)
+ROC AUC: 0.7216 (0.0834)
+-- Predicting Minor_Salivary with Pituitary community 9
+Accuracy: 0.4550 (0.1556)
+F1 score: 0.0337 (0.0128)
+ROC AUC: 0.6932 (0.1038)
+-- Predicting Muscle_Skeletal with Pituitary community 9
+Accuracy: 0.7921 (0.1237)
+F1 score: 0.3900 (0.2025)
+ROC AUC: 0.9294 (0.0395)
+-- Predicting Nerve_Tibial with Pituitary community 9
+Accuracy: 0.7804 (0.1276)
+F1 score: 0.3145 (0.1712)
+ROC AUC: 0.9217 (0.0396)
+-- Predicting Ovary with Pituitary community 9
+Accuracy: 0.4462 (0.1487)
+F1 score: 0.0386 (0.0122)
+ROC AUC: 0.6963 (0.0886)
+-- Predicting Pancreas with Pituitary community 9
+Accuracy: 0.4678 (0.1517)
+F1 score: 0.0700 (0.0189)
+ROC AUC: 0.7106 (0.0823)
+-- Predicting Pituitary with Pituitary community 9
+Accuracy: 0.4476 (0.1516)
+F1 score: 0.0515 (0.0137)
+ROC AUC: 0.6998 (0.0705)
+-- Predicting Prostate with Pituitary community 9
+Accuracy: 0.4522 (0.1669)
+F1 score: 0.0493 (0.0120)
+ROC AUC: 0.6928 (0.0565)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 9
+Accuracy: 0.8240 (0.1565)
+F1 score: 0.4411 (0.2968)
+ROC AUC: 0.9210 (0.0668)
+-- Predicting Skin_Sun_Epsd with Pituitary community 9
+Accuracy: 0.8241 (0.1603)
+F1 score: 0.4678 (0.2920)
+ROC AUC: 0.9245 (0.0672)
+-- Predicting Small_Intestine with Pituitary community 9
+Accuracy: 0.4492 (0.1561)
+F1 score: 0.0405 (0.0133)
+ROC AUC: 0.6896 (0.0795)
+-- Predicting Spleen with Pituitary community 9
+Accuracy: 0.4585 (0.1699)
+F1 score: 0.0531 (0.0165)
+ROC AUC: 0.7073 (0.0702)
+-- Predicting Stomach with Pituitary community 9
+Accuracy: 0.4638 (0.1713)
+F1 score: 0.0750 (0.0242)
+ROC AUC: 0.6931 (0.0927)
+-- Predicting Testis with Pituitary community 9
+Accuracy: 0.4579 (0.1670)
+F1 score: 0.0714 (0.0239)
+ROC AUC: 0.7010 (0.0747)
+-- Predicting Thyroid with Pituitary community 9
+Accuracy: 0.4538 (0.1628)
+F1 score: 0.1220 (0.0305)
+ROC AUC: 0.7109 (0.0833)
+-- Predicting Uterus with Pituitary community 9
+Accuracy: 0.4304 (0.1328)
+F1 score: 0.0275 (0.0056)
+ROC AUC: 0.6798 (0.0447)
+-- Predicting Vagina with Pituitary community 9
+Accuracy: 0.4551 (0.1659)
+F1 score: 0.0341 (0.0108)
+ROC AUC: 0.6758 (0.0931)
+-- Predicting Whole_Blood with Pituitary community 9
+Accuracy: 0.4851 (0.1774)
+F1 score: 0.1576 (0.0473)
+ROC AUC: 0.7232 (0.0873)
+-- Predicting Adipose_Subcutaneous with Pituitary community 10
+Accuracy: 0.5350 (0.0861)
+F1 score: 0.0664 (0.0023)
+ROC AUC: 0.4804 (0.0024)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 10
+Accuracy: 0.4136 (0.0385)
+F1 score: 0.0518 (0.0018)
+ROC AUC: 0.4504 (0.0062)
+-- Predicting Adrenal_Gland with Pituitary community 10
+Accuracy: 0.4679 (0.0430)
+F1 score: 0.0256 (0.0005)
+ROC AUC: 0.4434 (0.0096)
+-- Predicting Artery_Aorta with Pituitary community 10
+Accuracy: 0.5781 (0.0390)
+F1 score: 0.0393 (0.0053)
+ROC AUC: 0.4368 (0.0188)
+-- Predicting Artery_Coronary with Pituitary community 10
+Accuracy: 0.5638 (0.0395)
+F1 score: 0.0220 (0.0019)
+ROC AUC: 0.4395 (0.0189)
+-- Predicting Artery_Tibial with Pituitary community 10
+Accuracy: 0.4317 (0.0600)
+F1 score: 0.0659 (0.0022)
+ROC AUC: 0.4698 (0.0068)
+-- Predicting Brain_Amygdala with Pituitary community 10
+Accuracy: 0.4921 (0.0799)
+F1 score: 0.0138 (0.0005)
+ROC AUC: 0.4330 (0.0206)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 10
+Accuracy: 0.5042 (0.0604)
+F1 score: 0.0153 (0.0007)
+ROC AUC: 0.4425 (0.0108)
+-- Predicting Brain_Caudate with Pituitary community 10
+Accuracy: 0.4783 (0.0602)
+F1 score: 0.0197 (0.0032)
+ROC AUC: 0.4362 (0.0166)
+-- Predicting Brain_Cerebellar with Pituitary community 10
+Accuracy: 0.4727 (0.1120)
+F1 score: 0.0203 (0.0015)
+ROC AUC: 0.4578 (0.0051)
+-- Predicting Brain_Cerebellum with Pituitary community 10
+Accuracy: 0.4387 (0.0179)
+F1 score: 0.0246 (0.0016)
+ROC AUC: 0.4508 (0.0106)
+-- Predicting Brain_Cortex with Pituitary community 10
+Accuracy: 0.4635 (0.0400)
+F1 score: 0.0216 (0.0007)
+ROC AUC: 0.4320 (0.0054)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 10
+Accuracy: 0.5309 (0.0232)
+F1 score: 0.0161 (0.0021)
+ROC AUC: 0.4134 (0.0144)
+-- Predicting Brain_Hippocampus with Pituitary community 10
+Accuracy: 0.4662 (0.1191)
+F1 score: 0.0157 (0.0017)
+ROC AUC: 0.4175 (0.0085)
+-- Predicting Brain_Hypothalamus with Pituitary community 10
+Accuracy: 0.4436 (0.0467)
+F1 score: 0.0185 (0.0013)
+ROC AUC: 0.4366 (0.0107)
+-- Predicting Brain_Nucleus with Pituitary community 10
+Accuracy: 0.4709 (0.0363)
+F1 score: 0.0211 (0.0013)
+ROC AUC: 0.4373 (0.0149)
+-- Predicting Brain_Putamen with Pituitary community 10
+Accuracy: 0.4705 (0.0999)
+F1 score: 0.0193 (0.0008)
+ROC AUC: 0.4455 (0.0127)
+-- Predicting Brain_Spinal_cord with Pituitary community 10
+Accuracy: 0.4934 (0.1421)
+F1 score: 0.0122 (0.0029)
+ROC AUC: 0.4339 (0.0442)
+-- Predicting Brain_Substantia_nigra with Pituitary community 10
+Accuracy: 0.5648 (0.0325)
+F1 score: 0.0116 (0.0012)
+ROC AUC: 0.4073 (0.0026)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 10
+Accuracy: 0.4932 (0.0037)
+F1 score: 0.0401 (0.0014)
+ROC AUC: 0.4476 (0.0083)
+-- Predicting Cells_Cultured with Pituitary community 10
+Accuracy: 0.5659 (0.1338)
+F1 score: 0.0608 (0.0038)
+ROC AUC: 0.4795 (0.0097)
+-- Predicting Cells_EBV with Pituitary community 10
+Accuracy: 0.4314 (0.0568)
+F1 score: 0.0148 (0.0027)
+ROC AUC: 0.4185 (0.0096)
+-- Predicting Colon_Sigmoid with Pituitary community 10
+Accuracy: 0.4019 (0.0585)
+F1 score: 0.0355 (0.0034)
+ROC AUC: 0.4539 (0.0175)
+-- Predicting Colon_Transverse with Pituitary community 10
+Accuracy: 0.4909 (0.0510)
+F1 score: 0.0429 (0.0020)
+ROC AUC: 0.4696 (0.0114)
+-- Predicting Esophagus_Gastro with Pituitary community 10
+Accuracy: 0.4150 (0.0342)
+F1 score: 0.0415 (0.0030)
+ROC AUC: 0.4705 (0.0106)
+-- Predicting Esophagus_Mucosa with Pituitary community 10
+Accuracy: 0.4435 (0.0238)
+F1 score: 0.0553 (0.0040)
+ROC AUC: 0.4594 (0.0094)
+-- Predicting Esophagus_Muscularis with Pituitary community 10
+Accuracy: 0.5716 (0.0513)
+F1 score: 0.0514 (0.0020)
+ROC AUC: 0.4486 (0.0069)
+-- Predicting Heart_Atrial with Pituitary community 10
+Accuracy: 0.4687 (0.0265)
+F1 score: 0.0418 (0.0042)
+ROC AUC: 0.4559 (0.0211)
+-- Predicting Heart_L_Vent with Pituitary community 10
+Accuracy: 0.4275 (0.0751)
+F1 score: 0.0490 (0.0031)
+ROC AUC: 0.4707 (0.0078)
+-- Predicting Kidney_Cortex with Pituitary community 10
+Accuracy: 0.5231 (0.1173)
+F1 score: 0.0081 (0.0005)
+ROC AUC: 0.4187 (0.0238)
+-- Predicting Liver with Pituitary community 10
+Accuracy: 0.5197 (0.0471)
+F1 score: 0.0231 (0.0014)
+ROC AUC: 0.4413 (0.0076)
+-- Predicting Lung with Pituitary community 10
+Accuracy: 0.4544 (0.0584)
+F1 score: 0.0550 (0.0013)
+ROC AUC: 0.4492 (0.0123)
+-- Predicting Minor_Salivary with Pituitary community 10
+Accuracy: 0.6106 (0.0601)
+F1 score: 0.0168 (0.0021)
+ROC AUC: 0.4424 (0.0401)
+-- Predicting Muscle_Skeletal with Pituitary community 10
+Accuracy: 0.5839 (0.0157)
+F1 score: 0.0757 (0.0012)
+ROC AUC: 0.4491 (0.0039)
+-- Predicting Nerve_Tibial with Pituitary community 10
+Accuracy: 0.5194 (0.0716)
+F1 score: 0.0586 (0.0024)
+ROC AUC: 0.4661 (0.0084)
+-- Predicting Ovary with Pituitary community 10
+Accuracy: 0.6011 (0.0241)
+F1 score: 0.0172 (0.0007)
+ROC AUC: 0.4125 (0.0129)
+-- Predicting Pancreas with Pituitary community 10
+Accuracy: 0.4270 (0.1325)
+F1 score: 0.0357 (0.0026)
+ROC AUC: 0.4556 (0.0093)
+-- Predicting Pituitary with Pituitary community 10
+Accuracy: 0.4170 (0.0634)
+F1 score: 0.0290 (0.0030)
+ROC AUC: 0.4523 (0.0166)
+-- Predicting Prostate with Pituitary community 10
+Accuracy: 0.5369 (0.0709)
+F1 score: 0.0242 (0.0024)
+ROC AUC: 0.4183 (0.0197)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 10
+Accuracy: 0.5232 (0.0925)
+F1 score: 0.0592 (0.0024)
+ROC AUC: 0.4626 (0.0043)
+-- Predicting Skin_Sun_Epsd with Pituitary community 10
+Accuracy: 0.4492 (0.0493)
+F1 score: 0.0678 (0.0026)
+ROC AUC: 0.4536 (0.0109)
+-- Predicting Small_Intestine with Pituitary community 10
+Accuracy: 0.5318 (0.0206)
+F1 score: 0.0184 (0.0009)
+ROC AUC: 0.4332 (0.0149)
+-- Predicting Spleen with Pituitary community 10
+Accuracy: 0.5446 (0.0616)
+F1 score: 0.0263 (0.0011)
+ROC AUC: 0.4493 (0.0041)
+-- Predicting Stomach with Pituitary community 10
+Accuracy: 0.3605 (0.0304)
+F1 score: 0.0395 (0.0044)
+ROC AUC: 0.4520 (0.0192)
+-- Predicting Testis with Pituitary community 10
+Accuracy: 0.5558 (0.1932)
+F1 score: 0.0389 (0.0041)
+ROC AUC: 0.4537 (0.0105)
+-- Predicting Thyroid with Pituitary community 10
+Accuracy: 0.4256 (0.0296)
+F1 score: 0.0687 (0.0027)
+ROC AUC: 0.4806 (0.0111)
+-- Predicting Uterus with Pituitary community 10
+Accuracy: 0.5109 (0.0258)
+F1 score: 0.0132 (0.0018)
+ROC AUC: 0.4356 (0.0145)
+-- Predicting Vagina with Pituitary community 10
+Accuracy: 0.5165 (0.0389)
+F1 score: 0.0136 (0.0006)
+ROC AUC: 0.4002 (0.0236)
+-- Predicting Whole_Blood with Pituitary community 10
+Accuracy: 0.4010 (0.0801)
+F1 score: 0.0818 (0.0033)
+ROC AUC: 0.4778 (0.0101)
+-- Predicting Adipose_Subcutaneous with Pituitary community 11
+Accuracy: 0.4604 (0.0127)
+F1 score: 0.0627 (0.0024)
+ROC AUC: 0.4602 (0.0148)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 11
+Accuracy: 0.5519 (0.1179)
+F1 score: 0.0476 (0.0083)
+ROC AUC: 0.4408 (0.0145)
+-- Predicting Adrenal_Gland with Pituitary community 11
+Accuracy: 0.4932 (0.0667)
+F1 score: 0.0251 (0.0010)
+ROC AUC: 0.4597 (0.0051)
+-- Predicting Artery_Aorta with Pituitary community 11
+Accuracy: 0.4785 (0.0787)
+F1 score: 0.0438 (0.0017)
+ROC AUC: 0.4618 (0.0104)
+-- Predicting Artery_Coronary with Pituitary community 11
+Accuracy: 0.3968 (0.0208)
+F1 score: 0.0251 (0.0012)
+ROC AUC: 0.4537 (0.0104)
+-- Predicting Artery_Tibial with Pituitary community 11
+Accuracy: 0.4268 (0.0539)
+F1 score: 0.0666 (0.0027)
+ROC AUC: 0.4700 (0.0122)
+-- Predicting Brain_Amygdala with Pituitary community 11
+Accuracy: 0.4007 (0.0894)
+F1 score: 0.0147 (0.0031)
+ROC AUC: 0.4414 (0.0195)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 11
+Accuracy: 0.4495 (0.0584)
+F1 score: 0.0150 (0.0034)
+ROC AUC: 0.4279 (0.0169)
+-- Predicting Brain_Caudate with Pituitary community 11
+Accuracy: 0.5049 (0.0074)
+F1 score: 0.0177 (0.0030)
+ROC AUC: 0.4202 (0.0318)
+-- Predicting Brain_Cerebellar with Pituitary community 11
+Accuracy: 0.5438 (0.0322)
+F1 score: 0.0204 (0.0012)
+ROC AUC: 0.4553 (0.0063)
+-- Predicting Brain_Cerebellum with Pituitary community 11
+Accuracy: 0.5584 (0.0521)
+F1 score: 0.0238 (0.0024)
+ROC AUC: 0.4388 (0.0113)
+-- Predicting Brain_Cortex with Pituitary community 11
+Accuracy: 0.3189 (0.0339)
+F1 score: 0.0279 (0.0014)
+ROC AUC: 0.4703 (0.0148)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 11
+Accuracy: 0.4585 (0.0332)
+F1 score: 0.0183 (0.0011)
+ROC AUC: 0.4185 (0.0152)
+-- Predicting Brain_Hippocampus with Pituitary community 11
+Accuracy: 0.4760 (0.0362)
+F1 score: 0.0182 (0.0028)
+ROC AUC: 0.4402 (0.0104)
+-- Predicting Brain_Hypothalamus with Pituitary community 11
+Accuracy: 0.4212 (0.0441)
+F1 score: 0.0178 (0.0005)
+ROC AUC: 0.4443 (0.0222)
+-- Predicting Brain_Nucleus with Pituitary community 11
+Accuracy: 0.4511 (0.0412)
+F1 score: 0.0222 (0.0007)
+ROC AUC: 0.4308 (0.0030)
+-- Predicting Brain_Putamen with Pituitary community 11
+Accuracy: 0.5144 (0.0649)
+F1 score: 0.0170 (0.0009)
+ROC AUC: 0.4314 (0.0202)
+-- Predicting Brain_Spinal_cord with Pituitary community 11
+Accuracy: 0.5056 (0.0402)
+F1 score: 0.0138 (0.0019)
+ROC AUC: 0.4274 (0.0256)
+-- Predicting Brain_Substantia_nigra with Pituitary community 11
+Accuracy: 0.4910 (0.0244)
+F1 score: 0.0130 (0.0001)
+ROC AUC: 0.4311 (0.0120)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 11
+Accuracy: 0.4468 (0.0542)
+F1 score: 0.0468 (0.0007)
+ROC AUC: 0.4564 (0.0122)
+-- Predicting Cells_Cultured with Pituitary community 11
+Accuracy: 0.5287 (0.0709)
+F1 score: 0.0560 (0.0025)
+ROC AUC: 0.4643 (0.0094)
+-- Predicting Cells_EBV with Pituitary community 11
+Accuracy: 0.4242 (0.0651)
+F1 score: 0.0166 (0.0002)
+ROC AUC: 0.4489 (0.0124)
+-- Predicting Colon_Sigmoid with Pituitary community 11
+Accuracy: 0.4984 (0.0130)
+F1 score: 0.0345 (0.0013)
+ROC AUC: 0.4484 (0.0153)
+-- Predicting Colon_Transverse with Pituitary community 11
+Accuracy: 0.4285 (0.0683)
+F1 score: 0.0459 (0.0021)
+ROC AUC: 0.4670 (0.0031)
+-- Predicting Esophagus_Gastro with Pituitary community 11
+Accuracy: 0.5705 (0.0804)
+F1 score: 0.0351 (0.0015)
+ROC AUC: 0.4566 (0.0117)
+-- Predicting Esophagus_Mucosa with Pituitary community 11
+Accuracy: 0.4439 (0.0821)
+F1 score: 0.0576 (0.0025)
+ROC AUC: 0.4700 (0.0051)
+-- Predicting Esophagus_Muscularis with Pituitary community 11
+Accuracy: 0.4908 (0.1033)
+F1 score: 0.0522 (0.0017)
+ROC AUC: 0.4730 (0.0055)
+-- Predicting Heart_Atrial with Pituitary community 11
+Accuracy: 0.4228 (0.0966)
+F1 score: 0.0442 (0.0006)
+ROC AUC: 0.4677 (0.0033)
+-- Predicting Heart_L_Vent with Pituitary community 11
+Accuracy: 0.3814 (0.0453)
+F1 score: 0.0470 (0.0018)
+ROC AUC: 0.4659 (0.0083)
+-- Predicting Kidney_Cortex with Pituitary community 11
+Accuracy: 0.4236 (0.0497)
+F1 score: 0.0088 (0.0007)
+ROC AUC: 0.4216 (0.0214)
+-- Predicting Liver with Pituitary community 11
+Accuracy: 0.6265 (0.0369)
+F1 score: 0.0212 (0.0020)
+ROC AUC: 0.4356 (0.0269)
+-- Predicting Lung with Pituitary community 11
+Accuracy: 0.4756 (0.0193)
+F1 score: 0.0561 (0.0018)
+ROC AUC: 0.4475 (0.0159)
+-- Predicting Minor_Salivary with Pituitary community 11
+Accuracy: 0.4977 (0.0547)
+F1 score: 0.0152 (0.0010)
+ROC AUC: 0.4333 (0.0186)
+-- Predicting Muscle_Skeletal with Pituitary community 11
+Accuracy: 0.5062 (0.0247)
+F1 score: 0.0704 (0.0019)
+ROC AUC: 0.4495 (0.0153)
+-- Predicting Nerve_Tibial with Pituitary community 11
+Accuracy: 0.4608 (0.0552)
+F1 score: 0.0598 (0.0025)
+ROC AUC: 0.4608 (0.0160)
+-- Predicting Ovary with Pituitary community 11
+Accuracy: 0.6690 (0.0451)
+F1 score: 0.0158 (0.0012)
+ROC AUC: 0.3922 (0.0153)
+-- Predicting Pancreas with Pituitary community 11
+Accuracy: 0.5014 (0.0595)
+F1 score: 0.0334 (0.0033)
+ROC AUC: 0.4552 (0.0040)
+-- Predicting Pituitary with Pituitary community 11
+Accuracy: 0.6029 (0.0462)
+F1 score: 0.0257 (0.0015)
+ROC AUC: 0.4575 (0.0145)
+-- Predicting Prostate with Pituitary community 11
+Accuracy: 0.5502 (0.0531)
+F1 score: 0.0239 (0.0017)
+ROC AUC: 0.4478 (0.0145)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 11
+Accuracy: 0.4000 (0.0482)
+F1 score: 0.0604 (0.0034)
+ROC AUC: 0.4504 (0.0157)
+-- Predicting Skin_Sun_Epsd with Pituitary community 11
+Accuracy: 0.4354 (0.0483)
+F1 score: 0.0656 (0.0024)
+ROC AUC: 0.4505 (0.0151)
+-- Predicting Small_Intestine with Pituitary community 11
+Accuracy: 0.4429 (0.0548)
+F1 score: 0.0214 (0.0018)
+ROC AUC: 0.4677 (0.0182)
+-- Predicting Spleen with Pituitary community 11
+Accuracy: 0.5983 (0.0622)
+F1 score: 0.0266 (0.0021)
+ROC AUC: 0.4683 (0.0207)
+-- Predicting Stomach with Pituitary community 11
+Accuracy: 0.5038 (0.0804)
+F1 score: 0.0387 (0.0023)
+ROC AUC: 0.4674 (0.0041)
+-- Predicting Testis with Pituitary community 11
+Accuracy: 0.5287 (0.0643)
+F1 score: 0.0386 (0.0012)
+ROC AUC: 0.4775 (0.0065)
+-- Predicting Thyroid with Pituitary community 11
+Accuracy: 0.4399 (0.0234)
+F1 score: 0.0625 (0.0011)
+ROC AUC: 0.4479 (0.0100)
+-- Predicting Uterus with Pituitary community 11
+Accuracy: 0.5317 (0.0386)
+F1 score: 0.0123 (0.0013)
+ROC AUC: 0.4220 (0.0095)
+-- Predicting Vagina with Pituitary community 11
+Accuracy: 0.6269 (0.0734)
+F1 score: 0.0134 (0.0047)
+ROC AUC: 0.4034 (0.0256)
+-- Predicting Whole_Blood with Pituitary community 11
+Accuracy: 0.3953 (0.0470)
+F1 score: 0.0784 (0.0006)
+ROC AUC: 0.4778 (0.0034)
+-- Predicting Adipose_Subcutaneous with Pituitary community 12
+Accuracy: 0.4892 (0.0199)
+F1 score: 0.0623 (0.0014)
+ROC AUC: 0.4564 (0.0102)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 12
+Accuracy: 0.4288 (0.0228)
+F1 score: 0.0537 (0.0022)
+ROC AUC: 0.4589 (0.0126)
+-- Predicting Adrenal_Gland with Pituitary community 12
+Accuracy: 0.3290 (0.0926)
+F1 score: 0.0269 (0.0026)
+ROC AUC: 0.4606 (0.0127)
+-- Predicting Artery_Aorta with Pituitary community 12
+Accuracy: 0.5404 (0.0381)
+F1 score: 0.0386 (0.0021)
+ROC AUC: 0.4376 (0.0052)
+-- Predicting Artery_Coronary with Pituitary community 12
+Accuracy: 0.4927 (0.0400)
+F1 score: 0.0245 (0.0024)
+ROC AUC: 0.4523 (0.0303)
+-- Predicting Artery_Tibial with Pituitary community 12
+Accuracy: 0.5681 (0.0699)
+F1 score: 0.0655 (0.0063)
+ROC AUC: 0.4684 (0.0130)
+-- Predicting Brain_Amygdala with Pituitary community 12
+Accuracy: 0.4590 (0.0897)
+F1 score: 0.0161 (0.0014)
+ROC AUC: 0.4509 (0.0099)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 12
+Accuracy: 0.5905 (0.0792)
+F1 score: 0.0167 (0.0039)
+ROC AUC: 0.4367 (0.0231)
+-- Predicting Brain_Caudate with Pituitary community 12
+Accuracy: 0.3558 (0.0326)
+F1 score: 0.0243 (0.0017)
+ROC AUC: 0.4706 (0.0066)
+-- Predicting Brain_Cerebellar with Pituitary community 12
+Accuracy: 0.4410 (0.0176)
+F1 score: 0.0192 (0.0008)
+ROC AUC: 0.4462 (0.0068)
+-- Predicting Brain_Cerebellum with Pituitary community 12
+Accuracy: 0.4569 (0.0656)
+F1 score: 0.0243 (0.0027)
+ROC AUC: 0.4683 (0.0259)
+-- Predicting Brain_Cortex with Pituitary community 12
+Accuracy: 0.4435 (0.0390)
+F1 score: 0.0232 (0.0021)
+ROC AUC: 0.4490 (0.0159)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 12
+Accuracy: 0.6424 (0.0993)
+F1 score: 0.0198 (0.0011)
+ROC AUC: 0.4481 (0.0128)
+-- Predicting Brain_Hippocampus with Pituitary community 12
+Accuracy: 0.4813 (0.0527)
+F1 score: 0.0170 (0.0003)
+ROC AUC: 0.4311 (0.0250)
+-- Predicting Brain_Hypothalamus with Pituitary community 12
+Accuracy: 0.4056 (0.1244)
+F1 score: 0.0177 (0.0016)
+ROC AUC: 0.4448 (0.0094)
+-- Predicting Brain_Nucleus with Pituitary community 12
+Accuracy: 0.4762 (0.0463)
+F1 score: 0.0241 (0.0029)
+ROC AUC: 0.4714 (0.0197)
+-- Predicting Brain_Putamen with Pituitary community 12
+Accuracy: 0.4166 (0.0142)
+F1 score: 0.0203 (0.0028)
+ROC AUC: 0.4635 (0.0227)
+-- Predicting Brain_Spinal_cord with Pituitary community 12
+Accuracy: 0.4417 (0.0240)
+F1 score: 0.0130 (0.0007)
+ROC AUC: 0.4185 (0.0062)
+-- Predicting Brain_Substantia_nigra with Pituitary community 12
+Accuracy: 0.3497 (0.0637)
+F1 score: 0.0150 (0.0017)
+ROC AUC: 0.4645 (0.0224)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 12
+Accuracy: 0.4492 (0.0608)
+F1 score: 0.0439 (0.0041)
+ROC AUC: 0.4537 (0.0197)
+-- Predicting Cells_Cultured with Pituitary community 12
+Accuracy: 0.5810 (0.0835)
+F1 score: 0.0615 (0.0079)
+ROC AUC: 0.4711 (0.0203)
+-- Predicting Cells_EBV with Pituitary community 12
+Accuracy: 0.4166 (0.0369)
+F1 score: 0.0163 (0.0024)
+ROC AUC: 0.4373 (0.0258)
+-- Predicting Colon_Sigmoid with Pituitary community 12
+Accuracy: 0.5236 (0.0330)
+F1 score: 0.0340 (0.0019)
+ROC AUC: 0.4427 (0.0189)
+-- Predicting Colon_Transverse with Pituitary community 12
+Accuracy: 0.5582 (0.0671)
+F1 score: 0.0396 (0.0041)
+ROC AUC: 0.4541 (0.0149)
+-- Predicting Esophagus_Gastro with Pituitary community 12
+Accuracy: 0.5221 (0.0019)
+F1 score: 0.0351 (0.0015)
+ROC AUC: 0.4433 (0.0043)
+-- Predicting Esophagus_Mucosa with Pituitary community 12
+Accuracy: 0.5152 (0.0463)
+F1 score: 0.0538 (0.0025)
+ROC AUC: 0.4532 (0.0026)
+-- Predicting Esophagus_Muscularis with Pituitary community 12
+Accuracy: 0.6055 (0.0476)
+F1 score: 0.0544 (0.0014)
+ROC AUC: 0.4681 (0.0045)
+-- Predicting Heart_Atrial with Pituitary community 12
+Accuracy: 0.4191 (0.0719)
+F1 score: 0.0409 (0.0036)
+ROC AUC: 0.4460 (0.0238)
+-- Predicting Heart_L_Vent with Pituitary community 12
+Accuracy: 0.5023 (0.0258)
+F1 score: 0.0453 (0.0023)
+ROC AUC: 0.4662 (0.0051)
+-- Predicting Kidney_Cortex with Pituitary community 12
+Accuracy: 0.4749 (0.0497)
+F1 score: 0.0075 (0.0017)
+ROC AUC: 0.4259 (0.0330)
+-- Predicting Liver with Pituitary community 12
+Accuracy: 0.4336 (0.0934)
+F1 score: 0.0232 (0.0037)
+ROC AUC: 0.4356 (0.0164)
+-- Predicting Lung with Pituitary community 12
+Accuracy: 0.4242 (0.0875)
+F1 score: 0.0621 (0.0027)
+ROC AUC: 0.4745 (0.0063)
+-- Predicting Minor_Salivary with Pituitary community 12
+Accuracy: 0.4687 (0.0459)
+F1 score: 0.0151 (0.0004)
+ROC AUC: 0.4260 (0.0173)
+-- Predicting Muscle_Skeletal with Pituitary community 12
+Accuracy: 0.5493 (0.0519)
+F1 score: 0.0772 (0.0057)
+ROC AUC: 0.4614 (0.0159)
+-- Predicting Nerve_Tibial with Pituitary community 12
+Accuracy: 0.4754 (0.0466)
+F1 score: 0.0606 (0.0022)
+ROC AUC: 0.4661 (0.0071)
+-- Predicting Ovary with Pituitary community 12
+Accuracy: 0.4540 (0.0799)
+F1 score: 0.0184 (0.0020)
+ROC AUC: 0.4590 (0.0233)
+-- Predicting Pancreas with Pituitary community 12
+Accuracy: 0.4826 (0.1177)
+F1 score: 0.0355 (0.0025)
+ROC AUC: 0.4552 (0.0100)
+-- Predicting Pituitary with Pituitary community 12
+Accuracy: 0.5115 (0.1392)
+F1 score: 0.0271 (0.0041)
+ROC AUC: 0.4341 (0.0174)
+-- Predicting Prostate with Pituitary community 12
+Accuracy: 0.4100 (0.0536)
+F1 score: 0.0248 (0.0024)
+ROC AUC: 0.4313 (0.0213)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 12
+Accuracy: 0.4829 (0.0669)
+F1 score: 0.0625 (0.0032)
+ROC AUC: 0.4821 (0.0093)
+-- Predicting Skin_Sun_Epsd with Pituitary community 12
+Accuracy: 0.5449 (0.0784)
+F1 score: 0.0688 (0.0045)
+ROC AUC: 0.4707 (0.0060)
+-- Predicting Small_Intestine with Pituitary community 12
+Accuracy: 0.4756 (0.0512)
+F1 score: 0.0178 (0.0022)
+ROC AUC: 0.4280 (0.0236)
+-- Predicting Spleen with Pituitary community 12
+Accuracy: 0.5075 (0.1281)
+F1 score: 0.0272 (0.0019)
+ROC AUC: 0.4751 (0.0113)
+-- Predicting Stomach with Pituitary community 12
+Accuracy: 0.5196 (0.0378)
+F1 score: 0.0349 (0.0029)
+ROC AUC: 0.4603 (0.0173)
+-- Predicting Testis with Pituitary community 12
+Accuracy: 0.5400 (0.1101)
+F1 score: 0.0355 (0.0032)
+ROC AUC: 0.4413 (0.0211)
+-- Predicting Thyroid with Pituitary community 12
+Accuracy: 0.3767 (0.0170)
+F1 score: 0.0702 (0.0031)
+ROC AUC: 0.4790 (0.0057)
+-- Predicting Uterus with Pituitary community 12
+Accuracy: 0.4842 (0.0769)
+F1 score: 0.0142 (0.0008)
+ROC AUC: 0.4192 (0.0151)
+-- Predicting Vagina with Pituitary community 12
+Accuracy: 0.4669 (0.0097)
+F1 score: 0.0153 (0.0012)
+ROC AUC: 0.4496 (0.0048)
+-- Predicting Whole_Blood with Pituitary community 12
+Accuracy: 0.3933 (0.0854)
+F1 score: 0.0808 (0.0024)
+ROC AUC: 0.4653 (0.0128)
+-- Predicting Adipose_Subcutaneous with Pituitary community 13
+Accuracy: 0.2485 (0.1222)
+F1 score: 0.0702 (0.0031)
+ROC AUC: 0.4904 (0.0148)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 13
+Accuracy: 0.2777 (0.1583)
+F1 score: 0.0572 (0.0038)
+ROC AUC: 0.4796 (0.0107)
+-- Predicting Adrenal_Gland with Pituitary community 13
+Accuracy: 0.3339 (0.0478)
+F1 score: 0.0268 (0.0049)
+ROC AUC: 0.4595 (0.0252)
+-- Predicting Artery_Aorta with Pituitary community 13
+Accuracy: 0.1992 (0.1000)
+F1 score: 0.0514 (0.0023)
+ROC AUC: 0.4882 (0.0091)
+-- Predicting Artery_Coronary with Pituitary community 13
+Accuracy: 0.2679 (0.0957)
+F1 score: 0.0278 (0.0003)
+ROC AUC: 0.4603 (0.0202)
+-- Predicting Artery_Tibial with Pituitary community 13
+Accuracy: 0.1763 (0.1207)
+F1 score: 0.0768 (0.0005)
+ROC AUC: 0.4892 (0.0066)
+-- Predicting Brain_Amygdala with Pituitary community 13
+Accuracy: 0.2159 (0.0741)
+F1 score: 0.0180 (0.0005)
+ROC AUC: 0.4692 (0.0100)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 13
+Accuracy: 0.3637 (0.0697)
+F1 score: 0.0156 (0.0005)
+ROC AUC: 0.4266 (0.0108)
+-- Predicting Brain_Caudate with Pituitary community 13
+Accuracy: 0.3598 (0.1028)
+F1 score: 0.0239 (0.0036)
+ROC AUC: 0.4692 (0.0262)
+-- Predicting Brain_Cerebellar with Pituitary community 13
+Accuracy: 0.5632 (0.1052)
+F1 score: 0.0178 (0.0061)
+ROC AUC: 0.3984 (0.0415)
+-- Predicting Brain_Cerebellum with Pituitary community 13
+Accuracy: 0.5880 (0.0784)
+F1 score: 0.0275 (0.0047)
+ROC AUC: 0.4584 (0.0059)
+-- Predicting Brain_Cortex with Pituitary community 13
+Accuracy: 0.3948 (0.0910)
+F1 score: 0.0226 (0.0009)
+ROC AUC: 0.4280 (0.0100)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 13
+Accuracy: 0.3689 (0.0904)
+F1 score: 0.0186 (0.0028)
+ROC AUC: 0.4317 (0.0205)
+-- Predicting Brain_Hippocampus with Pituitary community 13
+Accuracy: 0.2585 (0.1303)
+F1 score: 0.0229 (0.0019)
+ROC AUC: 0.4869 (0.0165)
+-- Predicting Brain_Hypothalamus with Pituitary community 13
+Accuracy: 0.2381 (0.1622)
+F1 score: 0.0214 (0.0019)
+ROC AUC: 0.4846 (0.0212)
+-- Predicting Brain_Nucleus with Pituitary community 13
+Accuracy: 0.3561 (0.2251)
+F1 score: 0.0249 (0.0013)
+ROC AUC: 0.4774 (0.0086)
+-- Predicting Brain_Putamen with Pituitary community 13
+Accuracy: 0.3046 (0.1026)
+F1 score: 0.0213 (0.0010)
+ROC AUC: 0.4768 (0.0259)
+-- Predicting Brain_Spinal_cord with Pituitary community 13
+Accuracy: 0.2671 (0.1725)
+F1 score: 0.0156 (0.0017)
+ROC AUC: 0.4586 (0.0360)
+-- Predicting Brain_Substantia_nigra with Pituitary community 13
+Accuracy: 0.2110 (0.1193)
+F1 score: 0.0155 (0.0006)
+ROC AUC: 0.4675 (0.0240)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 13
+Accuracy: 0.2348 (0.0555)
+F1 score: 0.0486 (0.0026)
+ROC AUC: 0.4878 (0.0345)
+-- Predicting Cells_Cultured with Pituitary community 13
+Accuracy: 0.9984 (0.0006)
+F1 score: 0.9748 (0.0084)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Pituitary community 13
+Accuracy: 0.3164 (0.1624)
+F1 score: 0.0151 (0.0020)
+ROC AUC: 0.4256 (0.0193)
+-- Predicting Colon_Sigmoid with Pituitary community 13
+Accuracy: 0.2719 (0.1492)
+F1 score: 0.0334 (0.0056)
+ROC AUC: 0.4355 (0.0319)
+-- Predicting Colon_Transverse with Pituitary community 13
+Accuracy: 0.2239 (0.1379)
+F1 score: 0.0431 (0.0047)
+ROC AUC: 0.4568 (0.0293)
+-- Predicting Esophagus_Gastro with Pituitary community 13
+Accuracy: 0.3492 (0.0727)
+F1 score: 0.0352 (0.0056)
+ROC AUC: 0.4317 (0.0318)
+-- Predicting Esophagus_Mucosa with Pituitary community 13
+Accuracy: 0.2433 (0.1810)
+F1 score: 0.0576 (0.0067)
+ROC AUC: 0.4604 (0.0150)
+-- Predicting Esophagus_Muscularis with Pituitary community 13
+Accuracy: 0.2922 (0.1256)
+F1 score: 0.0522 (0.0008)
+ROC AUC: 0.4626 (0.0301)
+-- Predicting Heart_Atrial with Pituitary community 13
+Accuracy: 0.4388 (0.1206)
+F1 score: 0.0401 (0.0020)
+ROC AUC: 0.4340 (0.0236)
+-- Predicting Heart_L_Vent with Pituitary community 13
+Accuracy: 0.2129 (0.1356)
+F1 score: 0.0448 (0.0033)
+ROC AUC: 0.4581 (0.0207)
+-- Predicting Kidney_Cortex with Pituitary community 13
+Accuracy: 0.4982 (0.0725)
+F1 score: 0.0070 (0.0002)
+ROC AUC: 0.3962 (0.0229)
+-- Predicting Liver with Pituitary community 13
+Accuracy: 0.2609 (0.1775)
+F1 score: 0.0256 (0.0030)
+ROC AUC: 0.4470 (0.0224)
+-- Predicting Lung with Pituitary community 13
+Accuracy: 0.1687 (0.1029)
+F1 score: 0.0622 (0.0026)
+ROC AUC: 0.4588 (0.0308)
+-- Predicting Minor_Salivary with Pituitary community 13
+Accuracy: 0.4304 (0.0688)
+F1 score: 0.0143 (0.0040)
+ROC AUC: 0.4132 (0.0363)
+-- Predicting Muscle_Skeletal with Pituitary community 13
+Accuracy: 0.2136 (0.1509)
+F1 score: 0.0837 (0.0010)
+ROC AUC: 0.4901 (0.0193)
+-- Predicting Nerve_Tibial with Pituitary community 13
+Accuracy: 0.1955 (0.1529)
+F1 score: 0.0655 (0.0053)
+ROC AUC: 0.4574 (0.0218)
+-- Predicting Ovary with Pituitary community 13
+Accuracy: 0.2952 (0.1174)
+F1 score: 0.0184 (0.0018)
+ROC AUC: 0.4290 (0.0248)
+-- Predicting Pancreas with Pituitary community 13
+Accuracy: 0.1819 (0.0983)
+F1 score: 0.0369 (0.0007)
+ROC AUC: 0.4743 (0.0210)
+-- Predicting Pituitary with Pituitary community 13
+Accuracy: 0.1916 (0.0972)
+F1 score: 0.0308 (0.0005)
+ROC AUC: 0.4708 (0.0308)
+-- Predicting Prostate with Pituitary community 13
+Accuracy: 0.3062 (0.1649)
+F1 score: 0.0263 (0.0005)
+ROC AUC: 0.4663 (0.0117)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 13
+Accuracy: 0.2310 (0.1295)
+F1 score: 0.0582 (0.0042)
+ROC AUC: 0.4447 (0.0282)
+-- Predicting Skin_Sun_Epsd with Pituitary community 13
+Accuracy: 0.2214 (0.1637)
+F1 score: 0.0729 (0.0009)
+ROC AUC: 0.4914 (0.0044)
+-- Predicting Small_Intestine with Pituitary community 13
+Accuracy: 0.2020 (0.1335)
+F1 score: 0.0223 (0.0016)
+ROC AUC: 0.4638 (0.0363)
+-- Predicting Spleen with Pituitary community 13
+Accuracy: 0.2452 (0.0864)
+F1 score: 0.0284 (0.0011)
+ROC AUC: 0.4334 (0.0109)
+-- Predicting Stomach with Pituitary community 13
+Accuracy: 0.2852 (0.1064)
+F1 score: 0.0369 (0.0042)
+ROC AUC: 0.4302 (0.0291)
+-- Predicting Testis with Pituitary community 13
+Accuracy: 0.3414 (0.1564)
+F1 score: 0.0382 (0.0035)
+ROC AUC: 0.4762 (0.0248)
+-- Predicting Thyroid with Pituitary community 13
+Accuracy: 0.1972 (0.1431)
+F1 score: 0.0698 (0.0054)
+ROC AUC: 0.4643 (0.0271)
+-- Predicting Uterus with Pituitary community 13
+Accuracy: 0.3683 (0.0808)
+F1 score: 0.0152 (0.0013)
+ROC AUC: 0.4441 (0.0050)
+-- Predicting Vagina with Pituitary community 13
+Accuracy: 0.3224 (0.1322)
+F1 score: 0.0153 (0.0038)
+ROC AUC: 0.4066 (0.0418)
+-- Predicting Whole_Blood with Pituitary community 13
+Accuracy: 0.1618 (0.1083)
+F1 score: 0.0895 (0.0022)
+ROC AUC: 0.4848 (0.0080)
+-- Predicting Adipose_Subcutaneous with Pituitary community 14
+Accuracy: 0.2751 (0.2682)
+F1 score: 0.0748 (0.0049)
+ROC AUC: 0.5246 (0.0202)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 14
+Accuracy: 0.2830 (0.2904)
+F1 score: 0.0641 (0.0078)
+ROC AUC: 0.5315 (0.0266)
+-- Predicting Adrenal_Gland with Pituitary community 14
+Accuracy: 0.2070 (0.1976)
+F1 score: 0.0299 (0.0007)
+ROC AUC: 0.4777 (0.0288)
+-- Predicting Artery_Aorta with Pituitary community 14
+Accuracy: 0.1677 (0.1306)
+F1 score: 0.0477 (0.0037)
+ROC AUC: 0.4610 (0.0355)
+-- Predicting Artery_Coronary with Pituitary community 14
+Accuracy: 0.2721 (0.2714)
+F1 score: 0.0285 (0.0011)
+ROC AUC: 0.5232 (0.0233)
+-- Predicting Artery_Tibial with Pituitary community 14
+Accuracy: 0.2227 (0.1942)
+F1 score: 0.0713 (0.0052)
+ROC AUC: 0.4571 (0.0208)
+-- Predicting Brain_Amygdala with Pituitary community 14
+Accuracy: 0.9284 (0.0998)
+F1 score: 0.6553 (0.4119)
+ROC AUC: 0.9660 (0.0480)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 14
+Accuracy: 0.2431 (0.2371)
+F1 score: 0.0201 (0.0009)
+ROC AUC: 0.5188 (0.0437)
+-- Predicting Brain_Caudate with Pituitary community 14
+Accuracy: 0.9327 (0.0938)
+F1 score: 0.6799 (0.4007)
+ROC AUC: 0.9667 (0.0470)
+-- Predicting Brain_Cerebellar with Pituitary community 14
+Accuracy: 0.2423 (0.2419)
+F1 score: 0.0234 (0.0006)
+ROC AUC: 0.5232 (0.0328)
+-- Predicting Brain_Cerebellum with Pituitary community 14
+Accuracy: 0.2234 (0.2189)
+F1 score: 0.0296 (0.0028)
+ROC AUC: 0.5297 (0.0459)
+-- Predicting Brain_Cortex with Pituitary community 14
+Accuracy: 0.2300 (0.2299)
+F1 score: 0.0279 (0.0016)
+ROC AUC: 0.5351 (0.0523)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 14
+Accuracy: 0.9315 (0.0955)
+F1 score: 0.6737 (0.4043)
+ROC AUC: 0.9654 (0.0488)
+-- Predicting Brain_Hippocampus with Pituitary community 14
+Accuracy: 0.9308 (0.0965)
+F1 score: 0.6699 (0.4067)
+ROC AUC: 0.9629 (0.0524)
+-- Predicting Brain_Hypothalamus with Pituitary community 14
+Accuracy: 0.9311 (0.0960)
+F1 score: 0.6717 (0.4054)
+ROC AUC: 0.9638 (0.0512)
+-- Predicting Brain_Nucleus with Pituitary community 14
+Accuracy: 0.9332 (0.0930)
+F1 score: 0.6827 (0.3988)
+ROC AUC: 0.9651 (0.0494)
+-- Predicting Brain_Putamen with Pituitary community 14
+Accuracy: 0.9311 (0.0960)
+F1 score: 0.6717 (0.4054)
+ROC AUC: 0.9643 (0.0504)
+-- Predicting Brain_Spinal_cord with Pituitary community 14
+Accuracy: 0.2493 (0.2317)
+F1 score: 0.0171 (0.0014)
+ROC AUC: 0.5100 (0.0463)
+-- Predicting Brain_Substantia_nigra with Pituitary community 14
+Accuracy: 0.2634 (0.2909)
+F1 score: 0.0143 (0.0016)
+ROC AUC: 0.5143 (0.0157)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 14
+Accuracy: 0.2401 (0.2291)
+F1 score: 0.0535 (0.0043)
+ROC AUC: 0.5251 (0.0416)
+-- Predicting Cells_Cultured with Pituitary community 14
+Accuracy: 0.2097 (0.1932)
+F1 score: 0.0680 (0.0063)
+ROC AUC: 0.5211 (0.0279)
+-- Predicting Cells_EBV with Pituitary community 14
+Accuracy: 0.2410 (0.2670)
+F1 score: 0.0178 (0.0025)
+ROC AUC: 0.5348 (0.0199)
+-- Predicting Colon_Sigmoid with Pituitary community 14
+Accuracy: 0.2578 (0.2554)
+F1 score: 0.0420 (0.0034)
+ROC AUC: 0.5344 (0.0227)
+-- Predicting Colon_Transverse with Pituitary community 14
+Accuracy: 0.2569 (0.2154)
+F1 score: 0.0433 (0.0062)
+ROC AUC: 0.4639 (0.0154)
+-- Predicting Esophagus_Gastro with Pituitary community 14
+Accuracy: 0.2437 (0.2401)
+F1 score: 0.0439 (0.0022)
+ROC AUC: 0.5285 (0.0306)
+-- Predicting Esophagus_Mucosa with Pituitary community 14
+Accuracy: 0.2661 (0.2601)
+F1 score: 0.0639 (0.0012)
+ROC AUC: 0.5362 (0.0324)
+-- Predicting Esophagus_Muscularis with Pituitary community 14
+Accuracy: 0.1790 (0.1047)
+F1 score: 0.0531 (0.0077)
+ROC AUC: 0.4209 (0.0518)
+-- Predicting Heart_Atrial with Pituitary community 14
+Accuracy: 0.2486 (0.2504)
+F1 score: 0.0496 (0.0029)
+ROC AUC: 0.5349 (0.0288)
+-- Predicting Heart_L_Vent with Pituitary community 14
+Accuracy: 0.1924 (0.1482)
+F1 score: 0.0436 (0.0071)
+ROC AUC: 0.4570 (0.0533)
+-- Predicting Kidney_Cortex with Pituitary community 14
+Accuracy: 0.2582 (0.2168)
+F1 score: 0.0095 (0.0005)
+ROC AUC: 0.5164 (0.0469)
+-- Predicting Liver with Pituitary community 14
+Accuracy: 0.1754 (0.1465)
+F1 score: 0.0239 (0.0032)
+ROC AUC: 0.4214 (0.0577)
+-- Predicting Lung with Pituitary community 14
+Accuracy: 0.2521 (0.2384)
+F1 score: 0.0699 (0.0035)
+ROC AUC: 0.5385 (0.0382)
+-- Predicting Minor_Salivary with Pituitary community 14
+Accuracy: 0.2427 (0.2267)
+F1 score: 0.0181 (0.0009)
+ROC AUC: 0.4554 (0.0250)
+-- Predicting Muscle_Skeletal with Pituitary community 14
+Accuracy: 0.2248 (0.1889)
+F1 score: 0.0962 (0.0075)
+ROC AUC: 0.5348 (0.0489)
+-- Predicting Nerve_Tibial with Pituitary community 14
+Accuracy: 0.2624 (0.2611)
+F1 score: 0.0722 (0.0049)
+ROC AUC: 0.5366 (0.0491)
+-- Predicting Ovary with Pituitary community 14
+Accuracy: 0.2013 (0.1588)
+F1 score: 0.0188 (0.0039)
+ROC AUC: 0.4425 (0.0488)
+-- Predicting Pancreas with Pituitary community 14
+Accuracy: 0.3174 (0.3183)
+F1 score: 0.0453 (0.0097)
+ROC AUC: 0.4950 (0.0224)
+-- Predicting Pituitary with Pituitary community 14
+Accuracy: 0.2079 (0.2020)
+F1 score: 0.0322 (0.0028)
+ROC AUC: 0.5446 (0.0305)
+-- Predicting Prostate with Pituitary community 14
+Accuracy: 0.2875 (0.2968)
+F1 score: 0.0294 (0.0014)
+ROC AUC: 0.4664 (0.0181)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 14
+Accuracy: 0.2587 (0.2542)
+F1 score: 0.0680 (0.0016)
+ROC AUC: 0.5369 (0.0378)
+-- Predicting Skin_Sun_Epsd with Pituitary community 14
+Accuracy: 0.2624 (0.2508)
+F1 score: 0.0765 (0.0009)
+ROC AUC: 0.5315 (0.0355)
+-- Predicting Small_Intestine with Pituitary community 14
+Accuracy: 0.2382 (0.1923)
+F1 score: 0.0197 (0.0044)
+ROC AUC: 0.4427 (0.0446)
+-- Predicting Spleen with Pituitary community 14
+Accuracy: 0.2850 (0.2962)
+F1 score: 0.0307 (0.0038)
+ROC AUC: 0.5291 (0.0275)
+-- Predicting Stomach with Pituitary community 14
+Accuracy: 0.1564 (0.0861)
+F1 score: 0.0446 (0.0030)
+ROC AUC: 0.4938 (0.0158)
+-- Predicting Testis with Pituitary community 14
+Accuracy: 0.2191 (0.1922)
+F1 score: 0.0338 (0.0078)
+ROC AUC: 0.4365 (0.0679)
+-- Predicting Thyroid with Pituitary community 14
+Accuracy: 0.2730 (0.2706)
+F1 score: 0.0740 (0.0018)
+ROC AUC: 0.5305 (0.0324)
+-- Predicting Uterus with Pituitary community 14
+Accuracy: 0.2757 (0.1833)
+F1 score: 0.0171 (0.0023)
+ROC AUC: 0.4926 (0.0525)
+-- Predicting Vagina with Pituitary community 14
+Accuracy: 0.1995 (0.1701)
+F1 score: 0.0164 (0.0033)
+ROC AUC: 0.4440 (0.0404)
+-- Predicting Whole_Blood with Pituitary community 14
+Accuracy: 0.1896 (0.1361)
+F1 score: 0.0810 (0.0065)
+ROC AUC: 0.4586 (0.0318)
+-- Predicting Adipose_Subcutaneous with Pituitary community 15
+Accuracy: 0.5203 (0.0505)
+F1 score: 0.0596 (0.0032)
+ROC AUC: 0.4391 (0.0109)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 15
+Accuracy: 0.5102 (0.0320)
+F1 score: 0.0490 (0.0004)
+ROC AUC: 0.4295 (0.0076)
+-- Predicting Adrenal_Gland with Pituitary community 15
+Accuracy: 0.6463 (0.0592)
+F1 score: 0.0215 (0.0020)
+ROC AUC: 0.3747 (0.0219)
+-- Predicting Artery_Aorta with Pituitary community 15
+Accuracy: 0.4777 (0.0702)
+F1 score: 0.0414 (0.0026)
+ROC AUC: 0.4284 (0.0057)
+-- Predicting Artery_Coronary with Pituitary community 15
+Accuracy: 0.4698 (0.0361)
+F1 score: 0.0187 (0.0015)
+ROC AUC: 0.4024 (0.0164)
+-- Predicting Artery_Tibial with Pituitary community 15
+Accuracy: 0.4645 (0.0451)
+F1 score: 0.0599 (0.0077)
+ROC AUC: 0.4387 (0.0144)
+-- Predicting Brain_Amygdala with Pituitary community 15
+Accuracy: 0.5316 (0.0433)
+F1 score: 0.0113 (0.0021)
+ROC AUC: 0.3637 (0.0204)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 15
+Accuracy: 0.5167 (0.0616)
+F1 score: 0.0119 (0.0011)
+ROC AUC: 0.3613 (0.0300)
+-- Predicting Brain_Caudate with Pituitary community 15
+Accuracy: 0.5578 (0.0440)
+F1 score: 0.0193 (0.0029)
+ROC AUC: 0.3989 (0.0220)
+-- Predicting Brain_Cerebellar with Pituitary community 15
+Accuracy: 0.5302 (0.0290)
+F1 score: 0.0133 (0.0005)
+ROC AUC: 0.3720 (0.0115)
+-- Predicting Brain_Cerebellum with Pituitary community 15
+Accuracy: 0.4596 (0.0331)
+F1 score: 0.0202 (0.0010)
+ROC AUC: 0.4048 (0.0121)
+-- Predicting Brain_Cortex with Pituitary community 15
+Accuracy: 0.4516 (0.0387)
+F1 score: 0.0216 (0.0008)
+ROC AUC: 0.4180 (0.0101)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 15
+Accuracy: 0.5094 (0.0394)
+F1 score: 0.0163 (0.0007)
+ROC AUC: 0.3967 (0.0123)
+-- Predicting Brain_Hippocampus with Pituitary community 15
+Accuracy: 0.5690 (0.0869)
+F1 score: 0.0118 (0.0032)
+ROC AUC: 0.3436 (0.0296)
+-- Predicting Brain_Hypothalamus with Pituitary community 15
+Accuracy: 0.4900 (0.0407)
+F1 score: 0.0146 (0.0015)
+ROC AUC: 0.3842 (0.0044)
+-- Predicting Brain_Nucleus with Pituitary community 15
+Accuracy: 0.5520 (0.0243)
+F1 score: 0.0175 (0.0019)
+ROC AUC: 0.3787 (0.0080)
+-- Predicting Brain_Putamen with Pituitary community 15
+Accuracy: 0.6148 (0.0171)
+F1 score: 0.0121 (0.0006)
+ROC AUC: 0.3303 (0.0256)
+-- Predicting Brain_Spinal_cord with Pituitary community 15
+Accuracy: 0.4917 (0.0581)
+F1 score: 0.0110 (0.0022)
+ROC AUC: 0.3863 (0.0061)
+-- Predicting Brain_Substantia_nigra with Pituitary community 15
+Accuracy: 0.5112 (0.0248)
+F1 score: 0.0104 (0.0013)
+ROC AUC: 0.3727 (0.0178)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 15
+Accuracy: 0.4946 (0.0646)
+F1 score: 0.0362 (0.0081)
+ROC AUC: 0.4157 (0.0225)
+-- Predicting Cells_Cultured with Pituitary community 15
+Accuracy: 0.4092 (0.0242)
+F1 score: 0.0527 (0.0031)
+ROC AUC: 0.4397 (0.0077)
+-- Predicting Cells_EBV with Pituitary community 15
+Accuracy: 0.4827 (0.0204)
+F1 score: 0.0128 (0.0018)
+ROC AUC: 0.3841 (0.0150)
+-- Predicting Colon_Sigmoid with Pituitary community 15
+Accuracy: 0.4280 (0.0691)
+F1 score: 0.0317 (0.0028)
+ROC AUC: 0.4141 (0.0074)
+-- Predicting Colon_Transverse with Pituitary community 15
+Accuracy: 0.4976 (0.1023)
+F1 score: 0.0370 (0.0065)
+ROC AUC: 0.4236 (0.0167)
+-- Predicting Esophagus_Gastro with Pituitary community 15
+Accuracy: 0.4958 (0.0801)
+F1 score: 0.0316 (0.0025)
+ROC AUC: 0.4102 (0.0066)
+-- Predicting Esophagus_Mucosa with Pituitary community 15
+Accuracy: 0.4816 (0.0146)
+F1 score: 0.0438 (0.0048)
+ROC AUC: 0.3993 (0.0097)
+-- Predicting Esophagus_Muscularis with Pituitary community 15
+Accuracy: 0.4378 (0.0225)
+F1 score: 0.0453 (0.0011)
+ROC AUC: 0.4240 (0.0140)
+-- Predicting Heart_Atrial with Pituitary community 15
+Accuracy: 0.5285 (0.0493)
+F1 score: 0.0336 (0.0014)
+ROC AUC: 0.3979 (0.0150)
+-- Predicting Heart_L_Vent with Pituitary community 15
+Accuracy: 0.4504 (0.0428)
+F1 score: 0.0398 (0.0021)
+ROC AUC: 0.4210 (0.0027)
+-- Predicting Kidney_Cortex with Pituitary community 15
+Accuracy: 0.5321 (0.0247)
+F1 score: 0.0059 (0.0004)
+ROC AUC: 0.3216 (0.0118)
+-- Predicting Liver with Pituitary community 15
+Accuracy: 0.4640 (0.0643)
+F1 score: 0.0178 (0.0020)
+ROC AUC: 0.4012 (0.0095)
+-- Predicting Lung with Pituitary community 15
+Accuracy: 0.5913 (0.1290)
+F1 score: 0.0558 (0.0029)
+ROC AUC: 0.4152 (0.0084)
+-- Predicting Minor_Salivary with Pituitary community 15
+Accuracy: 0.4711 (0.0565)
+F1 score: 0.0115 (0.0010)
+ROC AUC: 0.3954 (0.0074)
+-- Predicting Muscle_Skeletal with Pituitary community 15
+Accuracy: 0.4663 (0.0288)
+F1 score: 0.0673 (0.0082)
+ROC AUC: 0.4380 (0.0164)
+-- Predicting Nerve_Tibial with Pituitary community 15
+Accuracy: 0.4698 (0.0376)
+F1 score: 0.0553 (0.0046)
+ROC AUC: 0.4382 (0.0243)
+-- Predicting Ovary with Pituitary community 15
+Accuracy: 0.4627 (0.0194)
+F1 score: 0.0135 (0.0006)
+ROC AUC: 0.3782 (0.0110)
+-- Predicting Pancreas with Pituitary community 15
+Accuracy: 0.5167 (0.0271)
+F1 score: 0.0305 (0.0022)
+ROC AUC: 0.4097 (0.0039)
+-- Predicting Pituitary with Pituitary community 15
+Accuracy: 0.5523 (0.0451)
+F1 score: 0.0195 (0.0013)
+ROC AUC: 0.3812 (0.0151)
+-- Predicting Prostate with Pituitary community 15
+Accuracy: 0.6692 (0.1192)
+F1 score: 0.0235 (0.0015)
+ROC AUC: 0.3844 (0.0517)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 15
+Accuracy: 0.5480 (0.0729)
+F1 score: 0.0516 (0.0046)
+ROC AUC: 0.4246 (0.0055)
+-- Predicting Skin_Sun_Epsd with Pituitary community 15
+Accuracy: 0.4658 (0.0887)
+F1 score: 0.0618 (0.0031)
+ROC AUC: 0.4354 (0.0122)
+-- Predicting Small_Intestine with Pituitary community 15
+Accuracy: 0.5429 (0.0484)
+F1 score: 0.0170 (0.0022)
+ROC AUC: 0.3992 (0.0216)
+-- Predicting Spleen with Pituitary community 15
+Accuracy: 0.5252 (0.0123)
+F1 score: 0.0219 (0.0016)
+ROC AUC: 0.3968 (0.0056)
+-- Predicting Stomach with Pituitary community 15
+Accuracy: 0.5702 (0.0669)
+F1 score: 0.0307 (0.0022)
+ROC AUC: 0.4040 (0.0180)
+-- Predicting Testis with Pituitary community 15
+Accuracy: 0.7030 (0.0236)
+F1 score: 0.0337 (0.0058)
+ROC AUC: 0.3949 (0.0232)
+-- Predicting Thyroid with Pituitary community 15
+Accuracy: 0.4916 (0.0525)
+F1 score: 0.0612 (0.0034)
+ROC AUC: 0.4461 (0.0036)
+-- Predicting Uterus with Pituitary community 15
+Accuracy: 0.5096 (0.0547)
+F1 score: 0.0098 (0.0032)
+ROC AUC: 0.3547 (0.0235)
+-- Predicting Vagina with Pituitary community 15
+Accuracy: 0.5297 (0.0419)
+F1 score: 0.0094 (0.0010)
+ROC AUC: 0.3262 (0.0095)
+-- Predicting Whole_Blood with Pituitary community 15
+Accuracy: 0.4466 (0.0201)
+F1 score: 0.0637 (0.0039)
+ROC AUC: 0.4217 (0.0104)
+-- Predicting Adipose_Subcutaneous with Pituitary community 16
+Accuracy: 0.1307 (0.0589)
+F1 score: 0.0789 (0.0034)
+ROC AUC: 0.5317 (0.0364)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 16
+Accuracy: 0.1351 (0.0694)
+F1 score: 0.0650 (0.0030)
+ROC AUC: 0.5226 (0.0153)
+-- Predicting Adrenal_Gland with Pituitary community 16
+Accuracy: 0.0994 (0.0389)
+F1 score: 0.0330 (0.0012)
+ROC AUC: 0.5242 (0.0233)
+-- Predicting Artery_Aorta with Pituitary community 16
+Accuracy: 0.1167 (0.0432)
+F1 score: 0.0537 (0.0027)
+ROC AUC: 0.5219 (0.0405)
+-- Predicting Artery_Coronary with Pituitary community 16
+Accuracy: 0.1878 (0.0947)
+F1 score: 0.0284 (0.0008)
+ROC AUC: 0.5108 (0.0325)
+-- Predicting Artery_Tibial with Pituitary community 16
+Accuracy: 0.1261 (0.0520)
+F1 score: 0.0797 (0.0048)
+ROC AUC: 0.5278 (0.0305)
+-- Predicting Brain_Amygdala with Pituitary community 16
+Accuracy: 0.3004 (0.1313)
+F1 score: 0.0156 (0.0009)
+ROC AUC: 0.4859 (0.0335)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 16
+Accuracy: 0.2283 (0.1956)
+F1 score: 0.0176 (0.0009)
+ROC AUC: 0.4952 (0.0184)
+-- Predicting Brain_Caudate with Pituitary community 16
+Accuracy: 0.2995 (0.1779)
+F1 score: 0.0232 (0.0030)
+ROC AUC: 0.4809 (0.0281)
+-- Predicting Brain_Cerebellar with Pituitary community 16
+Accuracy: 0.1634 (0.1331)
+F1 score: 0.0233 (0.0013)
+ROC AUC: 0.5101 (0.0191)
+-- Predicting Brain_Cerebellum with Pituitary community 16
+Accuracy: 0.1145 (0.0321)
+F1 score: 0.0287 (0.0010)
+ROC AUC: 0.5289 (0.0239)
+-- Predicting Brain_Cortex with Pituitary community 16
+Accuracy: 0.2259 (0.1790)
+F1 score: 0.0265 (0.0026)
+ROC AUC: 0.5039 (0.0070)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 16
+Accuracy: 0.2600 (0.2037)
+F1 score: 0.0222 (0.0003)
+ROC AUC: 0.5034 (0.0191)
+-- Predicting Brain_Hippocampus with Pituitary community 16
+Accuracy: 0.2161 (0.1867)
+F1 score: 0.0219 (0.0004)
+ROC AUC: 0.4979 (0.0121)
+-- Predicting Brain_Hypothalamus with Pituitary community 16
+Accuracy: 0.2334 (0.1438)
+F1 score: 0.0229 (0.0016)
+ROC AUC: 0.5061 (0.0269)
+-- Predicting Brain_Nucleus with Pituitary community 16
+Accuracy: 0.1916 (0.1440)
+F1 score: 0.0277 (0.0002)
+ROC AUC: 0.5017 (0.0392)
+-- Predicting Brain_Putamen with Pituitary community 16
+Accuracy: 0.1953 (0.1635)
+F1 score: 0.0236 (0.0006)
+ROC AUC: 0.5171 (0.0128)
+-- Predicting Brain_Spinal_cord with Pituitary community 16
+Accuracy: 0.1714 (0.0793)
+F1 score: 0.0170 (0.0004)
+ROC AUC: 0.5009 (0.0280)
+-- Predicting Brain_Substantia_nigra with Pituitary community 16
+Accuracy: 0.2403 (0.2242)
+F1 score: 0.0139 (0.0011)
+ROC AUC: 0.5122 (0.0322)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 16
+Accuracy: 0.1192 (0.0517)
+F1 score: 0.0555 (0.0033)
+ROC AUC: 0.5243 (0.0205)
+-- Predicting Cells_Cultured with Pituitary community 16
+Accuracy: 0.9558 (0.0622)
+F1 score: 0.7728 (0.3169)
+ROC AUC: 0.9766 (0.0331)
+-- Predicting Cells_EBV with Pituitary community 16
+Accuracy: 0.2030 (0.1868)
+F1 score: 0.0187 (0.0013)
+ROC AUC: 0.5056 (0.0285)
+-- Predicting Colon_Sigmoid with Pituitary community 16
+Accuracy: 0.1469 (0.1023)
+F1 score: 0.0442 (0.0022)
+ROC AUC: 0.5137 (0.0306)
+-- Predicting Colon_Transverse with Pituitary community 16
+Accuracy: 0.1236 (0.0770)
+F1 score: 0.0524 (0.0039)
+ROC AUC: 0.5313 (0.0180)
+-- Predicting Esophagus_Gastro with Pituitary community 16
+Accuracy: 0.1526 (0.1075)
+F1 score: 0.0453 (0.0019)
+ROC AUC: 0.5153 (0.0459)
+-- Predicting Esophagus_Mucosa with Pituitary community 16
+Accuracy: 0.1226 (0.0574)
+F1 score: 0.0689 (0.0037)
+ROC AUC: 0.5239 (0.0303)
+-- Predicting Esophagus_Muscularis with Pituitary community 16
+Accuracy: 0.1278 (0.0672)
+F1 score: 0.0643 (0.0036)
+ROC AUC: 0.5210 (0.0458)
+-- Predicting Heart_Atrial with Pituitary community 16
+Accuracy: 0.1147 (0.0644)
+F1 score: 0.0522 (0.0032)
+ROC AUC: 0.5316 (0.0179)
+-- Predicting Heart_L_Vent with Pituitary community 16
+Accuracy: 0.1113 (0.0601)
+F1 score: 0.0537 (0.0031)
+ROC AUC: 0.5438 (0.0189)
+-- Predicting Kidney_Cortex with Pituitary community 16
+Accuracy: 0.5375 (0.0628)
+F1 score: 0.0069 (0.0008)
+ROC AUC: 0.4005 (0.0462)
+-- Predicting Liver with Pituitary community 16
+Accuracy: 0.2013 (0.1775)
+F1 score: 0.0276 (0.0017)
+ROC AUC: 0.5092 (0.0210)
+-- Predicting Lung with Pituitary community 16
+Accuracy: 0.1186 (0.0569)
+F1 score: 0.0709 (0.0041)
+ROC AUC: 0.5424 (0.0320)
+-- Predicting Minor_Salivary with Pituitary community 16
+Accuracy: 0.2039 (0.1688)
+F1 score: 0.0191 (0.0012)
+ROC AUC: 0.4956 (0.0117)
+-- Predicting Muscle_Skeletal with Pituitary community 16
+Accuracy: 0.1278 (0.0548)
+F1 score: 0.0959 (0.0051)
+ROC AUC: 0.5435 (0.0243)
+-- Predicting Nerve_Tibial with Pituitary community 16
+Accuracy: 0.1200 (0.0589)
+F1 score: 0.0738 (0.0045)
+ROC AUC: 0.5354 (0.0311)
+-- Predicting Ovary with Pituitary community 16
+Accuracy: 0.1540 (0.1030)
+F1 score: 0.0229 (0.0011)
+ROC AUC: 0.5161 (0.0129)
+-- Predicting Pancreas with Pituitary community 16
+Accuracy: 0.1110 (0.0596)
+F1 score: 0.0419 (0.0016)
+ROC AUC: 0.5348 (0.0154)
+-- Predicting Pituitary with Pituitary community 16
+Accuracy: 0.1112 (0.0637)
+F1 score: 0.0341 (0.0023)
+ROC AUC: 0.5279 (0.0321)
+-- Predicting Prostate with Pituitary community 16
+Accuracy: 0.1426 (0.1113)
+F1 score: 0.0313 (0.0020)
+ROC AUC: 0.5319 (0.0194)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 16
+Accuracy: 0.1338 (0.0662)
+F1 score: 0.0689 (0.0029)
+ROC AUC: 0.5289 (0.0238)
+-- Predicting Skin_Sun_Epsd with Pituitary community 16
+Accuracy: 0.1249 (0.0540)
+F1 score: 0.0825 (0.0041)
+ROC AUC: 0.5384 (0.0455)
+-- Predicting Small_Intestine with Pituitary community 16
+Accuracy: 0.2300 (0.1024)
+F1 score: 0.0228 (0.0011)
+ROC AUC: 0.4791 (0.0438)
+-- Predicting Spleen with Pituitary community 16
+Accuracy: 0.1108 (0.0634)
+F1 score: 0.0318 (0.0020)
+ROC AUC: 0.5286 (0.0251)
+-- Predicting Stomach with Pituitary community 16
+Accuracy: 0.1335 (0.0924)
+F1 score: 0.0458 (0.0030)
+ROC AUC: 0.5235 (0.0225)
+-- Predicting Testis with Pituitary community 16
+Accuracy: 0.1511 (0.0915)
+F1 score: 0.0443 (0.0026)
+ROC AUC: 0.5115 (0.0594)
+-- Predicting Thyroid with Pituitary community 16
+Accuracy: 0.1212 (0.0556)
+F1 score: 0.0794 (0.0044)
+ROC AUC: 0.5326 (0.0225)
+-- Predicting Uterus with Pituitary community 16
+Accuracy: 0.1260 (0.0830)
+F1 score: 0.0175 (0.0005)
+ROC AUC: 0.5340 (0.0418)
+-- Predicting Vagina with Pituitary community 16
+Accuracy: 0.1030 (0.0648)
+F1 score: 0.0199 (0.0009)
+ROC AUC: 0.5325 (0.0298)
+-- Predicting Whole_Blood with Pituitary community 16
+Accuracy: 0.9681 (0.0448)
+F1 score: 0.8252 (0.2440)
+ROC AUC: 0.9826 (0.0246)
+-- Predicting Adipose_Subcutaneous with Pituitary community 17
+Accuracy: 0.4683 (0.0526)
+F1 score: 0.0677 (0.0038)
+ROC AUC: 0.4814 (0.0087)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 17
+Accuracy: 0.4080 (0.1154)
+F1 score: 0.0527 (0.0056)
+ROC AUC: 0.4633 (0.0124)
+-- Predicting Adrenal_Gland with Pituitary community 17
+Accuracy: 0.5667 (0.0141)
+F1 score: 0.0217 (0.0014)
+ROC AUC: 0.4090 (0.0318)
+-- Predicting Artery_Aorta with Pituitary community 17
+Accuracy: 0.5498 (0.0202)
+F1 score: 0.0432 (0.0031)
+ROC AUC: 0.4663 (0.0092)
+-- Predicting Artery_Coronary with Pituitary community 17
+Accuracy: 0.5204 (0.1266)
+F1 score: 0.0239 (0.0034)
+ROC AUC: 0.4527 (0.0201)
+-- Predicting Artery_Tibial with Pituitary community 17
+Accuracy: 0.3945 (0.1260)
+F1 score: 0.0633 (0.0072)
+ROC AUC: 0.4500 (0.0141)
+-- Predicting Brain_Amygdala with Pituitary community 17
+Accuracy: 0.5271 (0.0848)
+F1 score: 0.0141 (0.0013)
+ROC AUC: 0.4575 (0.0073)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 17
+Accuracy: 0.5788 (0.0972)
+F1 score: 0.0161 (0.0033)
+ROC AUC: 0.4420 (0.0308)
+-- Predicting Brain_Caudate with Pituitary community 17
+Accuracy: 0.4700 (0.1286)
+F1 score: 0.0203 (0.0008)
+ROC AUC: 0.4198 (0.0219)
+-- Predicting Brain_Cerebellar with Pituitary community 17
+Accuracy: 0.6707 (0.1930)
+F1 score: 0.0246 (0.0050)
+ROC AUC: 0.4558 (0.0057)
+-- Predicting Brain_Cerebellum with Pituitary community 17
+Accuracy: 0.5044 (0.0617)
+F1 score: 0.0266 (0.0004)
+ROC AUC: 0.4736 (0.0035)
+-- Predicting Brain_Cortex with Pituitary community 17
+Accuracy: 0.5243 (0.0861)
+F1 score: 0.0196 (0.0010)
+ROC AUC: 0.4204 (0.0129)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 17
+Accuracy: 0.6082 (0.0443)
+F1 score: 0.0183 (0.0025)
+ROC AUC: 0.4379 (0.0085)
+-- Predicting Brain_Hippocampus with Pituitary community 17
+Accuracy: 0.4424 (0.0835)
+F1 score: 0.0179 (0.0005)
+ROC AUC: 0.4367 (0.0107)
+-- Predicting Brain_Hypothalamus with Pituitary community 17
+Accuracy: 0.5540 (0.0348)
+F1 score: 0.0215 (0.0017)
+ROC AUC: 0.4726 (0.0069)
+-- Predicting Brain_Nucleus with Pituitary community 17
+Accuracy: 0.5251 (0.0999)
+F1 score: 0.0242 (0.0014)
+ROC AUC: 0.4782 (0.0053)
+-- Predicting Brain_Putamen with Pituitary community 17
+Accuracy: 0.5164 (0.0378)
+F1 score: 0.0199 (0.0018)
+ROC AUC: 0.4425 (0.0180)
+-- Predicting Brain_Spinal_cord with Pituitary community 17
+Accuracy: 0.5021 (0.0411)
+F1 score: 0.0125 (0.0006)
+ROC AUC: 0.4275 (0.0081)
+-- Predicting Brain_Substantia_nigra with Pituitary community 17
+Accuracy: 0.5021 (0.1305)
+F1 score: 0.0117 (0.0019)
+ROC AUC: 0.4237 (0.0239)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 17
+Accuracy: 0.5113 (0.0789)
+F1 score: 0.0437 (0.0073)
+ROC AUC: 0.4568 (0.0289)
+-- Predicting Cells_Cultured with Pituitary community 17
+Accuracy: 0.4487 (0.0869)
+F1 score: 0.0563 (0.0043)
+ROC AUC: 0.4650 (0.0149)
+-- Predicting Cells_EBV with Pituitary community 17
+Accuracy: 0.4754 (0.0296)
+F1 score: 0.0179 (0.0015)
+ROC AUC: 0.4572 (0.0079)
+-- Predicting Colon_Sigmoid with Pituitary community 17
+Accuracy: 0.5375 (0.0350)
+F1 score: 0.0369 (0.0018)
+ROC AUC: 0.4807 (0.0069)
+-- Predicting Colon_Transverse with Pituitary community 17
+Accuracy: 0.6392 (0.0328)
+F1 score: 0.0437 (0.0020)
+ROC AUC: 0.4455 (0.0183)
+-- Predicting Esophagus_Gastro with Pituitary community 17
+Accuracy: 0.4112 (0.1043)
+F1 score: 0.0387 (0.0029)
+ROC AUC: 0.4757 (0.0133)
+-- Predicting Esophagus_Mucosa with Pituitary community 17
+Accuracy: 0.5231 (0.0255)
+F1 score: 0.0516 (0.0040)
+ROC AUC: 0.4498 (0.0056)
+-- Predicting Esophagus_Muscularis with Pituitary community 17
+Accuracy: 0.5349 (0.0498)
+F1 score: 0.0507 (0.0028)
+ROC AUC: 0.4594 (0.0131)
+-- Predicting Heart_Atrial with Pituitary community 17
+Accuracy: 0.5477 (0.0133)
+F1 score: 0.0388 (0.0029)
+ROC AUC: 0.4374 (0.0181)
+-- Predicting Heart_L_Vent with Pituitary community 17
+Accuracy: 0.4475 (0.0449)
+F1 score: 0.0438 (0.0049)
+ROC AUC: 0.4584 (0.0186)
+-- Predicting Kidney_Cortex with Pituitary community 17
+Accuracy: 0.4767 (0.0422)
+F1 score: 0.0071 (0.0013)
+ROC AUC: 0.4280 (0.0327)
+-- Predicting Liver with Pituitary community 17
+Accuracy: 0.4995 (0.0942)
+F1 score: 0.0249 (0.0032)
+ROC AUC: 0.4639 (0.0198)
+-- Predicting Lung with Pituitary community 17
+Accuracy: 0.4120 (0.1193)
+F1 score: 0.0616 (0.0079)
+ROC AUC: 0.4686 (0.0177)
+-- Predicting Minor_Salivary with Pituitary community 17
+Accuracy: 0.4093 (0.0954)
+F1 score: 0.0183 (0.0018)
+ROC AUC: 0.4777 (0.0088)
+-- Predicting Muscle_Skeletal with Pituitary community 17
+Accuracy: 0.3825 (0.1178)
+F1 score: 0.0762 (0.0097)
+ROC AUC: 0.4477 (0.0053)
+-- Predicting Nerve_Tibial with Pituitary community 17
+Accuracy: 0.4038 (0.0775)
+F1 score: 0.0581 (0.0040)
+ROC AUC: 0.4552 (0.0313)
+-- Predicting Ovary with Pituitary community 17
+Accuracy: 0.5237 (0.0290)
+F1 score: 0.0156 (0.0020)
+ROC AUC: 0.4131 (0.0176)
+-- Predicting Pancreas with Pituitary community 17
+Accuracy: 0.5757 (0.0782)
+F1 score: 0.0302 (0.0054)
+ROC AUC: 0.4410 (0.0256)
+-- Predicting Pituitary with Pituitary community 17
+Accuracy: 0.4652 (0.0842)
+F1 score: 0.0265 (0.0015)
+ROC AUC: 0.4467 (0.0081)
+-- Predicting Prostate with Pituitary community 17
+Accuracy: 0.8323 (0.0161)
+F1 score: 0.0352 (0.0057)
+ROC AUC: 0.4179 (0.0336)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 17
+Accuracy: 0.5902 (0.1091)
+F1 score: 0.0550 (0.0024)
+ROC AUC: 0.4670 (0.0134)
+-- Predicting Skin_Sun_Epsd with Pituitary community 17
+Accuracy: 0.5250 (0.0927)
+F1 score: 0.0634 (0.0055)
+ROC AUC: 0.4706 (0.0078)
+-- Predicting Small_Intestine with Pituitary community 17
+Accuracy: 0.3548 (0.1940)
+F1 score: 0.0211 (0.0011)
+ROC AUC: 0.4749 (0.0072)
+-- Predicting Spleen with Pituitary community 17
+Accuracy: 0.4375 (0.0928)
+F1 score: 0.0242 (0.0027)
+ROC AUC: 0.4365 (0.0170)
+-- Predicting Stomach with Pituitary community 17
+Accuracy: 0.4869 (0.0251)
+F1 score: 0.0325 (0.0022)
+ROC AUC: 0.4323 (0.0077)
+-- Predicting Testis with Pituitary community 17
+Accuracy: 0.5142 (0.1140)
+F1 score: 0.0342 (0.0033)
+ROC AUC: 0.4527 (0.0351)
+-- Predicting Thyroid with Pituitary community 17
+Accuracy: 0.5785 (0.2149)
+F1 score: 0.0736 (0.0078)
+ROC AUC: 0.4616 (0.0153)
+-- Predicting Uterus with Pituitary community 17
+Accuracy: 0.5561 (0.0454)
+F1 score: 0.0101 (0.0008)
+ROC AUC: 0.3744 (0.0267)
+-- Predicting Vagina with Pituitary community 17
+Accuracy: 0.4930 (0.0486)
+F1 score: 0.0137 (0.0015)
+ROC AUC: 0.4066 (0.0303)
+-- Predicting Whole_Blood with Pituitary community 17
+Accuracy: 0.3655 (0.1048)
+F1 score: 0.0664 (0.0136)
+ROC AUC: 0.4314 (0.0193)
+-- Predicting Adipose_Subcutaneous with Pituitary community 18
+Accuracy: 0.4466 (0.0539)
+F1 score: 0.0666 (0.0022)
+ROC AUC: 0.4713 (0.0060)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 18
+Accuracy: 0.4825 (0.0215)
+F1 score: 0.0536 (0.0021)
+ROC AUC: 0.4759 (0.0044)
+-- Predicting Adrenal_Gland with Pituitary community 18
+Accuracy: 0.4773 (0.0574)
+F1 score: 0.0251 (0.0035)
+ROC AUC: 0.4402 (0.0027)
+-- Predicting Artery_Aorta with Pituitary community 18
+Accuracy: 0.5056 (0.0571)
+F1 score: 0.0428 (0.0005)
+ROC AUC: 0.4652 (0.0117)
+-- Predicting Artery_Coronary with Pituitary community 18
+Accuracy: 0.4955 (0.1013)
+F1 score: 0.0238 (0.0006)
+ROC AUC: 0.4510 (0.0151)
+-- Predicting Artery_Tibial with Pituitary community 18
+Accuracy: 0.4669 (0.0447)
+F1 score: 0.0648 (0.0032)
+ROC AUC: 0.4729 (0.0170)
+-- Predicting Brain_Amygdala with Pituitary community 18
+Accuracy: 0.4558 (0.0220)
+F1 score: 0.0117 (0.0009)
+ROC AUC: 0.4125 (0.0128)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 18
+Accuracy: 0.4784 (0.0862)
+F1 score: 0.0141 (0.0012)
+ROC AUC: 0.4312 (0.0150)
+-- Predicting Brain_Caudate with Pituitary community 18
+Accuracy: 0.4456 (0.0741)
+F1 score: 0.0189 (0.0041)
+ROC AUC: 0.4179 (0.0283)
+-- Predicting Brain_Cerebellar with Pituitary community 18
+Accuracy: 0.5302 (0.0095)
+F1 score: 0.0225 (0.0023)
+ROC AUC: 0.4766 (0.0014)
+-- Predicting Brain_Cerebellum with Pituitary community 18
+Accuracy: 0.4965 (0.0467)
+F1 score: 0.0238 (0.0030)
+ROC AUC: 0.4667 (0.0135)
+-- Predicting Brain_Cortex with Pituitary community 18
+Accuracy: 0.4885 (0.0723)
+F1 score: 0.0229 (0.0019)
+ROC AUC: 0.4470 (0.0122)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 18
+Accuracy: 0.4898 (0.0828)
+F1 score: 0.0182 (0.0042)
+ROC AUC: 0.4429 (0.0141)
+-- Predicting Brain_Hippocampus with Pituitary community 18
+Accuracy: 0.4471 (0.0248)
+F1 score: 0.0186 (0.0010)
+ROC AUC: 0.4502 (0.0127)
+-- Predicting Brain_Hypothalamus with Pituitary community 18
+Accuracy: 0.5495 (0.0262)
+F1 score: 0.0189 (0.0018)
+ROC AUC: 0.4431 (0.0260)
+-- Predicting Brain_Nucleus with Pituitary community 18
+Accuracy: 0.4625 (0.0412)
+F1 score: 0.0219 (0.0035)
+ROC AUC: 0.4395 (0.0275)
+-- Predicting Brain_Putamen with Pituitary community 18
+Accuracy: 0.4294 (0.0358)
+F1 score: 0.0171 (0.0017)
+ROC AUC: 0.4241 (0.0051)
+-- Predicting Brain_Spinal_cord with Pituitary community 18
+Accuracy: 0.5212 (0.0300)
+F1 score: 0.0142 (0.0024)
+ROC AUC: 0.4405 (0.0165)
+-- Predicting Brain_Substantia_nigra with Pituitary community 18
+Accuracy: 0.4856 (0.0751)
+F1 score: 0.0117 (0.0012)
+ROC AUC: 0.4385 (0.0234)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 18
+Accuracy: 0.4495 (0.0017)
+F1 score: 0.0461 (0.0025)
+ROC AUC: 0.4698 (0.0066)
+-- Predicting Cells_Cultured with Pituitary community 18
+Accuracy: 0.4817 (0.0506)
+F1 score: 0.0594 (0.0022)
+ROC AUC: 0.4838 (0.0059)
+-- Predicting Cells_EBV with Pituitary community 18
+Accuracy: 0.5323 (0.0891)
+F1 score: 0.0170 (0.0010)
+ROC AUC: 0.4664 (0.0179)
+-- Predicting Colon_Sigmoid with Pituitary community 18
+Accuracy: 0.4641 (0.0320)
+F1 score: 0.0373 (0.0014)
+ROC AUC: 0.4627 (0.0076)
+-- Predicting Colon_Transverse with Pituitary community 18
+Accuracy: 0.4782 (0.0667)
+F1 score: 0.0419 (0.0017)
+ROC AUC: 0.4668 (0.0103)
+-- Predicting Esophagus_Gastro with Pituitary community 18
+Accuracy: 0.5081 (0.0302)
+F1 score: 0.0366 (0.0003)
+ROC AUC: 0.4523 (0.0025)
+-- Predicting Esophagus_Mucosa with Pituitary community 18
+Accuracy: 0.4848 (0.0539)
+F1 score: 0.0592 (0.0058)
+ROC AUC: 0.4750 (0.0167)
+-- Predicting Esophagus_Muscularis with Pituitary community 18
+Accuracy: 0.5377 (0.0832)
+F1 score: 0.0531 (0.0027)
+ROC AUC: 0.4725 (0.0033)
+-- Predicting Heart_Atrial with Pituitary community 18
+Accuracy: 0.4881 (0.0442)
+F1 score: 0.0403 (0.0023)
+ROC AUC: 0.4598 (0.0086)
+-- Predicting Heart_L_Vent with Pituitary community 18
+Accuracy: 0.4896 (0.0765)
+F1 score: 0.0459 (0.0012)
+ROC AUC: 0.4779 (0.0099)
+-- Predicting Kidney_Cortex with Pituitary community 18
+Accuracy: 0.4809 (0.1080)
+F1 score: 0.0074 (0.0008)
+ROC AUC: 0.4288 (0.0098)
+-- Predicting Liver with Pituitary community 18
+Accuracy: 0.4659 (0.0394)
+F1 score: 0.0237 (0.0023)
+ROC AUC: 0.4680 (0.0133)
+-- Predicting Lung with Pituitary community 18
+Accuracy: 0.5119 (0.0337)
+F1 score: 0.0569 (0.0013)
+ROC AUC: 0.4654 (0.0096)
+-- Predicting Minor_Salivary with Pituitary community 18
+Accuracy: 0.5715 (0.0322)
+F1 score: 0.0141 (0.0036)
+ROC AUC: 0.4202 (0.0250)
+-- Predicting Muscle_Skeletal with Pituitary community 18
+Accuracy: 0.4315 (0.0734)
+F1 score: 0.0808 (0.0047)
+ROC AUC: 0.4678 (0.0016)
+-- Predicting Nerve_Tibial with Pituitary community 18
+Accuracy: 0.4736 (0.0308)
+F1 score: 0.0604 (0.0015)
+ROC AUC: 0.4713 (0.0011)
+-- Predicting Ovary with Pituitary community 18
+Accuracy: 0.4362 (0.0541)
+F1 score: 0.0206 (0.0002)
+ROC AUC: 0.4594 (0.0047)
+-- Predicting Pancreas with Pituitary community 18
+Accuracy: 0.4687 (0.0131)
+F1 score: 0.0342 (0.0020)
+ROC AUC: 0.4636 (0.0007)
+-- Predicting Pituitary with Pituitary community 18
+Accuracy: 0.4830 (0.0356)
+F1 score: 0.0262 (0.0004)
+ROC AUC: 0.4615 (0.0028)
+-- Predicting Prostate with Pituitary community 18
+Accuracy: 0.5348 (0.0236)
+F1 score: 0.0261 (0.0017)
+ROC AUC: 0.4489 (0.0136)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 18
+Accuracy: 0.4498 (0.0286)
+F1 score: 0.0587 (0.0033)
+ROC AUC: 0.4597 (0.0132)
+-- Predicting Skin_Sun_Epsd with Pituitary community 18
+Accuracy: 0.4602 (0.0403)
+F1 score: 0.0702 (0.0024)
+ROC AUC: 0.4711 (0.0050)
+-- Predicting Small_Intestine with Pituitary community 18
+Accuracy: 0.4886 (0.0849)
+F1 score: 0.0174 (0.0020)
+ROC AUC: 0.4149 (0.0023)
+-- Predicting Spleen with Pituitary community 18
+Accuracy: 0.5022 (0.0627)
+F1 score: 0.0225 (0.0026)
+ROC AUC: 0.4319 (0.0120)
+-- Predicting Stomach with Pituitary community 18
+Accuracy: 0.5166 (0.0513)
+F1 score: 0.0338 (0.0031)
+ROC AUC: 0.4534 (0.0154)
+-- Predicting Testis with Pituitary community 18
+Accuracy: 0.5220 (0.0880)
+F1 score: 0.0376 (0.0029)
+ROC AUC: 0.4623 (0.0115)
+-- Predicting Thyroid with Pituitary community 18
+Accuracy: 0.4935 (0.0044)
+F1 score: 0.0664 (0.0025)
+ROC AUC: 0.4761 (0.0057)
+-- Predicting Uterus with Pituitary community 18
+Accuracy: 0.4725 (0.0385)
+F1 score: 0.0139 (0.0018)
+ROC AUC: 0.4355 (0.0183)
+-- Predicting Vagina with Pituitary community 18
+Accuracy: 0.4988 (0.0756)
+F1 score: 0.0140 (0.0025)
+ROC AUC: 0.4193 (0.0103)
+-- Predicting Whole_Blood with Pituitary community 18
+Accuracy: 0.4743 (0.0897)
+F1 score: 0.0763 (0.0060)
+ROC AUC: 0.4743 (0.0037)
+-- Predicting Adipose_Subcutaneous with Pituitary community 19
+Accuracy: 0.5183 (0.0713)
+F1 score: 0.0688 (0.0035)
+ROC AUC: 0.4861 (0.0079)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 19
+Accuracy: 0.3991 (0.0415)
+F1 score: 0.0557 (0.0049)
+ROC AUC: 0.4646 (0.0155)
+-- Predicting Adrenal_Gland with Pituitary community 19
+Accuracy: 0.4825 (0.0852)
+F1 score: 0.0256 (0.0006)
+ROC AUC: 0.4439 (0.0071)
+-- Predicting Artery_Aorta with Pituitary community 19
+Accuracy: 0.5091 (0.0276)
+F1 score: 0.0442 (0.0032)
+ROC AUC: 0.4531 (0.0167)
+-- Predicting Artery_Coronary with Pituitary community 19
+Accuracy: 0.4668 (0.0274)
+F1 score: 0.0232 (0.0006)
+ROC AUC: 0.4453 (0.0153)
+-- Predicting Artery_Tibial with Pituitary community 19
+Accuracy: 0.4761 (0.0163)
+F1 score: 0.0594 (0.0038)
+ROC AUC: 0.4498 (0.0176)
+-- Predicting Brain_Amygdala with Pituitary community 19
+Accuracy: 0.5291 (0.0435)
+F1 score: 0.0150 (0.0015)
+ROC AUC: 0.4323 (0.0161)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 19
+Accuracy: 0.5171 (0.0454)
+F1 score: 0.0149 (0.0016)
+ROC AUC: 0.4294 (0.0202)
+-- Predicting Brain_Caudate with Pituitary community 19
+Accuracy: 0.5141 (0.0498)
+F1 score: 0.0184 (0.0018)
+ROC AUC: 0.4055 (0.0194)
+-- Predicting Brain_Cerebellar with Pituitary community 19
+Accuracy: 0.4958 (0.0393)
+F1 score: 0.0190 (0.0009)
+ROC AUC: 0.4293 (0.0095)
+-- Predicting Brain_Cerebellum with Pituitary community 19
+Accuracy: 0.5811 (0.0684)
+F1 score: 0.0216 (0.0030)
+ROC AUC: 0.4313 (0.0163)
+-- Predicting Brain_Cortex with Pituitary community 19
+Accuracy: 0.5381 (0.0506)
+F1 score: 0.0202 (0.0013)
+ROC AUC: 0.4370 (0.0207)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 19
+Accuracy: 0.5029 (0.0850)
+F1 score: 0.0179 (0.0019)
+ROC AUC: 0.4209 (0.0098)
+-- Predicting Brain_Hippocampus with Pituitary community 19
+Accuracy: 0.4698 (0.0517)
+F1 score: 0.0192 (0.0014)
+ROC AUC: 0.4629 (0.0092)
+-- Predicting Brain_Hypothalamus with Pituitary community 19
+Accuracy: 0.4752 (0.0398)
+F1 score: 0.0192 (0.0003)
+ROC AUC: 0.4592 (0.0077)
+-- Predicting Brain_Nucleus with Pituitary community 19
+Accuracy: 0.5298 (0.0507)
+F1 score: 0.0185 (0.0015)
+ROC AUC: 0.4356 (0.0179)
+-- Predicting Brain_Putamen with Pituitary community 19
+Accuracy: 0.5790 (0.0283)
+F1 score: 0.0147 (0.0006)
+ROC AUC: 0.4221 (0.0365)
+-- Predicting Brain_Spinal_cord with Pituitary community 19
+Accuracy: 0.4217 (0.0790)
+F1 score: 0.0162 (0.0012)
+ROC AUC: 0.4547 (0.0080)
+-- Predicting Brain_Substantia_nigra with Pituitary community 19
+Accuracy: 0.4689 (0.1012)
+F1 score: 0.0129 (0.0014)
+ROC AUC: 0.4344 (0.0303)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 19
+Accuracy: 0.4819 (0.0513)
+F1 score: 0.0455 (0.0019)
+ROC AUC: 0.4586 (0.0101)
+-- Predicting Cells_Cultured with Pituitary community 19
+Accuracy: 0.4893 (0.0211)
+F1 score: 0.0528 (0.0018)
+ROC AUC: 0.4522 (0.0078)
+-- Predicting Cells_EBV with Pituitary community 19
+Accuracy: 0.5472 (0.0759)
+F1 score: 0.0162 (0.0018)
+ROC AUC: 0.4431 (0.0062)
+-- Predicting Colon_Sigmoid with Pituitary community 19
+Accuracy: 0.4929 (0.0511)
+F1 score: 0.0376 (0.0015)
+ROC AUC: 0.4684 (0.0101)
+-- Predicting Colon_Transverse with Pituitary community 19
+Accuracy: 0.5241 (0.0531)
+F1 score: 0.0430 (0.0033)
+ROC AUC: 0.4596 (0.0130)
+-- Predicting Esophagus_Gastro with Pituitary community 19
+Accuracy: 0.5818 (0.0647)
+F1 score: 0.0352 (0.0029)
+ROC AUC: 0.4551 (0.0230)
+-- Predicting Esophagus_Mucosa with Pituitary community 19
+Accuracy: 0.5185 (0.0367)
+F1 score: 0.0504 (0.0010)
+ROC AUC: 0.4502 (0.0037)
+-- Predicting Esophagus_Muscularis with Pituitary community 19
+Accuracy: 0.5015 (0.0539)
+F1 score: 0.0508 (0.0006)
+ROC AUC: 0.4653 (0.0069)
+-- Predicting Heart_Atrial with Pituitary community 19
+Accuracy: 0.5550 (0.0607)
+F1 score: 0.0376 (0.0023)
+ROC AUC: 0.4410 (0.0033)
+-- Predicting Heart_L_Vent with Pituitary community 19
+Accuracy: 0.5594 (0.0728)
+F1 score: 0.0444 (0.0017)
+ROC AUC: 0.4565 (0.0036)
+-- Predicting Kidney_Cortex with Pituitary community 19
+Accuracy: 0.5340 (0.0431)
+F1 score: 0.0060 (0.0012)
+ROC AUC: 0.4018 (0.0356)
+-- Predicting Liver with Pituitary community 19
+Accuracy: 0.5644 (0.0343)
+F1 score: 0.0238 (0.0034)
+ROC AUC: 0.4434 (0.0104)
+-- Predicting Lung with Pituitary community 19
+Accuracy: 0.4470 (0.0638)
+F1 score: 0.0604 (0.0050)
+ROC AUC: 0.4620 (0.0222)
+-- Predicting Minor_Salivary with Pituitary community 19
+Accuracy: 0.5164 (0.0515)
+F1 score: 0.0138 (0.0019)
+ROC AUC: 0.4119 (0.0272)
+-- Predicting Muscle_Skeletal with Pituitary community 19
+Accuracy: 0.5504 (0.0406)
+F1 score: 0.0809 (0.0053)
+ROC AUC: 0.4765 (0.0162)
+-- Predicting Nerve_Tibial with Pituitary community 19
+Accuracy: 0.5323 (0.0665)
+F1 score: 0.0589 (0.0055)
+ROC AUC: 0.4780 (0.0090)
+-- Predicting Ovary with Pituitary community 19
+Accuracy: 0.4777 (0.0178)
+F1 score: 0.0173 (0.0016)
+ROC AUC: 0.4343 (0.0232)
+-- Predicting Pancreas with Pituitary community 19
+Accuracy: 0.5026 (0.0813)
+F1 score: 0.0346 (0.0026)
+ROC AUC: 0.4714 (0.0141)
+-- Predicting Pituitary with Pituitary community 19
+Accuracy: 0.5976 (0.0473)
+F1 score: 0.0255 (0.0028)
+ROC AUC: 0.4222 (0.0088)
+-- Predicting Prostate with Pituitary community 19
+Accuracy: 0.4276 (0.0498)
+F1 score: 0.0252 (0.0008)
+ROC AUC: 0.4475 (0.0049)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 19
+Accuracy: 0.4748 (0.0425)
+F1 score: 0.0573 (0.0048)
+ROC AUC: 0.4562 (0.0137)
+-- Predicting Skin_Sun_Epsd with Pituitary community 19
+Accuracy: 0.4714 (0.0716)
+F1 score: 0.0681 (0.0008)
+ROC AUC: 0.4702 (0.0034)
+-- Predicting Small_Intestine with Pituitary community 19
+Accuracy: 0.4808 (0.0330)
+F1 score: 0.0214 (0.0008)
+ROC AUC: 0.4560 (0.0145)
+-- Predicting Spleen with Pituitary community 19
+Accuracy: 0.5096 (0.0469)
+F1 score: 0.0234 (0.0028)
+ROC AUC: 0.4444 (0.0147)
+-- Predicting Stomach with Pituitary community 19
+Accuracy: 0.4360 (0.0160)
+F1 score: 0.0370 (0.0028)
+ROC AUC: 0.4706 (0.0100)
+-- Predicting Testis with Pituitary community 19
+Accuracy: 0.4477 (0.0359)
+F1 score: 0.0328 (0.0025)
+ROC AUC: 0.4384 (0.0062)
+-- Predicting Thyroid with Pituitary community 19
+Accuracy: 0.5009 (0.0305)
+F1 score: 0.0656 (0.0028)
+ROC AUC: 0.4769 (0.0052)
+-- Predicting Uterus with Pituitary community 19
+Accuracy: 0.4444 (0.0361)
+F1 score: 0.0144 (0.0005)
+ROC AUC: 0.4411 (0.0023)
+-- Predicting Vagina with Pituitary community 19
+Accuracy: 0.5144 (0.0352)
+F1 score: 0.0155 (0.0005)
+ROC AUC: 0.4402 (0.0102)
+-- Predicting Whole_Blood with Pituitary community 19
+Accuracy: 0.3512 (0.0109)
+F1 score: 0.0838 (0.0025)
+ROC AUC: 0.4763 (0.0026)
+-- Predicting Adipose_Subcutaneous with Pituitary community 20
+Accuracy: 0.0934 (0.0484)
+F1 score: 0.0778 (0.0041)
+ROC AUC: 0.5085 (0.0182)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 20
+Accuracy: 0.1834 (0.1280)
+F1 score: 0.0603 (0.0020)
+ROC AUC: 0.4943 (0.0285)
+-- Predicting Adrenal_Gland with Pituitary community 20
+Accuracy: 0.1914 (0.1008)
+F1 score: 0.0309 (0.0023)
+ROC AUC: 0.4823 (0.0081)
+-- Predicting Artery_Aorta with Pituitary community 20
+Accuracy: 0.1558 (0.1293)
+F1 score: 0.0504 (0.0020)
+ROC AUC: 0.4885 (0.0160)
+-- Predicting Artery_Coronary with Pituitary community 20
+Accuracy: 0.1326 (0.0694)
+F1 score: 0.0295 (0.0012)
+ROC AUC: 0.4866 (0.0154)
+-- Predicting Artery_Tibial with Pituitary community 20
+Accuracy: 0.1375 (0.1126)
+F1 score: 0.0771 (0.0045)
+ROC AUC: 0.5123 (0.0140)
+-- Predicting Brain_Amygdala with Pituitary community 20
+Accuracy: 0.3956 (0.1822)
+F1 score: 0.0144 (0.0001)
+ROC AUC: 0.4750 (0.0020)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 20
+Accuracy: 0.3502 (0.2423)
+F1 score: 0.0172 (0.0010)
+ROC AUC: 0.4656 (0.0384)
+-- Predicting Brain_Caudate with Pituitary community 20
+Accuracy: 0.3396 (0.1233)
+F1 score: 0.0214 (0.0009)
+ROC AUC: 0.4747 (0.0082)
+-- Predicting Brain_Cerebellar with Pituitary community 20
+Accuracy: 0.6365 (0.1059)
+F1 score: 0.0254 (0.0051)
+ROC AUC: 0.4564 (0.0286)
+-- Predicting Brain_Cerebellum with Pituitary community 20
+Accuracy: 0.3733 (0.2349)
+F1 score: 0.0279 (0.0033)
+ROC AUC: 0.4939 (0.0174)
+-- Predicting Brain_Cortex with Pituitary community 20
+Accuracy: 0.5343 (0.1920)
+F1 score: 0.0260 (0.0071)
+ROC AUC: 0.4643 (0.0163)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 20
+Accuracy: 0.4361 (0.0979)
+F1 score: 0.0220 (0.0022)
+ROC AUC: 0.4999 (0.0138)
+-- Predicting Brain_Hippocampus with Pituitary community 20
+Accuracy: 0.4721 (0.1156)
+F1 score: 0.0152 (0.0020)
+ROC AUC: 0.4284 (0.0082)
+-- Predicting Brain_Hypothalamus with Pituitary community 20
+Accuracy: 0.2986 (0.1807)
+F1 score: 0.0203 (0.0019)
+ROC AUC: 0.4613 (0.0142)
+-- Predicting Brain_Nucleus with Pituitary community 20
+Accuracy: 0.3386 (0.1310)
+F1 score: 0.0240 (0.0017)
+ROC AUC: 0.4924 (0.0246)
+-- Predicting Brain_Putamen with Pituitary community 20
+Accuracy: 0.3647 (0.2076)
+F1 score: 0.0200 (0.0004)
+ROC AUC: 0.4938 (0.0492)
+-- Predicting Brain_Spinal_cord with Pituitary community 20
+Accuracy: 0.1913 (0.0724)
+F1 score: 0.0167 (0.0018)
+ROC AUC: 0.4905 (0.0347)
+-- Predicting Brain_Substantia_nigra with Pituitary community 20
+Accuracy: 0.2367 (0.1382)
+F1 score: 0.0131 (0.0011)
+ROC AUC: 0.4878 (0.0140)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 20
+Accuracy: 0.1852 (0.1224)
+F1 score: 0.0531 (0.0015)
+ROC AUC: 0.4910 (0.0138)
+-- Predicting Cells_Cultured with Pituitary community 20
+Accuracy: 0.9998 (0.0002)
+F1 score: 0.9969 (0.0025)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Pituitary community 20
+Accuracy: 0.4127 (0.1181)
+F1 score: 0.0159 (0.0002)
+ROC AUC: 0.4392 (0.0116)
+-- Predicting Colon_Sigmoid with Pituitary community 20
+Accuracy: 0.2108 (0.2229)
+F1 score: 0.0387 (0.0026)
+ROC AUC: 0.5022 (0.0137)
+-- Predicting Colon_Transverse with Pituitary community 20
+Accuracy: 0.1268 (0.1311)
+F1 score: 0.0517 (0.0058)
+ROC AUC: 0.5108 (0.0047)
+-- Predicting Esophagus_Gastro with Pituitary community 20
+Accuracy: 0.2021 (0.2025)
+F1 score: 0.0403 (0.0033)
+ROC AUC: 0.4465 (0.0241)
+-- Predicting Esophagus_Mucosa with Pituitary community 20
+Accuracy: 0.1285 (0.1171)
+F1 score: 0.0630 (0.0016)
+ROC AUC: 0.4607 (0.0280)
+-- Predicting Esophagus_Muscularis with Pituitary community 20
+Accuracy: 0.1489 (0.1376)
+F1 score: 0.0573 (0.0032)
+ROC AUC: 0.4929 (0.0141)
+-- Predicting Heart_Atrial with Pituitary community 20
+Accuracy: 0.1501 (0.0978)
+F1 score: 0.0474 (0.0007)
+ROC AUC: 0.4848 (0.0056)
+-- Predicting Heart_L_Vent with Pituitary community 20
+Accuracy: 0.2942 (0.2032)
+F1 score: 0.0473 (0.0014)
+ROC AUC: 0.4854 (0.0264)
+-- Predicting Kidney_Cortex with Pituitary community 20
+Accuracy: 0.2424 (0.1223)
+F1 score: 0.0079 (0.0026)
+ROC AUC: 0.4107 (0.0384)
+-- Predicting Liver with Pituitary community 20
+Accuracy: 0.2542 (0.1925)
+F1 score: 0.0266 (0.0028)
+ROC AUC: 0.4788 (0.0025)
+-- Predicting Lung with Pituitary community 20
+Accuracy: 0.1714 (0.1317)
+F1 score: 0.0620 (0.0067)
+ROC AUC: 0.4623 (0.0395)
+-- Predicting Minor_Salivary with Pituitary community 20
+Accuracy: 0.2885 (0.1027)
+F1 score: 0.0174 (0.0013)
+ROC AUC: 0.4728 (0.0290)
+-- Predicting Muscle_Skeletal with Pituitary community 20
+Accuracy: 0.2584 (0.2479)
+F1 score: 0.0866 (0.0057)
+ROC AUC: 0.5171 (0.0178)
+-- Predicting Nerve_Tibial with Pituitary community 20
+Accuracy: 0.2051 (0.2047)
+F1 score: 0.0656 (0.0034)
+ROC AUC: 0.4907 (0.0149)
+-- Predicting Ovary with Pituitary community 20
+Accuracy: 0.2802 (0.2038)
+F1 score: 0.0202 (0.0022)
+ROC AUC: 0.4676 (0.0058)
+-- Predicting Pancreas with Pituitary community 20
+Accuracy: 0.1892 (0.1683)
+F1 score: 0.0369 (0.0014)
+ROC AUC: 0.4799 (0.0141)
+-- Predicting Pituitary with Pituitary community 20
+Accuracy: 0.1762 (0.1335)
+F1 score: 0.0302 (0.0007)
+ROC AUC: 0.4891 (0.0158)
+-- Predicting Prostate with Pituitary community 20
+Accuracy: 0.1478 (0.1291)
+F1 score: 0.0281 (0.0020)
+ROC AUC: 0.4507 (0.0204)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 20
+Accuracy: 0.1708 (0.1514)
+F1 score: 0.0625 (0.0068)
+ROC AUC: 0.4699 (0.0151)
+-- Predicting Skin_Sun_Epsd with Pituitary community 20
+Accuracy: 0.1690 (0.1486)
+F1 score: 0.0760 (0.0023)
+ROC AUC: 0.4917 (0.0124)
+-- Predicting Small_Intestine with Pituitary community 20
+Accuracy: 0.1223 (0.0357)
+F1 score: 0.0255 (0.0010)
+ROC AUC: 0.4590 (0.0246)
+-- Predicting Spleen with Pituitary community 20
+Accuracy: 0.1704 (0.1824)
+F1 score: 0.0296 (0.0007)
+ROC AUC: 0.5045 (0.0200)
+-- Predicting Stomach with Pituitary community 20
+Accuracy: 0.1660 (0.1580)
+F1 score: 0.0432 (0.0008)
+ROC AUC: 0.4939 (0.0069)
+-- Predicting Testis with Pituitary community 20
+Accuracy: 0.2449 (0.2491)
+F1 score: 0.0386 (0.0052)
+ROC AUC: 0.4484 (0.0405)
+-- Predicting Thyroid with Pituitary community 20
+Accuracy: 0.1827 (0.1217)
+F1 score: 0.0729 (0.0032)
+ROC AUC: 0.4674 (0.0136)
+-- Predicting Uterus with Pituitary community 20
+Accuracy: 0.2991 (0.1994)
+F1 score: 0.0161 (0.0007)
+ROC AUC: 0.4409 (0.0205)
+-- Predicting Vagina with Pituitary community 20
+Accuracy: 0.1699 (0.1596)
+F1 score: 0.0183 (0.0012)
+ROC AUC: 0.4777 (0.0231)
+-- Predicting Whole_Blood with Pituitary community 20
+Accuracy: 0.1050 (0.0660)
+F1 score: 0.0883 (0.0038)
+ROC AUC: 0.4862 (0.0126)
+-- Predicting Adipose_Subcutaneous with Pituitary community 21
+Accuracy: 0.2029 (0.1166)
+F1 score: 0.0732 (0.0066)
+ROC AUC: 0.4688 (0.0131)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 21
+Accuracy: 0.4062 (0.0798)
+F1 score: 0.0548 (0.0029)
+ROC AUC: 0.4649 (0.0150)
+-- Predicting Adrenal_Gland with Pituitary community 21
+Accuracy: 0.5085 (0.0710)
+F1 score: 0.0235 (0.0020)
+ROC AUC: 0.4375 (0.0208)
+-- Predicting Artery_Aorta with Pituitary community 21
+Accuracy: 0.2134 (0.1145)
+F1 score: 0.0478 (0.0044)
+ROC AUC: 0.4759 (0.0124)
+-- Predicting Artery_Coronary with Pituitary community 21
+Accuracy: 0.3458 (0.0662)
+F1 score: 0.0248 (0.0015)
+ROC AUC: 0.4550 (0.0171)
+-- Predicting Artery_Tibial with Pituitary community 21
+Accuracy: 0.2618 (0.0773)
+F1 score: 0.0756 (0.0043)
+ROC AUC: 0.4722 (0.0098)
+-- Predicting Brain_Amygdala with Pituitary community 21
+Accuracy: 0.4644 (0.2110)
+F1 score: 0.0141 (0.0024)
+ROC AUC: 0.4215 (0.0249)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 21
+Accuracy: 0.4427 (0.0610)
+F1 score: 0.0138 (0.0012)
+ROC AUC: 0.4248 (0.0140)
+-- Predicting Brain_Caudate with Pituitary community 21
+Accuracy: 0.3922 (0.0406)
+F1 score: 0.0212 (0.0005)
+ROC AUC: 0.4611 (0.0162)
+-- Predicting Brain_Cerebellar with Pituitary community 21
+Accuracy: 0.4988 (0.0538)
+F1 score: 0.0184 (0.0012)
+ROC AUC: 0.4397 (0.0261)
+-- Predicting Brain_Cerebellum with Pituitary community 21
+Accuracy: 0.4059 (0.0473)
+F1 score: 0.0243 (0.0019)
+ROC AUC: 0.4530 (0.0162)
+-- Predicting Brain_Cortex with Pituitary community 21
+Accuracy: 0.3752 (0.0590)
+F1 score: 0.0236 (0.0009)
+ROC AUC: 0.4332 (0.0213)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 21
+Accuracy: 0.4173 (0.0741)
+F1 score: 0.0205 (0.0002)
+ROC AUC: 0.4498 (0.0063)
+-- Predicting Brain_Hippocampus with Pituitary community 21
+Accuracy: 0.3587 (0.2452)
+F1 score: 0.0202 (0.0017)
+ROC AUC: 0.4783 (0.0230)
+-- Predicting Brain_Hypothalamus with Pituitary community 21
+Accuracy: 0.4339 (0.1122)
+F1 score: 0.0172 (0.0020)
+ROC AUC: 0.4223 (0.0173)
+-- Predicting Brain_Nucleus with Pituitary community 21
+Accuracy: 0.3949 (0.0907)
+F1 score: 0.0244 (0.0019)
+ROC AUC: 0.4705 (0.0057)
+-- Predicting Brain_Putamen with Pituitary community 21
+Accuracy: 0.4224 (0.0194)
+F1 score: 0.0183 (0.0009)
+ROC AUC: 0.4399 (0.0130)
+-- Predicting Brain_Spinal_cord with Pituitary community 21
+Accuracy: 0.4149 (0.0412)
+F1 score: 0.0130 (0.0020)
+ROC AUC: 0.4432 (0.0256)
+-- Predicting Brain_Substantia_nigra with Pituitary community 21
+Accuracy: 0.5071 (0.1165)
+F1 score: 0.0115 (0.0014)
+ROC AUC: 0.4076 (0.0468)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 21
+Accuracy: 0.2164 (0.0969)
+F1 score: 0.0552 (0.0015)
+ROC AUC: 0.4663 (0.0045)
+-- Predicting Cells_Cultured with Pituitary community 21
+Accuracy: 0.5321 (0.1472)
+F1 score: 0.0583 (0.0025)
+ROC AUC: 0.4518 (0.0177)
+-- Predicting Cells_EBV with Pituitary community 21
+Accuracy: 1.0000 (0.0000)
+F1 score: 1.0000 (0.0000)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Colon_Sigmoid with Pituitary community 21
+Accuracy: 0.3678 (0.1187)
+F1 score: 0.0363 (0.0030)
+ROC AUC: 0.4681 (0.0104)
+-- Predicting Colon_Transverse with Pituitary community 21
+Accuracy: 0.2611 (0.2016)
+F1 score: 0.0442 (0.0039)
+ROC AUC: 0.4783 (0.0170)
+-- Predicting Esophagus_Gastro with Pituitary community 21
+Accuracy: 0.3245 (0.0786)
+F1 score: 0.0398 (0.0012)
+ROC AUC: 0.4715 (0.0006)
+-- Predicting Esophagus_Mucosa with Pituitary community 21
+Accuracy: 0.4029 (0.0934)
+F1 score: 0.0567 (0.0050)
+ROC AUC: 0.4675 (0.0149)
+-- Predicting Esophagus_Muscularis with Pituitary community 21
+Accuracy: 0.2280 (0.1130)
+F1 score: 0.0564 (0.0004)
+ROC AUC: 0.4881 (0.0052)
+-- Predicting Heart_Atrial with Pituitary community 21
+Accuracy: 0.3887 (0.0766)
+F1 score: 0.0429 (0.0015)
+ROC AUC: 0.4462 (0.0098)
+-- Predicting Heart_L_Vent with Pituitary community 21
+Accuracy: 0.3032 (0.1250)
+F1 score: 0.0433 (0.0069)
+ROC AUC: 0.4411 (0.0133)
+-- Predicting Kidney_Cortex with Pituitary community 21
+Accuracy: 0.5837 (0.0645)
+F1 score: 0.0059 (0.0010)
+ROC AUC: 0.3959 (0.0231)
+-- Predicting Liver with Pituitary community 21
+Accuracy: 0.4578 (0.0085)
+F1 score: 0.0234 (0.0029)
+ROC AUC: 0.4392 (0.0175)
+-- Predicting Lung with Pituitary community 21
+Accuracy: 0.2780 (0.1766)
+F1 score: 0.0607 (0.0036)
+ROC AUC: 0.4801 (0.0237)
+-- Predicting Minor_Salivary with Pituitary community 21
+Accuracy: 0.4341 (0.0793)
+F1 score: 0.0163 (0.0008)
+ROC AUC: 0.4423 (0.0075)
+-- Predicting Muscle_Skeletal with Pituitary community 21
+Accuracy: 0.1770 (0.1277)
+F1 score: 0.0860 (0.0029)
+ROC AUC: 0.4859 (0.0118)
+-- Predicting Nerve_Tibial with Pituitary community 21
+Accuracy: 0.2468 (0.1578)
+F1 score: 0.0659 (0.0023)
+ROC AUC: 0.4757 (0.0073)
+-- Predicting Ovary with Pituitary community 21
+Accuracy: 0.3483 (0.1342)
+F1 score: 0.0205 (0.0011)
+ROC AUC: 0.4621 (0.0108)
+-- Predicting Pancreas with Pituitary community 21
+Accuracy: 0.5796 (0.0786)
+F1 score: 0.0349 (0.0024)
+ROC AUC: 0.4375 (0.0183)
+-- Predicting Pituitary with Pituitary community 21
+Accuracy: 0.3425 (0.2091)
+F1 score: 0.0267 (0.0036)
+ROC AUC: 0.4481 (0.0433)
+-- Predicting Prostate with Pituitary community 21
+Accuracy: 0.3450 (0.0192)
+F1 score: 0.0272 (0.0020)
+ROC AUC: 0.4568 (0.0129)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 21
+Accuracy: 0.2842 (0.0997)
+F1 score: 0.0671 (0.0038)
+ROC AUC: 0.4770 (0.0108)
+-- Predicting Skin_Sun_Epsd with Pituitary community 21
+Accuracy: 0.1739 (0.1714)
+F1 score: 0.0747 (0.0039)
+ROC AUC: 0.4894 (0.0091)
+-- Predicting Small_Intestine with Pituitary community 21
+Accuracy: 0.3643 (0.0223)
+F1 score: 0.0211 (0.0003)
+ROC AUC: 0.4512 (0.0189)
+-- Predicting Spleen with Pituitary community 21
+Accuracy: 0.4103 (0.1271)
+F1 score: 0.0278 (0.0020)
+ROC AUC: 0.4570 (0.0020)
+-- Predicting Stomach with Pituitary community 21
+Accuracy: 0.5035 (0.0885)
+F1 score: 0.0354 (0.0017)
+ROC AUC: 0.4573 (0.0111)
+-- Predicting Testis with Pituitary community 21
+Accuracy: 0.5333 (0.1610)
+F1 score: 0.0415 (0.0053)
+ROC AUC: 0.4603 (0.0138)
+-- Predicting Thyroid with Pituitary community 21
+Accuracy: 0.3624 (0.1122)
+F1 score: 0.0640 (0.0005)
+ROC AUC: 0.4793 (0.0091)
+-- Predicting Uterus with Pituitary community 21
+Accuracy: 0.5083 (0.0962)
+F1 score: 0.0109 (0.0024)
+ROC AUC: 0.4250 (0.0047)
+-- Predicting Vagina with Pituitary community 21
+Accuracy: 0.4258 (0.0624)
+F1 score: 0.0148 (0.0010)
+ROC AUC: 0.4314 (0.0106)
+-- Predicting Whole_Blood with Pituitary community 21
+Accuracy: 0.6772 (0.0700)
+F1 score: 0.0921 (0.0119)
+ROC AUC: 0.4835 (0.0102)
+-- Predicting Adipose_Subcutaneous with Pituitary community 22
+Accuracy: 0.3161 (0.0503)
+F1 score: 0.0994 (0.0069)
+ROC AUC: 0.6384 (0.0186)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 22
+Accuracy: 0.3141 (0.0481)
+F1 score: 0.0784 (0.0039)
+ROC AUC: 0.6312 (0.0175)
+-- Predicting Adrenal_Gland with Pituitary community 22
+Accuracy: 0.3037 (0.0546)
+F1 score: 0.0409 (0.0035)
+ROC AUC: 0.5930 (0.0594)
+-- Predicting Artery_Aorta with Pituitary community 22
+Accuracy: 0.3049 (0.0488)
+F1 score: 0.0664 (0.0050)
+ROC AUC: 0.6330 (0.0262)
+-- Predicting Artery_Coronary with Pituitary community 22
+Accuracy: 0.3031 (0.0522)
+F1 score: 0.0369 (0.0020)
+ROC AUC: 0.6218 (0.0195)
+-- Predicting Artery_Tibial with Pituitary community 22
+Accuracy: 0.3181 (0.0485)
+F1 score: 0.0996 (0.0065)
+ROC AUC: 0.6274 (0.0190)
+-- Predicting Brain_Amygdala with Pituitary community 22
+Accuracy: 0.7478 (0.0456)
+F1 score: 0.0650 (0.0117)
+ROC AUC: 0.8778 (0.0194)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 22
+Accuracy: 0.3084 (0.0577)
+F1 score: 0.0252 (0.0016)
+ROC AUC: 0.5981 (0.0101)
+-- Predicting Brain_Caudate with Pituitary community 22
+Accuracy: 0.7521 (0.0453)
+F1 score: 0.0959 (0.0156)
+ROC AUC: 0.8738 (0.0310)
+-- Predicting Brain_Cerebellar with Pituitary community 22
+Accuracy: 0.7508 (0.0453)
+F1 score: 0.0870 (0.0148)
+ROC AUC: 0.8775 (0.0211)
+-- Predicting Brain_Cerebellum with Pituitary community 22
+Accuracy: 0.2935 (0.0454)
+F1 score: 0.0359 (0.0020)
+ROC AUC: 0.6297 (0.0408)
+-- Predicting Brain_Cortex with Pituitary community 22
+Accuracy: 0.2933 (0.0501)
+F1 score: 0.0356 (0.0029)
+ROC AUC: 0.6196 (0.0185)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 22
+Accuracy: 0.2987 (0.0490)
+F1 score: 0.0302 (0.0023)
+ROC AUC: 0.6066 (0.0277)
+-- Predicting Brain_Hippocampus with Pituitary community 22
+Accuracy: 0.7501 (0.0453)
+F1 score: 0.0823 (0.0143)
+ROC AUC: 0.8690 (0.0300)
+-- Predicting Brain_Hypothalamus with Pituitary community 22
+Accuracy: 0.7505 (0.0453)
+F1 score: 0.0846 (0.0140)
+ROC AUC: 0.8836 (0.0189)
+-- Predicting Brain_Nucleus with Pituitary community 22
+Accuracy: 0.7526 (0.0453)
+F1 score: 0.0997 (0.0166)
+ROC AUC: 0.8795 (0.0159)
+-- Predicting Brain_Putamen with Pituitary community 22
+Accuracy: 0.7505 (0.0453)
+F1 score: 0.0846 (0.0140)
+ROC AUC: 0.8698 (0.0222)
+-- Predicting Brain_Spinal_cord with Pituitary community 22
+Accuracy: 0.7476 (0.0457)
+F1 score: 0.0636 (0.0115)
+ROC AUC: 0.8667 (0.0260)
+-- Predicting Brain_Substantia_nigra with Pituitary community 22
+Accuracy: 0.7468 (0.0458)
+F1 score: 0.0577 (0.0106)
+ROC AUC: 0.8771 (0.0166)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 22
+Accuracy: 0.3012 (0.0485)
+F1 score: 0.0697 (0.0043)
+ROC AUC: 0.6252 (0.0404)
+-- Predicting Cells_Cultured with Pituitary community 22
+Accuracy: 0.3071 (0.0491)
+F1 score: 0.0840 (0.0051)
+ROC AUC: 0.6333 (0.0241)
+-- Predicting Cells_EBV with Pituitary community 22
+Accuracy: 0.2952 (0.0510)
+F1 score: 0.0256 (0.0016)
+ROC AUC: 0.6154 (0.0122)
+-- Predicting Colon_Sigmoid with Pituitary community 22
+Accuracy: 0.3021 (0.0509)
+F1 score: 0.0548 (0.0039)
+ROC AUC: 0.6353 (0.0111)
+-- Predicting Colon_Transverse with Pituitary community 22
+Accuracy: 0.3003 (0.0498)
+F1 score: 0.0633 (0.0041)
+ROC AUC: 0.6258 (0.0201)
+-- Predicting Esophagus_Gastro with Pituitary community 22
+Accuracy: 0.3007 (0.0483)
+F1 score: 0.0572 (0.0036)
+ROC AUC: 0.6407 (0.0096)
+-- Predicting Esophagus_Mucosa with Pituitary community 22
+Accuracy: 0.3067 (0.0483)
+F1 score: 0.0865 (0.0055)
+ROC AUC: 0.6292 (0.0234)
+-- Predicting Esophagus_Muscularis with Pituitary community 22
+Accuracy: 0.3069 (0.0493)
+F1 score: 0.0806 (0.0052)
+ROC AUC: 0.6401 (0.0079)
+-- Predicting Heart_Atrial with Pituitary community 22
+Accuracy: 0.7638 (0.0381)
+F1 score: 0.1747 (0.0229)
+ROC AUC: 0.8723 (0.0286)
+-- Predicting Heart_L_Vent with Pituitary community 22
+Accuracy: 0.7647 (0.0382)
+F1 score: 0.1806 (0.0230)
+ROC AUC: 0.8804 (0.0241)
+-- Predicting Kidney_Cortex with Pituitary community 22
+Accuracy: 0.7441 (0.0446)
+F1 score: 0.0373 (0.0068)
+ROC AUC: 0.8641 (0.0289)
+-- Predicting Liver with Pituitary community 22
+Accuracy: 0.3030 (0.0535)
+F1 score: 0.0362 (0.0021)
+ROC AUC: 0.5963 (0.0049)
+-- Predicting Lung with Pituitary community 22
+Accuracy: 0.3143 (0.0502)
+F1 score: 0.0851 (0.0048)
+ROC AUC: 0.6364 (0.0181)
+-- Predicting Minor_Salivary with Pituitary community 22
+Accuracy: 0.2962 (0.0485)
+F1 score: 0.0260 (0.0018)
+ROC AUC: 0.6164 (0.0417)
+-- Predicting Muscle_Skeletal with Pituitary community 22
+Accuracy: 0.7857 (0.0517)
+F1 score: 0.3105 (0.0479)
+ROC AUC: 0.8866 (0.0268)
+-- Predicting Nerve_Tibial with Pituitary community 22
+Accuracy: 0.3118 (0.0175)
+F1 score: 0.0898 (0.0019)
+ROC AUC: 0.6349 (0.0334)
+-- Predicting Ovary with Pituitary community 22
+Accuracy: 0.3035 (0.0584)
+F1 score: 0.0269 (0.0018)
+ROC AUC: 0.6144 (0.0387)
+-- Predicting Pancreas with Pituitary community 22
+Accuracy: 0.7594 (0.0588)
+F1 score: 0.1506 (0.0364)
+ROC AUC: 0.8801 (0.0294)
+-- Predicting Pituitary with Pituitary community 22
+Accuracy: 0.3060 (0.0463)
+F1 score: 0.0409 (0.0020)
+ROC AUC: 0.6079 (0.0124)
+-- Predicting Prostate with Pituitary community 22
+Accuracy: 0.2933 (0.0384)
+F1 score: 0.0393 (0.0023)
+ROC AUC: 0.6289 (0.0194)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 22
+Accuracy: 0.3089 (0.0161)
+F1 score: 0.0897 (0.0021)
+ROC AUC: 0.6249 (0.0192)
+-- Predicting Skin_Sun_Epsd with Pituitary community 22
+Accuracy: 0.3154 (0.0186)
+F1 score: 0.1042 (0.0025)
+ROC AUC: 0.6271 (0.0131)
+-- Predicting Small_Intestine with Pituitary community 22
+Accuracy: 0.2959 (0.0444)
+F1 score: 0.0305 (0.0015)
+ROC AUC: 0.6157 (0.0256)
+-- Predicting Spleen with Pituitary community 22
+Accuracy: 0.2994 (0.0394)
+F1 score: 0.0393 (0.0022)
+ROC AUC: 0.6176 (0.0239)
+-- Predicting Stomach with Pituitary community 22
+Accuracy: 0.3018 (0.0310)
+F1 score: 0.0563 (0.0017)
+ROC AUC: 0.6314 (0.0154)
+-- Predicting Testis with Pituitary community 22
+Accuracy: 0.3075 (0.0316)
+F1 score: 0.0527 (0.0027)
+ROC AUC: 0.6276 (0.0039)
+-- Predicting Thyroid with Pituitary community 22
+Accuracy: 0.3155 (0.0198)
+F1 score: 0.0974 (0.0020)
+ROC AUC: 0.6378 (0.0128)
+-- Predicting Uterus with Pituitary community 22
+Accuracy: 0.3148 (0.0720)
+F1 score: 0.0204 (0.0025)
+ROC AUC: 0.6103 (0.0306)
+-- Predicting Vagina with Pituitary community 22
+Accuracy: 0.2890 (0.0485)
+F1 score: 0.0255 (0.0016)
+ROC AUC: 0.6223 (0.0091)
+-- Predicting Whole_Blood with Pituitary community 22
+Accuracy: 0.7834 (0.0629)
+F1 score: 0.3033 (0.0685)
+ROC AUC: 0.8805 (0.0373)
+-- Predicting Adipose_Subcutaneous with Pituitary community 23
+Accuracy: 0.4751 (0.0925)
+F1 score: 0.1260 (0.0192)
+ROC AUC: 0.7361 (0.0799)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 23
+Accuracy: 0.4859 (0.1054)
+F1 score: 0.1086 (0.0193)
+ROC AUC: 0.7502 (0.0930)
+-- Predicting Adrenal_Gland with Pituitary community 23
+Accuracy: 0.7956 (0.1598)
+F1 score: 0.2308 (0.1684)
+ROC AUC: 0.9115 (0.0892)
+-- Predicting Artery_Aorta with Pituitary community 23
+Accuracy: 0.4611 (0.1017)
+F1 score: 0.0867 (0.0140)
+ROC AUC: 0.7293 (0.0767)
+-- Predicting Artery_Coronary with Pituitary community 23
+Accuracy: 0.4546 (0.1202)
+F1 score: 0.0488 (0.0091)
+ROC AUC: 0.7344 (0.0850)
+-- Predicting Artery_Tibial with Pituitary community 23
+Accuracy: 0.8652 (0.1231)
+F1 score: 0.4782 (0.1997)
+ROC AUC: 0.9396 (0.0496)
+-- Predicting Brain_Amygdala with Pituitary community 23
+Accuracy: 0.4669 (0.1477)
+F1 score: 0.0308 (0.0075)
+ROC AUC: 0.7210 (0.0823)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 23
+Accuracy: 0.4804 (0.1612)
+F1 score: 0.0361 (0.0108)
+ROC AUC: 0.7381 (0.0912)
+-- Predicting Brain_Caudate with Pituitary community 23
+Accuracy: 0.4614 (0.1306)
+F1 score: 0.0445 (0.0084)
+ROC AUC: 0.7181 (0.0968)
+-- Predicting Brain_Cerebellar with Pituitary community 23
+Accuracy: 0.4452 (0.1215)
+F1 score: 0.0404 (0.0071)
+ROC AUC: 0.7056 (0.0804)
+-- Predicting Brain_Cerebellum with Pituitary community 23
+Accuracy: 0.8376 (0.1324)
+F1 score: 0.2508 (0.1736)
+ROC AUC: 0.9306 (0.0498)
+-- Predicting Brain_Cortex with Pituitary community 23
+Accuracy: 0.4647 (0.1392)
+F1 score: 0.0495 (0.0108)
+ROC AUC: 0.7351 (0.0837)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 23
+Accuracy: 0.4493 (0.1327)
+F1 score: 0.0393 (0.0071)
+ROC AUC: 0.7253 (0.0672)
+-- Predicting Brain_Hippocampus with Pituitary community 23
+Accuracy: 0.4542 (0.1377)
+F1 score: 0.0390 (0.0078)
+ROC AUC: 0.7390 (0.0725)
+-- Predicting Brain_Hypothalamus with Pituitary community 23
+Accuracy: 0.4481 (0.1232)
+F1 score: 0.0385 (0.0071)
+ROC AUC: 0.7208 (0.0655)
+-- Predicting Brain_Nucleus with Pituitary community 23
+Accuracy: 0.4474 (0.1244)
+F1 score: 0.0445 (0.0075)
+ROC AUC: 0.7313 (0.0774)
+-- Predicting Brain_Putamen with Pituitary community 23
+Accuracy: 0.4506 (0.1252)
+F1 score: 0.0392 (0.0085)
+ROC AUC: 0.7326 (0.1009)
+-- Predicting Brain_Spinal_cord with Pituitary community 23
+Accuracy: 0.4665 (0.1460)
+F1 score: 0.0296 (0.0078)
+ROC AUC: 0.7160 (0.0894)
+-- Predicting Brain_Substantia_nigra with Pituitary community 23
+Accuracy: 0.4546 (0.1312)
+F1 score: 0.0262 (0.0055)
+ROC AUC: 0.7281 (0.0989)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 23
+Accuracy: 0.4619 (0.1031)
+F1 score: 0.0881 (0.0145)
+ROC AUC: 0.7285 (0.0755)
+-- Predicting Cells_Cultured with Pituitary community 23
+Accuracy: 0.9999 (0.0001)
+F1 score: 0.9990 (0.0015)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Pituitary community 23
+Accuracy: 0.9470 (0.0399)
+F1 score: 0.4678 (0.3774)
+ROC AUC: 0.9909 (0.0128)
+-- Predicting Colon_Sigmoid with Pituitary community 23
+Accuracy: 0.7927 (0.1830)
+F1 score: 0.2775 (0.1625)
+ROC AUC: 0.9168 (0.0669)
+-- Predicting Colon_Transverse with Pituitary community 23
+Accuracy: 0.8445 (0.1217)
+F1 score: 0.3279 (0.1602)
+ROC AUC: 0.9183 (0.0641)
+-- Predicting Esophagus_Gastro with Pituitary community 23
+Accuracy: 0.9575 (0.0364)
+F1 score: 0.5970 (0.2241)
+ROC AUC: 0.9805 (0.0182)
+-- Predicting Esophagus_Mucosa with Pituitary community 23
+Accuracy: 0.7892 (0.1601)
+F1 score: 0.3368 (0.1880)
+ROC AUC: 0.9226 (0.0570)
+-- Predicting Esophagus_Muscularis with Pituitary community 23
+Accuracy: 0.9666 (0.0243)
+F1 score: 0.6905 (0.1727)
+ROC AUC: 0.9841 (0.0133)
+-- Predicting Heart_Atrial with Pituitary community 23
+Accuracy: 0.4652 (0.1454)
+F1 score: 0.0883 (0.0216)
+ROC AUC: 0.7319 (0.1133)
+-- Predicting Heart_L_Vent with Pituitary community 23
+Accuracy: 0.4691 (0.1498)
+F1 score: 0.0906 (0.0216)
+ROC AUC: 0.7411 (0.0970)
+-- Predicting Kidney_Cortex with Pituitary community 23
+Accuracy: 0.4535 (0.1292)
+F1 score: 0.0174 (0.0036)
+ROC AUC: 0.7008 (0.1320)
+-- Predicting Liver with Pituitary community 23
+Accuracy: 0.4673 (0.1550)
+F1 score: 0.0518 (0.0133)
+ROC AUC: 0.7304 (0.1047)
+-- Predicting Lung with Pituitary community 23
+Accuracy: 0.4831 (0.1503)
+F1 score: 0.1227 (0.0310)
+ROC AUC: 0.7413 (0.1029)
+-- Predicting Minor_Salivary with Pituitary community 23
+Accuracy: 0.7665 (0.1919)
+F1 score: 0.1449 (0.1067)
+ROC AUC: 0.8709 (0.1301)
+-- Predicting Muscle_Skeletal with Pituitary community 23
+Accuracy: 0.8037 (0.1418)
+F1 score: 0.4115 (0.1959)
+ROC AUC: 0.9306 (0.0461)
+-- Predicting Nerve_Tibial with Pituitary community 23
+Accuracy: 0.8635 (0.1035)
+F1 score: 0.5039 (0.3429)
+ROC AUC: 0.9371 (0.0465)
+-- Predicting Ovary with Pituitary community 23
+Accuracy: 0.8410 (0.1308)
+F1 score: 0.3896 (0.4199)
+ROC AUC: 0.9242 (0.0590)
+-- Predicting Pancreas with Pituitary community 23
+Accuracy: 0.9576 (0.0586)
+F1 score: 0.7319 (0.3459)
+ROC AUC: 0.9621 (0.0535)
+-- Predicting Pituitary with Pituitary community 23
+Accuracy: 0.4551 (0.1444)
+F1 score: 0.0548 (0.0122)
+ROC AUC: 0.7356 (0.0897)
+-- Predicting Prostate with Pituitary community 23
+Accuracy: 0.8477 (0.1212)
+F1 score: 0.3935 (0.3851)
+ROC AUC: 0.9241 (0.0602)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 23
+Accuracy: 0.9886 (0.0120)
+F1 score: 0.8743 (0.1218)
+ROC AUC: 0.9953 (0.0065)
+-- Predicting Skin_Sun_Epsd with Pituitary community 23
+Accuracy: 0.8666 (0.1005)
+F1 score: 0.5252 (0.3327)
+ROC AUC: 0.9399 (0.0429)
+-- Predicting Small_Intestine with Pituitary community 23
+Accuracy: 0.7682 (0.2054)
+F1 score: 0.1742 (0.1194)
+ROC AUC: 0.9058 (0.0900)
+-- Predicting Spleen with Pituitary community 23
+Accuracy: 0.4810 (0.1449)
+F1 score: 0.0576 (0.0140)
+ROC AUC: 0.7213 (0.1060)
+-- Predicting Stomach with Pituitary community 23
+Accuracy: 0.7778 (0.1978)
+F1 score: 0.2727 (0.1641)
+ROC AUC: 0.8760 (0.1360)
+-- Predicting Testis with Pituitary community 23
+Accuracy: 0.4733 (0.1452)
+F1 score: 0.0763 (0.0185)
+ROC AUC: 0.7401 (0.1113)
+-- Predicting Thyroid with Pituitary community 23
+Accuracy: 0.4708 (0.1463)
+F1 score: 0.1294 (0.0275)
+ROC AUC: 0.7358 (0.0942)
+-- Predicting Uterus with Pituitary community 23
+Accuracy: 0.9632 (0.0484)
+F1 score: 0.6311 (0.3554)
+ROC AUC: 0.9813 (0.0263)
+-- Predicting Vagina with Pituitary community 23
+Accuracy: 0.9454 (0.0726)
+F1 score: 0.6085 (0.3631)
+ROC AUC: 0.9773 (0.0321)
+-- Predicting Whole_Blood with Pituitary community 23
+Accuracy: 0.4764 (0.1330)
+F1 score: 0.1503 (0.0313)
+ROC AUC: 0.7272 (0.1048)
+-- Predicting Adipose_Subcutaneous with Pituitary community 24
+Accuracy: 0.4518 (0.1342)
+F1 score: 0.1291 (0.0320)
+ROC AUC: 0.7226 (0.0648)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 24
+Accuracy: 0.4498 (0.1314)
+F1 score: 0.1062 (0.0258)
+ROC AUC: 0.7253 (0.0697)
+-- Predicting Adrenal_Gland with Pituitary community 24
+Accuracy: 0.9685 (0.0265)
+F1 score: 0.5861 (0.2317)
+ROC AUC: 0.9895 (0.0138)
+-- Predicting Artery_Aorta with Pituitary community 24
+Accuracy: 0.4369 (0.1360)
+F1 score: 0.0875 (0.0226)
+ROC AUC: 0.7191 (0.0655)
+-- Predicting Artery_Coronary with Pituitary community 24
+Accuracy: 0.4293 (0.1287)
+F1 score: 0.0493 (0.0124)
+ROC AUC: 0.7149 (0.0780)
+-- Predicting Artery_Tibial with Pituitary community 24
+Accuracy: 0.3742 (0.1969)
+F1 score: 0.1191 (0.0381)
+ROC AUC: 0.7192 (0.0729)
+-- Predicting Brain_Amygdala with Pituitary community 24
+Accuracy: 0.8727 (0.1010)
+F1 score: 0.3810 (0.4143)
+ROC AUC: 0.9520 (0.0358)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 24
+Accuracy: 0.8740 (0.0995)
+F1 score: 0.3901 (0.4109)
+ROC AUC: 0.9434 (0.0419)
+-- Predicting Brain_Caudate with Pituitary community 24
+Accuracy: 0.8772 (0.0957)
+F1 score: 0.4117 (0.4008)
+ROC AUC: 0.9466 (0.0383)
+-- Predicting Brain_Cerebellar with Pituitary community 24
+Accuracy: 0.9601 (0.0321)
+F1 score: 0.5219 (0.3302)
+ROC AUC: 0.9907 (0.0092)
+-- Predicting Brain_Cerebellum with Pituitary community 24
+Accuracy: 0.8704 (0.1449)
+F1 score: 0.4558 (0.3820)
+ROC AUC: 0.9627 (0.0457)
+-- Predicting Brain_Cortex with Pituitary community 24
+Accuracy: 0.4293 (0.1271)
+F1 score: 0.0472 (0.0118)
+ROC AUC: 0.7130 (0.0864)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 24
+Accuracy: 0.8759 (0.0971)
+F1 score: 0.4034 (0.4047)
+ROC AUC: 0.9508 (0.0376)
+-- Predicting Brain_Hippocampus with Pituitary community 24
+Accuracy: 0.8753 (0.0979)
+F1 score: 0.3987 (0.4071)
+ROC AUC: 0.9469 (0.0384)
+-- Predicting Brain_Hypothalamus with Pituitary community 24
+Accuracy: 0.9920 (0.0054)
+F1 score: 0.7646 (0.1547)
+ROC AUC: 0.9993 (0.0005)
+-- Predicting Brain_Nucleus with Pituitary community 24
+Accuracy: 0.9929 (0.0056)
+F1 score: 0.8131 (0.1408)
+ROC AUC: 0.9994 (0.0007)
+-- Predicting Brain_Putamen with Pituitary community 24
+Accuracy: 0.3478 (0.1967)
+F1 score: 0.0366 (0.0121)
+ROC AUC: 0.7082 (0.0780)
+-- Predicting Brain_Spinal_cord with Pituitary community 24
+Accuracy: 0.8725 (0.1012)
+F1 score: 0.3795 (0.4148)
+ROC AUC: 0.9414 (0.0437)
+-- Predicting Brain_Substantia_nigra with Pituitary community 24
+Accuracy: 0.8717 (0.1022)
+F1 score: 0.3731 (0.4168)
+ROC AUC: 0.9495 (0.0376)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 24
+Accuracy: 0.4379 (0.1357)
+F1 score: 0.0887 (0.0218)
+ROC AUC: 0.7220 (0.0678)
+-- Predicting Cells_Cultured with Pituitary community 24
+Accuracy: 0.4024 (0.1637)
+F1 score: 0.1026 (0.0297)
+ROC AUC: 0.7299 (0.0592)
+-- Predicting Cells_EBV with Pituitary community 24
+Accuracy: 0.4303 (0.1295)
+F1 score: 0.0346 (0.0089)
+ROC AUC: 0.7148 (0.0792)
+-- Predicting Colon_Sigmoid with Pituitary community 24
+Accuracy: 0.3714 (0.1869)
+F1 score: 0.0678 (0.0214)
+ROC AUC: 0.7221 (0.0615)
+-- Predicting Colon_Transverse with Pituitary community 24
+Accuracy: 0.4449 (0.1298)
+F1 score: 0.0845 (0.0208)
+ROC AUC: 0.7216 (0.0789)
+-- Predicting Esophagus_Gastro with Pituitary community 24
+Accuracy: 0.3578 (0.1972)
+F1 score: 0.0691 (0.0222)
+ROC AUC: 0.7247 (0.0653)
+-- Predicting Esophagus_Mucosa with Pituitary community 24
+Accuracy: 0.8576 (0.0744)
+F1 score: 0.3775 (0.1828)
+ROC AUC: 0.9358 (0.0322)
+-- Predicting Esophagus_Muscularis with Pituitary community 24
+Accuracy: 0.3685 (0.1963)
+F1 score: 0.0969 (0.0314)
+ROC AUC: 0.7226 (0.0776)
+-- Predicting Heart_Atrial with Pituitary community 24
+Accuracy: 0.8498 (0.0799)
+F1 score: 0.3138 (0.1771)
+ROC AUC: 0.9299 (0.0408)
+-- Predicting Heart_L_Vent with Pituitary community 24
+Accuracy: 0.8509 (0.0790)
+F1 score: 0.3210 (0.1767)
+ROC AUC: 0.9308 (0.0416)
+-- Predicting Kidney_Cortex with Pituitary community 24
+Accuracy: 0.4275 (0.1238)
+F1 score: 0.0172 (0.0042)
+ROC AUC: 0.7059 (0.0887)
+-- Predicting Liver with Pituitary community 24
+Accuracy: 0.8384 (0.0892)
+F1 score: 0.2079 (0.1404)
+ROC AUC: 0.9263 (0.0436)
+-- Predicting Lung with Pituitary community 24
+Accuracy: 0.4399 (0.1394)
+F1 score: 0.1142 (0.0300)
+ROC AUC: 0.7194 (0.0670)
+-- Predicting Minor_Salivary with Pituitary community 24
+Accuracy: 0.3477 (0.1973)
+F1 score: 0.0310 (0.0103)
+ROC AUC: 0.7192 (0.0675)
+-- Predicting Muscle_Skeletal with Pituitary community 24
+Accuracy: 0.4355 (0.1453)
+F1 score: 0.1491 (0.0383)
+ROC AUC: 0.7210 (0.0788)
+-- Predicting Nerve_Tibial with Pituitary community 24
+Accuracy: 0.4331 (0.1405)
+F1 score: 0.1163 (0.0300)
+ROC AUC: 0.7165 (0.0745)
+-- Predicting Ovary with Pituitary community 24
+Accuracy: 0.9003 (0.0917)
+F1 score: 0.4239 (0.3861)
+ROC AUC: 0.9626 (0.0366)
+-- Predicting Pancreas with Pituitary community 24
+Accuracy: 0.4089 (0.1479)
+F1 score: 0.0674 (0.0186)
+ROC AUC: 0.7186 (0.0618)
+-- Predicting Pituitary with Pituitary community 24
+Accuracy: 0.8868 (0.1063)
+F1 score: 0.4456 (0.3671)
+ROC AUC: 0.9651 (0.0344)
+-- Predicting Prostate with Pituitary community 24
+Accuracy: 0.8814 (0.1103)
+F1 score: 0.4394 (0.3868)
+ROC AUC: 0.9584 (0.0410)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 24
+Accuracy: 0.9503 (0.0250)
+F1 score: 0.6064 (0.1396)
+ROC AUC: 0.9797 (0.0176)
+-- Predicting Skin_Sun_Epsd with Pituitary community 24
+Accuracy: 0.3761 (0.1967)
+F1 score: 0.1235 (0.0401)
+ROC AUC: 0.7208 (0.0729)
+-- Predicting Small_Intestine with Pituitary community 24
+Accuracy: 0.9266 (0.0395)
+F1 score: 0.2947 (0.1447)
+ROC AUC: 0.9688 (0.0209)
+-- Predicting Spleen with Pituitary community 24
+Accuracy: 0.8419 (0.1025)
+F1 score: 0.2289 (0.1483)
+ROC AUC: 0.9258 (0.0533)
+-- Predicting Stomach with Pituitary community 24
+Accuracy: 0.8515 (0.1031)
+F1 score: 0.3062 (0.1689)
+ROC AUC: 0.9329 (0.0564)
+-- Predicting Testis with Pituitary community 24
+Accuracy: 0.9224 (0.0765)
+F1 score: 0.5478 (0.3377)
+ROC AUC: 0.9682 (0.0307)
+-- Predicting Thyroid with Pituitary community 24
+Accuracy: 0.3797 (0.2042)
+F1 score: 0.1137 (0.0358)
+ROC AUC: 0.6677 (0.1104)
+-- Predicting Uterus with Pituitary community 24
+Accuracy: 0.9620 (0.0095)
+F1 score: 0.3163 (0.0527)
+ROC AUC: 0.9879 (0.0081)
+-- Predicting Vagina with Pituitary community 24
+Accuracy: 0.9947 (0.0040)
+F1 score: 0.8011 (0.1452)
+ROC AUC: 0.9996 (0.0003)
+-- Predicting Whole_Blood with Pituitary community 24
+Accuracy: 0.9086 (0.1278)
+F1 score: 0.7410 (0.3506)
+ROC AUC: 0.9650 (0.0495)
+-- Predicting Adipose_Subcutaneous with Pituitary community 25
+Accuracy: 0.4144 (0.0213)
+F1 score: 0.0640 (0.0010)
+ROC AUC: 0.4637 (0.0065)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 25
+Accuracy: 0.4893 (0.0345)
+F1 score: 0.0433 (0.0030)
+ROC AUC: 0.4201 (0.0061)
+-- Predicting Adrenal_Gland with Pituitary community 25
+Accuracy: 0.4677 (0.0192)
+F1 score: 0.0234 (0.0014)
+ROC AUC: 0.4076 (0.0042)
+-- Predicting Artery_Aorta with Pituitary community 25
+Accuracy: 0.4735 (0.0731)
+F1 score: 0.0416 (0.0040)
+ROC AUC: 0.4589 (0.0096)
+-- Predicting Artery_Coronary with Pituitary community 25
+Accuracy: 0.4062 (0.0545)
+F1 score: 0.0240 (0.0006)
+ROC AUC: 0.4482 (0.0108)
+-- Predicting Artery_Tibial with Pituitary community 25
+Accuracy: 0.4175 (0.0442)
+F1 score: 0.0675 (0.0052)
+ROC AUC: 0.4571 (0.0073)
+-- Predicting Brain_Amygdala with Pituitary community 25
+Accuracy: 0.4731 (0.0041)
+F1 score: 0.0145 (0.0018)
+ROC AUC: 0.4185 (0.0076)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 25
+Accuracy: 0.5616 (0.1010)
+F1 score: 0.0121 (0.0027)
+ROC AUC: 0.3776 (0.0127)
+-- Predicting Brain_Caudate with Pituitary community 25
+Accuracy: 0.4674 (0.1150)
+F1 score: 0.0185 (0.0009)
+ROC AUC: 0.3989 (0.0145)
+-- Predicting Brain_Cerebellar with Pituitary community 25
+Accuracy: 0.4457 (0.0194)
+F1 score: 0.0168 (0.0011)
+ROC AUC: 0.4101 (0.0091)
+-- Predicting Brain_Cerebellum with Pituitary community 25
+Accuracy: 0.5832 (0.0064)
+F1 score: 0.0207 (0.0023)
+ROC AUC: 0.4359 (0.0205)
+-- Predicting Brain_Cortex with Pituitary community 25
+Accuracy: 0.4383 (0.0393)
+F1 score: 0.0206 (0.0011)
+ROC AUC: 0.4314 (0.0075)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 25
+Accuracy: 0.5694 (0.0584)
+F1 score: 0.0176 (0.0028)
+ROC AUC: 0.4042 (0.0273)
+-- Predicting Brain_Hippocampus with Pituitary community 25
+Accuracy: 0.4683 (0.0178)
+F1 score: 0.0161 (0.0002)
+ROC AUC: 0.4226 (0.0082)
+-- Predicting Brain_Hypothalamus with Pituitary community 25
+Accuracy: 0.4802 (0.0422)
+F1 score: 0.0147 (0.0009)
+ROC AUC: 0.3970 (0.0095)
+-- Predicting Brain_Nucleus with Pituitary community 25
+Accuracy: 0.4750 (0.0438)
+F1 score: 0.0213 (0.0008)
+ROC AUC: 0.4386 (0.0112)
+-- Predicting Brain_Putamen with Pituitary community 25
+Accuracy: 0.4882 (0.0606)
+F1 score: 0.0186 (0.0029)
+ROC AUC: 0.4203 (0.0242)
+-- Predicting Brain_Spinal_cord with Pituitary community 25
+Accuracy: 0.4482 (0.0485)
+F1 score: 0.0116 (0.0022)
+ROC AUC: 0.3989 (0.0134)
+-- Predicting Brain_Substantia_nigra with Pituitary community 25
+Accuracy: 0.4739 (0.0316)
+F1 score: 0.0113 (0.0014)
+ROC AUC: 0.3841 (0.0097)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 25
+Accuracy: 0.5197 (0.0528)
+F1 score: 0.0434 (0.0064)
+ROC AUC: 0.4358 (0.0202)
+-- Predicting Cells_Cultured with Pituitary community 25
+Accuracy: 0.4745 (0.0751)
+F1 score: 0.0525 (0.0012)
+ROC AUC: 0.4487 (0.0066)
+-- Predicting Cells_EBV with Pituitary community 25
+Accuracy: 0.4191 (0.0105)
+F1 score: 0.0145 (0.0011)
+ROC AUC: 0.4013 (0.0195)
+-- Predicting Colon_Sigmoid with Pituitary community 25
+Accuracy: 0.5438 (0.0379)
+F1 score: 0.0305 (0.0020)
+ROC AUC: 0.4155 (0.0124)
+-- Predicting Colon_Transverse with Pituitary community 25
+Accuracy: 0.5342 (0.0089)
+F1 score: 0.0364 (0.0030)
+ROC AUC: 0.4247 (0.0039)
+-- Predicting Esophagus_Gastro with Pituitary community 25
+Accuracy: 0.4915 (0.1140)
+F1 score: 0.0310 (0.0072)
+ROC AUC: 0.4050 (0.0268)
+-- Predicting Esophagus_Mucosa with Pituitary community 25
+Accuracy: 0.5215 (0.0941)
+F1 score: 0.0496 (0.0052)
+ROC AUC: 0.4386 (0.0133)
+-- Predicting Esophagus_Muscularis with Pituitary community 25
+Accuracy: 0.5185 (0.0849)
+F1 score: 0.0469 (0.0059)
+ROC AUC: 0.4438 (0.0166)
+-- Predicting Heart_Atrial with Pituitary community 25
+Accuracy: 0.5838 (0.0548)
+F1 score: 0.0387 (0.0005)
+ROC AUC: 0.4173 (0.0181)
+-- Predicting Heart_L_Vent with Pituitary community 25
+Accuracy: 0.7142 (0.0942)
+F1 score: 0.0481 (0.0060)
+ROC AUC: 0.4037 (0.0304)
+-- Predicting Kidney_Cortex with Pituitary community 25
+Accuracy: 0.5089 (0.0334)
+F1 score: 0.0047 (0.0018)
+ROC AUC: 0.3233 (0.0341)
+-- Predicting Liver with Pituitary community 25
+Accuracy: 0.6007 (0.0507)
+F1 score: 0.0168 (0.0032)
+ROC AUC: 0.3693 (0.0286)
+-- Predicting Lung with Pituitary community 25
+Accuracy: 0.4617 (0.0284)
+F1 score: 0.0570 (0.0019)
+ROC AUC: 0.4550 (0.0029)
+-- Predicting Minor_Salivary with Pituitary community 25
+Accuracy: 0.4097 (0.0727)
+F1 score: 0.0143 (0.0035)
+ROC AUC: 0.4088 (0.0149)
+-- Predicting Muscle_Skeletal with Pituitary community 25
+Accuracy: 0.4539 (0.0093)
+F1 score: 0.0741 (0.0031)
+ROC AUC: 0.4501 (0.0073)
+-- Predicting Nerve_Tibial with Pituitary community 25
+Accuracy: 0.4402 (0.0427)
+F1 score: 0.0606 (0.0015)
+ROC AUC: 0.4535 (0.0071)
+-- Predicting Ovary with Pituitary community 25
+Accuracy: 0.6048 (0.0335)
+F1 score: 0.0170 (0.0017)
+ROC AUC: 0.3763 (0.0274)
+-- Predicting Pancreas with Pituitary community 25
+Accuracy: 0.5342 (0.0276)
+F1 score: 0.0291 (0.0020)
+ROC AUC: 0.4119 (0.0145)
+-- Predicting Pituitary with Pituitary community 25
+Accuracy: 0.4894 (0.0751)
+F1 score: 0.0223 (0.0046)
+ROC AUC: 0.4069 (0.0345)
+-- Predicting Prostate with Pituitary community 25
+Accuracy: 0.5000 (0.0409)
+F1 score: 0.0236 (0.0041)
+ROC AUC: 0.4269 (0.0249)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 25
+Accuracy: 0.5690 (0.0383)
+F1 score: 0.0494 (0.0022)
+ROC AUC: 0.4283 (0.0092)
+-- Predicting Skin_Sun_Epsd with Pituitary community 25
+Accuracy: 0.5250 (0.0734)
+F1 score: 0.0687 (0.0034)
+ROC AUC: 0.4539 (0.0056)
+-- Predicting Small_Intestine with Pituitary community 25
+Accuracy: 0.6519 (0.0307)
+F1 score: 0.0162 (0.0031)
+ROC AUC: 0.3904 (0.0163)
+-- Predicting Spleen with Pituitary community 25
+Accuracy: 0.4918 (0.1092)
+F1 score: 0.0237 (0.0027)
+ROC AUC: 0.4050 (0.0141)
+-- Predicting Stomach with Pituitary community 25
+Accuracy: 0.6502 (0.1811)
+F1 score: 0.0391 (0.0057)
+ROC AUC: 0.4130 (0.0181)
+-- Predicting Testis with Pituitary community 25
+Accuracy: 0.5755 (0.0698)
+F1 score: 0.0322 (0.0061)
+ROC AUC: 0.4091 (0.0259)
+-- Predicting Thyroid with Pituitary community 25
+Accuracy: 0.4616 (0.0525)
+F1 score: 0.0611 (0.0056)
+ROC AUC: 0.4471 (0.0107)
+-- Predicting Uterus with Pituitary community 25
+Accuracy: 0.4781 (0.0242)
+F1 score: 0.0125 (0.0008)
+ROC AUC: 0.4008 (0.0071)
+-- Predicting Vagina with Pituitary community 25
+Accuracy: 0.5339 (0.0323)
+F1 score: 0.0140 (0.0017)
+ROC AUC: 0.3985 (0.0313)
+-- Predicting Whole_Blood with Pituitary community 25
+Accuracy: 0.3810 (0.0474)
+F1 score: 0.0817 (0.0025)
+ROC AUC: 0.4503 (0.0041)
+-- Predicting Adipose_Subcutaneous with Pituitary community 26
+Accuracy: 0.4804 (0.0172)
+F1 score: 0.0656 (0.0025)
+ROC AUC: 0.4581 (0.0043)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 26
+Accuracy: 0.4881 (0.0309)
+F1 score: 0.0486 (0.0027)
+ROC AUC: 0.4365 (0.0061)
+-- Predicting Adrenal_Gland with Pituitary community 26
+Accuracy: 0.4921 (0.0270)
+F1 score: 0.0245 (0.0011)
+ROC AUC: 0.4282 (0.0064)
+-- Predicting Artery_Aorta with Pituitary community 26
+Accuracy: 0.5417 (0.0173)
+F1 score: 0.0388 (0.0034)
+ROC AUC: 0.4263 (0.0186)
+-- Predicting Artery_Coronary with Pituitary community 26
+Accuracy: 0.5035 (0.0181)
+F1 score: 0.0227 (0.0035)
+ROC AUC: 0.4271 (0.0158)
+-- Predicting Artery_Tibial with Pituitary community 26
+Accuracy: 0.4285 (0.0368)
+F1 score: 0.0653 (0.0023)
+ROC AUC: 0.4545 (0.0026)
+-- Predicting Brain_Amygdala with Pituitary community 26
+Accuracy: 0.5983 (0.0456)
+F1 score: 0.0118 (0.0011)
+ROC AUC: 0.3765 (0.0142)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 26
+Accuracy: 0.5225 (0.0115)
+F1 score: 0.0131 (0.0014)
+ROC AUC: 0.3823 (0.0308)
+-- Predicting Brain_Caudate with Pituitary community 26
+Accuracy: 0.4644 (0.0036)
+F1 score: 0.0162 (0.0019)
+ROC AUC: 0.4077 (0.0171)
+-- Predicting Brain_Cerebellar with Pituitary community 26
+Accuracy: 0.5069 (0.0531)
+F1 score: 0.0169 (0.0014)
+ROC AUC: 0.4063 (0.0139)
+-- Predicting Brain_Cerebellum with Pituitary community 26
+Accuracy: 0.4948 (0.0366)
+F1 score: 0.0208 (0.0009)
+ROC AUC: 0.4321 (0.0090)
+-- Predicting Brain_Cortex with Pituitary community 26
+Accuracy: 0.5553 (0.0111)
+F1 score: 0.0191 (0.0016)
+ROC AUC: 0.4034 (0.0088)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 26
+Accuracy: 0.4950 (0.0447)
+F1 score: 0.0162 (0.0022)
+ROC AUC: 0.4054 (0.0114)
+-- Predicting Brain_Hippocampus with Pituitary community 26
+Accuracy: 0.5180 (0.0581)
+F1 score: 0.0166 (0.0022)
+ROC AUC: 0.4123 (0.0151)
+-- Predicting Brain_Hypothalamus with Pituitary community 26
+Accuracy: 0.5029 (0.0361)
+F1 score: 0.0144 (0.0009)
+ROC AUC: 0.3808 (0.0185)
+-- Predicting Brain_Nucleus with Pituitary community 26
+Accuracy: 0.5267 (0.0430)
+F1 score: 0.0205 (0.0015)
+ROC AUC: 0.4115 (0.0103)
+-- Predicting Brain_Putamen with Pituitary community 26
+Accuracy: 0.5111 (0.0346)
+F1 score: 0.0171 (0.0006)
+ROC AUC: 0.4226 (0.0125)
+-- Predicting Brain_Spinal_cord with Pituitary community 26
+Accuracy: 0.5405 (0.0468)
+F1 score: 0.0104 (0.0022)
+ROC AUC: 0.3798 (0.0262)
+-- Predicting Brain_Substantia_nigra with Pituitary community 26
+Accuracy: 0.5519 (0.0823)
+F1 score: 0.0101 (0.0011)
+ROC AUC: 0.3856 (0.0054)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 26
+Accuracy: 0.4902 (0.0189)
+F1 score: 0.0422 (0.0013)
+ROC AUC: 0.4536 (0.0059)
+-- Predicting Cells_Cultured with Pituitary community 26
+Accuracy: 0.5267 (0.0409)
+F1 score: 0.0522 (0.0059)
+ROC AUC: 0.4545 (0.0175)
+-- Predicting Cells_EBV with Pituitary community 26
+Accuracy: 0.6252 (0.0549)
+F1 score: 0.0169 (0.0012)
+ROC AUC: 0.4149 (0.0230)
+-- Predicting Colon_Sigmoid with Pituitary community 26
+Accuracy: 0.4924 (0.0287)
+F1 score: 0.0352 (0.0017)
+ROC AUC: 0.4399 (0.0167)
+-- Predicting Colon_Transverse with Pituitary community 26
+Accuracy: 0.4678 (0.0677)
+F1 score: 0.0386 (0.0020)
+ROC AUC: 0.4446 (0.0035)
+-- Predicting Esophagus_Gastro with Pituitary community 26
+Accuracy: 0.4588 (0.0201)
+F1 score: 0.0341 (0.0037)
+ROC AUC: 0.4457 (0.0128)
+-- Predicting Esophagus_Mucosa with Pituitary community 26
+Accuracy: 0.5032 (0.0287)
+F1 score: 0.0547 (0.0016)
+ROC AUC: 0.4562 (0.0083)
+-- Predicting Esophagus_Muscularis with Pituitary community 26
+Accuracy: 0.5012 (0.0444)
+F1 score: 0.0501 (0.0032)
+ROC AUC: 0.4457 (0.0123)
+-- Predicting Heart_Atrial with Pituitary community 26
+Accuracy: 0.5186 (0.0428)
+F1 score: 0.0375 (0.0008)
+ROC AUC: 0.4235 (0.0035)
+-- Predicting Heart_L_Vent with Pituitary community 26
+Accuracy: 0.4742 (0.0361)
+F1 score: 0.0423 (0.0022)
+ROC AUC: 0.4536 (0.0130)
+-- Predicting Kidney_Cortex with Pituitary community 26
+Accuracy: 0.5010 (0.0427)
+F1 score: 0.0048 (0.0016)
+ROC AUC: 0.3343 (0.0302)
+-- Predicting Liver with Pituitary community 26
+Accuracy: 0.4369 (0.0083)
+F1 score: 0.0222 (0.0003)
+ROC AUC: 0.4352 (0.0121)
+-- Predicting Lung with Pituitary community 26
+Accuracy: 0.4781 (0.0503)
+F1 score: 0.0537 (0.0033)
+ROC AUC: 0.4512 (0.0046)
+-- Predicting Minor_Salivary with Pituitary community 26
+Accuracy: 0.4765 (0.0066)
+F1 score: 0.0124 (0.0004)
+ROC AUC: 0.3896 (0.0123)
+-- Predicting Muscle_Skeletal with Pituitary community 26
+Accuracy: 0.5093 (0.0287)
+F1 score: 0.0719 (0.0003)
+ROC AUC: 0.4470 (0.0099)
+-- Predicting Nerve_Tibial with Pituitary community 26
+Accuracy: 0.4679 (0.0285)
+F1 score: 0.0553 (0.0016)
+ROC AUC: 0.4461 (0.0032)
+-- Predicting Ovary with Pituitary community 26
+Accuracy: 0.4641 (0.0316)
+F1 score: 0.0174 (0.0013)
+ROC AUC: 0.4136 (0.0185)
+-- Predicting Pancreas with Pituitary community 26
+Accuracy: 0.4861 (0.0528)
+F1 score: 0.0312 (0.0016)
+ROC AUC: 0.4385 (0.0151)
+-- Predicting Pituitary with Pituitary community 26
+Accuracy: 0.4840 (0.0660)
+F1 score: 0.0276 (0.0011)
+ROC AUC: 0.4463 (0.0044)
+-- Predicting Prostate with Pituitary community 26
+Accuracy: 0.4201 (0.0263)
+F1 score: 0.0245 (0.0016)
+ROC AUC: 0.4365 (0.0200)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 26
+Accuracy: 0.4089 (0.0414)
+F1 score: 0.0580 (0.0041)
+ROC AUC: 0.4474 (0.0110)
+-- Predicting Skin_Sun_Epsd with Pituitary community 26
+Accuracy: 0.4081 (0.0186)
+F1 score: 0.0649 (0.0011)
+ROC AUC: 0.4483 (0.0099)
+-- Predicting Small_Intestine with Pituitary community 26
+Accuracy: 0.4438 (0.0334)
+F1 score: 0.0191 (0.0019)
+ROC AUC: 0.4157 (0.0182)
+-- Predicting Spleen with Pituitary community 26
+Accuracy: 0.5427 (0.0554)
+F1 score: 0.0218 (0.0046)
+ROC AUC: 0.4111 (0.0327)
+-- Predicting Stomach with Pituitary community 26
+Accuracy: 0.4896 (0.0352)
+F1 score: 0.0362 (0.0020)
+ROC AUC: 0.4503 (0.0087)
+-- Predicting Testis with Pituitary community 26
+Accuracy: 0.5115 (0.0360)
+F1 score: 0.0315 (0.0021)
+ROC AUC: 0.4262 (0.0120)
+-- Predicting Thyroid with Pituitary community 26
+Accuracy: 0.4973 (0.0266)
+F1 score: 0.0647 (0.0027)
+ROC AUC: 0.4655 (0.0036)
+-- Predicting Uterus with Pituitary community 26
+Accuracy: 0.4860 (0.0311)
+F1 score: 0.0114 (0.0008)
+ROC AUC: 0.4029 (0.0070)
+-- Predicting Vagina with Pituitary community 26
+Accuracy: 0.4833 (0.0321)
+F1 score: 0.0128 (0.0004)
+ROC AUC: 0.3972 (0.0044)
+-- Predicting Whole_Blood with Pituitary community 26
+Accuracy: 0.5486 (0.0081)
+F1 score: 0.0677 (0.0052)
+ROC AUC: 0.4467 (0.0115)
+-- Predicting Adipose_Subcutaneous with Pituitary community 27
+Accuracy: 0.1293 (0.1102)
+F1 score: 0.0761 (0.0023)
+ROC AUC: 0.4807 (0.0182)
+-- Predicting Adipose_Visceral_Omentum with Pituitary community 27
+Accuracy: 0.3306 (0.0806)
+F1 score: 0.0578 (0.0030)
+ROC AUC: 0.4485 (0.0163)
+-- Predicting Adrenal_Gland with Pituitary community 27
+Accuracy: 0.2296 (0.1053)
+F1 score: 0.0287 (0.0010)
+ROC AUC: 0.4678 (0.0081)
+-- Predicting Artery_Aorta with Pituitary community 27
+Accuracy: 0.2589 (0.1271)
+F1 score: 0.0478 (0.0034)
+ROC AUC: 0.4575 (0.0116)
+-- Predicting Artery_Coronary with Pituitary community 27
+Accuracy: 0.3082 (0.0784)
+F1 score: 0.0239 (0.0025)
+ROC AUC: 0.4422 (0.0086)
+-- Predicting Artery_Tibial with Pituitary community 27
+Accuracy: 0.2499 (0.1626)
+F1 score: 0.0720 (0.0033)
+ROC AUC: 0.4635 (0.0088)
+-- Predicting Brain_Amygdala with Pituitary community 27
+Accuracy: 0.4710 (0.0903)
+F1 score: 0.0128 (0.0010)
+ROC AUC: 0.4182 (0.0063)
+-- Predicting Brain_Anterior_cingulate with Pituitary community 27
+Accuracy: 0.4865 (0.0407)
+F1 score: 0.0156 (0.0007)
+ROC AUC: 0.4233 (0.0164)
+-- Predicting Brain_Caudate with Pituitary community 27
+Accuracy: 0.4325 (0.0492)
+F1 score: 0.0197 (0.0023)
+ROC AUC: 0.4144 (0.0217)
+-- Predicting Brain_Cerebellar with Pituitary community 27
+Accuracy: 0.5035 (0.0610)
+F1 score: 0.0173 (0.0012)
+ROC AUC: 0.4188 (0.0087)
+-- Predicting Brain_Cerebellum with Pituitary community 27
+Accuracy: 0.5594 (0.0585)
+F1 score: 0.0213 (0.0020)
+ROC AUC: 0.4005 (0.0070)
+-- Predicting Brain_Cortex with Pituitary community 27
+Accuracy: 0.4141 (0.0770)
+F1 score: 0.0199 (0.0008)
+ROC AUC: 0.4163 (0.0016)
+-- Predicting Brain_Frontal_Cortex with Pituitary community 27
+Accuracy: 0.3879 (0.0197)
+F1 score: 0.0200 (0.0003)
+ROC AUC: 0.4272 (0.0225)
+-- Predicting Brain_Hippocampus with Pituitary community 27
+Accuracy: 0.3668 (0.0650)
+F1 score: 0.0178 (0.0012)
+ROC AUC: 0.4333 (0.0252)
+-- Predicting Brain_Hypothalamus with Pituitary community 27
+Accuracy: 0.3685 (0.0877)
+F1 score: 0.0184 (0.0028)
+ROC AUC: 0.4350 (0.0057)
+-- Predicting Brain_Nucleus with Pituitary community 27
+Accuracy: 0.4371 (0.1015)
+F1 score: 0.0233 (0.0007)
+ROC AUC: 0.4436 (0.0143)
+-- Predicting Brain_Putamen with Pituitary community 27
+Accuracy: 0.4087 (0.0582)
+F1 score: 0.0185 (0.0013)
+ROC AUC: 0.4318 (0.0100)
+-- Predicting Brain_Spinal_cord with Pituitary community 27
+Accuracy: 0.4288 (0.0638)
+F1 score: 0.0110 (0.0030)
+ROC AUC: 0.3896 (0.0175)
+-- Predicting Brain_Substantia_nigra with Pituitary community 27
+Accuracy: 0.4670 (0.0624)
+F1 score: 0.0108 (0.0007)
+ROC AUC: 0.3882 (0.0211)
+-- Predicting Breast_Mammary_Tissue with Pituitary community 27
+Accuracy: 0.3104 (0.0969)
+F1 score: 0.0478 (0.0046)
+ROC AUC: 0.4520 (0.0291)
+-- Predicting Cells_Cultured with Pituitary community 27
+Accuracy: 1.0000 (0.0000)
+F1 score: 1.0000 (0.0000)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Pituitary community 27
+Accuracy: 0.6786 (0.0386)
+F1 score: 0.0166 (0.0005)
+ROC AUC: 0.3869 (0.0574)
+-- Predicting Colon_Sigmoid with Pituitary community 27
+Accuracy: 0.3474 (0.0976)
+F1 score: 0.0348 (0.0049)
+ROC AUC: 0.4200 (0.0103)
+-- Predicting Colon_Transverse with Pituitary community 27
+Accuracy: 0.3198 (0.0959)
+F1 score: 0.0409 (0.0044)
+ROC AUC: 0.4179 (0.0161)
+-- Predicting Esophagus_Gastro with Pituitary community 27
+Accuracy: 0.3518 (0.1190)
+F1 score: 0.0362 (0.0022)
+ROC AUC: 0.4297 (0.0250)
+-- Predicting Esophagus_Mucosa with Pituitary community 27
+Accuracy: 0.2301 (0.1669)
+F1 score: 0.0598 (0.0054)
+ROC AUC: 0.4515 (0.0105)
+-- Predicting Esophagus_Muscularis with Pituitary community 27
+Accuracy: 0.3285 (0.1128)
+F1 score: 0.0473 (0.0077)
+ROC AUC: 0.4196 (0.0290)
+-- Predicting Heart_Atrial with Pituitary community 27
+Accuracy: 0.3009 (0.1285)
+F1 score: 0.0406 (0.0031)
+ROC AUC: 0.4283 (0.0072)
+-- Predicting Heart_L_Vent with Pituitary community 27
+Accuracy: 0.3849 (0.0904)
+F1 score: 0.0370 (0.0033)
+ROC AUC: 0.4059 (0.0243)
+-- Predicting Kidney_Cortex with Pituitary community 27
+Accuracy: 0.3664 (0.0498)
+F1 score: 0.0076 (0.0005)
+ROC AUC: 0.3587 (0.0153)
+-- Predicting Liver with Pituitary community 27
+Accuracy: 0.3985 (0.0670)
+F1 score: 0.0192 (0.0028)
+ROC AUC: 0.3786 (0.0231)
+-- Predicting Lung with Pituitary community 27
+Accuracy: 0.2688 (0.1888)
+F1 score: 0.0618 (0.0047)
+ROC AUC: 0.4445 (0.0138)
+-- Predicting Minor_Salivary with Pituitary community 27
+Accuracy: 0.3141 (0.0592)
+F1 score: 0.0138 (0.0027)
+ROC AUC: 0.3947 (0.0390)
+-- Predicting Muscle_Skeletal with Pituitary community 27
+Accuracy: 0.3820 (0.1019)
+F1 score: 0.0736 (0.0061)
+ROC AUC: 0.4250 (0.0230)
+-- Predicting Nerve_Tibial with Pituitary community 27
+Accuracy: 0.2542 (0.1205)
+F1 score: 0.0574 (0.0065)
+ROC AUC: 0.4310 (0.0208)
+-- Predicting Ovary with Pituitary community 27
+Accuracy: 0.3169 (0.0581)
+F1 score: 0.0184 (0.0014)
+ROC AUC: 0.4043 (0.0229)
+-- Predicting Pancreas with Pituitary community 27
+Accuracy: 0.3811 (0.0979)
+F1 score: 0.0339 (0.0003)
+ROC AUC: 0.4449 (0.0255)
+-- Predicting Pituitary with Pituitary community 27
+Accuracy: 0.3666 (0.0138)
+F1 score: 0.0229 (0.0023)
+ROC AUC: 0.3859 (0.0260)
+-- Predicting Prostate with Pituitary community 27
+Accuracy: 0.4073 (0.0530)
+F1 score: 0.0226 (0.0010)
+ROC AUC: 0.3978 (0.0225)
+-- Predicting Skin_Not_Sun_Epsd with Pituitary community 27
+Accuracy: 0.2942 (0.1784)
+F1 score: 0.0578 (0.0083)
+ROC AUC: 0.4315 (0.0193)
+-- Predicting Skin_Sun_Epsd with Pituitary community 27
+Accuracy: 0.2882 (0.1611)
+F1 score: 0.0687 (0.0023)
+ROC AUC: 0.4543 (0.0199)
+-- Predicting Small_Intestine with Pituitary community 27
+Accuracy: 0.4831 (0.0417)
+F1 score: 0.0147 (0.0021)
+ROC AUC: 0.3702 (0.0102)
+-- Predicting Spleen with Pituitary community 27
+Accuracy: 0.3317 (0.0433)
+F1 score: 0.0247 (0.0005)
+ROC AUC: 0.4068 (0.0078)
+-- Predicting Stomach with Pituitary community 27
+Accuracy: 0.3437 (0.0950)
+F1 score: 0.0324 (0.0029)
+ROC AUC: 0.4050 (0.0138)
+-- Predicting Testis with Pituitary community 27
+Accuracy: 0.5179 (0.1004)
+F1 score: 0.0312 (0.0035)
+ROC AUC: 0.4216 (0.0314)
+-- Predicting Thyroid with Pituitary community 27
+Accuracy: 0.2794 (0.0948)
+F1 score: 0.0622 (0.0074)
+ROC AUC: 0.4156 (0.0208)
+-- Predicting Uterus with Pituitary community 27
+Accuracy: 0.3831 (0.0741)
+F1 score: 0.0129 (0.0012)
+ROC AUC: 0.3773 (0.0293)
+-- Predicting Vagina with Pituitary community 27
+Accuracy: 0.4435 (0.0290)
+F1 score: 0.0102 (0.0026)
+ROC AUC: 0.3280 (0.0339)
+-- Predicting Whole_Blood with Pituitary community 27
+Accuracy: 0.2833 (0.2476)
+F1 score: 0.0791 (0.0060)
+ROC AUC: 0.4527 (0.0045)

@@ -1,0 +1,7 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Type I hemidesmosome assembly_Homo sapiens_R-HSA-446107	1/9	0.0017988858466888105	1.0	0	0	555.5555555555555	3511.437655436289	DST
+Reactome_2016	Assembly of collagen fibrils and other multimeric structures_Homo sapiens_R-HSA-2022090	1/54	0.010757035030210376	1.0	0	0	92.59259259259258	419.6477145401725	DST
+Reactome_2016	Collagen formation_Homo sapiens_R-HSA-1474290	1/85	0.01689305270734789	1.0	0	0	58.82352941176471	240.0501661162409	DST
+Reactome_2016	Cell junction organization_Homo sapiens_R-HSA-446728	1/86	0.017090512409021402	1.0	0	0	58.139534883720934	236.58324414711439	DST
+Reactome_2016	Cell-Cell communication_Homo sapiens_R-HSA-1500931	1/131	0.025945461465702327	1.0	0	0	38.167938931297705	139.38009847385007	DST
+Reactome_2016	Extracellular matrix organization_Homo sapiens_R-HSA-1474244	1/283	0.05541377961661746	1.0	0	0	17.667844522968196	51.111784215815035	DST

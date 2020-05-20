@@ -1,0 +1,3 @@
+,Adjusted P-value,Combined Score,Gene_set,Genes,Odds Ratio,Old Adjusted P-value,Old P-value,Overlap,P-value,Term
+0,0.011818602137505428,840.7931107759009,Reactome_2016,FGB;ALB;HRG,71.42857142857143,0,0,3/105,7.724576560461064e-06,Platelet degranulation_Homo sapiens_R-HSA-114608
+1,0.006796908890441432,793.0338531076502,Reactome_2016,FGB;ALB;HRG,68.18181818181817,0,0,3/110,8.884848222799257e-06,Response to elevated platelet cytosolic Ca2+_Homo sapiens_R-HSA-76005

@@ -1,0 +1,5097 @@
+Going with Brain_Putamen
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 1
+Accuracy: 0.3982 (0.0445)
+F1 score: 0.0674 (0.0032)
+ROC AUC: 0.4759 (0.0027)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 1
+Accuracy: 0.3902 (0.0699)
+F1 score: 0.0561 (0.0031)
+ROC AUC: 0.4678 (0.0012)
+-- Predicting Adrenal_Gland with Brain_Putamen community 1
+Accuracy: 0.5487 (0.1256)
+F1 score: 0.0301 (0.0016)
+ROC AUC: 0.4647 (0.0163)
+-- Predicting Artery_Aorta with Brain_Putamen community 1
+Accuracy: 0.5622 (0.1052)
+F1 score: 0.0431 (0.0015)
+ROC AUC: 0.4568 (0.0129)
+-- Predicting Artery_Coronary with Brain_Putamen community 1
+Accuracy: 0.5430 (0.1078)
+F1 score: 0.0222 (0.0003)
+ROC AUC: 0.4546 (0.0124)
+-- Predicting Artery_Tibial with Brain_Putamen community 1
+Accuracy: 0.4198 (0.0870)
+F1 score: 0.0696 (0.0028)
+ROC AUC: 0.4737 (0.0061)
+-- Predicting Brain_Amygdala with Brain_Putamen community 1
+Accuracy: 0.5556 (0.0564)
+F1 score: 0.0119 (0.0013)
+ROC AUC: 0.4036 (0.0195)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 1
+Accuracy: 0.5000 (0.0450)
+F1 score: 0.0156 (0.0027)
+ROC AUC: 0.4222 (0.0353)
+-- Predicting Brain_Caudate with Brain_Putamen community 1
+Accuracy: 0.5118 (0.0778)
+F1 score: 0.0205 (0.0015)
+ROC AUC: 0.4406 (0.0054)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 1
+Accuracy: 0.5059 (0.1489)
+F1 score: 0.0204 (0.0010)
+ROC AUC: 0.4417 (0.0082)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 1
+Accuracy: 0.4849 (0.0526)
+F1 score: 0.0259 (0.0005)
+ROC AUC: 0.4644 (0.0106)
+-- Predicting Brain_Cortex with Brain_Putamen community 1
+Accuracy: 0.6996 (0.0956)
+F1 score: 0.0246 (0.0022)
+ROC AUC: 0.4288 (0.0190)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 1
+Accuracy: 0.5844 (0.0530)
+F1 score: 0.0222 (0.0023)
+ROC AUC: 0.4468 (0.0194)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 1
+Accuracy: 0.5095 (0.0959)
+F1 score: 0.0178 (0.0034)
+ROC AUC: 0.4523 (0.0315)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 1
+Accuracy: 0.4949 (0.0751)
+F1 score: 0.0167 (0.0008)
+ROC AUC: 0.4236 (0.0234)
+-- Predicting Brain_Nucleus with Brain_Putamen community 1
+Accuracy: 0.5467 (0.0937)
+F1 score: 0.0227 (0.0009)
+ROC AUC: 0.4387 (0.0167)
+-- Predicting Brain_Putamen with Brain_Putamen community 1
+Accuracy: 0.5027 (0.0858)
+F1 score: 0.0207 (0.0013)
+ROC AUC: 0.4670 (0.0119)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 1
+Accuracy: 0.4779 (0.0606)
+F1 score: 0.0127 (0.0004)
+ROC AUC: 0.4119 (0.0103)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 1
+Accuracy: 0.5656 (0.1129)
+F1 score: 0.0129 (0.0000)
+ROC AUC: 0.4158 (0.0211)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 1
+Accuracy: 0.4441 (0.0879)
+F1 score: 0.0468 (0.0035)
+ROC AUC: 0.4745 (0.0056)
+-- Predicting Cells_Cultured with Brain_Putamen community 1
+Accuracy: 0.5469 (0.0575)
+F1 score: 0.0573 (0.0008)
+ROC AUC: 0.4803 (0.0051)
+-- Predicting Cells_EBV with Brain_Putamen community 1
+Accuracy: 0.6485 (0.1064)
+F1 score: 0.0183 (0.0030)
+ROC AUC: 0.4337 (0.0178)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 1
+Accuracy: 0.4562 (0.0911)
+F1 score: 0.0347 (0.0021)
+ROC AUC: 0.4642 (0.0178)
+-- Predicting Colon_Transverse with Brain_Putamen community 1
+Accuracy: 0.3648 (0.0047)
+F1 score: 0.0462 (0.0018)
+ROC AUC: 0.4795 (0.0064)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 1
+Accuracy: 0.4819 (0.0714)
+F1 score: 0.0357 (0.0023)
+ROC AUC: 0.4660 (0.0080)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 1
+Accuracy: 0.5067 (0.1260)
+F1 score: 0.0578 (0.0048)
+ROC AUC: 0.4732 (0.0084)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 1
+Accuracy: 0.4472 (0.0892)
+F1 score: 0.0547 (0.0034)
+ROC AUC: 0.4771 (0.0041)
+-- Predicting Heart_Atrial with Brain_Putamen community 1
+Accuracy: 0.4567 (0.0844)
+F1 score: 0.0414 (0.0018)
+ROC AUC: 0.4584 (0.0065)
+-- Predicting Heart_L_Vent with Brain_Putamen community 1
+Accuracy: 0.4160 (0.0915)
+F1 score: 0.0447 (0.0045)
+ROC AUC: 0.4759 (0.0185)
+-- Predicting Kidney_Cortex with Brain_Putamen community 1
+Accuracy: 0.4954 (0.0630)
+F1 score: 0.0090 (0.0002)
+ROC AUC: 0.4343 (0.0069)
+-- Predicting Liver with Brain_Putamen community 1
+Accuracy: 0.5315 (0.0610)
+F1 score: 0.0264 (0.0012)
+ROC AUC: 0.4549 (0.0040)
+-- Predicting Lung with Brain_Putamen community 1
+Accuracy: 0.4900 (0.0436)
+F1 score: 0.0586 (0.0016)
+ROC AUC: 0.4736 (0.0047)
+-- Predicting Minor_Salivary with Brain_Putamen community 1
+Accuracy: 0.5043 (0.0964)
+F1 score: 0.0143 (0.0032)
+ROC AUC: 0.4302 (0.0099)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 1
+Accuracy: 0.4758 (0.0618)
+F1 score: 0.0771 (0.0008)
+ROC AUC: 0.4637 (0.0069)
+-- Predicting Nerve_Tibial with Brain_Putamen community 1
+Accuracy: 0.3643 (0.0188)
+F1 score: 0.0666 (0.0024)
+ROC AUC: 0.4743 (0.0051)
+-- Predicting Ovary with Brain_Putamen community 1
+Accuracy: 0.4909 (0.1001)
+F1 score: 0.0200 (0.0015)
+ROC AUC: 0.4566 (0.0078)
+-- Predicting Pancreas with Brain_Putamen community 1
+Accuracy: 0.5424 (0.0566)
+F1 score: 0.0363 (0.0041)
+ROC AUC: 0.4683 (0.0134)
+-- Predicting Pituitary with Brain_Putamen community 1
+Accuracy: 0.4575 (0.0563)
+F1 score: 0.0286 (0.0016)
+ROC AUC: 0.4628 (0.0095)
+-- Predicting Prostate with Brain_Putamen community 1
+Accuracy: 0.4308 (0.0231)
+F1 score: 0.0241 (0.0005)
+ROC AUC: 0.4510 (0.0080)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 1
+Accuracy: 0.4342 (0.0629)
+F1 score: 0.0591 (0.0019)
+ROC AUC: 0.4716 (0.0035)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 1
+Accuracy: 0.3854 (0.0430)
+F1 score: 0.0716 (0.0043)
+ROC AUC: 0.4712 (0.0064)
+-- Predicting Small_Intestine with Brain_Putamen community 1
+Accuracy: 0.5703 (0.1338)
+F1 score: 0.0220 (0.0041)
+ROC AUC: 0.4503 (0.0174)
+-- Predicting Spleen with Brain_Putamen community 1
+Accuracy: 0.5944 (0.0568)
+F1 score: 0.0239 (0.0012)
+ROC AUC: 0.4320 (0.0323)
+-- Predicting Stomach with Brain_Putamen community 1
+Accuracy: 0.4981 (0.0518)
+F1 score: 0.0378 (0.0025)
+ROC AUC: 0.4716 (0.0103)
+-- Predicting Testis with Brain_Putamen community 1
+Accuracy: 0.4929 (0.0761)
+F1 score: 0.0359 (0.0033)
+ROC AUC: 0.4611 (0.0158)
+-- Predicting Thyroid with Brain_Putamen community 1
+Accuracy: 0.3035 (0.1384)
+F1 score: 0.0688 (0.0050)
+ROC AUC: 0.4829 (0.0080)
+-- Predicting Uterus with Brain_Putamen community 1
+Accuracy: 0.5038 (0.0210)
+F1 score: 0.0162 (0.0012)
+ROC AUC: 0.4759 (0.0083)
+-- Predicting Vagina with Brain_Putamen community 1
+Accuracy: 0.4926 (0.0134)
+F1 score: 0.0171 (0.0011)
+ROC AUC: 0.4653 (0.0096)
+-- Predicting Whole_Blood with Brain_Putamen community 1
+Accuracy: 0.4599 (0.1084)
+F1 score: 0.0726 (0.0022)
+ROC AUC: 0.4575 (0.0077)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 2
+Accuracy: 0.4073 (0.0829)
+F1 score: 0.0603 (0.0027)
+ROC AUC: 0.4455 (0.0167)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 2
+Accuracy: 0.4827 (0.0268)
+F1 score: 0.0487 (0.0031)
+ROC AUC: 0.4378 (0.0092)
+-- Predicting Adrenal_Gland with Brain_Putamen community 2
+Accuracy: 0.5846 (0.0897)
+F1 score: 0.0204 (0.0005)
+ROC AUC: 0.3705 (0.0131)
+-- Predicting Artery_Aorta with Brain_Putamen community 2
+Accuracy: 0.4241 (0.0184)
+F1 score: 0.0390 (0.0023)
+ROC AUC: 0.4204 (0.0157)
+-- Predicting Artery_Coronary with Brain_Putamen community 2
+Accuracy: 0.4280 (0.0213)
+F1 score: 0.0187 (0.0005)
+ROC AUC: 0.3883 (0.0146)
+-- Predicting Artery_Tibial with Brain_Putamen community 2
+Accuracy: 0.4220 (0.0028)
+F1 score: 0.0601 (0.0036)
+ROC AUC: 0.4286 (0.0054)
+-- Predicting Brain_Amygdala with Brain_Putamen community 2
+Accuracy: 0.4748 (0.0168)
+F1 score: 0.0123 (0.0022)
+ROC AUC: 0.3750 (0.0208)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 2
+Accuracy: 0.4391 (0.0231)
+F1 score: 0.0128 (0.0030)
+ROC AUC: 0.3686 (0.0333)
+-- Predicting Brain_Caudate with Brain_Putamen community 2
+Accuracy: 0.4656 (0.0232)
+F1 score: 0.0204 (0.0032)
+ROC AUC: 0.3912 (0.0345)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 2
+Accuracy: 0.4897 (0.0297)
+F1 score: 0.0128 (0.0034)
+ROC AUC: 0.3639 (0.0253)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 2
+Accuracy: 0.4420 (0.0323)
+F1 score: 0.0200 (0.0032)
+ROC AUC: 0.4067 (0.0289)
+-- Predicting Brain_Cortex with Brain_Putamen community 2
+Accuracy: 0.4215 (0.0286)
+F1 score: 0.0193 (0.0024)
+ROC AUC: 0.4002 (0.0258)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 2
+Accuracy: 0.4779 (0.0390)
+F1 score: 0.0159 (0.0011)
+ROC AUC: 0.3821 (0.0106)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 2
+Accuracy: 0.4727 (0.0255)
+F1 score: 0.0137 (0.0022)
+ROC AUC: 0.3584 (0.0321)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 2
+Accuracy: 0.4412 (0.0328)
+F1 score: 0.0147 (0.0019)
+ROC AUC: 0.3664 (0.0186)
+-- Predicting Brain_Nucleus with Brain_Putamen community 2
+Accuracy: 0.9906 (0.0111)
+F1 score: 0.8015 (0.2012)
+ROC AUC: 0.9957 (0.0060)
+-- Predicting Brain_Putamen with Brain_Putamen community 2
+Accuracy: 0.4981 (0.0411)
+F1 score: 0.0119 (0.0034)
+ROC AUC: 0.3378 (0.0438)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 2
+Accuracy: 0.9856 (0.0181)
+F1 score: 0.7063 (0.2926)
+ROC AUC: 0.9931 (0.0097)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 2
+Accuracy: 0.4871 (0.0333)
+F1 score: 0.0086 (0.0013)
+ROC AUC: 0.3553 (0.0253)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 2
+Accuracy: 0.4354 (0.0462)
+F1 score: 0.0392 (0.0050)
+ROC AUC: 0.4158 (0.0191)
+-- Predicting Cells_Cultured with Brain_Putamen community 2
+Accuracy: 0.3977 (0.0383)
+F1 score: 0.0533 (0.0017)
+ROC AUC: 0.4331 (0.0195)
+-- Predicting Cells_EBV with Brain_Putamen community 2
+Accuracy: 0.4399 (0.0277)
+F1 score: 0.0123 (0.0015)
+ROC AUC: 0.3854 (0.0216)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 2
+Accuracy: 0.4177 (0.0321)
+F1 score: 0.0341 (0.0007)
+ROC AUC: 0.4278 (0.0065)
+-- Predicting Colon_Transverse with Brain_Putamen community 2
+Accuracy: 0.4573 (0.0725)
+F1 score: 0.0377 (0.0026)
+ROC AUC: 0.4197 (0.0181)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 2
+Accuracy: 0.4453 (0.0504)
+F1 score: 0.0321 (0.0026)
+ROC AUC: 0.4156 (0.0119)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 2
+Accuracy: 0.4672 (0.0084)
+F1 score: 0.0457 (0.0009)
+ROC AUC: 0.4060 (0.0039)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 2
+Accuracy: 0.4181 (0.0070)
+F1 score: 0.0478 (0.0032)
+ROC AUC: 0.4344 (0.0209)
+-- Predicting Heart_Atrial with Brain_Putamen community 2
+Accuracy: 0.4587 (0.0127)
+F1 score: 0.0355 (0.0030)
+ROC AUC: 0.3941 (0.0303)
+-- Predicting Heart_L_Vent with Brain_Putamen community 2
+Accuracy: 0.3856 (0.0362)
+F1 score: 0.0400 (0.0021)
+ROC AUC: 0.4330 (0.0074)
+-- Predicting Kidney_Cortex with Brain_Putamen community 2
+Accuracy: 0.5310 (0.0272)
+F1 score: 0.0050 (0.0003)
+ROC AUC: 0.3036 (0.0329)
+-- Predicting Liver with Brain_Putamen community 2
+Accuracy: 0.4484 (0.0646)
+F1 score: 0.0186 (0.0030)
+ROC AUC: 0.3935 (0.0145)
+-- Predicting Lung with Brain_Putamen community 2
+Accuracy: 0.4808 (0.0809)
+F1 score: 0.0508 (0.0040)
+ROC AUC: 0.4080 (0.0213)
+-- Predicting Minor_Salivary with Brain_Putamen community 2
+Accuracy: 0.4574 (0.0311)
+F1 score: 0.0115 (0.0008)
+ROC AUC: 0.3809 (0.0053)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 2
+Accuracy: 0.3914 (0.0277)
+F1 score: 0.0737 (0.0045)
+ROC AUC: 0.4370 (0.0218)
+-- Predicting Nerve_Tibial with Brain_Putamen community 2
+Accuracy: 0.3794 (0.1053)
+F1 score: 0.0590 (0.0057)
+ROC AUC: 0.4383 (0.0199)
+-- Predicting Ovary with Brain_Putamen community 2
+Accuracy: 0.4194 (0.0346)
+F1 score: 0.0147 (0.0001)
+ROC AUC: 0.3809 (0.0131)
+-- Predicting Pancreas with Brain_Putamen community 2
+Accuracy: 0.4408 (0.0518)
+F1 score: 0.0312 (0.0031)
+ROC AUC: 0.4239 (0.0079)
+-- Predicting Pituitary with Brain_Putamen community 2
+Accuracy: 0.5317 (0.0287)
+F1 score: 0.0155 (0.0009)
+ROC AUC: 0.3508 (0.0217)
+-- Predicting Prostate with Brain_Putamen community 2
+Accuracy: 0.6152 (0.0850)
+F1 score: 0.0221 (0.0015)
+ROC AUC: 0.3855 (0.0364)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 2
+Accuracy: 0.4957 (0.0336)
+F1 score: 0.0498 (0.0031)
+ROC AUC: 0.4134 (0.0134)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 2
+Accuracy: 0.4239 (0.0803)
+F1 score: 0.0631 (0.0049)
+ROC AUC: 0.4263 (0.0155)
+-- Predicting Small_Intestine with Brain_Putamen community 2
+Accuracy: 0.5332 (0.0644)
+F1 score: 0.0175 (0.0024)
+ROC AUC: 0.4085 (0.0097)
+-- Predicting Spleen with Brain_Putamen community 2
+Accuracy: 0.4820 (0.0548)
+F1 score: 0.0209 (0.0018)
+ROC AUC: 0.3899 (0.0189)
+-- Predicting Stomach with Brain_Putamen community 2
+Accuracy: 0.5044 (0.0655)
+F1 score: 0.0299 (0.0014)
+ROC AUC: 0.4000 (0.0200)
+-- Predicting Testis with Brain_Putamen community 2
+Accuracy: 0.6470 (0.0534)
+F1 score: 0.0317 (0.0044)
+ROC AUC: 0.3905 (0.0102)
+-- Predicting Thyroid with Brain_Putamen community 2
+Accuracy: 0.3949 (0.0089)
+F1 score: 0.0620 (0.0017)
+ROC AUC: 0.4315 (0.0138)
+-- Predicting Uterus with Brain_Putamen community 2
+Accuracy: 0.4816 (0.0629)
+F1 score: 0.0074 (0.0016)
+ROC AUC: 0.3318 (0.0106)
+-- Predicting Vagina with Brain_Putamen community 2
+Accuracy: 0.5090 (0.0364)
+F1 score: 0.0082 (0.0015)
+ROC AUC: 0.3152 (0.0130)
+-- Predicting Whole_Blood with Brain_Putamen community 2
+Accuracy: 0.4313 (0.0366)
+F1 score: 0.0641 (0.0059)
+ROC AUC: 0.4007 (0.0300)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 3
+Accuracy: 0.4175 (0.0412)
+F1 score: 0.0659 (0.0044)
+ROC AUC: 0.4601 (0.0082)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 3
+Accuracy: 0.5336 (0.1663)
+F1 score: 0.0519 (0.0021)
+ROC AUC: 0.4535 (0.0149)
+-- Predicting Adrenal_Gland with Brain_Putamen community 3
+Accuracy: 0.4481 (0.0727)
+F1 score: 0.0243 (0.0012)
+ROC AUC: 0.4247 (0.0048)
+-- Predicting Artery_Aorta with Brain_Putamen community 3
+Accuracy: 0.4023 (0.0535)
+F1 score: 0.0434 (0.0033)
+ROC AUC: 0.4542 (0.0083)
+-- Predicting Artery_Coronary with Brain_Putamen community 3
+Accuracy: 0.4638 (0.0743)
+F1 score: 0.0214 (0.0014)
+ROC AUC: 0.4246 (0.0037)
+-- Predicting Artery_Tibial with Brain_Putamen community 3
+Accuracy: 0.4074 (0.0590)
+F1 score: 0.0648 (0.0025)
+ROC AUC: 0.4486 (0.0140)
+-- Predicting Brain_Amygdala with Brain_Putamen community 3
+Accuracy: 0.4800 (0.0829)
+F1 score: 0.0116 (0.0016)
+ROC AUC: 0.4124 (0.0038)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 3
+Accuracy: 0.4344 (0.0381)
+F1 score: 0.0147 (0.0012)
+ROC AUC: 0.4035 (0.0059)
+-- Predicting Brain_Caudate with Brain_Putamen community 3
+Accuracy: 0.4685 (0.0496)
+F1 score: 0.0205 (0.0015)
+ROC AUC: 0.4407 (0.0057)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 3
+Accuracy: 0.4414 (0.0260)
+F1 score: 0.0176 (0.0022)
+ROC AUC: 0.4264 (0.0050)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 3
+Accuracy: 0.4101 (0.0190)
+F1 score: 0.0234 (0.0029)
+ROC AUC: 0.4470 (0.0165)
+-- Predicting Brain_Cortex with Brain_Putamen community 3
+Accuracy: 0.5039 (0.0616)
+F1 score: 0.0201 (0.0012)
+ROC AUC: 0.4197 (0.0048)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 3
+Accuracy: 0.4822 (0.0183)
+F1 score: 0.0175 (0.0001)
+ROC AUC: 0.4433 (0.0076)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 3
+Accuracy: 0.4617 (0.0775)
+F1 score: 0.0175 (0.0033)
+ROC AUC: 0.4265 (0.0250)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 3
+Accuracy: 0.4278 (0.0836)
+F1 score: 0.0189 (0.0014)
+ROC AUC: 0.4457 (0.0150)
+-- Predicting Brain_Nucleus with Brain_Putamen community 3
+Accuracy: 0.5723 (0.0793)
+F1 score: 0.0216 (0.0006)
+ROC AUC: 0.4272 (0.0135)
+-- Predicting Brain_Putamen with Brain_Putamen community 3
+Accuracy: 0.4997 (0.0449)
+F1 score: 0.0179 (0.0011)
+ROC AUC: 0.4287 (0.0077)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 3
+Accuracy: 0.9988 (0.0011)
+F1 score: 0.9370 (0.0572)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 3
+Accuracy: 0.5271 (0.0464)
+F1 score: 0.0111 (0.0006)
+ROC AUC: 0.4113 (0.0042)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 3
+Accuracy: 0.5408 (0.0656)
+F1 score: 0.0389 (0.0026)
+ROC AUC: 0.4404 (0.0119)
+-- Predicting Cells_Cultured with Brain_Putamen community 3
+Accuracy: 0.3851 (0.0925)
+F1 score: 0.0547 (0.0089)
+ROC AUC: 0.4582 (0.0114)
+-- Predicting Cells_EBV with Brain_Putamen community 3
+Accuracy: 0.5580 (0.0361)
+F1 score: 0.0152 (0.0021)
+ROC AUC: 0.4260 (0.0140)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 3
+Accuracy: 0.5163 (0.0802)
+F1 score: 0.0294 (0.0042)
+ROC AUC: 0.4251 (0.0167)
+-- Predicting Colon_Transverse with Brain_Putamen community 3
+Accuracy: 0.4381 (0.1185)
+F1 score: 0.0393 (0.0053)
+ROC AUC: 0.4439 (0.0218)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 3
+Accuracy: 0.3881 (0.0564)
+F1 score: 0.0377 (0.0014)
+ROC AUC: 0.4547 (0.0055)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 3
+Accuracy: 0.3183 (0.0645)
+F1 score: 0.0657 (0.0061)
+ROC AUC: 0.4562 (0.0096)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 3
+Accuracy: 0.4185 (0.1219)
+F1 score: 0.0505 (0.0059)
+ROC AUC: 0.4492 (0.0057)
+-- Predicting Heart_Atrial with Brain_Putamen community 3
+Accuracy: 0.4600 (0.0644)
+F1 score: 0.0424 (0.0013)
+ROC AUC: 0.4465 (0.0150)
+-- Predicting Heart_L_Vent with Brain_Putamen community 3
+Accuracy: 0.4212 (0.1086)
+F1 score: 0.0466 (0.0004)
+ROC AUC: 0.4747 (0.0095)
+-- Predicting Kidney_Cortex with Brain_Putamen community 3
+Accuracy: 0.4756 (0.0620)
+F1 score: 0.0050 (0.0021)
+ROC AUC: 0.3526 (0.0507)
+-- Predicting Liver with Brain_Putamen community 3
+Accuracy: 0.5371 (0.0373)
+F1 score: 0.0226 (0.0026)
+ROC AUC: 0.4225 (0.0243)
+-- Predicting Lung with Brain_Putamen community 3
+Accuracy: 0.4842 (0.0410)
+F1 score: 0.0571 (0.0067)
+ROC AUC: 0.4589 (0.0195)
+-- Predicting Minor_Salivary with Brain_Putamen community 3
+Accuracy: 0.3955 (0.0584)
+F1 score: 0.0151 (0.0014)
+ROC AUC: 0.4214 (0.0021)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 3
+Accuracy: 0.3712 (0.0545)
+F1 score: 0.0813 (0.0057)
+ROC AUC: 0.4673 (0.0214)
+-- Predicting Nerve_Tibial with Brain_Putamen community 3
+Accuracy: 0.4832 (0.0409)
+F1 score: 0.0510 (0.0017)
+ROC AUC: 0.4343 (0.0035)
+-- Predicting Ovary with Brain_Putamen community 3
+Accuracy: 0.5858 (0.0626)
+F1 score: 0.0175 (0.0006)
+ROC AUC: 0.4119 (0.0152)
+-- Predicting Pancreas with Brain_Putamen community 3
+Accuracy: 0.4683 (0.0372)
+F1 score: 0.0315 (0.0017)
+ROC AUC: 0.4416 (0.0079)
+-- Predicting Pituitary with Brain_Putamen community 3
+Accuracy: 0.4732 (0.0875)
+F1 score: 0.0252 (0.0044)
+ROC AUC: 0.4423 (0.0377)
+-- Predicting Prostate with Brain_Putamen community 3
+Accuracy: 0.5511 (0.1163)
+F1 score: 0.0310 (0.0045)
+ROC AUC: 0.4685 (0.0072)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 3
+Accuracy: 0.7033 (0.1623)
+F1 score: 0.0747 (0.0197)
+ROC AUC: 0.4340 (0.0263)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 3
+Accuracy: 0.6604 (0.0779)
+F1 score: 0.0753 (0.0145)
+ROC AUC: 0.4530 (0.0090)
+-- Predicting Small_Intestine with Brain_Putamen community 3
+Accuracy: 0.5095 (0.0111)
+F1 score: 0.0156 (0.0023)
+ROC AUC: 0.3885 (0.0189)
+-- Predicting Spleen with Brain_Putamen community 3
+Accuracy: 0.4527 (0.0509)
+F1 score: 0.0239 (0.0029)
+ROC AUC: 0.4230 (0.0237)
+-- Predicting Stomach with Brain_Putamen community 3
+Accuracy: 0.4600 (0.0419)
+F1 score: 0.0334 (0.0035)
+ROC AUC: 0.4347 (0.0164)
+-- Predicting Testis with Brain_Putamen community 3
+Accuracy: 0.5878 (0.0704)
+F1 score: 0.0373 (0.0029)
+ROC AUC: 0.4398 (0.0170)
+-- Predicting Thyroid with Brain_Putamen community 3
+Accuracy: 0.4587 (0.0647)
+F1 score: 0.0659 (0.0046)
+ROC AUC: 0.4717 (0.0107)
+-- Predicting Uterus with Brain_Putamen community 3
+Accuracy: 0.5302 (0.1257)
+F1 score: 0.0121 (0.0013)
+ROC AUC: 0.3848 (0.0400)
+-- Predicting Vagina with Brain_Putamen community 3
+Accuracy: 0.4333 (0.0978)
+F1 score: 0.0140 (0.0011)
+ROC AUC: 0.4112 (0.0129)
+-- Predicting Whole_Blood with Brain_Putamen community 3
+Accuracy: 0.4554 (0.0626)
+F1 score: 0.0674 (0.0074)
+ROC AUC: 0.4440 (0.0284)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 4
+Accuracy: 0.3217 (0.1623)
+F1 score: 0.0961 (0.0162)
+ROC AUC: 0.6094 (0.0837)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 4
+Accuracy: 0.3371 (0.1386)
+F1 score: 0.0796 (0.0113)
+ROC AUC: 0.6247 (0.0569)
+-- Predicting Adrenal_Gland with Brain_Putamen community 4
+Accuracy: 0.3299 (0.1641)
+F1 score: 0.0399 (0.0071)
+ROC AUC: 0.6073 (0.0650)
+-- Predicting Artery_Aorta with Brain_Putamen community 4
+Accuracy: 0.3348 (0.1474)
+F1 score: 0.0659 (0.0131)
+ROC AUC: 0.6167 (0.0737)
+-- Predicting Artery_Coronary with Brain_Putamen community 4
+Accuracy: 0.3297 (0.1539)
+F1 score: 0.0384 (0.0085)
+ROC AUC: 0.6139 (0.0880)
+-- Predicting Artery_Tibial with Brain_Putamen community 4
+Accuracy: 0.3284 (0.1486)
+F1 score: 0.0978 (0.0156)
+ROC AUC: 0.6093 (0.0832)
+-- Predicting Brain_Amygdala with Brain_Putamen community 4
+Accuracy: 0.3168 (0.1479)
+F1 score: 0.0217 (0.0035)
+ROC AUC: 0.5609 (0.0727)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 4
+Accuracy: 0.3255 (0.1512)
+F1 score: 0.0261 (0.0048)
+ROC AUC: 0.5925 (0.0956)
+-- Predicting Brain_Caudate with Brain_Putamen community 4
+Accuracy: 0.3357 (0.1563)
+F1 score: 0.0353 (0.0069)
+ROC AUC: 0.6048 (0.0897)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 4
+Accuracy: 0.3514 (0.1633)
+F1 score: 0.0309 (0.0057)
+ROC AUC: 0.5863 (0.0955)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 4
+Accuracy: 0.3265 (0.1520)
+F1 score: 0.0376 (0.0059)
+ROC AUC: 0.6029 (0.0739)
+-- Predicting Brain_Cortex with Brain_Putamen community 4
+Accuracy: 0.3267 (0.1486)
+F1 score: 0.0374 (0.0074)
+ROC AUC: 0.6057 (0.0808)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 4
+Accuracy: 0.3571 (0.1663)
+F1 score: 0.0304 (0.0049)
+ROC AUC: 0.5918 (0.0702)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 4
+Accuracy: 0.3266 (0.1562)
+F1 score: 0.0276 (0.0051)
+ROC AUC: 0.5901 (0.0782)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 4
+Accuracy: 0.3313 (0.1598)
+F1 score: 0.0291 (0.0042)
+ROC AUC: 0.5858 (0.0570)
+-- Predicting Brain_Nucleus with Brain_Putamen community 4
+Accuracy: 0.3420 (0.1628)
+F1 score: 0.0347 (0.0060)
+ROC AUC: 0.6084 (0.0851)
+-- Predicting Brain_Putamen with Brain_Putamen community 4
+Accuracy: 0.3235 (0.1498)
+F1 score: 0.0307 (0.0067)
+ROC AUC: 0.6131 (0.0881)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 4
+Accuracy: 0.3116 (0.1337)
+F1 score: 0.0217 (0.0041)
+ROC AUC: 0.5947 (0.1086)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 4
+Accuracy: 0.3461 (0.1838)
+F1 score: 0.0197 (0.0028)
+ROC AUC: 0.5944 (0.0364)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 4
+Accuracy: 0.3485 (0.1427)
+F1 score: 0.0675 (0.0117)
+ROC AUC: 0.6151 (0.0818)
+-- Predicting Cells_Cultured with Brain_Putamen community 4
+Accuracy: 0.9999 (0.0001)
+F1 score: 0.9990 (0.0015)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Putamen community 4
+Accuracy: 0.7938 (0.1447)
+F1 score: 0.3447 (0.4039)
+ROC AUC: 0.9019 (0.0695)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 4
+Accuracy: 0.8051 (0.1382)
+F1 score: 0.4039 (0.3928)
+ROC AUC: 0.8991 (0.0722)
+-- Predicting Colon_Transverse with Brain_Putamen community 4
+Accuracy: 0.8083 (0.1366)
+F1 score: 0.4187 (0.3863)
+ROC AUC: 0.9042 (0.0692)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 4
+Accuracy: 0.8059 (0.1378)
+F1 score: 0.4075 (0.3912)
+ROC AUC: 0.9062 (0.0680)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 4
+Accuracy: 0.8168 (0.1331)
+F1 score: 0.4551 (0.3672)
+ROC AUC: 0.9080 (0.0671)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 4
+Accuracy: 0.3147 (0.1435)
+F1 score: 0.0742 (0.0122)
+ROC AUC: 0.5955 (0.0829)
+-- Predicting Heart_Atrial with Brain_Putamen community 4
+Accuracy: 0.2960 (0.1415)
+F1 score: 0.0627 (0.0106)
+ROC AUC: 0.5785 (0.0898)
+-- Predicting Heart_L_Vent with Brain_Putamen community 4
+Accuracy: 0.2989 (0.1435)
+F1 score: 0.0632 (0.0117)
+ROC AUC: 0.6014 (0.0757)
+-- Predicting Kidney_Cortex with Brain_Putamen community 4
+Accuracy: 0.3462 (0.1713)
+F1 score: 0.0109 (0.0016)
+ROC AUC: 0.5258 (0.0677)
+-- Predicting Liver with Brain_Putamen community 4
+Accuracy: 0.3112 (0.1415)
+F1 score: 0.0354 (0.0055)
+ROC AUC: 0.5641 (0.0934)
+-- Predicting Lung with Brain_Putamen community 4
+Accuracy: 0.3045 (0.1390)
+F1 score: 0.0890 (0.0144)
+ROC AUC: 0.5891 (0.0769)
+-- Predicting Minor_Salivary with Brain_Putamen community 4
+Accuracy: 0.3640 (0.1402)
+F1 score: 0.0211 (0.0032)
+ROC AUC: 0.5443 (0.0696)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 4
+Accuracy: 0.3180 (0.1462)
+F1 score: 0.1105 (0.0176)
+ROC AUC: 0.5900 (0.0757)
+-- Predicting Nerve_Tibial with Brain_Putamen community 4
+Accuracy: 0.3099 (0.1433)
+F1 score: 0.0828 (0.0157)
+ROC AUC: 0.5928 (0.0858)
+-- Predicting Ovary with Brain_Putamen community 4
+Accuracy: 0.3249 (0.1478)
+F1 score: 0.0260 (0.0027)
+ROC AUC: 0.5732 (0.0541)
+-- Predicting Pancreas with Brain_Putamen community 4
+Accuracy: 0.8041 (0.1403)
+F1 score: 0.4004 (0.3943)
+ROC AUC: 0.8978 (0.0738)
+-- Predicting Pituitary with Brain_Putamen community 4
+Accuracy: 0.3081 (0.1449)
+F1 score: 0.0386 (0.0067)
+ROC AUC: 0.5686 (0.0598)
+-- Predicting Prostate with Brain_Putamen community 4
+Accuracy: 0.3226 (0.1482)
+F1 score: 0.0341 (0.0043)
+ROC AUC: 0.5859 (0.0623)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 4
+Accuracy: 0.8181 (0.1354)
+F1 score: 0.4618 (0.3637)
+ROC AUC: 0.9104 (0.0672)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 4
+Accuracy: 0.8239 (0.1343)
+F1 score: 0.4865 (0.3497)
+ROC AUC: 0.9087 (0.0700)
+-- Predicting Small_Intestine with Brain_Putamen community 4
+Accuracy: 0.7955 (0.1445)
+F1 score: 0.3560 (0.4045)
+ROC AUC: 0.8948 (0.0747)
+-- Predicting Spleen with Brain_Putamen community 4
+Accuracy: 0.2982 (0.1441)
+F1 score: 0.0422 (0.0072)
+ROC AUC: 0.5893 (0.0685)
+-- Predicting Stomach with Brain_Putamen community 4
+Accuracy: 0.3164 (0.1435)
+F1 score: 0.0526 (0.0085)
+ROC AUC: 0.6013 (0.0873)
+-- Predicting Testis with Brain_Putamen community 4
+Accuracy: 0.3331 (0.1539)
+F1 score: 0.0472 (0.0088)
+ROC AUC: 0.5789 (0.0781)
+-- Predicting Thyroid with Brain_Putamen community 4
+Accuracy: 0.3184 (0.1449)
+F1 score: 0.0928 (0.0141)
+ROC AUC: 0.5975 (0.0629)
+-- Predicting Uterus with Brain_Putamen community 4
+Accuracy: 0.3310 (0.1718)
+F1 score: 0.0188 (0.0036)
+ROC AUC: 0.5555 (0.0581)
+-- Predicting Vagina with Brain_Putamen community 4
+Accuracy: 0.3381 (0.1728)
+F1 score: 0.0221 (0.0034)
+ROC AUC: 0.5707 (0.0562)
+-- Predicting Whole_Blood with Brain_Putamen community 4
+Accuracy: 0.3353 (0.1478)
+F1 score: 0.1210 (0.0209)
+ROC AUC: 0.6096 (0.0862)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 5
+Accuracy: 0.4848 (0.0947)
+F1 score: 0.1293 (0.0207)
+ROC AUC: 0.7195 (0.0460)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 5
+Accuracy: 0.7970 (0.1481)
+F1 score: 0.4443 (0.3867)
+ROC AUC: 0.9031 (0.0710)
+-- Predicting Adrenal_Gland with Brain_Putamen community 5
+Accuracy: 0.8212 (0.1824)
+F1 score: 0.4293 (0.4084)
+ROC AUC: 0.9067 (0.0978)
+-- Predicting Artery_Aorta with Brain_Putamen community 5
+Accuracy: 0.4714 (0.0936)
+F1 score: 0.0891 (0.0153)
+ROC AUC: 0.7174 (0.0455)
+-- Predicting Artery_Coronary with Brain_Putamen community 5
+Accuracy: 0.4601 (0.0934)
+F1 score: 0.0506 (0.0091)
+ROC AUC: 0.7112 (0.0472)
+-- Predicting Artery_Tibial with Brain_Putamen community 5
+Accuracy: 0.4830 (0.0951)
+F1 score: 0.1329 (0.0240)
+ROC AUC: 0.7220 (0.0517)
+-- Predicting Brain_Amygdala with Brain_Putamen community 5
+Accuracy: 0.8151 (0.1916)
+F1 score: 0.3916 (0.4322)
+ROC AUC: 0.9028 (0.1008)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 5
+Accuracy: 0.8166 (0.1902)
+F1 score: 0.3991 (0.4274)
+ROC AUC: 0.9082 (0.0908)
+-- Predicting Brain_Caudate with Brain_Putamen community 5
+Accuracy: 0.8200 (0.1857)
+F1 score: 0.4119 (0.4139)
+ROC AUC: 0.9106 (0.0861)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 5
+Accuracy: 0.8173 (0.1876)
+F1 score: 0.3992 (0.4092)
+ROC AUC: 0.9024 (0.0980)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 5
+Accuracy: 0.8198 (0.1848)
+F1 score: 0.4190 (0.4100)
+ROC AUC: 0.9094 (0.0913)
+-- Predicting Brain_Cortex with Brain_Putamen community 5
+Accuracy: 0.8200 (0.1843)
+F1 score: 0.4177 (0.4106)
+ROC AUC: 0.9021 (0.1019)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 5
+Accuracy: 0.8180 (0.1877)
+F1 score: 0.4067 (0.4167)
+ROC AUC: 0.9081 (0.0925)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 5
+Accuracy: 0.8173 (0.1885)
+F1 score: 0.4056 (0.4233)
+ROC AUC: 0.9062 (0.0940)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 5
+Accuracy: 0.8174 (0.1875)
+F1 score: 0.3909 (0.4013)
+ROC AUC: 0.9094 (0.0921)
+-- Predicting Brain_Nucleus with Brain_Putamen community 5
+Accuracy: 0.8196 (0.1858)
+F1 score: 0.4196 (0.4145)
+ROC AUC: 0.9118 (0.0891)
+-- Predicting Brain_Putamen with Brain_Putamen community 5
+Accuracy: 0.8181 (0.1882)
+F1 score: 0.4031 (0.4188)
+ROC AUC: 0.9062 (0.0956)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 5
+Accuracy: 0.8151 (0.1918)
+F1 score: 0.3905 (0.4329)
+ROC AUC: 0.9004 (0.1023)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 5
+Accuracy: 0.8145 (0.1933)
+F1 score: 0.3859 (0.4359)
+ROC AUC: 0.9042 (0.0958)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 5
+Accuracy: 0.4734 (0.0942)
+F1 score: 0.0890 (0.0181)
+ROC AUC: 0.7162 (0.0518)
+-- Predicting Cells_Cultured with Brain_Putamen community 5
+Accuracy: 0.4808 (0.0904)
+F1 score: 0.1061 (0.0185)
+ROC AUC: 0.7231 (0.0466)
+-- Predicting Cells_EBV with Brain_Putamen community 5
+Accuracy: 0.7758 (0.0965)
+F1 score: 0.0996 (0.0517)
+ROC AUC: 0.8877 (0.0527)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 5
+Accuracy: 0.4704 (0.0891)
+F1 score: 0.0716 (0.0129)
+ROC AUC: 0.7109 (0.0781)
+-- Predicting Colon_Transverse with Brain_Putamen community 5
+Accuracy: 0.4704 (0.0909)
+F1 score: 0.0846 (0.0148)
+ROC AUC: 0.7175 (0.0513)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 5
+Accuracy: 0.4699 (0.0901)
+F1 score: 0.0737 (0.0127)
+ROC AUC: 0.7134 (0.0510)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 5
+Accuracy: 0.7988 (0.0766)
+F1 score: 0.2737 (0.0989)
+ROC AUC: 0.8915 (0.0401)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 5
+Accuracy: 0.4772 (0.0904)
+F1 score: 0.1036 (0.0157)
+ROC AUC: 0.7235 (0.0464)
+-- Predicting Heart_Atrial with Brain_Putamen community 5
+Accuracy: 0.4710 (0.0918)
+F1 score: 0.0836 (0.0142)
+ROC AUC: 0.7188 (0.0358)
+-- Predicting Heart_L_Vent with Brain_Putamen community 5
+Accuracy: 0.4746 (0.0904)
+F1 score: 0.0840 (0.0136)
+ROC AUC: 0.7108 (0.0527)
+-- Predicting Kidney_Cortex with Brain_Putamen community 5
+Accuracy: 0.7709 (0.1016)
+F1 score: 0.0529 (0.0306)
+ROC AUC: 0.9007 (0.0428)
+-- Predicting Liver with Brain_Putamen community 5
+Accuracy: 0.7799 (0.0925)
+F1 score: 0.1352 (0.0667)
+ROC AUC: 0.8929 (0.0488)
+-- Predicting Lung with Brain_Putamen community 5
+Accuracy: 0.4802 (0.0908)
+F1 score: 0.1110 (0.0186)
+ROC AUC: 0.7200 (0.0488)
+-- Predicting Minor_Salivary with Brain_Putamen community 5
+Accuracy: 0.7757 (0.0967)
+F1 score: 0.0978 (0.0509)
+ROC AUC: 0.8813 (0.0539)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 5
+Accuracy: 0.8126 (0.0693)
+F1 score: 0.3566 (0.1030)
+ROC AUC: 0.9025 (0.0360)
+-- Predicting Nerve_Tibial with Brain_Putamen community 5
+Accuracy: 0.4810 (0.1019)
+F1 score: 0.1140 (0.0188)
+ROC AUC: 0.7170 (0.0563)
+-- Predicting Ovary with Brain_Putamen community 5
+Accuracy: 0.4604 (0.0925)
+F1 score: 0.0385 (0.0084)
+ROC AUC: 0.7126 (0.0358)
+-- Predicting Pancreas with Brain_Putamen community 5
+Accuracy: 0.7862 (0.0956)
+F1 score: 0.1881 (0.0826)
+ROC AUC: 0.8925 (0.0451)
+-- Predicting Pituitary with Brain_Putamen community 5
+Accuracy: 0.8222 (0.2109)
+F1 score: 0.4686 (0.3930)
+ROC AUC: 0.9104 (0.1059)
+-- Predicting Prostate with Brain_Putamen community 5
+Accuracy: 0.4650 (0.0916)
+F1 score: 0.0499 (0.0103)
+ROC AUC: 0.7064 (0.0633)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 5
+Accuracy: 0.4814 (0.1015)
+F1 score: 0.1152 (0.0197)
+ROC AUC: 0.7174 (0.0652)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 5
+Accuracy: 0.4861 (0.1072)
+F1 score: 0.1342 (0.0238)
+ROC AUC: 0.7215 (0.0531)
+-- Predicting Small_Intestine with Brain_Putamen community 5
+Accuracy: 0.4632 (0.0896)
+F1 score: 0.0393 (0.0066)
+ROC AUC: 0.7126 (0.0516)
+-- Predicting Spleen with Brain_Putamen community 5
+Accuracy: 0.4649 (0.0925)
+F1 score: 0.0502 (0.0095)
+ROC AUC: 0.7154 (0.0517)
+-- Predicting Stomach with Brain_Putamen community 5
+Accuracy: 0.7874 (0.0945)
+F1 score: 0.1975 (0.0847)
+ROC AUC: 0.8850 (0.0529)
+-- Predicting Testis with Brain_Putamen community 5
+Accuracy: 0.8247 (0.2135)
+F1 score: 0.4968 (0.3558)
+ROC AUC: 0.9062 (0.1135)
+-- Predicting Thyroid with Brain_Putamen community 5
+Accuracy: 0.4837 (0.1065)
+F1 score: 0.1292 (0.0243)
+ROC AUC: 0.7234 (0.0455)
+-- Predicting Uterus with Brain_Putamen community 5
+Accuracy: 0.4646 (0.1033)
+F1 score: 0.0290 (0.0030)
+ROC AUC: 0.6995 (0.0264)
+-- Predicting Vagina with Brain_Putamen community 5
+Accuracy: 0.4649 (0.0864)
+F1 score: 0.0327 (0.0068)
+ROC AUC: 0.6881 (0.0759)
+-- Predicting Whole_Blood with Brain_Putamen community 5
+Accuracy: 0.8103 (0.0760)
+F1 score: 0.3453 (0.1044)
+ROC AUC: 0.9071 (0.0329)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 6
+Accuracy: 0.6235 (0.0909)
+F1 score: 0.1733 (0.0295)
+ROC AUC: 0.8195 (0.0262)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 6
+Accuracy: 0.6116 (0.0880)
+F1 score: 0.1402 (0.0237)
+ROC AUC: 0.7748 (0.0741)
+-- Predicting Adrenal_Gland with Brain_Putamen community 6
+Accuracy: 0.9682 (0.0230)
+F1 score: 0.5940 (0.2840)
+ROC AUC: 0.9916 (0.0113)
+-- Predicting Artery_Aorta with Brain_Putamen community 6
+Accuracy: 0.6031 (0.0857)
+F1 score: 0.1158 (0.0192)
+ROC AUC: 0.8381 (0.0288)
+-- Predicting Artery_Coronary with Brain_Putamen community 6
+Accuracy: 0.5845 (0.0832)
+F1 score: 0.0644 (0.0108)
+ROC AUC: 0.8512 (0.0476)
+-- Predicting Artery_Tibial with Brain_Putamen community 6
+Accuracy: 0.6234 (0.0908)
+F1 score: 0.1731 (0.0289)
+ROC AUC: 0.8119 (0.0387)
+-- Predicting Brain_Amygdala with Brain_Putamen community 6
+Accuracy: 0.7510 (0.1211)
+F1 score: 0.0758 (0.0291)
+ROC AUC: 0.8759 (0.0614)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 6
+Accuracy: 0.7555 (0.1218)
+F1 score: 0.0859 (0.0306)
+ROC AUC: 0.8679 (0.0620)
+-- Predicting Brain_Caudate with Brain_Putamen community 6
+Accuracy: 0.7581 (0.1182)
+F1 score: 0.1114 (0.0398)
+ROC AUC: 0.8764 (0.0565)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 6
+Accuracy: 0.7222 (0.1065)
+F1 score: 0.0851 (0.0257)
+ROC AUC: 0.8848 (0.0574)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 6
+Accuracy: 0.7336 (0.0894)
+F1 score: 0.1008 (0.0266)
+ROC AUC: 0.8792 (0.0677)
+-- Predicting Brain_Cortex with Brain_Putamen community 6
+Accuracy: 0.7479 (0.1117)
+F1 score: 0.1094 (0.0339)
+ROC AUC: 0.8778 (0.0624)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 6
+Accuracy: 0.7225 (0.1087)
+F1 score: 0.0846 (0.0259)
+ROC AUC: 0.8578 (0.0586)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 6
+Accuracy: 0.7524 (0.1240)
+F1 score: 0.0950 (0.0334)
+ROC AUC: 0.8721 (0.0611)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 6
+Accuracy: 0.7606 (0.1253)
+F1 score: 0.1019 (0.0385)
+ROC AUC: 0.8743 (0.0602)
+-- Predicting Brain_Nucleus with Brain_Putamen community 6
+Accuracy: 0.7554 (0.1102)
+F1 score: 0.1111 (0.0345)
+ROC AUC: 0.8716 (0.0625)
+-- Predicting Brain_Putamen with Brain_Putamen community 6
+Accuracy: 0.7552 (0.1234)
+F1 score: 0.0988 (0.0363)
+ROC AUC: 0.8703 (0.0746)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 6
+Accuracy: 0.7474 (0.1268)
+F1 score: 0.0742 (0.0281)
+ROC AUC: 0.8711 (0.0780)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 6
+Accuracy: 0.7401 (0.1095)
+F1 score: 0.0610 (0.0186)
+ROC AUC: 0.8599 (0.0736)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 6
+Accuracy: 0.9563 (0.0586)
+F1 score: 0.7370 (0.3163)
+ROC AUC: 0.9813 (0.0263)
+-- Predicting Cells_Cultured with Brain_Putamen community 6
+Accuracy: 0.9186 (0.1148)
+F1 score: 0.7325 (0.3718)
+ROC AUC: 0.9626 (0.0529)
+-- Predicting Cells_EBV with Brain_Putamen community 6
+Accuracy: 0.9991 (0.0008)
+F1 score: 0.9592 (0.0386)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 6
+Accuracy: 0.7230 (0.1280)
+F1 score: 0.1552 (0.0714)
+ROC AUC: 0.8816 (0.0795)
+-- Predicting Colon_Transverse with Brain_Putamen community 6
+Accuracy: 0.9091 (0.1203)
+F1 score: 0.6504 (0.3543)
+ROC AUC: 0.9834 (0.0230)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 6
+Accuracy: 0.9058 (0.0721)
+F1 score: 0.4915 (0.3518)
+ROC AUC: 0.9782 (0.0204)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 6
+Accuracy: 0.5912 (0.0727)
+F1 score: 0.1400 (0.0230)
+ROC AUC: 0.8060 (0.0328)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 6
+Accuracy: 0.9180 (0.0588)
+F1 score: 0.5533 (0.3098)
+ROC AUC: 0.9829 (0.0152)
+-- Predicting Heart_Atrial with Brain_Putamen community 6
+Accuracy: 0.9847 (0.0182)
+F1 score: 0.8162 (0.1936)
+ROC AUC: 0.9997 (0.0003)
+-- Predicting Heart_L_Vent with Brain_Putamen community 6
+Accuracy: 0.9119 (0.1242)
+F1 score: 0.7168 (0.3924)
+ROC AUC: 0.9578 (0.0596)
+-- Predicting Kidney_Cortex with Brain_Putamen community 6
+Accuracy: 0.9353 (0.0507)
+F1 score: 0.3841 (0.4088)
+ROC AUC: 0.9951 (0.0045)
+-- Predicting Liver with Brain_Putamen community 6
+Accuracy: 0.8522 (0.1690)
+F1 score: 0.4607 (0.3948)
+ROC AUC: 0.9896 (0.0137)
+-- Predicting Lung with Brain_Putamen community 6
+Accuracy: 0.9995 (0.0004)
+F1 score: 0.9923 (0.0054)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Minor_Salivary with Brain_Putamen community 6
+Accuracy: 0.9826 (0.0244)
+F1 score: 0.7489 (0.3405)
+ROC AUC: 0.9992 (0.0011)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 6
+Accuracy: 0.9332 (0.0940)
+F1 score: 0.7703 (0.3204)
+ROC AUC: 0.9687 (0.0442)
+-- Predicting Nerve_Tibial with Brain_Putamen community 6
+Accuracy: 0.6124 (0.0974)
+F1 score: 0.1614 (0.0396)
+ROC AUC: 0.8209 (0.0433)
+-- Predicting Ovary with Brain_Putamen community 6
+Accuracy: 0.9095 (0.0657)
+F1 score: 0.3847 (0.3411)
+ROC AUC: 0.9723 (0.0311)
+-- Predicting Pancreas with Brain_Putamen community 6
+Accuracy: 0.9897 (0.0109)
+F1 score: 0.8303 (0.1617)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Pituitary with Brain_Putamen community 6
+Accuracy: 0.9497 (0.0247)
+F1 score: 0.4203 (0.1275)
+ROC AUC: 0.9910 (0.0116)
+-- Predicting Prostate with Brain_Putamen community 6
+Accuracy: 0.9197 (0.0609)
+F1 score: 0.4657 (0.3790)
+ROC AUC: 0.9744 (0.0314)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 6
+Accuracy: 0.9643 (0.0104)
+F1 score: 0.6621 (0.0652)
+ROC AUC: 0.9853 (0.0086)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 6
+Accuracy: 0.6202 (0.1015)
+F1 score: 0.1837 (0.0473)
+ROC AUC: 0.8606 (0.0637)
+-- Predicting Small_Intestine with Brain_Putamen community 6
+Accuracy: 0.8992 (0.0876)
+F1 score: 0.4221 (0.3867)
+ROC AUC: 0.9796 (0.0162)
+-- Predicting Spleen with Brain_Putamen community 6
+Accuracy: 0.9511 (0.0328)
+F1 score: 0.5011 (0.2971)
+ROC AUC: 0.9938 (0.0082)
+-- Predicting Stomach with Brain_Putamen community 6
+Accuracy: 0.9241 (0.0548)
+F1 score: 0.5157 (0.3430)
+ROC AUC: 0.9794 (0.0268)
+-- Predicting Testis with Brain_Putamen community 6
+Accuracy: 0.7609 (0.1537)
+F1 score: 0.2057 (0.1098)
+ROC AUC: 0.8941 (0.0828)
+-- Predicting Thyroid with Brain_Putamen community 6
+Accuracy: 0.9728 (0.0339)
+F1 score: 0.8063 (0.2179)
+ROC AUC: 0.9997 (0.0003)
+-- Predicting Uterus with Brain_Putamen community 6
+Accuracy: 0.9218 (0.0494)
+F1 score: 0.3094 (0.2527)
+ROC AUC: 0.9863 (0.0145)
+-- Predicting Vagina with Brain_Putamen community 6
+Accuracy: 0.9099 (0.0700)
+F1 score: 0.4150 (0.4069)
+ROC AUC: 0.9715 (0.0314)
+-- Predicting Whole_Blood with Brain_Putamen community 6
+Accuracy: 0.6267 (0.1043)
+F1 score: 0.2020 (0.0533)
+ROC AUC: 0.8643 (0.0690)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 7
+Accuracy: 0.8300 (0.1516)
+F1 score: 0.5064 (0.3547)
+ROC AUC: 0.9331 (0.0866)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 7
+Accuracy: 0.8275 (0.1618)
+F1 score: 0.4863 (0.3690)
+ROC AUC: 0.9284 (0.0962)
+-- Predicting Adrenal_Gland with Brain_Putamen community 7
+Accuracy: 0.9766 (0.0244)
+F1 score: 0.6716 (0.2350)
+ROC AUC: 0.9990 (0.0012)
+-- Predicting Artery_Aorta with Brain_Putamen community 7
+Accuracy: 0.7965 (0.1653)
+F1 score: 0.4355 (0.3980)
+ROC AUC: 0.9249 (0.0968)
+-- Predicting Artery_Coronary with Brain_Putamen community 7
+Accuracy: 0.8454 (0.1324)
+F1 score: 0.2360 (0.1148)
+ROC AUC: 0.9902 (0.0031)
+-- Predicting Artery_Tibial with Brain_Putamen community 7
+Accuracy: 0.7967 (0.1523)
+F1 score: 0.4687 (0.3713)
+ROC AUC: 0.9318 (0.0857)
+-- Predicting Brain_Amygdala with Brain_Putamen community 7
+Accuracy: 0.9506 (0.0506)
+F1 score: 0.4974 (0.3689)
+ROC AUC: 0.9885 (0.0163)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 7
+Accuracy: 0.9509 (0.0503)
+F1 score: 0.5135 (0.3599)
+ROC AUC: 0.9901 (0.0141)
+-- Predicting Brain_Caudate with Brain_Putamen community 7
+Accuracy: 0.9257 (0.0320)
+F1 score: 0.2934 (0.1221)
+ROC AUC: 0.9722 (0.0191)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 7
+Accuracy: 0.9672 (0.0241)
+F1 score: 0.5489 (0.3205)
+ROC AUC: 0.9929 (0.0100)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 7
+Accuracy: 0.9660 (0.0206)
+F1 score: 0.5086 (0.1867)
+ROC AUC: 0.9941 (0.0084)
+-- Predicting Brain_Cortex with Brain_Putamen community 7
+Accuracy: 0.9379 (0.0545)
+F1 score: 0.4524 (0.2713)
+ROC AUC: 0.9747 (0.0309)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 7
+Accuracy: 0.9535 (0.0591)
+F1 score: 0.6035 (0.3199)
+ROC AUC: 0.9902 (0.0137)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 7
+Accuracy: 0.9521 (0.0478)
+F1 score: 0.5167 (0.3348)
+ROC AUC: 0.9896 (0.0147)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 7
+Accuracy: 0.9797 (0.0091)
+F1 score: 0.5472 (0.1047)
+ROC AUC: 0.9997 (0.0002)
+-- Predicting Brain_Nucleus with Brain_Putamen community 7
+Accuracy: 0.9209 (0.0328)
+F1 score: 0.2827 (0.1123)
+ROC AUC: 0.9717 (0.0190)
+-- Predicting Brain_Putamen with Brain_Putamen community 7
+Accuracy: 0.9249 (0.0401)
+F1 score: 0.3010 (0.1747)
+ROC AUC: 0.9704 (0.0207)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 7
+Accuracy: 0.9513 (0.0538)
+F1 score: 0.4457 (0.2332)
+ROC AUC: 0.9879 (0.0165)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 7
+Accuracy: 0.9808 (0.0270)
+F1 score: 0.7314 (0.3708)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 7
+Accuracy: 0.8096 (0.1656)
+F1 score: 0.4493 (0.3900)
+ROC AUC: 0.9254 (0.0990)
+-- Predicting Cells_Cultured with Brain_Putamen community 7
+Accuracy: 0.9773 (0.0321)
+F1 score: 0.8276 (0.2438)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Putamen community 7
+Accuracy: 0.9559 (0.0623)
+F1 score: 0.7058 (0.4089)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 7
+Accuracy: 0.9761 (0.0191)
+F1 score: 0.6985 (0.2173)
+ROC AUC: 0.9993 (0.0010)
+-- Predicting Colon_Transverse with Brain_Putamen community 7
+Accuracy: 0.9992 (0.0010)
+F1 score: 0.9843 (0.0195)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 7
+Accuracy: 0.9345 (0.0462)
+F1 score: 0.5330 (0.3178)
+ROC AUC: 0.9926 (0.0060)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 7
+Accuracy: 0.9389 (0.0517)
+F1 score: 0.5968 (0.2041)
+ROC AUC: 0.9861 (0.0145)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 7
+Accuracy: 0.9678 (0.0240)
+F1 score: 0.6939 (0.1519)
+ROC AUC: 0.9957 (0.0059)
+-- Predicting Heart_Atrial with Brain_Putamen community 7
+Accuracy: 0.9401 (0.0420)
+F1 score: 0.5190 (0.1856)
+ROC AUC: 0.9864 (0.0156)
+-- Predicting Heart_L_Vent with Brain_Putamen community 7
+Accuracy: 0.9537 (0.0328)
+F1 score: 0.6155 (0.2720)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Kidney_Cortex with Brain_Putamen community 7
+Accuracy: 0.9736 (0.0300)
+F1 score: 0.5327 (0.3607)
+ROC AUC: 0.9989 (0.0014)
+-- Predicting Liver with Brain_Putamen community 7
+Accuracy: 0.9997 (0.0003)
+F1 score: 0.9883 (0.0118)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Lung with Brain_Putamen community 7
+Accuracy: 0.9178 (0.0536)
+F1 score: 0.4998 (0.1448)
+ROC AUC: 0.9813 (0.0087)
+-- Predicting Minor_Salivary with Brain_Putamen community 7
+Accuracy: 0.9849 (0.0180)
+F1 score: 0.7028 (0.2822)
+ROC AUC: 0.9997 (0.0003)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 7
+Accuracy: 0.9251 (0.0619)
+F1 score: 0.6435 (0.2528)
+ROC AUC: 0.9981 (0.0018)
+-- Predicting Nerve_Tibial with Brain_Putamen community 7
+Accuracy: 0.9955 (0.0049)
+F1 score: 0.9438 (0.0598)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Ovary with Brain_Putamen community 7
+Accuracy: 0.9484 (0.0204)
+F1 score: 0.3180 (0.0733)
+ROC AUC: 0.9949 (0.0012)
+-- Predicting Pancreas with Brain_Putamen community 7
+Accuracy: 0.9997 (0.0002)
+F1 score: 0.9919 (0.0060)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Pituitary with Brain_Putamen community 7
+Accuracy: 0.9954 (0.0062)
+F1 score: 0.8955 (0.1390)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Prostate with Brain_Putamen community 7
+Accuracy: 0.9926 (0.0098)
+F1 score: 0.8482 (0.1912)
+ROC AUC: 0.9999 (0.0001)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 7
+Accuracy: 0.9046 (0.0680)
+F1 score: 0.5463 (0.3153)
+ROC AUC: 0.9762 (0.0256)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 7
+Accuracy: 0.9134 (0.0618)
+F1 score: 0.5837 (0.2849)
+ROC AUC: 0.9824 (0.0242)
+-- Predicting Small_Intestine with Brain_Putamen community 7
+Accuracy: 0.9963 (0.0045)
+F1 score: 0.8816 (0.1329)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Spleen with Brain_Putamen community 7
+Accuracy: 0.9768 (0.0183)
+F1 score: 0.6379 (0.2273)
+ROC AUC: 0.9999 (0.0001)
+-- Predicting Stomach with Brain_Putamen community 7
+Accuracy: 0.9639 (0.0320)
+F1 score: 0.6266 (0.2119)
+ROC AUC: 0.9954 (0.0052)
+-- Predicting Testis with Brain_Putamen community 7
+Accuracy: 0.9410 (0.0577)
+F1 score: 0.5480 (0.2411)
+ROC AUC: 0.9775 (0.0298)
+-- Predicting Thyroid with Brain_Putamen community 7
+Accuracy: 0.9818 (0.0130)
+F1 score: 0.8209 (0.1083)
+ROC AUC: 0.9987 (0.0010)
+-- Predicting Uterus with Brain_Putamen community 7
+Accuracy: 0.8940 (0.0829)
+F1 score: 0.3721 (0.3833)
+ROC AUC: 0.9763 (0.0182)
+-- Predicting Vagina with Brain_Putamen community 7
+Accuracy: 0.9638 (0.0352)
+F1 score: 0.5244 (0.3192)
+ROC AUC: 0.9986 (0.0017)
+-- Predicting Whole_Blood with Brain_Putamen community 7
+Accuracy: 0.9984 (0.0022)
+F1 score: 0.9830 (0.0241)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 8
+Accuracy: 0.4158 (0.0226)
+F1 score: 0.0636 (0.0031)
+ROC AUC: 0.4436 (0.0071)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 8
+Accuracy: 0.5229 (0.0482)
+F1 score: 0.0459 (0.0037)
+ROC AUC: 0.4251 (0.0129)
+-- Predicting Adrenal_Gland with Brain_Putamen community 8
+Accuracy: 0.5425 (0.0164)
+F1 score: 0.0211 (0.0004)
+ROC AUC: 0.3836 (0.0083)
+-- Predicting Artery_Aorta with Brain_Putamen community 8
+Accuracy: 0.5164 (0.0040)
+F1 score: 0.0384 (0.0035)
+ROC AUC: 0.4139 (0.0096)
+-- Predicting Artery_Coronary with Brain_Putamen community 8
+Accuracy: 0.4821 (0.0061)
+F1 score: 0.0214 (0.0025)
+ROC AUC: 0.4191 (0.0215)
+-- Predicting Artery_Tibial with Brain_Putamen community 8
+Accuracy: 0.4348 (0.0213)
+F1 score: 0.0600 (0.0039)
+ROC AUC: 0.4326 (0.0076)
+-- Predicting Brain_Amygdala with Brain_Putamen community 8
+Accuracy: 0.5155 (0.0599)
+F1 score: 0.0114 (0.0035)
+ROC AUC: 0.3553 (0.0418)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 8
+Accuracy: 0.5113 (0.0201)
+F1 score: 0.0127 (0.0022)
+ROC AUC: 0.3720 (0.0238)
+-- Predicting Brain_Caudate with Brain_Putamen community 8
+Accuracy: 0.5463 (0.0483)
+F1 score: 0.0145 (0.0010)
+ROC AUC: 0.3573 (0.0145)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 8
+Accuracy: 0.6206 (0.0184)
+F1 score: 0.0158 (0.0035)
+ROC AUC: 0.3673 (0.0262)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 8
+Accuracy: 0.5153 (0.0338)
+F1 score: 0.0199 (0.0017)
+ROC AUC: 0.3960 (0.0154)
+-- Predicting Brain_Cortex with Brain_Putamen community 8
+Accuracy: 0.5335 (0.0329)
+F1 score: 0.0196 (0.0015)
+ROC AUC: 0.3845 (0.0070)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 8
+Accuracy: 0.6192 (0.0148)
+F1 score: 0.0133 (0.0009)
+ROC AUC: 0.3345 (0.0157)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 8
+Accuracy: 0.5489 (0.0204)
+F1 score: 0.0124 (0.0002)
+ROC AUC: 0.3545 (0.0140)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 8
+Accuracy: 0.5193 (0.0422)
+F1 score: 0.0141 (0.0007)
+ROC AUC: 0.3780 (0.0201)
+-- Predicting Brain_Nucleus with Brain_Putamen community 8
+Accuracy: 0.5203 (0.0090)
+F1 score: 0.0180 (0.0012)
+ROC AUC: 0.3962 (0.0200)
+-- Predicting Brain_Putamen with Brain_Putamen community 8
+Accuracy: 0.5470 (0.0438)
+F1 score: 0.0142 (0.0024)
+ROC AUC: 0.3699 (0.0216)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 8
+Accuracy: 0.6381 (0.0863)
+F1 score: 0.0084 (0.0016)
+ROC AUC: 0.3345 (0.0199)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 8
+Accuracy: 0.5331 (0.0289)
+F1 score: 0.0091 (0.0013)
+ROC AUC: 0.3487 (0.0280)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 8
+Accuracy: 0.4804 (0.0073)
+F1 score: 0.0391 (0.0029)
+ROC AUC: 0.4188 (0.0101)
+-- Predicting Cells_Cultured with Brain_Putamen community 8
+Accuracy: 0.5725 (0.0603)
+F1 score: 0.0507 (0.0051)
+ROC AUC: 0.4290 (0.0143)
+-- Predicting Cells_EBV with Brain_Putamen community 8
+Accuracy: 0.5901 (0.0240)
+F1 score: 0.0136 (0.0025)
+ROC AUC: 0.3673 (0.0136)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 8
+Accuracy: 0.4622 (0.0452)
+F1 score: 0.0285 (0.0020)
+ROC AUC: 0.3952 (0.0050)
+-- Predicting Colon_Transverse with Brain_Putamen community 8
+Accuracy: 0.3811 (0.0314)
+F1 score: 0.0422 (0.0053)
+ROC AUC: 0.4371 (0.0180)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 8
+Accuracy: 0.4273 (0.0147)
+F1 score: 0.0324 (0.0020)
+ROC AUC: 0.4161 (0.0061)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 8
+Accuracy: 0.4126 (0.0066)
+F1 score: 0.0500 (0.0032)
+ROC AUC: 0.4117 (0.0073)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 8
+Accuracy: 0.4644 (0.0050)
+F1 score: 0.0450 (0.0038)
+ROC AUC: 0.4142 (0.0120)
+-- Predicting Heart_Atrial with Brain_Putamen community 8
+Accuracy: 0.5558 (0.0247)
+F1 score: 0.0343 (0.0008)
+ROC AUC: 0.4070 (0.0131)
+-- Predicting Heart_L_Vent with Brain_Putamen community 8
+Accuracy: 0.6152 (0.0550)
+F1 score: 0.0391 (0.0024)
+ROC AUC: 0.4018 (0.0146)
+-- Predicting Kidney_Cortex with Brain_Putamen community 8
+Accuracy: 0.6312 (0.0403)
+F1 score: 0.0050 (0.0000)
+ROC AUC: 0.2718 (0.0164)
+-- Predicting Liver with Brain_Putamen community 8
+Accuracy: 0.6186 (0.0353)
+F1 score: 0.0172 (0.0020)
+ROC AUC: 0.3546 (0.0230)
+-- Predicting Lung with Brain_Putamen community 8
+Accuracy: 0.5090 (0.0279)
+F1 score: 0.0492 (0.0023)
+ROC AUC: 0.4214 (0.0072)
+-- Predicting Minor_Salivary with Brain_Putamen community 8
+Accuracy: 0.5552 (0.0641)
+F1 score: 0.0130 (0.0016)
+ROC AUC: 0.3763 (0.0034)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 8
+Accuracy: 0.4269 (0.0112)
+F1 score: 0.0748 (0.0011)
+ROC AUC: 0.4445 (0.0036)
+-- Predicting Nerve_Tibial with Brain_Putamen community 8
+Accuracy: 0.4343 (0.0512)
+F1 score: 0.0574 (0.0023)
+ROC AUC: 0.4359 (0.0065)
+-- Predicting Ovary with Brain_Putamen community 8
+Accuracy: 0.4554 (0.0132)
+F1 score: 0.0145 (0.0010)
+ROC AUC: 0.3788 (0.0103)
+-- Predicting Pancreas with Brain_Putamen community 8
+Accuracy: 0.5559 (0.0186)
+F1 score: 0.0281 (0.0030)
+ROC AUC: 0.4003 (0.0216)
+-- Predicting Pituitary with Brain_Putamen community 8
+Accuracy: 0.5169 (0.0460)
+F1 score: 0.0200 (0.0029)
+ROC AUC: 0.3887 (0.0215)
+-- Predicting Prostate with Brain_Putamen community 8
+Accuracy: 0.3974 (0.0208)
+F1 score: 0.0198 (0.0015)
+ROC AUC: 0.3952 (0.0012)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 8
+Accuracy: 0.4685 (0.0243)
+F1 score: 0.0531 (0.0028)
+ROC AUC: 0.4189 (0.0127)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 8
+Accuracy: 0.4369 (0.0243)
+F1 score: 0.0596 (0.0047)
+ROC AUC: 0.4390 (0.0128)
+-- Predicting Small_Intestine with Brain_Putamen community 8
+Accuracy: 0.4888 (0.0236)
+F1 score: 0.0132 (0.0004)
+ROC AUC: 0.3617 (0.0168)
+-- Predicting Spleen with Brain_Putamen community 8
+Accuracy: 0.4869 (0.0501)
+F1 score: 0.0220 (0.0020)
+ROC AUC: 0.4106 (0.0116)
+-- Predicting Stomach with Brain_Putamen community 8
+Accuracy: 0.4549 (0.0175)
+F1 score: 0.0313 (0.0030)
+ROC AUC: 0.4035 (0.0109)
+-- Predicting Testis with Brain_Putamen community 8
+Accuracy: 0.6236 (0.0517)
+F1 score: 0.0308 (0.0024)
+ROC AUC: 0.3810 (0.0101)
+-- Predicting Thyroid with Brain_Putamen community 8
+Accuracy: 0.4838 (0.0425)
+F1 score: 0.0574 (0.0009)
+ROC AUC: 0.4308 (0.0081)
+-- Predicting Uterus with Brain_Putamen community 8
+Accuracy: 0.4302 (0.0238)
+F1 score: 0.0112 (0.0011)
+ROC AUC: 0.3827 (0.0223)
+-- Predicting Vagina with Brain_Putamen community 8
+Accuracy: 0.4496 (0.0154)
+F1 score: 0.0111 (0.0009)
+ROC AUC: 0.3649 (0.0126)
+-- Predicting Whole_Blood with Brain_Putamen community 8
+Accuracy: 0.6504 (0.0276)
+F1 score: 0.0724 (0.0114)
+ROC AUC: 0.4214 (0.0181)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 9
+Accuracy: 0.6079 (0.0924)
+F1 score: 0.1694 (0.0319)
+ROC AUC: 0.7628 (0.0909)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 9
+Accuracy: 0.6005 (0.0964)
+F1 score: 0.1395 (0.0276)
+ROC AUC: 0.7659 (0.0898)
+-- Predicting Adrenal_Gland with Brain_Putamen community 9
+Accuracy: 0.4669 (0.0970)
+F1 score: 0.0554 (0.0100)
+ROC AUC: 0.7259 (0.0408)
+-- Predicting Artery_Aorta with Brain_Putamen community 9
+Accuracy: 0.5971 (0.1003)
+F1 score: 0.1174 (0.0236)
+ROC AUC: 0.7581 (0.1005)
+-- Predicting Artery_Coronary with Brain_Putamen community 9
+Accuracy: 0.5858 (0.1073)
+F1 score: 0.0668 (0.0143)
+ROC AUC: 0.7801 (0.0654)
+-- Predicting Artery_Tibial with Brain_Putamen community 9
+Accuracy: 0.4879 (0.0686)
+F1 score: 0.1258 (0.0177)
+ROC AUC: 0.7281 (0.0198)
+-- Predicting Brain_Amygdala with Brain_Putamen community 9
+Accuracy: 0.4567 (0.1082)
+F1 score: 0.0317 (0.0070)
+ROC AUC: 0.7139 (0.0453)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 9
+Accuracy: 0.4575 (0.1055)
+F1 score: 0.0359 (0.0077)
+ROC AUC: 0.7114 (0.0486)
+-- Predicting Brain_Caudate with Brain_Putamen community 9
+Accuracy: 0.4650 (0.1028)
+F1 score: 0.0474 (0.0101)
+ROC AUC: 0.7143 (0.0454)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 9
+Accuracy: 0.4629 (0.1048)
+F1 score: 0.0404 (0.0083)
+ROC AUC: 0.7199 (0.0475)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 9
+Accuracy: 0.4663 (0.1021)
+F1 score: 0.0484 (0.0102)
+ROC AUC: 0.7162 (0.0336)
+-- Predicting Brain_Cortex with Brain_Putamen community 9
+Accuracy: 0.4594 (0.0989)
+F1 score: 0.0492 (0.0096)
+ROC AUC: 0.7144 (0.0465)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 9
+Accuracy: 0.4599 (0.1020)
+F1 score: 0.0424 (0.0086)
+ROC AUC: 0.7118 (0.0475)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 9
+Accuracy: 0.4572 (0.1026)
+F1 score: 0.0400 (0.0083)
+ROC AUC: 0.7158 (0.0426)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 9
+Accuracy: 0.4567 (0.1017)
+F1 score: 0.0411 (0.0086)
+ROC AUC: 0.7149 (0.0458)
+-- Predicting Brain_Nucleus with Brain_Putamen community 9
+Accuracy: 0.4622 (0.1020)
+F1 score: 0.0489 (0.0099)
+ROC AUC: 0.7150 (0.0446)
+-- Predicting Brain_Putamen with Brain_Putamen community 9
+Accuracy: 0.4621 (0.1036)
+F1 score: 0.0416 (0.0090)
+ROC AUC: 0.7093 (0.0513)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 9
+Accuracy: 0.4561 (0.1085)
+F1 score: 0.0309 (0.0069)
+ROC AUC: 0.7171 (0.0458)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 9
+Accuracy: 0.4549 (0.1090)
+F1 score: 0.0280 (0.0063)
+ROC AUC: 0.7171 (0.0312)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 9
+Accuracy: 0.4767 (0.0847)
+F1 score: 0.0848 (0.0106)
+ROC AUC: 0.7268 (0.0321)
+-- Predicting Cells_Cultured with Brain_Putamen community 9
+Accuracy: 0.6091 (0.0803)
+F1 score: 0.1440 (0.0235)
+ROC AUC: 0.8310 (0.0228)
+-- Predicting Cells_EBV with Brain_Putamen community 9
+Accuracy: 0.5813 (0.1061)
+F1 score: 0.0465 (0.0098)
+ROC AUC: 0.7645 (0.0692)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 9
+Accuracy: 0.4716 (0.1262)
+F1 score: 0.0741 (0.0201)
+ROC AUC: 0.7212 (0.0625)
+-- Predicting Colon_Transverse with Brain_Putamen community 9
+Accuracy: 0.4742 (0.1229)
+F1 score: 0.0807 (0.0183)
+ROC AUC: 0.7248 (0.0528)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 9
+Accuracy: 0.4712 (0.1250)
+F1 score: 0.0772 (0.0188)
+ROC AUC: 0.7193 (0.0541)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 9
+Accuracy: 0.9807 (0.0260)
+F1 score: 0.8374 (0.2111)
+ROC AUC: 0.9901 (0.0139)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 9
+Accuracy: 0.4783 (0.1240)
+F1 score: 0.1067 (0.0238)
+ROC AUC: 0.7235 (0.0589)
+-- Predicting Heart_Atrial with Brain_Putamen community 9
+Accuracy: 0.5942 (0.0845)
+F1 score: 0.1111 (0.0188)
+ROC AUC: 0.7896 (0.0386)
+-- Predicting Heart_L_Vent with Brain_Putamen community 9
+Accuracy: 0.9994 (0.0004)
+F1 score: 0.9885 (0.0082)
+ROC AUC: 0.9999 (0.0001)
+-- Predicting Kidney_Cortex with Brain_Putamen community 9
+Accuracy: 0.9528 (0.0655)
+F1 score: 0.6325 (0.4028)
+ROC AUC: 0.9757 (0.0344)
+-- Predicting Liver with Brain_Putamen community 9
+Accuracy: 0.9617 (0.0529)
+F1 score: 0.7106 (0.3653)
+ROC AUC: 0.9821 (0.0253)
+-- Predicting Lung with Brain_Putamen community 9
+Accuracy: 0.4825 (0.1241)
+F1 score: 0.1145 (0.0292)
+ROC AUC: 0.7296 (0.0562)
+-- Predicting Minor_Salivary with Brain_Putamen community 9
+Accuracy: 0.5792 (0.1054)
+F1 score: 0.0454 (0.0096)
+ROC AUC: 0.7903 (0.0312)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 9
+Accuracy: 0.6161 (0.0548)
+F1 score: 0.1974 (0.0221)
+ROC AUC: 0.7958 (0.0258)
+-- Predicting Nerve_Tibial with Brain_Putamen community 9
+Accuracy: 0.4842 (0.0963)
+F1 score: 0.1144 (0.0190)
+ROC AUC: 0.7264 (0.0361)
+-- Predicting Ovary with Brain_Putamen community 9
+Accuracy: 0.5834 (0.1223)
+F1 score: 0.0532 (0.0121)
+ROC AUC: 0.8127 (0.0306)
+-- Predicting Pancreas with Brain_Putamen community 9
+Accuracy: 0.5975 (0.1195)
+F1 score: 0.0965 (0.0218)
+ROC AUC: 0.8190 (0.0156)
+-- Predicting Pituitary with Brain_Putamen community 9
+Accuracy: 0.4615 (0.1118)
+F1 score: 0.0572 (0.0127)
+ROC AUC: 0.7051 (0.0770)
+-- Predicting Prostate with Brain_Putamen community 9
+Accuracy: 0.5843 (0.1180)
+F1 score: 0.0695 (0.0154)
+ROC AUC: 0.7575 (0.1062)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 9
+Accuracy: 0.4823 (0.0959)
+F1 score: 0.1141 (0.0190)
+ROC AUC: 0.7187 (0.0557)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 9
+Accuracy: 0.4889 (0.0919)
+F1 score: 0.1349 (0.0210)
+ROC AUC: 0.7287 (0.0334)
+-- Predicting Small_Intestine with Brain_Putamen community 9
+Accuracy: 0.4631 (0.1197)
+F1 score: 0.0407 (0.0109)
+ROC AUC: 0.7285 (0.0552)
+-- Predicting Spleen with Brain_Putamen community 9
+Accuracy: 0.5847 (0.1177)
+F1 score: 0.0713 (0.0158)
+ROC AUC: 0.7573 (0.1000)
+-- Predicting Stomach with Brain_Putamen community 9
+Accuracy: 0.4718 (0.1099)
+F1 score: 0.0725 (0.0172)
+ROC AUC: 0.7230 (0.0476)
+-- Predicting Testis with Brain_Putamen community 9
+Accuracy: 0.4698 (0.1066)
+F1 score: 0.0769 (0.0156)
+ROC AUC: 0.7117 (0.0641)
+-- Predicting Thyroid with Brain_Putamen community 9
+Accuracy: 0.4862 (0.0936)
+F1 score: 0.1263 (0.0207)
+ROC AUC: 0.7225 (0.0485)
+-- Predicting Uterus with Brain_Putamen community 9
+Accuracy: 0.5783 (0.1223)
+F1 score: 0.0414 (0.0097)
+ROC AUC: 0.7910 (0.0522)
+-- Predicting Vagina with Brain_Putamen community 9
+Accuracy: 0.5790 (0.1218)
+F1 score: 0.0451 (0.0105)
+ROC AUC: 0.7880 (0.0687)
+-- Predicting Whole_Blood with Brain_Putamen community 9
+Accuracy: 0.6187 (0.1010)
+F1 score: 0.1947 (0.0360)
+ROC AUC: 0.7669 (0.0918)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 10
+Accuracy: 0.8560 (0.1012)
+F1 score: 0.4961 (0.3284)
+ROC AUC: 0.9428 (0.0418)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 10
+Accuracy: 0.7537 (0.1048)
+F1 score: 0.2305 (0.0918)
+ROC AUC: 0.8920 (0.0341)
+-- Predicting Adrenal_Gland with Brain_Putamen community 10
+Accuracy: 0.7766 (0.0688)
+F1 score: 0.1326 (0.0442)
+ROC AUC: 0.8865 (0.0333)
+-- Predicting Artery_Aorta with Brain_Putamen community 10
+Accuracy: 0.8753 (0.0931)
+F1 score: 0.4616 (0.3387)
+ROC AUC: 0.9388 (0.0467)
+-- Predicting Artery_Coronary with Brain_Putamen community 10
+Accuracy: 0.5891 (0.1678)
+F1 score: 0.0679 (0.0289)
+ROC AUC: 0.7954 (0.0658)
+-- Predicting Artery_Tibial with Brain_Putamen community 10
+Accuracy: 0.8886 (0.0788)
+F1 score: 0.5320 (0.2992)
+ROC AUC: 0.9426 (0.0418)
+-- Predicting Brain_Amygdala with Brain_Putamen community 10
+Accuracy: 0.5852 (0.1493)
+F1 score: 0.0401 (0.0161)
+ROC AUC: 0.7588 (0.0842)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 10
+Accuracy: 0.5946 (0.1518)
+F1 score: 0.0475 (0.0190)
+ROC AUC: 0.7667 (0.0792)
+-- Predicting Brain_Caudate with Brain_Putamen community 10
+Accuracy: 0.6050 (0.1456)
+F1 score: 0.0656 (0.0253)
+ROC AUC: 0.7850 (0.0748)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 10
+Accuracy: 0.6315 (0.1276)
+F1 score: 0.0663 (0.0274)
+ROC AUC: 0.8020 (0.0714)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 10
+Accuracy: 0.6022 (0.1579)
+F1 score: 0.0735 (0.0307)
+ROC AUC: 0.7971 (0.0665)
+-- Predicting Brain_Cortex with Brain_Putamen community 10
+Accuracy: 0.5785 (0.1565)
+F1 score: 0.0638 (0.0272)
+ROC AUC: 0.7563 (0.0997)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 10
+Accuracy: 0.5906 (0.1491)
+F1 score: 0.0585 (0.0238)
+ROC AUC: 0.7615 (0.0904)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 10
+Accuracy: 0.5913 (0.1640)
+F1 score: 0.0566 (0.0231)
+ROC AUC: 0.7872 (0.0781)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 10
+Accuracy: 0.6292 (0.1254)
+F1 score: 0.0601 (0.0223)
+ROC AUC: 0.7913 (0.0735)
+-- Predicting Brain_Nucleus with Brain_Putamen community 10
+Accuracy: 0.5966 (0.1568)
+F1 score: 0.0677 (0.0310)
+ROC AUC: 0.7796 (0.0919)
+-- Predicting Brain_Putamen with Brain_Putamen community 10
+Accuracy: 0.6100 (0.1381)
+F1 score: 0.0576 (0.0218)
+ROC AUC: 0.7847 (0.0784)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 10
+Accuracy: 0.6317 (0.1307)
+F1 score: 0.0491 (0.0220)
+ROC AUC: 0.7969 (0.0717)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 10
+Accuracy: 0.6022 (0.1691)
+F1 score: 0.0396 (0.0184)
+ROC AUC: 0.7800 (0.0830)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 10
+Accuracy: 0.6066 (0.1416)
+F1 score: 0.1166 (0.0408)
+ROC AUC: 0.7920 (0.0593)
+-- Predicting Cells_Cultured with Brain_Putamen community 10
+Accuracy: 0.7363 (0.1034)
+F1 score: 0.2150 (0.0716)
+ROC AUC: 0.8917 (0.0291)
+-- Predicting Cells_EBV with Brain_Putamen community 10
+Accuracy: 0.9480 (0.0623)
+F1 score: 0.5436 (0.3426)
+ROC AUC: 0.9787 (0.0248)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 10
+Accuracy: 0.6047 (0.1900)
+F1 score: 0.1130 (0.0589)
+ROC AUC: 0.8039 (0.0763)
+-- Predicting Colon_Transverse with Brain_Putamen community 10
+Accuracy: 0.5718 (0.2299)
+F1 score: 0.1261 (0.0737)
+ROC AUC: 0.7857 (0.0980)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 10
+Accuracy: 0.6435 (0.1545)
+F1 score: 0.1237 (0.0649)
+ROC AUC: 0.8058 (0.0830)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 10
+Accuracy: 0.7687 (0.0673)
+F1 score: 0.2339 (0.0612)
+ROC AUC: 0.8955 (0.0248)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 10
+Accuracy: 0.7461 (0.0923)
+F1 score: 0.2129 (0.0676)
+ROC AUC: 0.8948 (0.0292)
+-- Predicting Heart_Atrial with Brain_Putamen community 10
+Accuracy: 0.9215 (0.0826)
+F1 score: 0.5783 (0.3272)
+ROC AUC: 0.9583 (0.0391)
+-- Predicting Heart_L_Vent with Brain_Putamen community 10
+Accuracy: 0.9855 (0.0192)
+F1 score: 0.8374 (0.2035)
+ROC AUC: 0.9950 (0.0070)
+-- Predicting Kidney_Cortex with Brain_Putamen community 10
+Accuracy: 0.9448 (0.0571)
+F1 score: 0.3979 (0.3543)
+ROC AUC: 0.9775 (0.0224)
+-- Predicting Liver with Brain_Putamen community 10
+Accuracy: 0.9751 (0.0348)
+F1 score: 0.7491 (0.3399)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Lung with Brain_Putamen community 10
+Accuracy: 0.9130 (0.0584)
+F1 score: 0.5418 (0.2792)
+ROC AUC: 0.9684 (0.0260)
+-- Predicting Minor_Salivary with Brain_Putamen community 10
+Accuracy: 0.7474 (0.0906)
+F1 score: 0.0795 (0.0299)
+ROC AUC: 0.8812 (0.0288)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 10
+Accuracy: 0.8957 (0.1435)
+F1 score: 0.7241 (0.3483)
+ROC AUC: 0.9454 (0.0769)
+-- Predicting Nerve_Tibial with Brain_Putamen community 10
+Accuracy: 0.8806 (0.0814)
+F1 score: 0.5008 (0.3080)
+ROC AUC: 0.9656 (0.0408)
+-- Predicting Ovary with Brain_Putamen community 10
+Accuracy: 0.6307 (0.1317)
+F1 score: 0.0604 (0.0205)
+ROC AUC: 0.8004 (0.0678)
+-- Predicting Pancreas with Brain_Putamen community 10
+Accuracy: 0.7830 (0.0729)
+F1 score: 0.1679 (0.0461)
+ROC AUC: 0.8884 (0.0436)
+-- Predicting Pituitary with Brain_Putamen community 10
+Accuracy: 0.6287 (0.1314)
+F1 score: 0.0775 (0.0230)
+ROC AUC: 0.8001 (0.0656)
+-- Predicting Prostate with Brain_Putamen community 10
+Accuracy: 0.7776 (0.0715)
+F1 score: 0.1252 (0.0359)
+ROC AUC: 0.8877 (0.0365)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 10
+Accuracy: 0.7951 (0.0810)
+F1 score: 0.2679 (0.0663)
+ROC AUC: 0.8967 (0.0397)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 10
+Accuracy: 0.6179 (0.1627)
+F1 score: 0.1807 (0.0528)
+ROC AUC: 0.8010 (0.0636)
+-- Predicting Small_Intestine with Brain_Putamen community 10
+Accuracy: 0.6282 (0.1324)
+F1 score: 0.0598 (0.0228)
+ROC AUC: 0.7935 (0.0679)
+-- Predicting Spleen with Brain_Putamen community 10
+Accuracy: 0.9143 (0.0614)
+F1 score: 0.4597 (0.3823)
+ROC AUC: 0.9623 (0.0280)
+-- Predicting Stomach with Brain_Putamen community 10
+Accuracy: 0.6264 (0.1605)
+F1 score: 0.1061 (0.0405)
+ROC AUC: 0.8046 (0.0655)
+-- Predicting Testis with Brain_Putamen community 10
+Accuracy: 0.6133 (0.1632)
+F1 score: 0.1086 (0.0405)
+ROC AUC: 0.7964 (0.0763)
+-- Predicting Thyroid with Brain_Putamen community 10
+Accuracy: 0.9778 (0.0182)
+F1 score: 0.8003 (0.1491)
+ROC AUC: 0.9925 (0.0106)
+-- Predicting Uterus with Brain_Putamen community 10
+Accuracy: 0.9944 (0.0037)
+F1 score: 0.7718 (0.1211)
+ROC AUC: 0.9998 (0.0001)
+-- Predicting Vagina with Brain_Putamen community 10
+Accuracy: 0.7285 (0.1263)
+F1 score: 0.0747 (0.0299)
+ROC AUC: 0.8792 (0.0440)
+-- Predicting Whole_Blood with Brain_Putamen community 10
+Accuracy: 0.9446 (0.0474)
+F1 score: 0.6893 (0.2350)
+ROC AUC: 0.9683 (0.0295)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 11
+Accuracy: 0.2167 (0.2111)
+F1 score: 0.0751 (0.0007)
+ROC AUC: 0.4999 (0.0116)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 11
+Accuracy: 0.2814 (0.2329)
+F1 score: 0.0583 (0.0025)
+ROC AUC: 0.4952 (0.0252)
+-- Predicting Adrenal_Gland with Brain_Putamen community 11
+Accuracy: 0.2264 (0.1335)
+F1 score: 0.0274 (0.0032)
+ROC AUC: 0.4410 (0.0364)
+-- Predicting Artery_Aorta with Brain_Putamen community 11
+Accuracy: 0.1830 (0.1789)
+F1 score: 0.0506 (0.0003)
+ROC AUC: 0.5047 (0.0083)
+-- Predicting Artery_Coronary with Brain_Putamen community 11
+Accuracy: 0.4329 (0.0711)
+F1 score: 0.0230 (0.0026)
+ROC AUC: 0.4459 (0.0312)
+-- Predicting Artery_Tibial with Brain_Putamen community 11
+Accuracy: 0.2485 (0.2061)
+F1 score: 0.0716 (0.0054)
+ROC AUC: 0.4692 (0.0141)
+-- Predicting Brain_Amygdala with Brain_Putamen community 11
+Accuracy: 0.9759 (0.0340)
+F1 score: 0.7263 (0.3790)
+ROC AUC: 0.9876 (0.0175)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 11
+Accuracy: 0.3816 (0.1285)
+F1 score: 0.0181 (0.0004)
+ROC AUC: 0.4636 (0.0023)
+-- Predicting Brain_Caudate with Brain_Putamen community 11
+Accuracy: 0.9801 (0.0280)
+F1 score: 0.7647 (0.3274)
+ROC AUC: 0.9897 (0.0146)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 11
+Accuracy: 0.3817 (0.0900)
+F1 score: 0.0213 (0.0006)
+ROC AUC: 0.4664 (0.0231)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 11
+Accuracy: 0.3091 (0.1788)
+F1 score: 0.0252 (0.0018)
+ROC AUC: 0.4749 (0.0041)
+-- Predicting Brain_Cortex with Brain_Putamen community 11
+Accuracy: 0.2908 (0.0998)
+F1 score: 0.0223 (0.0021)
+ROC AUC: 0.4582 (0.0283)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 11
+Accuracy: 0.3221 (0.2153)
+F1 score: 0.0198 (0.0027)
+ROC AUC: 0.4579 (0.0332)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 11
+Accuracy: 0.3132 (0.0661)
+F1 score: 0.0194 (0.0001)
+ROC AUC: 0.4445 (0.0044)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 11
+Accuracy: 0.9786 (0.0302)
+F1 score: 0.7503 (0.3469)
+ROC AUC: 0.9880 (0.0169)
+-- Predicting Brain_Nucleus with Brain_Putamen community 11
+Accuracy: 0.4632 (0.1662)
+F1 score: 0.0243 (0.0025)
+ROC AUC: 0.4776 (0.0212)
+-- Predicting Brain_Putamen with Brain_Putamen community 11
+Accuracy: 0.4447 (0.0688)
+F1 score: 0.0172 (0.0028)
+ROC AUC: 0.4044 (0.0348)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 11
+Accuracy: 0.5018 (0.1785)
+F1 score: 0.0144 (0.0008)
+ROC AUC: 0.4517 (0.0069)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 11
+Accuracy: 0.4312 (0.0644)
+F1 score: 0.0112 (0.0022)
+ROC AUC: 0.3981 (0.0234)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 11
+Accuracy: 0.3140 (0.1488)
+F1 score: 0.0468 (0.0039)
+ROC AUC: 0.4700 (0.0329)
+-- Predicting Cells_Cultured with Brain_Putamen community 11
+Accuracy: 0.3593 (0.0765)
+F1 score: 0.0601 (0.0024)
+ROC AUC: 0.4781 (0.0312)
+-- Predicting Cells_EBV with Brain_Putamen community 11
+Accuracy: 0.2968 (0.1685)
+F1 score: 0.0188 (0.0013)
+ROC AUC: 0.4802 (0.0252)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 11
+Accuracy: 0.3304 (0.2024)
+F1 score: 0.0339 (0.0051)
+ROC AUC: 0.4604 (0.0292)
+-- Predicting Colon_Transverse with Brain_Putamen community 11
+Accuracy: 0.3167 (0.1449)
+F1 score: 0.0427 (0.0027)
+ROC AUC: 0.4480 (0.0204)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 11
+Accuracy: 0.2789 (0.1085)
+F1 score: 0.0396 (0.0018)
+ROC AUC: 0.4634 (0.0155)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 11
+Accuracy: 0.3186 (0.1175)
+F1 score: 0.0538 (0.0081)
+ROC AUC: 0.4357 (0.0322)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 11
+Accuracy: 0.2963 (0.1393)
+F1 score: 0.0551 (0.0024)
+ROC AUC: 0.4817 (0.0108)
+-- Predicting Heart_Atrial with Brain_Putamen community 11
+Accuracy: 0.2710 (0.1756)
+F1 score: 0.0438 (0.0022)
+ROC AUC: 0.4859 (0.0152)
+-- Predicting Heart_L_Vent with Brain_Putamen community 11
+Accuracy: 0.2216 (0.2177)
+F1 score: 0.0487 (0.0022)
+ROC AUC: 0.5015 (0.0152)
+-- Predicting Kidney_Cortex with Brain_Putamen community 11
+Accuracy: 0.4367 (0.0164)
+F1 score: 0.0074 (0.0010)
+ROC AUC: 0.4142 (0.0287)
+-- Predicting Liver with Brain_Putamen community 11
+Accuracy: 0.2472 (0.1373)
+F1 score: 0.0261 (0.0023)
+ROC AUC: 0.4617 (0.0315)
+-- Predicting Lung with Brain_Putamen community 11
+Accuracy: 0.3420 (0.2772)
+F1 score: 0.0667 (0.0051)
+ROC AUC: 0.4858 (0.0205)
+-- Predicting Minor_Salivary with Brain_Putamen community 11
+Accuracy: 0.2601 (0.0794)
+F1 score: 0.0180 (0.0006)
+ROC AUC: 0.4624 (0.0205)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 11
+Accuracy: 0.2534 (0.1815)
+F1 score: 0.0898 (0.0013)
+ROC AUC: 0.4894 (0.0137)
+-- Predicting Nerve_Tibial with Brain_Putamen community 11
+Accuracy: 0.2771 (0.1722)
+F1 score: 0.0639 (0.0019)
+ROC AUC: 0.4646 (0.0135)
+-- Predicting Ovary with Brain_Putamen community 11
+Accuracy: 0.2638 (0.2171)
+F1 score: 0.0219 (0.0005)
+ROC AUC: 0.4805 (0.0258)
+-- Predicting Pancreas with Brain_Putamen community 11
+Accuracy: 0.3498 (0.1210)
+F1 score: 0.0332 (0.0051)
+ROC AUC: 0.4344 (0.0145)
+-- Predicting Pituitary with Brain_Putamen community 11
+Accuracy: 0.3816 (0.0981)
+F1 score: 0.0269 (0.0013)
+ROC AUC: 0.4444 (0.0133)
+-- Predicting Prostate with Brain_Putamen community 11
+Accuracy: 0.4502 (0.0872)
+F1 score: 0.0216 (0.0010)
+ROC AUC: 0.4314 (0.0140)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 11
+Accuracy: 0.2038 (0.1771)
+F1 score: 0.0621 (0.0058)
+ROC AUC: 0.4671 (0.0222)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 11
+Accuracy: 0.2861 (0.2300)
+F1 score: 0.0768 (0.0017)
+ROC AUC: 0.4903 (0.0175)
+-- Predicting Small_Intestine with Brain_Putamen community 11
+Accuracy: 0.2314 (0.1052)
+F1 score: 0.0214 (0.0016)
+ROC AUC: 0.4509 (0.0228)
+-- Predicting Spleen with Brain_Putamen community 11
+Accuracy: 0.3331 (0.1929)
+F1 score: 0.0255 (0.0029)
+ROC AUC: 0.4616 (0.0173)
+-- Predicting Stomach with Brain_Putamen community 11
+Accuracy: 0.4125 (0.0893)
+F1 score: 0.0372 (0.0009)
+ROC AUC: 0.4586 (0.0167)
+-- Predicting Testis with Brain_Putamen community 11
+Accuracy: 0.5161 (0.1220)
+F1 score: 0.0370 (0.0029)
+ROC AUC: 0.4449 (0.0243)
+-- Predicting Thyroid with Brain_Putamen community 11
+Accuracy: 0.2152 (0.1973)
+F1 score: 0.0717 (0.0014)
+ROC AUC: 0.4882 (0.0041)
+-- Predicting Uterus with Brain_Putamen community 11
+Accuracy: 0.4836 (0.1091)
+F1 score: 0.0127 (0.0014)
+ROC AUC: 0.4168 (0.0224)
+-- Predicting Vagina with Brain_Putamen community 11
+Accuracy: 0.4092 (0.0745)
+F1 score: 0.0146 (0.0014)
+ROC AUC: 0.4250 (0.0311)
+-- Predicting Whole_Blood with Brain_Putamen community 11
+Accuracy: 0.1765 (0.1592)
+F1 score: 0.0851 (0.0013)
+ROC AUC: 0.5051 (0.0149)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 12
+Accuracy: 0.4957 (0.0410)
+F1 score: 0.0659 (0.0020)
+ROC AUC: 0.4611 (0.0144)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 12
+Accuracy: 0.4595 (0.0987)
+F1 score: 0.0543 (0.0013)
+ROC AUC: 0.4606 (0.0103)
+-- Predicting Adrenal_Gland with Brain_Putamen community 12
+Accuracy: 0.3750 (0.1361)
+F1 score: 0.0286 (0.0022)
+ROC AUC: 0.4685 (0.0103)
+-- Predicting Artery_Aorta with Brain_Putamen community 12
+Accuracy: 0.5867 (0.0563)
+F1 score: 0.0428 (0.0024)
+ROC AUC: 0.4520 (0.0044)
+-- Predicting Artery_Coronary with Brain_Putamen community 12
+Accuracy: 0.4609 (0.0896)
+F1 score: 0.0226 (0.0017)
+ROC AUC: 0.4415 (0.0086)
+-- Predicting Artery_Tibial with Brain_Putamen community 12
+Accuracy: 0.5372 (0.1544)
+F1 score: 0.0654 (0.0073)
+ROC AUC: 0.4675 (0.0151)
+-- Predicting Brain_Amygdala with Brain_Putamen community 12
+Accuracy: 0.4113 (0.0907)
+F1 score: 0.0150 (0.0015)
+ROC AUC: 0.4503 (0.0139)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 12
+Accuracy: 0.4972 (0.0767)
+F1 score: 0.0163 (0.0009)
+ROC AUC: 0.4381 (0.0124)
+-- Predicting Brain_Caudate with Brain_Putamen community 12
+Accuracy: 0.2964 (0.0558)
+F1 score: 0.0241 (0.0012)
+ROC AUC: 0.4710 (0.0065)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 12
+Accuracy: 0.4668 (0.0985)
+F1 score: 0.0215 (0.0020)
+ROC AUC: 0.4712 (0.0068)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 12
+Accuracy: 0.3471 (0.0550)
+F1 score: 0.0264 (0.0012)
+ROC AUC: 0.4736 (0.0076)
+-- Predicting Brain_Cortex with Brain_Putamen community 12
+Accuracy: 0.4673 (0.1367)
+F1 score: 0.0226 (0.0013)
+ROC AUC: 0.4523 (0.0117)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 12
+Accuracy: 0.4081 (0.0710)
+F1 score: 0.0203 (0.0018)
+ROC AUC: 0.4593 (0.0113)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 12
+Accuracy: 0.5451 (0.1232)
+F1 score: 0.0159 (0.0014)
+ROC AUC: 0.4315 (0.0041)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 12
+Accuracy: 0.4585 (0.1186)
+F1 score: 0.0190 (0.0026)
+ROC AUC: 0.4302 (0.0154)
+-- Predicting Brain_Nucleus with Brain_Putamen community 12
+Accuracy: 0.4300 (0.0838)
+F1 score: 0.0238 (0.0018)
+ROC AUC: 0.4601 (0.0083)
+-- Predicting Brain_Putamen with Brain_Putamen community 12
+Accuracy: 0.3230 (0.0195)
+F1 score: 0.0219 (0.0018)
+ROC AUC: 0.4707 (0.0106)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 12
+Accuracy: 0.4723 (0.0570)
+F1 score: 0.0144 (0.0029)
+ROC AUC: 0.4419 (0.0487)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 12
+Accuracy: 0.3543 (0.0360)
+F1 score: 0.0139 (0.0007)
+ROC AUC: 0.4322 (0.0240)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 12
+Accuracy: 0.5290 (0.0539)
+F1 score: 0.0422 (0.0039)
+ROC AUC: 0.4562 (0.0126)
+-- Predicting Cells_Cultured with Brain_Putamen community 12
+Accuracy: 0.2506 (0.0827)
+F1 score: 0.0677 (0.0021)
+ROC AUC: 0.4901 (0.0045)
+-- Predicting Cells_EBV with Brain_Putamen community 12
+Accuracy: 0.4091 (0.1565)
+F1 score: 0.0185 (0.0008)
+ROC AUC: 0.4607 (0.0156)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 12
+Accuracy: 0.5115 (0.1215)
+F1 score: 0.0344 (0.0028)
+ROC AUC: 0.4530 (0.0197)
+-- Predicting Colon_Transverse with Brain_Putamen community 12
+Accuracy: 0.6142 (0.0844)
+F1 score: 0.0393 (0.0028)
+ROC AUC: 0.4565 (0.0269)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 12
+Accuracy: 0.5023 (0.0695)
+F1 score: 0.0373 (0.0031)
+ROC AUC: 0.4605 (0.0141)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 12
+Accuracy: 0.4947 (0.0471)
+F1 score: 0.0562 (0.0010)
+ROC AUC: 0.4669 (0.0056)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 12
+Accuracy: 0.5500 (0.0544)
+F1 score: 0.0490 (0.0017)
+ROC AUC: 0.4525 (0.0150)
+-- Predicting Heart_Atrial with Brain_Putamen community 12
+Accuracy: 0.3922 (0.0965)
+F1 score: 0.0393 (0.0050)
+ROC AUC: 0.4429 (0.0153)
+-- Predicting Heart_L_Vent with Brain_Putamen community 12
+Accuracy: 0.5238 (0.1725)
+F1 score: 0.0455 (0.0027)
+ROC AUC: 0.4771 (0.0145)
+-- Predicting Kidney_Cortex with Brain_Putamen community 12
+Accuracy: 0.6622 (0.1913)
+F1 score: 0.0077 (0.0027)
+ROC AUC: 0.4035 (0.0048)
+-- Predicting Liver with Brain_Putamen community 12
+Accuracy: 0.4777 (0.1308)
+F1 score: 0.0242 (0.0027)
+ROC AUC: 0.4480 (0.0055)
+-- Predicting Lung with Brain_Putamen community 12
+Accuracy: 0.3924 (0.0762)
+F1 score: 0.0608 (0.0024)
+ROC AUC: 0.4726 (0.0043)
+-- Predicting Minor_Salivary with Brain_Putamen community 12
+Accuracy: 0.5050 (0.0816)
+F1 score: 0.0157 (0.0016)
+ROC AUC: 0.4434 (0.0084)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 12
+Accuracy: 0.6253 (0.1293)
+F1 score: 0.0778 (0.0045)
+ROC AUC: 0.4768 (0.0153)
+-- Predicting Nerve_Tibial with Brain_Putamen community 12
+Accuracy: 0.3975 (0.0554)
+F1 score: 0.0630 (0.0046)
+ROC AUC: 0.4743 (0.0100)
+-- Predicting Ovary with Brain_Putamen community 12
+Accuracy: 0.4707 (0.0840)
+F1 score: 0.0175 (0.0021)
+ROC AUC: 0.4361 (0.0287)
+-- Predicting Pancreas with Brain_Putamen community 12
+Accuracy: 0.4739 (0.0886)
+F1 score: 0.0340 (0.0032)
+ROC AUC: 0.4510 (0.0039)
+-- Predicting Pituitary with Brain_Putamen community 12
+Accuracy: 0.4117 (0.0716)
+F1 score: 0.0279 (0.0015)
+ROC AUC: 0.4537 (0.0011)
+-- Predicting Prostate with Brain_Putamen community 12
+Accuracy: 0.4863 (0.0467)
+F1 score: 0.0221 (0.0025)
+ROC AUC: 0.4284 (0.0196)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 12
+Accuracy: 0.5466 (0.0415)
+F1 score: 0.0621 (0.0021)
+ROC AUC: 0.4754 (0.0073)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 12
+Accuracy: 0.4883 (0.0618)
+F1 score: 0.0662 (0.0058)
+ROC AUC: 0.4589 (0.0122)
+-- Predicting Small_Intestine with Brain_Putamen community 12
+Accuracy: 0.4669 (0.1130)
+F1 score: 0.0212 (0.0017)
+ROC AUC: 0.4541 (0.0134)
+-- Predicting Spleen with Brain_Putamen community 12
+Accuracy: 0.4092 (0.0735)
+F1 score: 0.0272 (0.0011)
+ROC AUC: 0.4753 (0.0023)
+-- Predicting Stomach with Brain_Putamen community 12
+Accuracy: 0.3930 (0.1472)
+F1 score: 0.0371 (0.0037)
+ROC AUC: 0.4660 (0.0221)
+-- Predicting Testis with Brain_Putamen community 12
+Accuracy: 0.4990 (0.0200)
+F1 score: 0.0348 (0.0048)
+ROC AUC: 0.4382 (0.0247)
+-- Predicting Thyroid with Brain_Putamen community 12
+Accuracy: 0.3442 (0.0646)
+F1 score: 0.0716 (0.0043)
+ROC AUC: 0.4868 (0.0115)
+-- Predicting Uterus with Brain_Putamen community 12
+Accuracy: 0.4912 (0.1027)
+F1 score: 0.0134 (0.0018)
+ROC AUC: 0.4195 (0.0243)
+-- Predicting Vagina with Brain_Putamen community 12
+Accuracy: 0.4052 (0.0172)
+F1 score: 0.0159 (0.0011)
+ROC AUC: 0.4508 (0.0174)
+-- Predicting Whole_Blood with Brain_Putamen community 12
+Accuracy: 0.3410 (0.0653)
+F1 score: 0.0799 (0.0039)
+ROC AUC: 0.4617 (0.0096)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 13
+Accuracy: 0.2256 (0.1898)
+F1 score: 0.0767 (0.0054)
+ROC AUC: 0.5124 (0.0290)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 13
+Accuracy: 0.3114 (0.1102)
+F1 score: 0.0580 (0.0023)
+ROC AUC: 0.4692 (0.0272)
+-- Predicting Adrenal_Gland with Brain_Putamen community 13
+Accuracy: 0.4371 (0.1337)
+F1 score: 0.0247 (0.0026)
+ROC AUC: 0.4442 (0.0038)
+-- Predicting Artery_Aorta with Brain_Putamen community 13
+Accuracy: 0.4382 (0.1165)
+F1 score: 0.0418 (0.0057)
+ROC AUC: 0.4529 (0.0437)
+-- Predicting Artery_Coronary with Brain_Putamen community 13
+Accuracy: 0.3783 (0.0825)
+F1 score: 0.0226 (0.0022)
+ROC AUC: 0.4429 (0.0376)
+-- Predicting Artery_Tibial with Brain_Putamen community 13
+Accuracy: 0.2467 (0.1641)
+F1 score: 0.0728 (0.0061)
+ROC AUC: 0.5009 (0.0377)
+-- Predicting Brain_Amygdala with Brain_Putamen community 13
+Accuracy: 0.3823 (0.1557)
+F1 score: 0.0136 (0.0023)
+ROC AUC: 0.4333 (0.0093)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 13
+Accuracy: 0.3614 (0.1179)
+F1 score: 0.0174 (0.0019)
+ROC AUC: 0.4419 (0.0311)
+-- Predicting Brain_Caudate with Brain_Putamen community 13
+Accuracy: 0.3503 (0.1365)
+F1 score: 0.0231 (0.0014)
+ROC AUC: 0.4384 (0.0150)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 13
+Accuracy: 0.3782 (0.1216)
+F1 score: 0.0208 (0.0018)
+ROC AUC: 0.4531 (0.0183)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 13
+Accuracy: 0.3165 (0.1392)
+F1 score: 0.0258 (0.0021)
+ROC AUC: 0.4722 (0.0095)
+-- Predicting Brain_Cortex with Brain_Putamen community 13
+Accuracy: 0.3202 (0.1426)
+F1 score: 0.0246 (0.0023)
+ROC AUC: 0.4525 (0.0113)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 13
+Accuracy: 0.4270 (0.1030)
+F1 score: 0.0183 (0.0015)
+ROC AUC: 0.4259 (0.0310)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 13
+Accuracy: 0.3756 (0.1029)
+F1 score: 0.0173 (0.0031)
+ROC AUC: 0.4421 (0.0222)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 13
+Accuracy: 0.3351 (0.1761)
+F1 score: 0.0223 (0.0009)
+ROC AUC: 0.4637 (0.0214)
+-- Predicting Brain_Nucleus with Brain_Putamen community 13
+Accuracy: 0.2656 (0.1611)
+F1 score: 0.0248 (0.0022)
+ROC AUC: 0.4619 (0.0047)
+-- Predicting Brain_Putamen with Brain_Putamen community 13
+Accuracy: 0.3508 (0.0919)
+F1 score: 0.0205 (0.0010)
+ROC AUC: 0.4414 (0.0206)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 13
+Accuracy: 0.3863 (0.0727)
+F1 score: 0.0153 (0.0015)
+ROC AUC: 0.4428 (0.0277)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 13
+Accuracy: 0.4808 (0.0833)
+F1 score: 0.0116 (0.0021)
+ROC AUC: 0.4084 (0.0627)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 13
+Accuracy: 0.2835 (0.1785)
+F1 score: 0.0508 (0.0005)
+ROC AUC: 0.4840 (0.0179)
+-- Predicting Cells_Cultured with Brain_Putamen community 13
+Accuracy: 0.3131 (0.1865)
+F1 score: 0.0619 (0.0009)
+ROC AUC: 0.4803 (0.0176)
+-- Predicting Cells_EBV with Brain_Putamen community 13
+Accuracy: 0.9556 (0.0622)
+F1 score: 0.6959 (0.4020)
+ROC AUC: 0.9748 (0.0355)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 13
+Accuracy: 0.3288 (0.1150)
+F1 score: 0.0397 (0.0054)
+ROC AUC: 0.4641 (0.0449)
+-- Predicting Colon_Transverse with Brain_Putamen community 13
+Accuracy: 0.2636 (0.1879)
+F1 score: 0.0478 (0.0038)
+ROC AUC: 0.4771 (0.0194)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 13
+Accuracy: 0.3079 (0.1864)
+F1 score: 0.0392 (0.0035)
+ROC AUC: 0.4793 (0.0087)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 13
+Accuracy: 0.3068 (0.1814)
+F1 score: 0.0608 (0.0062)
+ROC AUC: 0.4561 (0.0174)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 13
+Accuracy: 0.2898 (0.1981)
+F1 score: 0.0581 (0.0027)
+ROC AUC: 0.4822 (0.0264)
+-- Predicting Heart_Atrial with Brain_Putamen community 13
+Accuracy: 0.3423 (0.1248)
+F1 score: 0.0441 (0.0031)
+ROC AUC: 0.4658 (0.0294)
+-- Predicting Heart_L_Vent with Brain_Putamen community 13
+Accuracy: 0.2499 (0.1942)
+F1 score: 0.0478 (0.0030)
+ROC AUC: 0.4989 (0.0097)
+-- Predicting Kidney_Cortex with Brain_Putamen community 13
+Accuracy: 0.5049 (0.0862)
+F1 score: 0.0074 (0.0005)
+ROC AUC: 0.3728 (0.0231)
+-- Predicting Liver with Brain_Putamen community 13
+Accuracy: 0.3470 (0.1938)
+F1 score: 0.0228 (0.0027)
+ROC AUC: 0.4532 (0.0262)
+-- Predicting Lung with Brain_Putamen community 13
+Accuracy: 0.2765 (0.1804)
+F1 score: 0.0646 (0.0026)
+ROC AUC: 0.4716 (0.0262)
+-- Predicting Minor_Salivary with Brain_Putamen community 13
+Accuracy: 0.4360 (0.1216)
+F1 score: 0.0151 (0.0012)
+ROC AUC: 0.4110 (0.0074)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 13
+Accuracy: 0.3026 (0.2048)
+F1 score: 0.0800 (0.0023)
+ROC AUC: 0.4836 (0.0243)
+-- Predicting Nerve_Tibial with Brain_Putamen community 13
+Accuracy: 0.2535 (0.1558)
+F1 score: 0.0667 (0.0035)
+ROC AUC: 0.4967 (0.0265)
+-- Predicting Ovary with Brain_Putamen community 13
+Accuracy: 0.4449 (0.1564)
+F1 score: 0.0162 (0.0046)
+ROC AUC: 0.4188 (0.0080)
+-- Predicting Pancreas with Brain_Putamen community 13
+Accuracy: 0.3720 (0.0704)
+F1 score: 0.0327 (0.0016)
+ROC AUC: 0.4371 (0.0064)
+-- Predicting Pituitary with Brain_Putamen community 13
+Accuracy: 0.2904 (0.1383)
+F1 score: 0.0312 (0.0012)
+ROC AUC: 0.4754 (0.0123)
+-- Predicting Prostate with Brain_Putamen community 13
+Accuracy: 0.4490 (0.0652)
+F1 score: 0.0213 (0.0017)
+ROC AUC: 0.4077 (0.0254)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 13
+Accuracy: 0.3758 (0.1185)
+F1 score: 0.0572 (0.0033)
+ROC AUC: 0.4737 (0.0214)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 13
+Accuracy: 0.2748 (0.1232)
+F1 score: 0.0761 (0.0042)
+ROC AUC: 0.4817 (0.0353)
+-- Predicting Small_Intestine with Brain_Putamen community 13
+Accuracy: 0.4175 (0.0815)
+F1 score: 0.0186 (0.0005)
+ROC AUC: 0.4358 (0.0299)
+-- Predicting Spleen with Brain_Putamen community 13
+Accuracy: 0.5052 (0.0838)
+F1 score: 0.0234 (0.0026)
+ROC AUC: 0.4223 (0.0352)
+-- Predicting Stomach with Brain_Putamen community 13
+Accuracy: 0.2864 (0.1143)
+F1 score: 0.0411 (0.0016)
+ROC AUC: 0.4744 (0.0288)
+-- Predicting Testis with Brain_Putamen community 13
+Accuracy: 0.4128 (0.0967)
+F1 score: 0.0366 (0.0023)
+ROC AUC: 0.4559 (0.0193)
+-- Predicting Thyroid with Brain_Putamen community 13
+Accuracy: 0.2148 (0.1707)
+F1 score: 0.0748 (0.0006)
+ROC AUC: 0.5054 (0.0115)
+-- Predicting Uterus with Brain_Putamen community 13
+Accuracy: 0.4585 (0.0777)
+F1 score: 0.0129 (0.0017)
+ROC AUC: 0.4017 (0.0173)
+-- Predicting Vagina with Brain_Putamen community 13
+Accuracy: 0.4713 (0.0856)
+F1 score: 0.0138 (0.0016)
+ROC AUC: 0.4023 (0.0125)
+-- Predicting Whole_Blood with Brain_Putamen community 13
+Accuracy: 0.9900 (0.0134)
+F1 score: 0.9137 (0.1142)
+ROC AUC: 0.9950 (0.0071)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 14
+Accuracy: 0.4522 (0.0339)
+F1 score: 0.0635 (0.0023)
+ROC AUC: 0.4616 (0.0071)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 14
+Accuracy: 0.5037 (0.0069)
+F1 score: 0.0462 (0.0032)
+ROC AUC: 0.4370 (0.0150)
+-- Predicting Adrenal_Gland with Brain_Putamen community 14
+Accuracy: 0.4567 (0.0551)
+F1 score: 0.0256 (0.0020)
+ROC AUC: 0.4543 (0.0185)
+-- Predicting Artery_Aorta with Brain_Putamen community 14
+Accuracy: 0.4414 (0.0158)
+F1 score: 0.0433 (0.0006)
+ROC AUC: 0.4631 (0.0063)
+-- Predicting Artery_Coronary with Brain_Putamen community 14
+Accuracy: 0.4094 (0.0477)
+F1 score: 0.0249 (0.0016)
+ROC AUC: 0.4586 (0.0038)
+-- Predicting Artery_Tibial with Brain_Putamen community 14
+Accuracy: 0.4725 (0.0664)
+F1 score: 0.0616 (0.0016)
+ROC AUC: 0.4621 (0.0064)
+-- Predicting Brain_Amygdala with Brain_Putamen community 14
+Accuracy: 0.4931 (0.0600)
+F1 score: 0.0146 (0.0015)
+ROC AUC: 0.4285 (0.0085)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 14
+Accuracy: 0.6833 (0.0505)
+F1 score: 0.0196 (0.0050)
+ROC AUC: 0.4565 (0.0430)
+-- Predicting Brain_Caudate with Brain_Putamen community 14
+Accuracy: 0.5394 (0.0868)
+F1 score: 0.0212 (0.0036)
+ROC AUC: 0.4518 (0.0217)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 14
+Accuracy: 0.5377 (0.0810)
+F1 score: 0.0199 (0.0010)
+ROC AUC: 0.4313 (0.0057)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 14
+Accuracy: 0.6250 (0.0661)
+F1 score: 0.0237 (0.0044)
+ROC AUC: 0.4407 (0.0092)
+-- Predicting Brain_Cortex with Brain_Putamen community 14
+Accuracy: 0.6161 (0.1116)
+F1 score: 0.0179 (0.0021)
+ROC AUC: 0.4131 (0.0251)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 14
+Accuracy: 0.5621 (0.0837)
+F1 score: 0.0185 (0.0028)
+ROC AUC: 0.4414 (0.0092)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 14
+Accuracy: 0.5268 (0.0835)
+F1 score: 0.0171 (0.0010)
+ROC AUC: 0.4290 (0.0258)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 14
+Accuracy: 0.5269 (0.0909)
+F1 score: 0.0171 (0.0021)
+ROC AUC: 0.4219 (0.0331)
+-- Predicting Brain_Nucleus with Brain_Putamen community 14
+Accuracy: 0.4340 (0.0649)
+F1 score: 0.0210 (0.0008)
+ROC AUC: 0.4395 (0.0152)
+-- Predicting Brain_Putamen with Brain_Putamen community 14
+Accuracy: 0.5663 (0.1328)
+F1 score: 0.0167 (0.0007)
+ROC AUC: 0.4189 (0.0261)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 14
+Accuracy: 0.5355 (0.0404)
+F1 score: 0.0118 (0.0015)
+ROC AUC: 0.4147 (0.0135)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 14
+Accuracy: 0.5690 (0.0534)
+F1 score: 0.0094 (0.0046)
+ROC AUC: 0.3976 (0.0401)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 14
+Accuracy: 0.5046 (0.0520)
+F1 score: 0.0434 (0.0024)
+ROC AUC: 0.4523 (0.0156)
+-- Predicting Cells_Cultured with Brain_Putamen community 14
+Accuracy: 0.2383 (0.0679)
+F1 score: 0.0632 (0.0026)
+ROC AUC: 0.4731 (0.0133)
+-- Predicting Cells_EBV with Brain_Putamen community 14
+Accuracy: 0.5694 (0.0809)
+F1 score: 0.0155 (0.0013)
+ROC AUC: 0.4453 (0.0199)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 14
+Accuracy: 0.5054 (0.1230)
+F1 score: 0.0359 (0.0020)
+ROC AUC: 0.4575 (0.0078)
+-- Predicting Colon_Transverse with Brain_Putamen community 14
+Accuracy: 0.4383 (0.0223)
+F1 score: 0.0408 (0.0020)
+ROC AUC: 0.4647 (0.0052)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 14
+Accuracy: 0.6337 (0.0630)
+F1 score: 0.0354 (0.0005)
+ROC AUC: 0.4406 (0.0159)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 14
+Accuracy: 0.4073 (0.0531)
+F1 score: 0.0583 (0.0022)
+ROC AUC: 0.4681 (0.0097)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 14
+Accuracy: 0.4035 (0.0803)
+F1 score: 0.0504 (0.0047)
+ROC AUC: 0.4569 (0.0191)
+-- Predicting Heart_Atrial with Brain_Putamen community 14
+Accuracy: 0.5177 (0.0834)
+F1 score: 0.0399 (0.0020)
+ROC AUC: 0.4452 (0.0136)
+-- Predicting Heart_L_Vent with Brain_Putamen community 14
+Accuracy: 0.5347 (0.1003)
+F1 score: 0.0405 (0.0053)
+ROC AUC: 0.4529 (0.0113)
+-- Predicting Kidney_Cortex with Brain_Putamen community 14
+Accuracy: 0.5878 (0.0418)
+F1 score: 0.0045 (0.0016)
+ROC AUC: 0.3148 (0.0522)
+-- Predicting Liver with Brain_Putamen community 14
+Accuracy: 0.3758 (0.0276)
+F1 score: 0.0209 (0.0016)
+ROC AUC: 0.4130 (0.0196)
+-- Predicting Lung with Brain_Putamen community 14
+Accuracy: 0.5037 (0.2702)
+F1 score: 0.0557 (0.0067)
+ROC AUC: 0.4749 (0.0019)
+-- Predicting Minor_Salivary with Brain_Putamen community 14
+Accuracy: 0.5125 (0.0384)
+F1 score: 0.0159 (0.0011)
+ROC AUC: 0.4199 (0.0111)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 14
+Accuracy: 0.5719 (0.0532)
+F1 score: 0.0742 (0.0087)
+ROC AUC: 0.4408 (0.0112)
+-- Predicting Nerve_Tibial with Brain_Putamen community 14
+Accuracy: 0.4182 (0.0592)
+F1 score: 0.0582 (0.0034)
+ROC AUC: 0.4555 (0.0138)
+-- Predicting Ovary with Brain_Putamen community 14
+Accuracy: 0.5210 (0.0435)
+F1 score: 0.0185 (0.0025)
+ROC AUC: 0.4371 (0.0303)
+-- Predicting Pancreas with Brain_Putamen community 14
+Accuracy: 0.4221 (0.1205)
+F1 score: 0.0370 (0.0032)
+ROC AUC: 0.4685 (0.0167)
+-- Predicting Pituitary with Brain_Putamen community 14
+Accuracy: 0.3849 (0.0337)
+F1 score: 0.0281 (0.0002)
+ROC AUC: 0.4514 (0.0032)
+-- Predicting Prostate with Brain_Putamen community 14
+Accuracy: 0.4902 (0.0621)
+F1 score: 0.0215 (0.0019)
+ROC AUC: 0.4297 (0.0089)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 14
+Accuracy: 0.4800 (0.0645)
+F1 score: 0.0581 (0.0023)
+ROC AUC: 0.4589 (0.0063)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 14
+Accuracy: 0.4958 (0.0818)
+F1 score: 0.0624 (0.0006)
+ROC AUC: 0.4499 (0.0125)
+-- Predicting Small_Intestine with Brain_Putamen community 14
+Accuracy: 0.5442 (0.1522)
+F1 score: 0.0216 (0.0036)
+ROC AUC: 0.4513 (0.0093)
+-- Predicting Spleen with Brain_Putamen community 14
+Accuracy: 0.4640 (0.0474)
+F1 score: 0.0246 (0.0016)
+ROC AUC: 0.4388 (0.0059)
+-- Predicting Stomach with Brain_Putamen community 14
+Accuracy: 0.4220 (0.0396)
+F1 score: 0.0381 (0.0003)
+ROC AUC: 0.4569 (0.0031)
+-- Predicting Testis with Brain_Putamen community 14
+Accuracy: 0.5375 (0.0852)
+F1 score: 0.0327 (0.0020)
+ROC AUC: 0.4236 (0.0126)
+-- Predicting Thyroid with Brain_Putamen community 14
+Accuracy: 0.4992 (0.1716)
+F1 score: 0.0631 (0.0123)
+ROC AUC: 0.4821 (0.0100)
+-- Predicting Uterus with Brain_Putamen community 14
+Accuracy: 0.4537 (0.0273)
+F1 score: 0.0128 (0.0017)
+ROC AUC: 0.4077 (0.0147)
+-- Predicting Vagina with Brain_Putamen community 14
+Accuracy: 0.4341 (0.0362)
+F1 score: 0.0142 (0.0011)
+ROC AUC: 0.4262 (0.0156)
+-- Predicting Whole_Blood with Brain_Putamen community 14
+Accuracy: 0.5072 (0.0118)
+F1 score: 0.0718 (0.0031)
+ROC AUC: 0.4536 (0.0099)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 15
+Accuracy: 0.1567 (0.1474)
+F1 score: 0.0751 (0.0010)
+ROC AUC: 0.5087 (0.0101)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 15
+Accuracy: 0.2148 (0.1414)
+F1 score: 0.0598 (0.0022)
+ROC AUC: 0.4811 (0.0079)
+-- Predicting Adrenal_Gland with Brain_Putamen community 15
+Accuracy: 0.2780 (0.0466)
+F1 score: 0.0289 (0.0006)
+ROC AUC: 0.4797 (0.0269)
+-- Predicting Artery_Aorta with Brain_Putamen community 15
+Accuracy: 0.1797 (0.0258)
+F1 score: 0.0490 (0.0014)
+ROC AUC: 0.4794 (0.0256)
+-- Predicting Artery_Coronary with Brain_Putamen community 15
+Accuracy: 0.2975 (0.1313)
+F1 score: 0.0271 (0.0006)
+ROC AUC: 0.4693 (0.0104)
+-- Predicting Artery_Tibial with Brain_Putamen community 15
+Accuracy: 0.1858 (0.1678)
+F1 score: 0.0762 (0.0018)
+ROC AUC: 0.4988 (0.0203)
+-- Predicting Brain_Amygdala with Brain_Putamen community 15
+Accuracy: 0.3887 (0.2162)
+F1 score: 0.0147 (0.0011)
+ROC AUC: 0.4565 (0.0107)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 15
+Accuracy: 0.4370 (0.0386)
+F1 score: 0.0155 (0.0033)
+ROC AUC: 0.4365 (0.0431)
+-- Predicting Brain_Caudate with Brain_Putamen community 15
+Accuracy: 0.4507 (0.0799)
+F1 score: 0.0181 (0.0017)
+ROC AUC: 0.4113 (0.0107)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 15
+Accuracy: 0.4573 (0.0937)
+F1 score: 0.0180 (0.0021)
+ROC AUC: 0.4334 (0.0105)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 15
+Accuracy: 0.4716 (0.0762)
+F1 score: 0.0217 (0.0015)
+ROC AUC: 0.4459 (0.0174)
+-- Predicting Brain_Cortex with Brain_Putamen community 15
+Accuracy: 0.4008 (0.0927)
+F1 score: 0.0234 (0.0027)
+ROC AUC: 0.4624 (0.0241)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 15
+Accuracy: 0.3812 (0.2104)
+F1 score: 0.0209 (0.0010)
+ROC AUC: 0.4763 (0.0270)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 15
+Accuracy: 0.4174 (0.0907)
+F1 score: 0.0185 (0.0013)
+ROC AUC: 0.4671 (0.0180)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 15
+Accuracy: 0.3030 (0.2009)
+F1 score: 0.0205 (0.0011)
+ROC AUC: 0.4757 (0.0082)
+-- Predicting Brain_Nucleus with Brain_Putamen community 15
+Accuracy: 0.3064 (0.2116)
+F1 score: 0.0245 (0.0025)
+ROC AUC: 0.4861 (0.0088)
+-- Predicting Brain_Putamen with Brain_Putamen community 15
+Accuracy: 0.3744 (0.0779)
+F1 score: 0.0206 (0.0031)
+ROC AUC: 0.4516 (0.0307)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 15
+Accuracy: 0.3613 (0.0792)
+F1 score: 0.0154 (0.0002)
+ROC AUC: 0.4770 (0.0242)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 15
+Accuracy: 0.4160 (0.1031)
+F1 score: 0.0125 (0.0015)
+ROC AUC: 0.4364 (0.0074)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 15
+Accuracy: 0.2785 (0.0356)
+F1 score: 0.0508 (0.0028)
+ROC AUC: 0.4832 (0.0148)
+-- Predicting Cells_Cultured with Brain_Putamen community 15
+Accuracy: 0.9999 (0.0001)
+F1 score: 0.9990 (0.0015)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Putamen community 15
+Accuracy: 0.2477 (0.1651)
+F1 score: 0.0170 (0.0004)
+ROC AUC: 0.4849 (0.0360)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 15
+Accuracy: 0.3637 (0.0720)
+F1 score: 0.0357 (0.0012)
+ROC AUC: 0.4428 (0.0041)
+-- Predicting Colon_Transverse with Brain_Putamen community 15
+Accuracy: 0.2231 (0.1729)
+F1 score: 0.0444 (0.0039)
+ROC AUC: 0.4742 (0.0176)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 15
+Accuracy: 0.3497 (0.1333)
+F1 score: 0.0347 (0.0024)
+ROC AUC: 0.4325 (0.0210)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 15
+Accuracy: 0.2044 (0.1932)
+F1 score: 0.0559 (0.0100)
+ROC AUC: 0.4551 (0.0382)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 15
+Accuracy: 0.2500 (0.2974)
+F1 score: 0.0603 (0.0011)
+ROC AUC: 0.5118 (0.0148)
+-- Predicting Heart_Atrial with Brain_Putamen community 15
+Accuracy: 0.2354 (0.1466)
+F1 score: 0.0439 (0.0054)
+ROC AUC: 0.4279 (0.0219)
+-- Predicting Heart_L_Vent with Brain_Putamen community 15
+Accuracy: 0.1839 (0.1896)
+F1 score: 0.0504 (0.0007)
+ROC AUC: 0.5029 (0.0063)
+-- Predicting Kidney_Cortex with Brain_Putamen community 15
+Accuracy: 0.3801 (0.1495)
+F1 score: 0.0073 (0.0017)
+ROC AUC: 0.4012 (0.0335)
+-- Predicting Liver with Brain_Putamen community 15
+Accuracy: 0.2244 (0.1720)
+F1 score: 0.0274 (0.0003)
+ROC AUC: 0.4828 (0.0261)
+-- Predicting Lung with Brain_Putamen community 15
+Accuracy: 0.1602 (0.1625)
+F1 score: 0.0686 (0.0036)
+ROC AUC: 0.4995 (0.0222)
+-- Predicting Minor_Salivary with Brain_Putamen community 15
+Accuracy: 0.4066 (0.0420)
+F1 score: 0.0118 (0.0012)
+ROC AUC: 0.3993 (0.0207)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 15
+Accuracy: 0.2414 (0.2164)
+F1 score: 0.0766 (0.0112)
+ROC AUC: 0.4514 (0.0358)
+-- Predicting Nerve_Tibial with Brain_Putamen community 15
+Accuracy: 0.2116 (0.1971)
+F1 score: 0.0648 (0.0020)
+ROC AUC: 0.4973 (0.0188)
+-- Predicting Ovary with Brain_Putamen community 15
+Accuracy: 0.3135 (0.2110)
+F1 score: 0.0182 (0.0021)
+ROC AUC: 0.4450 (0.0238)
+-- Predicting Pancreas with Brain_Putamen community 15
+Accuracy: 0.3317 (0.3204)
+F1 score: 0.0416 (0.0071)
+ROC AUC: 0.4775 (0.0153)
+-- Predicting Pituitary with Brain_Putamen community 15
+Accuracy: 0.3195 (0.1029)
+F1 score: 0.0284 (0.0021)
+ROC AUC: 0.4657 (0.0183)
+-- Predicting Prostate with Brain_Putamen community 15
+Accuracy: 0.3132 (0.1493)
+F1 score: 0.0266 (0.0017)
+ROC AUC: 0.4771 (0.0315)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 15
+Accuracy: 0.2685 (0.2703)
+F1 score: 0.0599 (0.0042)
+ROC AUC: 0.4526 (0.0352)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 15
+Accuracy: 0.2420 (0.2585)
+F1 score: 0.0760 (0.0008)
+ROC AUC: 0.5044 (0.0226)
+-- Predicting Small_Intestine with Brain_Putamen community 15
+Accuracy: 0.2652 (0.1425)
+F1 score: 0.0207 (0.0028)
+ROC AUC: 0.4281 (0.0325)
+-- Predicting Spleen with Brain_Putamen community 15
+Accuracy: 0.2619 (0.0550)
+F1 score: 0.0265 (0.0014)
+ROC AUC: 0.4346 (0.0075)
+-- Predicting Stomach with Brain_Putamen community 15
+Accuracy: 0.1629 (0.1711)
+F1 score: 0.0427 (0.0008)
+ROC AUC: 0.4975 (0.0146)
+-- Predicting Testis with Brain_Putamen community 15
+Accuracy: 0.2906 (0.3158)
+F1 score: 0.0430 (0.0041)
+ROC AUC: 0.4958 (0.0191)
+-- Predicting Thyroid with Brain_Putamen community 15
+Accuracy: 0.1804 (0.1853)
+F1 score: 0.0744 (0.0011)
+ROC AUC: 0.5045 (0.0139)
+-- Predicting Uterus with Brain_Putamen community 15
+Accuracy: 0.4194 (0.1098)
+F1 score: 0.0146 (0.0014)
+ROC AUC: 0.4558 (0.0137)
+-- Predicting Vagina with Brain_Putamen community 15
+Accuracy: 0.4091 (0.1607)
+F1 score: 0.0159 (0.0012)
+ROC AUC: 0.4351 (0.0113)
+-- Predicting Whole_Blood with Brain_Putamen community 15
+Accuracy: 0.0840 (0.0509)
+F1 score: 0.0874 (0.0036)
+ROC AUC: 0.4773 (0.0269)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 16
+Accuracy: 0.3238 (0.0687)
+F1 score: 0.0895 (0.0048)
+ROC AUC: 0.5791 (0.0229)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 16
+Accuracy: 0.3041 (0.0979)
+F1 score: 0.0670 (0.0035)
+ROC AUC: 0.5624 (0.0222)
+-- Predicting Adrenal_Gland with Brain_Putamen community 16
+Accuracy: 0.9479 (0.0259)
+F1 score: 0.4198 (0.1636)
+ROC AUC: 0.9867 (0.0137)
+-- Predicting Artery_Aorta with Brain_Putamen community 16
+Accuracy: 0.3656 (0.1020)
+F1 score: 0.0555 (0.0053)
+ROC AUC: 0.5546 (0.0337)
+-- Predicting Artery_Coronary with Brain_Putamen community 16
+Accuracy: 0.3755 (0.1248)
+F1 score: 0.0276 (0.0006)
+ROC AUC: 0.5312 (0.0228)
+-- Predicting Artery_Tibial with Brain_Putamen community 16
+Accuracy: 0.3539 (0.0669)
+F1 score: 0.0865 (0.0088)
+ROC AUC: 0.5753 (0.0336)
+-- Predicting Brain_Amygdala with Brain_Putamen community 16
+Accuracy: 0.3380 (0.1249)
+F1 score: 0.0237 (0.0034)
+ROC AUC: 0.5625 (0.0442)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 16
+Accuracy: 0.3769 (0.1364)
+F1 score: 0.0252 (0.0029)
+ROC AUC: 0.5220 (0.0566)
+-- Predicting Brain_Caudate with Brain_Putamen community 16
+Accuracy: 0.3406 (0.1177)
+F1 score: 0.0366 (0.0061)
+ROC AUC: 0.5682 (0.0589)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 16
+Accuracy: 0.3430 (0.1198)
+F1 score: 0.0319 (0.0037)
+ROC AUC: 0.5761 (0.0505)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 16
+Accuracy: 0.3372 (0.1117)
+F1 score: 0.0384 (0.0045)
+ROC AUC: 0.5817 (0.0524)
+-- Predicting Brain_Cortex with Brain_Putamen community 16
+Accuracy: 0.3487 (0.1224)
+F1 score: 0.0356 (0.0029)
+ROC AUC: 0.5605 (0.0503)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 16
+Accuracy: 0.3353 (0.1292)
+F1 score: 0.0326 (0.0044)
+ROC AUC: 0.5743 (0.0482)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 16
+Accuracy: 0.3387 (0.1220)
+F1 score: 0.0308 (0.0049)
+ROC AUC: 0.5732 (0.0501)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 16
+Accuracy: 0.3331 (0.1090)
+F1 score: 0.0329 (0.0051)
+ROC AUC: 0.5704 (0.0731)
+-- Predicting Brain_Nucleus with Brain_Putamen community 16
+Accuracy: 0.3362 (0.1162)
+F1 score: 0.0386 (0.0051)
+ROC AUC: 0.5775 (0.0526)
+-- Predicting Brain_Putamen with Brain_Putamen community 16
+Accuracy: 0.3323 (0.1139)
+F1 score: 0.0325 (0.0048)
+ROC AUC: 0.5648 (0.0678)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 16
+Accuracy: 0.3643 (0.1286)
+F1 score: 0.0215 (0.0034)
+ROC AUC: 0.5456 (0.0474)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 16
+Accuracy: 0.3499 (0.1310)
+F1 score: 0.0222 (0.0032)
+ROC AUC: 0.5507 (0.0527)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 16
+Accuracy: 0.3420 (0.0807)
+F1 score: 0.0612 (0.0069)
+ROC AUC: 0.5713 (0.0442)
+-- Predicting Cells_Cultured with Brain_Putamen community 16
+Accuracy: 0.9997 (0.0003)
+F1 score: 0.9949 (0.0052)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Putamen community 16
+Accuracy: 0.9146 (0.0596)
+F1 score: 0.3496 (0.3008)
+ROC AUC: 0.9588 (0.0290)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 16
+Accuracy: 0.3516 (0.1449)
+F1 score: 0.0474 (0.0054)
+ROC AUC: 0.5591 (0.0450)
+-- Predicting Colon_Transverse with Brain_Putamen community 16
+Accuracy: 0.3401 (0.1370)
+F1 score: 0.0621 (0.0100)
+ROC AUC: 0.5648 (0.0741)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 16
+Accuracy: 0.3595 (0.1531)
+F1 score: 0.0481 (0.0075)
+ROC AUC: 0.5556 (0.0466)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 16
+Accuracy: 0.9459 (0.0216)
+F1 score: 0.5672 (0.1184)
+ROC AUC: 0.9843 (0.0107)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 16
+Accuracy: 0.3482 (0.1448)
+F1 score: 0.0708 (0.0094)
+ROC AUC: 0.5609 (0.0653)
+-- Predicting Heart_Atrial with Brain_Putamen community 16
+Accuracy: 0.3760 (0.1621)
+F1 score: 0.0580 (0.0068)
+ROC AUC: 0.5474 (0.0502)
+-- Predicting Heart_L_Vent with Brain_Putamen community 16
+Accuracy: 0.3407 (0.1402)
+F1 score: 0.0635 (0.0092)
+ROC AUC: 0.5618 (0.0707)
+-- Predicting Kidney_Cortex with Brain_Putamen community 16
+Accuracy: 0.9329 (0.0226)
+F1 score: 0.1360 (0.0378)
+ROC AUC: 0.9581 (0.0199)
+-- Predicting Liver with Brain_Putamen community 16
+Accuracy: 0.9487 (0.0388)
+F1 score: 0.4778 (0.2813)
+ROC AUC: 0.9759 (0.0192)
+-- Predicting Lung with Brain_Putamen community 16
+Accuracy: 0.9403 (0.0579)
+F1 score: 0.6414 (0.2570)
+ROC AUC: 0.9711 (0.0313)
+-- Predicting Minor_Salivary with Brain_Putamen community 16
+Accuracy: 0.4233 (0.1669)
+F1 score: 0.0195 (0.0016)
+ROC AUC: 0.5221 (0.0349)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 16
+Accuracy: 0.3255 (0.1208)
+F1 score: 0.1129 (0.0151)
+ROC AUC: 0.5876 (0.0539)
+-- Predicting Nerve_Tibial with Brain_Putamen community 16
+Accuracy: 0.3285 (0.1282)
+F1 score: 0.0853 (0.0116)
+ROC AUC: 0.5805 (0.0675)
+-- Predicting Ovary with Brain_Putamen community 16
+Accuracy: 0.4023 (0.1659)
+F1 score: 0.0227 (0.0027)
+ROC AUC: 0.5345 (0.0417)
+-- Predicting Pancreas with Brain_Putamen community 16
+Accuracy: 0.9463 (0.0454)
+F1 score: 0.5566 (0.2905)
+ROC AUC: 0.9811 (0.0138)
+-- Predicting Pituitary with Brain_Putamen community 16
+Accuracy: 0.3904 (0.1652)
+F1 score: 0.0334 (0.0046)
+ROC AUC: 0.5405 (0.0531)
+-- Predicting Prostate with Brain_Putamen community 16
+Accuracy: 0.4201 (0.1870)
+F1 score: 0.0287 (0.0029)
+ROC AUC: 0.5243 (0.0113)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 16
+Accuracy: 0.3699 (0.1554)
+F1 score: 0.0741 (0.0102)
+ROC AUC: 0.5870 (0.0438)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 16
+Accuracy: 0.3435 (0.1372)
+F1 score: 0.0940 (0.0140)
+ROC AUC: 0.5997 (0.0473)
+-- Predicting Small_Intestine with Brain_Putamen community 16
+Accuracy: 0.4289 (0.1380)
+F1 score: 0.0212 (0.0018)
+ROC AUC: 0.4919 (0.0596)
+-- Predicting Spleen with Brain_Putamen community 16
+Accuracy: 0.9244 (0.0489)
+F1 score: 0.3434 (0.1339)
+ROC AUC: 0.9754 (0.0328)
+-- Predicting Stomach with Brain_Putamen community 16
+Accuracy: 0.3440 (0.1409)
+F1 score: 0.0497 (0.0075)
+ROC AUC: 0.5624 (0.0574)
+-- Predicting Testis with Brain_Putamen community 16
+Accuracy: 0.3828 (0.1593)
+F1 score: 0.0482 (0.0047)
+ROC AUC: 0.5546 (0.0462)
+-- Predicting Thyroid with Brain_Putamen community 16
+Accuracy: 0.3540 (0.1212)
+F1 score: 0.0869 (0.0130)
+ROC AUC: 0.5747 (0.0698)
+-- Predicting Uterus with Brain_Putamen community 16
+Accuracy: 0.4133 (0.1353)
+F1 score: 0.0162 (0.0025)
+ROC AUC: 0.5114 (0.0657)
+-- Predicting Vagina with Brain_Putamen community 16
+Accuracy: 0.5052 (0.1055)
+F1 score: 0.0127 (0.0014)
+ROC AUC: 0.4306 (0.0484)
+-- Predicting Whole_Blood with Brain_Putamen community 16
+Accuracy: 0.9482 (0.0567)
+F1 score: 0.7256 (0.2423)
+ROC AUC: 0.9779 (0.0309)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 17
+Accuracy: 0.2943 (0.1375)
+F1 score: 0.0984 (0.0191)
+ROC AUC: 0.6213 (0.0752)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 17
+Accuracy: 0.2888 (0.1486)
+F1 score: 0.0826 (0.0179)
+ROC AUC: 0.6230 (0.0835)
+-- Predicting Adrenal_Gland with Brain_Putamen community 17
+Accuracy: 0.7953 (0.1598)
+F1 score: 0.2298 (0.1672)
+ROC AUC: 0.9034 (0.0814)
+-- Predicting Artery_Aorta with Brain_Putamen community 17
+Accuracy: 0.2820 (0.1576)
+F1 score: 0.0682 (0.0151)
+ROC AUC: 0.6242 (0.0837)
+-- Predicting Artery_Coronary with Brain_Putamen community 17
+Accuracy: 0.2729 (0.1732)
+F1 score: 0.0381 (0.0095)
+ROC AUC: 0.6206 (0.1081)
+-- Predicting Artery_Tibial with Brain_Putamen community 17
+Accuracy: 0.2927 (0.1396)
+F1 score: 0.0996 (0.0193)
+ROC AUC: 0.6283 (0.0680)
+-- Predicting Brain_Amygdala with Brain_Putamen community 17
+Accuracy: 0.2725 (0.1860)
+F1 score: 0.0237 (0.0063)
+ROC AUC: 0.6089 (0.1084)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 17
+Accuracy: 0.2846 (0.2005)
+F1 score: 0.0260 (0.0064)
+ROC AUC: 0.5976 (0.0857)
+-- Predicting Brain_Caudate with Brain_Putamen community 17
+Accuracy: 0.2979 (0.2042)
+F1 score: 0.0324 (0.0060)
+ROC AUC: 0.5840 (0.0877)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 17
+Accuracy: 0.2821 (0.1884)
+F1 score: 0.0323 (0.0094)
+ROC AUC: 0.6038 (0.0862)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 17
+Accuracy: 0.2786 (0.1788)
+F1 score: 0.0380 (0.0102)
+ROC AUC: 0.6261 (0.0710)
+-- Predicting Brain_Cortex with Brain_Putamen community 17
+Accuracy: 0.2751 (0.1784)
+F1 score: 0.0361 (0.0095)
+ROC AUC: 0.6191 (0.0857)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 17
+Accuracy: 0.2758 (0.1782)
+F1 score: 0.0302 (0.0069)
+ROC AUC: 0.6026 (0.1085)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 17
+Accuracy: 0.2778 (0.1836)
+F1 score: 0.0292 (0.0063)
+ROC AUC: 0.6041 (0.1011)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 17
+Accuracy: 0.2800 (0.1893)
+F1 score: 0.0316 (0.0098)
+ROC AUC: 0.5874 (0.1080)
+-- Predicting Brain_Nucleus with Brain_Putamen community 17
+Accuracy: 0.2826 (0.1871)
+F1 score: 0.0349 (0.0074)
+ROC AUC: 0.6149 (0.0881)
+-- Predicting Brain_Putamen with Brain_Putamen community 17
+Accuracy: 0.2697 (0.1796)
+F1 score: 0.0309 (0.0093)
+ROC AUC: 0.6255 (0.0838)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 17
+Accuracy: 0.3082 (0.2293)
+F1 score: 0.0226 (0.0066)
+ROC AUC: 0.5805 (0.0976)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 17
+Accuracy: 0.2839 (0.1990)
+F1 score: 0.0204 (0.0048)
+ROC AUC: 0.5872 (0.1055)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 17
+Accuracy: 0.2818 (0.1560)
+F1 score: 0.0689 (0.0158)
+ROC AUC: 0.6229 (0.0858)
+-- Predicting Cells_Cultured with Brain_Putamen community 17
+Accuracy: 0.9999 (0.0001)
+F1 score: 0.9979 (0.0015)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Putamen community 17
+Accuracy: 0.9470 (0.0400)
+F1 score: 0.4679 (0.3773)
+ROC AUC: 0.9909 (0.0129)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 17
+Accuracy: 0.7926 (0.1830)
+F1 score: 0.2769 (0.1616)
+ROC AUC: 0.8950 (0.0975)
+-- Predicting Colon_Transverse with Brain_Putamen community 17
+Accuracy: 0.8443 (0.1215)
+F1 score: 0.3271 (0.1593)
+ROC AUC: 0.9185 (0.0638)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 17
+Accuracy: 0.2806 (0.2024)
+F1 score: 0.0613 (0.0188)
+ROC AUC: 0.6098 (0.1060)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 17
+Accuracy: 0.7887 (0.1597)
+F1 score: 0.3347 (0.1853)
+ROC AUC: 0.9026 (0.0848)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 17
+Accuracy: 0.2901 (0.2051)
+F1 score: 0.0837 (0.0247)
+ROC AUC: 0.6154 (0.0985)
+-- Predicting Heart_Atrial with Brain_Putamen community 17
+Accuracy: 0.2802 (0.2013)
+F1 score: 0.0691 (0.0212)
+ROC AUC: 0.6107 (0.1125)
+-- Predicting Heart_L_Vent with Brain_Putamen community 17
+Accuracy: 0.2853 (0.1985)
+F1 score: 0.0712 (0.0213)
+ROC AUC: 0.6126 (0.1070)
+-- Predicting Kidney_Cortex with Brain_Putamen community 17
+Accuracy: 0.2743 (0.2114)
+F1 score: 0.0127 (0.0025)
+ROC AUC: 0.5771 (0.0928)
+-- Predicting Liver with Brain_Putamen community 17
+Accuracy: 0.2784 (0.1950)
+F1 score: 0.0391 (0.0119)
+ROC AUC: 0.6104 (0.1142)
+-- Predicting Lung with Brain_Putamen community 17
+Accuracy: 0.2950 (0.1995)
+F1 score: 0.0947 (0.0292)
+ROC AUC: 0.6155 (0.1071)
+-- Predicting Minor_Salivary with Brain_Putamen community 17
+Accuracy: 0.7661 (0.1917)
+F1 score: 0.1437 (0.1051)
+ROC AUC: 0.9027 (0.0852)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 17
+Accuracy: 0.8034 (0.1416)
+F1 score: 0.4105 (0.1947)
+ROC AUC: 0.9256 (0.0529)
+-- Predicting Nerve_Tibial with Brain_Putamen community 17
+Accuracy: 0.2916 (0.1695)
+F1 score: 0.0916 (0.0205)
+ROC AUC: 0.6215 (0.0910)
+-- Predicting Ovary with Brain_Putamen community 17
+Accuracy: 0.3160 (0.2507)
+F1 score: 0.0269 (0.0044)
+ROC AUC: 0.5877 (0.0848)
+-- Predicting Pancreas with Brain_Putamen community 17
+Accuracy: 0.9578 (0.0588)
+F1 score: 0.7380 (0.3500)
+ROC AUC: 0.9764 (0.0333)
+-- Predicting Pituitary with Brain_Putamen community 17
+Accuracy: 0.2775 (0.1923)
+F1 score: 0.0435 (0.0124)
+ROC AUC: 0.6158 (0.1010)
+-- Predicting Prostate with Brain_Putamen community 17
+Accuracy: 0.2741 (0.1924)
+F1 score: 0.0394 (0.0118)
+ROC AUC: 0.6048 (0.1138)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 17
+Accuracy: 0.2929 (0.1698)
+F1 score: 0.0909 (0.0207)
+ROC AUC: 0.6239 (0.0867)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 17
+Accuracy: 0.2984 (0.1630)
+F1 score: 0.1055 (0.0241)
+ROC AUC: 0.6225 (0.0934)
+-- Predicting Small_Intestine with Brain_Putamen community 17
+Accuracy: 0.7683 (0.2055)
+F1 score: 0.1738 (0.1185)
+ROC AUC: 0.9060 (0.0901)
+-- Predicting Spleen with Brain_Putamen community 17
+Accuracy: 0.2774 (0.1882)
+F1 score: 0.0424 (0.0123)
+ROC AUC: 0.6064 (0.0952)
+-- Predicting Stomach with Brain_Putamen community 17
+Accuracy: 0.7776 (0.1978)
+F1 score: 0.2719 (0.1632)
+ROC AUC: 0.9149 (0.0811)
+-- Predicting Testis with Brain_Putamen community 17
+Accuracy: 0.2854 (0.1810)
+F1 score: 0.0559 (0.0121)
+ROC AUC: 0.6115 (0.1016)
+-- Predicting Thyroid with Brain_Putamen community 17
+Accuracy: 0.2935 (0.1670)
+F1 score: 0.1004 (0.0234)
+ROC AUC: 0.6212 (0.0970)
+-- Predicting Uterus with Brain_Putamen community 17
+Accuracy: 0.2799 (0.2126)
+F1 score: 0.0223 (0.0052)
+ROC AUC: 0.6015 (0.0899)
+-- Predicting Vagina with Brain_Putamen community 17
+Accuracy: 0.2843 (0.2217)
+F1 score: 0.0255 (0.0065)
+ROC AUC: 0.6016 (0.0974)
+-- Predicting Whole_Blood with Brain_Putamen community 17
+Accuracy: 0.2986 (0.1599)
+F1 score: 0.1166 (0.0248)
+ROC AUC: 0.6125 (0.0913)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 18
+Accuracy: 0.4865 (0.0287)
+F1 score: 0.0579 (0.0045)
+ROC AUC: 0.4309 (0.0130)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 18
+Accuracy: 0.5147 (0.0271)
+F1 score: 0.0448 (0.0056)
+ROC AUC: 0.4081 (0.0207)
+-- Predicting Adrenal_Gland with Brain_Putamen community 18
+Accuracy: 0.5083 (0.0259)
+F1 score: 0.0201 (0.0022)
+ROC AUC: 0.3819 (0.0127)
+-- Predicting Artery_Aorta with Brain_Putamen community 18
+Accuracy: 0.4978 (0.0375)
+F1 score: 0.0388 (0.0029)
+ROC AUC: 0.4200 (0.0184)
+-- Predicting Artery_Coronary with Brain_Putamen community 18
+Accuracy: 0.4823 (0.0242)
+F1 score: 0.0204 (0.0006)
+ROC AUC: 0.3878 (0.0067)
+-- Predicting Artery_Tibial with Brain_Putamen community 18
+Accuracy: 0.4606 (0.0169)
+F1 score: 0.0587 (0.0045)
+ROC AUC: 0.4222 (0.0125)
+-- Predicting Brain_Amygdala with Brain_Putamen community 18
+Accuracy: 0.4620 (0.0065)
+F1 score: 0.0116 (0.0024)
+ROC AUC: 0.3795 (0.0186)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 18
+Accuracy: 0.5279 (0.0385)
+F1 score: 0.0079 (0.0012)
+ROC AUC: 0.3249 (0.0178)
+-- Predicting Brain_Caudate with Brain_Putamen community 18
+Accuracy: 0.4834 (0.0279)
+F1 score: 0.0143 (0.0008)
+ROC AUC: 0.3492 (0.0119)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 18
+Accuracy: 0.4588 (0.0524)
+F1 score: 0.0173 (0.0013)
+ROC AUC: 0.3853 (0.0116)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 18
+Accuracy: 0.4671 (0.0232)
+F1 score: 0.0190 (0.0030)
+ROC AUC: 0.3989 (0.0245)
+-- Predicting Brain_Cortex with Brain_Putamen community 18
+Accuracy: 0.4479 (0.0297)
+F1 score: 0.0164 (0.0007)
+ROC AUC: 0.3661 (0.0066)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 18
+Accuracy: 0.5100 (0.0326)
+F1 score: 0.0148 (0.0009)
+ROC AUC: 0.3461 (0.0186)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 18
+Accuracy: 0.4821 (0.0532)
+F1 score: 0.0122 (0.0015)
+ROC AUC: 0.3689 (0.0212)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 18
+Accuracy: 0.5315 (0.0408)
+F1 score: 0.0137 (0.0020)
+ROC AUC: 0.3478 (0.0217)
+-- Predicting Brain_Nucleus with Brain_Putamen community 18
+Accuracy: 0.4593 (0.0399)
+F1 score: 0.0193 (0.0019)
+ROC AUC: 0.3973 (0.0074)
+-- Predicting Brain_Putamen with Brain_Putamen community 18
+Accuracy: 0.4554 (0.0289)
+F1 score: 0.0127 (0.0028)
+ROC AUC: 0.3644 (0.0246)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 18
+Accuracy: 0.5237 (0.0683)
+F1 score: 0.0104 (0.0023)
+ROC AUC: 0.3479 (0.0156)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 18
+Accuracy: 0.5032 (0.0229)
+F1 score: 0.0066 (0.0005)
+ROC AUC: 0.3339 (0.0138)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 18
+Accuracy: 0.5996 (0.0677)
+F1 score: 0.0334 (0.0023)
+ROC AUC: 0.3730 (0.0108)
+-- Predicting Cells_Cultured with Brain_Putamen community 18
+Accuracy: 0.4484 (0.0330)
+F1 score: 0.0468 (0.0032)
+ROC AUC: 0.4176 (0.0104)
+-- Predicting Cells_EBV with Brain_Putamen community 18
+Accuracy: 0.4550 (0.0296)
+F1 score: 0.0118 (0.0015)
+ROC AUC: 0.3669 (0.0092)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 18
+Accuracy: 0.5075 (0.0127)
+F1 score: 0.0279 (0.0041)
+ROC AUC: 0.3837 (0.0185)
+-- Predicting Colon_Transverse with Brain_Putamen community 18
+Accuracy: 0.5371 (0.0471)
+F1 score: 0.0348 (0.0063)
+ROC AUC: 0.4083 (0.0211)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 18
+Accuracy: 0.5179 (0.0323)
+F1 score: 0.0290 (0.0039)
+ROC AUC: 0.3786 (0.0229)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 18
+Accuracy: 0.5850 (0.0240)
+F1 score: 0.0468 (0.0055)
+ROC AUC: 0.4037 (0.0093)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 18
+Accuracy: 0.5175 (0.0512)
+F1 score: 0.0476 (0.0041)
+ROC AUC: 0.4301 (0.0141)
+-- Predicting Heart_Atrial with Brain_Putamen community 18
+Accuracy: 0.5283 (0.0198)
+F1 score: 0.0332 (0.0014)
+ROC AUC: 0.3836 (0.0063)
+-- Predicting Heart_L_Vent with Brain_Putamen community 18
+Accuracy: 0.6061 (0.0542)
+F1 score: 0.0333 (0.0020)
+ROC AUC: 0.3809 (0.0134)
+-- Predicting Kidney_Cortex with Brain_Putamen community 18
+Accuracy: 0.5125 (0.0184)
+F1 score: 0.0040 (0.0011)
+ROC AUC: 0.3132 (0.0353)
+-- Predicting Liver with Brain_Putamen community 18
+Accuracy: 0.5800 (0.0382)
+F1 score: 0.0166 (0.0020)
+ROC AUC: 0.3485 (0.0322)
+-- Predicting Lung with Brain_Putamen community 18
+Accuracy: 0.4953 (0.0300)
+F1 score: 0.0441 (0.0049)
+ROC AUC: 0.4143 (0.0146)
+-- Predicting Minor_Salivary with Brain_Putamen community 18
+Accuracy: 0.4700 (0.0429)
+F1 score: 0.0118 (0.0025)
+ROC AUC: 0.3521 (0.0113)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 18
+Accuracy: 0.4607 (0.0230)
+F1 score: 0.0695 (0.0041)
+ROC AUC: 0.4173 (0.0093)
+-- Predicting Nerve_Tibial with Brain_Putamen community 18
+Accuracy: 0.4971 (0.0357)
+F1 score: 0.0496 (0.0038)
+ROC AUC: 0.4220 (0.0103)
+-- Predicting Ovary with Brain_Putamen community 18
+Accuracy: 0.5595 (0.0284)
+F1 score: 0.0140 (0.0017)
+ROC AUC: 0.3577 (0.0206)
+-- Predicting Pancreas with Brain_Putamen community 18
+Accuracy: 0.5207 (0.0398)
+F1 score: 0.0286 (0.0044)
+ROC AUC: 0.3816 (0.0155)
+-- Predicting Pituitary with Brain_Putamen community 18
+Accuracy: 0.5889 (0.0877)
+F1 score: 0.0200 (0.0011)
+ROC AUC: 0.3613 (0.0132)
+-- Predicting Prostate with Brain_Putamen community 18
+Accuracy: 0.5586 (0.0543)
+F1 score: 0.0195 (0.0016)
+ROC AUC: 0.3894 (0.0085)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 18
+Accuracy: 0.5412 (0.0144)
+F1 score: 0.0477 (0.0050)
+ROC AUC: 0.4102 (0.0077)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 18
+Accuracy: 0.4477 (0.0186)
+F1 score: 0.0660 (0.0028)
+ROC AUC: 0.4383 (0.0074)
+-- Predicting Small_Intestine with Brain_Putamen community 18
+Accuracy: 0.5554 (0.0473)
+F1 score: 0.0132 (0.0005)
+ROC AUC: 0.3535 (0.0110)
+-- Predicting Spleen with Brain_Putamen community 18
+Accuracy: 0.5463 (0.0234)
+F1 score: 0.0180 (0.0013)
+ROC AUC: 0.3649 (0.0118)
+-- Predicting Stomach with Brain_Putamen community 18
+Accuracy: 0.5619 (0.0591)
+F1 score: 0.0290 (0.0021)
+ROC AUC: 0.3814 (0.0050)
+-- Predicting Testis with Brain_Putamen community 18
+Accuracy: 0.6749 (0.0573)
+F1 score: 0.0288 (0.0017)
+ROC AUC: 0.3704 (0.0194)
+-- Predicting Thyroid with Brain_Putamen community 18
+Accuracy: 0.4630 (0.0519)
+F1 score: 0.0555 (0.0031)
+ROC AUC: 0.4224 (0.0091)
+-- Predicting Uterus with Brain_Putamen community 18
+Accuracy: 0.5133 (0.0094)
+F1 score: 0.0094 (0.0016)
+ROC AUC: 0.3373 (0.0181)
+-- Predicting Vagina with Brain_Putamen community 18
+Accuracy: 0.5058 (0.0240)
+F1 score: 0.0118 (0.0018)
+ROC AUC: 0.3715 (0.0236)
+-- Predicting Whole_Blood with Brain_Putamen community 18
+Accuracy: 0.4881 (0.0085)
+F1 score: 0.0618 (0.0044)
+ROC AUC: 0.4038 (0.0179)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 19
+Accuracy: 0.4996 (0.0047)
+F1 score: 0.0476 (0.0039)
+ROC AUC: 0.3674 (0.0144)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 19
+Accuracy: 0.5273 (0.0140)
+F1 score: 0.0281 (0.0020)
+ROC AUC: 0.3212 (0.0089)
+-- Predicting Adrenal_Gland with Brain_Putamen community 19
+Accuracy: 0.5353 (0.0090)
+F1 score: 0.0107 (0.0032)
+ROC AUC: 0.2768 (0.0255)
+-- Predicting Artery_Aorta with Brain_Putamen community 19
+Accuracy: 0.5042 (0.0152)
+F1 score: 0.0225 (0.0021)
+ROC AUC: 0.3160 (0.0210)
+-- Predicting Artery_Coronary with Brain_Putamen community 19
+Accuracy: 0.5648 (0.0132)
+F1 score: 0.0114 (0.0005)
+ROC AUC: 0.2843 (0.0141)
+-- Predicting Artery_Tibial with Brain_Putamen community 19
+Accuracy: 0.5346 (0.0304)
+F1 score: 0.0361 (0.0037)
+ROC AUC: 0.3162 (0.0073)
+-- Predicting Brain_Amygdala with Brain_Putamen community 19
+Accuracy: 0.4869 (0.0244)
+F1 score: 0.0081 (0.0004)
+ROC AUC: 0.2985 (0.0016)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 19
+Accuracy: 0.5118 (0.0211)
+F1 score: 0.0075 (0.0015)
+ROC AUC: 0.2717 (0.0105)
+-- Predicting Brain_Caudate with Brain_Putamen community 19
+Accuracy: 0.5607 (0.0194)
+F1 score: 0.0091 (0.0021)
+ROC AUC: 0.2509 (0.0232)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 19
+Accuracy: 0.5006 (0.0168)
+F1 score: 0.0101 (0.0029)
+ROC AUC: 0.2902 (0.0237)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 19
+Accuracy: 0.5584 (0.0089)
+F1 score: 0.0143 (0.0025)
+ROC AUC: 0.3076 (0.0166)
+-- Predicting Brain_Cortex with Brain_Putamen community 19
+Accuracy: 0.5617 (0.0259)
+F1 score: 0.0114 (0.0020)
+ROC AUC: 0.2884 (0.0059)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 19
+Accuracy: 0.5035 (0.0482)
+F1 score: 0.0104 (0.0018)
+ROC AUC: 0.2900 (0.0138)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 19
+Accuracy: 0.5225 (0.0139)
+F1 score: 0.0085 (0.0012)
+ROC AUC: 0.2958 (0.0121)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 19
+Accuracy: 0.4700 (0.0150)
+F1 score: 0.0085 (0.0033)
+ROC AUC: 0.2894 (0.0176)
+-- Predicting Brain_Nucleus with Brain_Putamen community 19
+Accuracy: 0.5044 (0.0092)
+F1 score: 0.0118 (0.0015)
+ROC AUC: 0.3003 (0.0136)
+-- Predicting Brain_Putamen with Brain_Putamen community 19
+Accuracy: 0.5250 (0.0261)
+F1 score: 0.0102 (0.0010)
+ROC AUC: 0.2878 (0.0025)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 19
+Accuracy: 0.4756 (0.0098)
+F1 score: 0.0055 (0.0004)
+ROC AUC: 0.2725 (0.0054)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 19
+Accuracy: 0.5102 (0.0154)
+F1 score: 0.0035 (0.0026)
+ROC AUC: 0.2412 (0.0339)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 19
+Accuracy: 0.4957 (0.0244)
+F1 score: 0.0248 (0.0029)
+ROC AUC: 0.3201 (0.0202)
+-- Predicting Cells_Cultured with Brain_Putamen community 19
+Accuracy: 0.4513 (0.0287)
+F1 score: 0.0399 (0.0017)
+ROC AUC: 0.3626 (0.0132)
+-- Predicting Cells_EBV with Brain_Putamen community 19
+Accuracy: 0.5827 (0.0077)
+F1 score: 0.0103 (0.0009)
+ROC AUC: 0.3063 (0.0187)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 19
+Accuracy: 0.5374 (0.0035)
+F1 score: 0.0135 (0.0008)
+ROC AUC: 0.2731 (0.0182)
+-- Predicting Colon_Transverse with Brain_Putamen community 19
+Accuracy: 0.5427 (0.0194)
+F1 score: 0.0229 (0.0032)
+ROC AUC: 0.3083 (0.0260)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 19
+Accuracy: 0.5872 (0.0085)
+F1 score: 0.0184 (0.0026)
+ROC AUC: 0.2864 (0.0180)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 19
+Accuracy: 0.5926 (0.0181)
+F1 score: 0.0242 (0.0030)
+ROC AUC: 0.2762 (0.0223)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 19
+Accuracy: 0.5467 (0.0190)
+F1 score: 0.0285 (0.0049)
+ROC AUC: 0.3074 (0.0134)
+-- Predicting Heart_Atrial with Brain_Putamen community 19
+Accuracy: 0.5413 (0.0158)
+F1 score: 0.0190 (0.0040)
+ROC AUC: 0.2879 (0.0075)
+-- Predicting Heart_L_Vent with Brain_Putamen community 19
+Accuracy: 0.5769 (0.0044)
+F1 score: 0.0210 (0.0053)
+ROC AUC: 0.2948 (0.0196)
+-- Predicting Kidney_Cortex with Brain_Putamen community 19
+Accuracy: 0.5302 (0.0322)
+F1 score: 0.0028 (0.0004)
+ROC AUC: 0.2213 (0.0214)
+-- Predicting Liver with Brain_Putamen community 19
+Accuracy: 0.5358 (0.0245)
+F1 score: 0.0115 (0.0003)
+ROC AUC: 0.2686 (0.0068)
+-- Predicting Lung with Brain_Putamen community 19
+Accuracy: 0.5397 (0.0076)
+F1 score: 0.0273 (0.0053)
+ROC AUC: 0.2975 (0.0207)
+-- Predicting Minor_Salivary with Brain_Putamen community 19
+Accuracy: 0.5607 (0.0329)
+F1 score: 0.0062 (0.0010)
+ROC AUC: 0.2465 (0.0090)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 19
+Accuracy: 0.5675 (0.0103)
+F1 score: 0.0384 (0.0062)
+ROC AUC: 0.3060 (0.0102)
+-- Predicting Nerve_Tibial with Brain_Putamen community 19
+Accuracy: 0.5069 (0.0065)
+F1 score: 0.0360 (0.0074)
+ROC AUC: 0.3393 (0.0201)
+-- Predicting Ovary with Brain_Putamen community 19
+Accuracy: 0.4791 (0.0122)
+F1 score: 0.0095 (0.0011)
+ROC AUC: 0.2772 (0.0196)
+-- Predicting Pancreas with Brain_Putamen community 19
+Accuracy: 0.5607 (0.0193)
+F1 score: 0.0206 (0.0029)
+ROC AUC: 0.3129 (0.0072)
+-- Predicting Pituitary with Brain_Putamen community 19
+Accuracy: 0.5612 (0.0126)
+F1 score: 0.0115 (0.0009)
+ROC AUC: 0.2633 (0.0143)
+-- Predicting Prostate with Brain_Putamen community 19
+Accuracy: 0.5437 (0.0200)
+F1 score: 0.0111 (0.0005)
+ROC AUC: 0.2705 (0.0140)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 19
+Accuracy: 0.5409 (0.0166)
+F1 score: 0.0341 (0.0048)
+ROC AUC: 0.3241 (0.0265)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 19
+Accuracy: 0.5022 (0.0283)
+F1 score: 0.0385 (0.0062)
+ROC AUC: 0.3275 (0.0200)
+-- Predicting Small_Intestine with Brain_Putamen community 19
+Accuracy: 0.5208 (0.0121)
+F1 score: 0.0100 (0.0012)
+ROC AUC: 0.2773 (0.0169)
+-- Predicting Spleen with Brain_Putamen community 19
+Accuracy: 0.5243 (0.0135)
+F1 score: 0.0126 (0.0020)
+ROC AUC: 0.2900 (0.0297)
+-- Predicting Stomach with Brain_Putamen community 19
+Accuracy: 0.5782 (0.0152)
+F1 score: 0.0138 (0.0011)
+ROC AUC: 0.2587 (0.0216)
+-- Predicting Testis with Brain_Putamen community 19
+Accuracy: 0.5963 (0.0108)
+F1 score: 0.0204 (0.0011)
+ROC AUC: 0.2950 (0.0160)
+-- Predicting Thyroid with Brain_Putamen community 19
+Accuracy: 0.5183 (0.0167)
+F1 score: 0.0370 (0.0039)
+ROC AUC: 0.3317 (0.0252)
+-- Predicting Uterus with Brain_Putamen community 19
+Accuracy: 0.5488 (0.0429)
+F1 score: 0.0051 (0.0014)
+ROC AUC: 0.2376 (0.0076)
+-- Predicting Vagina with Brain_Putamen community 19
+Accuracy: 0.6040 (0.0111)
+F1 score: 0.0047 (0.0013)
+ROC AUC: 0.2066 (0.0278)
+-- Predicting Whole_Blood with Brain_Putamen community 19
+Accuracy: 0.4555 (0.0236)
+F1 score: 0.0523 (0.0071)
+ROC AUC: 0.3629 (0.0113)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 20
+Accuracy: 0.4275 (0.0157)
+F1 score: 0.0628 (0.0044)
+ROC AUC: 0.4381 (0.0073)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 20
+Accuracy: 0.4521 (0.0105)
+F1 score: 0.0472 (0.0024)
+ROC AUC: 0.4105 (0.0053)
+-- Predicting Adrenal_Gland with Brain_Putamen community 20
+Accuracy: 0.4986 (0.0270)
+F1 score: 0.0182 (0.0022)
+ROC AUC: 0.3778 (0.0055)
+-- Predicting Artery_Aorta with Brain_Putamen community 20
+Accuracy: 0.4538 (0.0203)
+F1 score: 0.0420 (0.0007)
+ROC AUC: 0.4204 (0.0038)
+-- Predicting Artery_Coronary with Brain_Putamen community 20
+Accuracy: 0.4815 (0.0378)
+F1 score: 0.0190 (0.0016)
+ROC AUC: 0.3755 (0.0106)
+-- Predicting Artery_Tibial with Brain_Putamen community 20
+Accuracy: 0.4507 (0.0139)
+F1 score: 0.0607 (0.0022)
+ROC AUC: 0.4372 (0.0083)
+-- Predicting Brain_Amygdala with Brain_Putamen community 20
+Accuracy: 0.5038 (0.0438)
+F1 score: 0.0100 (0.0011)
+ROC AUC: 0.3472 (0.0158)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 20
+Accuracy: 0.5611 (0.0429)
+F1 score: 0.0099 (0.0018)
+ROC AUC: 0.3330 (0.0140)
+-- Predicting Brain_Caudate with Brain_Putamen community 20
+Accuracy: 0.5173 (0.0147)
+F1 score: 0.0137 (0.0003)
+ROC AUC: 0.3431 (0.0060)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 20
+Accuracy: 0.5192 (0.0171)
+F1 score: 0.0153 (0.0027)
+ROC AUC: 0.3645 (0.0211)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 20
+Accuracy: 0.5321 (0.0086)
+F1 score: 0.0182 (0.0017)
+ROC AUC: 0.3827 (0.0079)
+-- Predicting Brain_Cortex with Brain_Putamen community 20
+Accuracy: 0.5308 (0.0220)
+F1 score: 0.0155 (0.0019)
+ROC AUC: 0.3717 (0.0110)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 20
+Accuracy: 0.5275 (0.0566)
+F1 score: 0.0146 (0.0026)
+ROC AUC: 0.3608 (0.0258)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 20
+Accuracy: 0.4775 (0.0286)
+F1 score: 0.0138 (0.0020)
+ROC AUC: 0.3662 (0.0256)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 20
+Accuracy: 0.4999 (0.0430)
+F1 score: 0.0129 (0.0021)
+ROC AUC: 0.3556 (0.0084)
+-- Predicting Brain_Nucleus with Brain_Putamen community 20
+Accuracy: 0.4302 (0.0205)
+F1 score: 0.0200 (0.0013)
+ROC AUC: 0.3976 (0.0047)
+-- Predicting Brain_Putamen with Brain_Putamen community 20
+Accuracy: 0.4923 (0.0237)
+F1 score: 0.0150 (0.0014)
+ROC AUC: 0.3818 (0.0073)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 20
+Accuracy: 0.4973 (0.0094)
+F1 score: 0.0104 (0.0015)
+ROC AUC: 0.3566 (0.0099)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 20
+Accuracy: 0.5666 (0.0382)
+F1 score: 0.0100 (0.0013)
+ROC AUC: 0.3368 (0.0041)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 20
+Accuracy: 0.4866 (0.0383)
+F1 score: 0.0408 (0.0033)
+ROC AUC: 0.4223 (0.0142)
+-- Predicting Cells_Cultured with Brain_Putamen community 20
+Accuracy: 0.5735 (0.0246)
+F1 score: 0.0489 (0.0049)
+ROC AUC: 0.4094 (0.0127)
+-- Predicting Cells_EBV with Brain_Putamen community 20
+Accuracy: 0.4146 (0.0209)
+F1 score: 0.0146 (0.0027)
+ROC AUC: 0.3969 (0.0186)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 20
+Accuracy: 0.5058 (0.0542)
+F1 score: 0.0282 (0.0012)
+ROC AUC: 0.3874 (0.0062)
+-- Predicting Colon_Transverse with Brain_Putamen community 20
+Accuracy: 0.5427 (0.0211)
+F1 score: 0.0357 (0.0015)
+ROC AUC: 0.4089 (0.0091)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 20
+Accuracy: 0.4954 (0.0191)
+F1 score: 0.0305 (0.0029)
+ROC AUC: 0.4074 (0.0049)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 20
+Accuracy: 0.4931 (0.0372)
+F1 score: 0.0489 (0.0024)
+ROC AUC: 0.4156 (0.0074)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 20
+Accuracy: 0.4617 (0.0301)
+F1 score: 0.0446 (0.0034)
+ROC AUC: 0.4118 (0.0138)
+-- Predicting Heart_Atrial with Brain_Putamen community 20
+Accuracy: 0.4976 (0.0176)
+F1 score: 0.0341 (0.0023)
+ROC AUC: 0.3927 (0.0075)
+-- Predicting Heart_L_Vent with Brain_Putamen community 20
+Accuracy: 0.4752 (0.0578)
+F1 score: 0.0362 (0.0031)
+ROC AUC: 0.4077 (0.0117)
+-- Predicting Kidney_Cortex with Brain_Putamen community 20
+Accuracy: 0.4906 (0.0033)
+F1 score: 0.0041 (0.0009)
+ROC AUC: 0.2847 (0.0294)
+-- Predicting Liver with Brain_Putamen community 20
+Accuracy: 0.5127 (0.0166)
+F1 score: 0.0165 (0.0008)
+ROC AUC: 0.3475 (0.0126)
+-- Predicting Lung with Brain_Putamen community 20
+Accuracy: 0.4477 (0.0250)
+F1 score: 0.0476 (0.0009)
+ROC AUC: 0.4133 (0.0125)
+-- Predicting Minor_Salivary with Brain_Putamen community 20
+Accuracy: 0.4550 (0.0147)
+F1 score: 0.0103 (0.0018)
+ROC AUC: 0.3513 (0.0124)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 20
+Accuracy: 0.5438 (0.0279)
+F1 score: 0.0727 (0.0041)
+ROC AUC: 0.4289 (0.0189)
+-- Predicting Nerve_Tibial with Brain_Putamen community 20
+Accuracy: 0.4666 (0.0251)
+F1 score: 0.0529 (0.0025)
+ROC AUC: 0.4244 (0.0039)
+-- Predicting Ovary with Brain_Putamen community 20
+Accuracy: 0.5135 (0.0262)
+F1 score: 0.0138 (0.0018)
+ROC AUC: 0.3866 (0.0306)
+-- Predicting Pancreas with Brain_Putamen community 20
+Accuracy: 0.5400 (0.0300)
+F1 score: 0.0299 (0.0039)
+ROC AUC: 0.4006 (0.0121)
+-- Predicting Pituitary with Brain_Putamen community 20
+Accuracy: 0.4979 (0.0170)
+F1 score: 0.0174 (0.0029)
+ROC AUC: 0.3566 (0.0047)
+-- Predicting Prostate with Brain_Putamen community 20
+Accuracy: 0.5479 (0.0399)
+F1 score: 0.0170 (0.0029)
+ROC AUC: 0.3541 (0.0190)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 20
+Accuracy: 0.4738 (0.0042)
+F1 score: 0.0508 (0.0038)
+ROC AUC: 0.4136 (0.0096)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 20
+Accuracy: 0.4510 (0.0360)
+F1 score: 0.0605 (0.0044)
+ROC AUC: 0.4335 (0.0047)
+-- Predicting Small_Intestine with Brain_Putamen community 20
+Accuracy: 0.5319 (0.0177)
+F1 score: 0.0133 (0.0013)
+ROC AUC: 0.3756 (0.0087)
+-- Predicting Spleen with Brain_Putamen community 20
+Accuracy: 0.5181 (0.0225)
+F1 score: 0.0202 (0.0036)
+ROC AUC: 0.3833 (0.0284)
+-- Predicting Stomach with Brain_Putamen community 20
+Accuracy: 0.4689 (0.0536)
+F1 score: 0.0300 (0.0008)
+ROC AUC: 0.4116 (0.0093)
+-- Predicting Testis with Brain_Putamen community 20
+Accuracy: 0.4885 (0.0089)
+F1 score: 0.0294 (0.0024)
+ROC AUC: 0.4039 (0.0074)
+-- Predicting Thyroid with Brain_Putamen community 20
+Accuracy: 0.4942 (0.0022)
+F1 score: 0.0553 (0.0011)
+ROC AUC: 0.4203 (0.0017)
+-- Predicting Uterus with Brain_Putamen community 20
+Accuracy: 0.4922 (0.0553)
+F1 score: 0.0103 (0.0019)
+ROC AUC: 0.3539 (0.0231)
+-- Predicting Vagina with Brain_Putamen community 20
+Accuracy: 0.5025 (0.0408)
+F1 score: 0.0108 (0.0023)
+ROC AUC: 0.3551 (0.0162)
+-- Predicting Whole_Blood with Brain_Putamen community 20
+Accuracy: 0.4405 (0.0248)
+F1 score: 0.0706 (0.0004)
+ROC AUC: 0.4349 (0.0037)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 21
+Accuracy: 0.2384 (0.1484)
+F1 score: 0.0818 (0.0077)
+ROC AUC: 0.5555 (0.0486)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 21
+Accuracy: 0.2573 (0.1882)
+F1 score: 0.0654 (0.0069)
+ROC AUC: 0.5573 (0.0521)
+-- Predicting Adrenal_Gland with Brain_Putamen community 21
+Accuracy: 0.2389 (0.1946)
+F1 score: 0.0345 (0.0058)
+ROC AUC: 0.5413 (0.0737)
+-- Predicting Artery_Aorta with Brain_Putamen community 21
+Accuracy: 0.3156 (0.2536)
+F1 score: 0.0494 (0.0031)
+ROC AUC: 0.5215 (0.0401)
+-- Predicting Artery_Coronary with Brain_Putamen community 21
+Accuracy: 0.2373 (0.1909)
+F1 score: 0.0293 (0.0029)
+ROC AUC: 0.5450 (0.0784)
+-- Predicting Artery_Tibial with Brain_Putamen community 21
+Accuracy: 0.2254 (0.1200)
+F1 score: 0.0802 (0.0104)
+ROC AUC: 0.5591 (0.0630)
+-- Predicting Brain_Amygdala with Brain_Putamen community 21
+Accuracy: 0.2080 (0.1930)
+F1 score: 0.0175 (0.0007)
+ROC AUC: 0.4759 (0.0131)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 21
+Accuracy: 0.2165 (0.2046)
+F1 score: 0.0232 (0.0039)
+ROC AUC: 0.5386 (0.0613)
+-- Predicting Brain_Caudate with Brain_Putamen community 21
+Accuracy: 0.2295 (0.2178)
+F1 score: 0.0297 (0.0041)
+ROC AUC: 0.5341 (0.0664)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 21
+Accuracy: 0.2480 (0.2522)
+F1 score: 0.0252 (0.0014)
+ROC AUC: 0.5341 (0.0499)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 21
+Accuracy: 0.2426 (0.2210)
+F1 score: 0.0317 (0.0036)
+ROC AUC: 0.5300 (0.0704)
+-- Predicting Brain_Cortex with Brain_Putamen community 21
+Accuracy: 0.1993 (0.1764)
+F1 score: 0.0313 (0.0042)
+ROC AUC: 0.5301 (0.0608)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 21
+Accuracy: 0.2422 (0.2327)
+F1 score: 0.0247 (0.0005)
+ROC AUC: 0.5107 (0.0404)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 21
+Accuracy: 0.2074 (0.1884)
+F1 score: 0.0264 (0.0049)
+ROC AUC: 0.5265 (0.0619)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 21
+Accuracy: 0.2374 (0.2320)
+F1 score: 0.0242 (0.0010)
+ROC AUC: 0.5158 (0.0337)
+-- Predicting Brain_Nucleus with Brain_Putamen community 21
+Accuracy: 0.2199 (0.2036)
+F1 score: 0.0318 (0.0053)
+ROC AUC: 0.5280 (0.0604)
+-- Predicting Brain_Putamen with Brain_Putamen community 21
+Accuracy: 0.2166 (0.2136)
+F1 score: 0.0282 (0.0069)
+ROC AUC: 0.5494 (0.0717)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 21
+Accuracy: 0.2121 (0.1962)
+F1 score: 0.0203 (0.0038)
+ROC AUC: 0.5256 (0.0695)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 21
+Accuracy: 0.2498 (0.2043)
+F1 score: 0.0152 (0.0018)
+ROC AUC: 0.4666 (0.0196)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 21
+Accuracy: 0.2799 (0.2285)
+F1 score: 0.0556 (0.0079)
+ROC AUC: 0.5440 (0.0548)
+-- Predicting Cells_Cultured with Brain_Putamen community 21
+Accuracy: 0.9127 (0.1207)
+F1 score: 0.7126 (0.3642)
+ROC AUC: 0.9544 (0.0644)
+-- Predicting Cells_EBV with Brain_Putamen community 21
+Accuracy: 0.2339 (0.1576)
+F1 score: 0.0145 (0.0027)
+ROC AUC: 0.4193 (0.0492)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 21
+Accuracy: 0.2379 (0.2563)
+F1 score: 0.0416 (0.0013)
+ROC AUC: 0.4849 (0.0055)
+-- Predicting Colon_Transverse with Brain_Putamen community 21
+Accuracy: 0.1373 (0.1078)
+F1 score: 0.0440 (0.0065)
+ROC AUC: 0.4214 (0.0805)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 21
+Accuracy: 0.2479 (0.2472)
+F1 score: 0.0459 (0.0025)
+ROC AUC: 0.5098 (0.0474)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 21
+Accuracy: 0.1651 (0.0981)
+F1 score: 0.0545 (0.0086)
+ROC AUC: 0.4265 (0.0885)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 21
+Accuracy: 0.1581 (0.1125)
+F1 score: 0.0521 (0.0117)
+ROC AUC: 0.4108 (0.0832)
+-- Predicting Heart_Atrial with Brain_Putamen community 21
+Accuracy: 0.3064 (0.2924)
+F1 score: 0.0531 (0.0115)
+ROC AUC: 0.5632 (0.0713)
+-- Predicting Heart_L_Vent with Brain_Putamen community 21
+Accuracy: 0.9063 (0.1297)
+F1 score: 0.6936 (0.3808)
+ROC AUC: 0.9533 (0.0659)
+-- Predicting Kidney_Cortex with Brain_Putamen community 21
+Accuracy: 0.4032 (0.2659)
+F1 score: 0.0097 (0.0011)
+ROC AUC: 0.5072 (0.0580)
+-- Predicting Liver with Brain_Putamen community 21
+Accuracy: 0.8945 (0.1462)
+F1 score: 0.6470 (0.4015)
+ROC AUC: 0.9489 (0.0721)
+-- Predicting Lung with Brain_Putamen community 21
+Accuracy: 0.2662 (0.2335)
+F1 score: 0.0592 (0.0046)
+ROC AUC: 0.4788 (0.0397)
+-- Predicting Minor_Salivary with Brain_Putamen community 21
+Accuracy: 0.2952 (0.2648)
+F1 score: 0.0177 (0.0007)
+ROC AUC: 0.5293 (0.0492)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 21
+Accuracy: 0.9273 (0.1000)
+F1 score: 0.7536 (0.3192)
+ROC AUC: 0.9614 (0.0545)
+-- Predicting Nerve_Tibial with Brain_Putamen community 21
+Accuracy: 0.2916 (0.2247)
+F1 score: 0.0706 (0.0099)
+ROC AUC: 0.5605 (0.0441)
+-- Predicting Ovary with Brain_Putamen community 21
+Accuracy: 0.2536 (0.2114)
+F1 score: 0.0204 (0.0018)
+ROC AUC: 0.4761 (0.0205)
+-- Predicting Pancreas with Brain_Putamen community 21
+Accuracy: 0.2632 (0.2218)
+F1 score: 0.0377 (0.0008)
+ROC AUC: 0.4999 (0.0160)
+-- Predicting Pituitary with Brain_Putamen community 21
+Accuracy: 0.2504 (0.2158)
+F1 score: 0.0354 (0.0034)
+ROC AUC: 0.5279 (0.0713)
+-- Predicting Prostate with Brain_Putamen community 21
+Accuracy: 0.2390 (0.2033)
+F1 score: 0.0272 (0.0010)
+ROC AUC: 0.4832 (0.0280)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 21
+Accuracy: 0.2768 (0.2047)
+F1 score: 0.0663 (0.0045)
+ROC AUC: 0.5224 (0.0302)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 21
+Accuracy: 0.2633 (0.1858)
+F1 score: 0.0825 (0.0085)
+ROC AUC: 0.5615 (0.0498)
+-- Predicting Small_Intestine with Brain_Putamen community 21
+Accuracy: 0.2190 (0.2024)
+F1 score: 0.0214 (0.0020)
+ROC AUC: 0.4694 (0.0252)
+-- Predicting Spleen with Brain_Putamen community 21
+Accuracy: 0.2930 (0.2799)
+F1 score: 0.0309 (0.0033)
+ROC AUC: 0.5549 (0.0584)
+-- Predicting Stomach with Brain_Putamen community 21
+Accuracy: 0.2641 (0.2568)
+F1 score: 0.0455 (0.0032)
+ROC AUC: 0.5213 (0.0376)
+-- Predicting Testis with Brain_Putamen community 21
+Accuracy: 0.2581 (0.2303)
+F1 score: 0.0423 (0.0022)
+ROC AUC: 0.4964 (0.0244)
+-- Predicting Thyroid with Brain_Putamen community 21
+Accuracy: 0.2454 (0.1725)
+F1 score: 0.0801 (0.0127)
+ROC AUC: 0.5504 (0.0807)
+-- Predicting Uterus with Brain_Putamen community 21
+Accuracy: 0.3032 (0.2965)
+F1 score: 0.0164 (0.0008)
+ROC AUC: 0.5019 (0.0165)
+-- Predicting Vagina with Brain_Putamen community 21
+Accuracy: 0.2640 (0.2258)
+F1 score: 0.0177 (0.0002)
+ROC AUC: 0.5008 (0.0406)
+-- Predicting Whole_Blood with Brain_Putamen community 21
+Accuracy: 0.2463 (0.1575)
+F1 score: 0.0930 (0.0098)
+ROC AUC: 0.5516 (0.0686)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 22
+Accuracy: 0.9417 (0.0212)
+F1 score: 0.5828 (0.1017)
+ROC AUC: 0.9754 (0.0166)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 22
+Accuracy: 0.8549 (0.0766)
+F1 score: 0.3496 (0.1542)
+ROC AUC: 0.9539 (0.0272)
+-- Predicting Adrenal_Gland with Brain_Putamen community 22
+Accuracy: 0.9572 (0.0363)
+F1 score: 0.5117 (0.1966)
+ROC AUC: 0.9954 (0.0031)
+-- Predicting Artery_Aorta with Brain_Putamen community 22
+Accuracy: 0.9326 (0.0373)
+F1 score: 0.4780 (0.1567)
+ROC AUC: 0.9678 (0.0245)
+-- Predicting Artery_Coronary with Brain_Putamen community 22
+Accuracy: 0.8240 (0.0446)
+F1 score: 0.1366 (0.0298)
+ROC AUC: 0.9320 (0.0134)
+-- Predicting Artery_Tibial with Brain_Putamen community 22
+Accuracy: 0.9792 (0.0184)
+F1 score: 0.8151 (0.1485)
+ROC AUC: 0.9993 (0.0006)
+-- Predicting Brain_Amygdala with Brain_Putamen community 22
+Accuracy: 0.6078 (0.0169)
+F1 score: 0.0403 (0.0013)
+ROC AUC: 0.7687 (0.0135)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 22
+Accuracy: 0.6289 (0.0152)
+F1 score: 0.0480 (0.0010)
+ROC AUC: 0.7780 (0.0109)
+-- Predicting Brain_Caudate with Brain_Putamen community 22
+Accuracy: 0.6325 (0.0069)
+F1 score: 0.0643 (0.0014)
+ROC AUC: 0.7744 (0.0027)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 22
+Accuracy: 0.6077 (0.0100)
+F1 score: 0.0524 (0.0009)
+ROC AUC: 0.7783 (0.0095)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 22
+Accuracy: 0.6013 (0.0210)
+F1 score: 0.0602 (0.0006)
+ROC AUC: 0.7736 (0.0113)
+-- Predicting Brain_Cortex with Brain_Putamen community 22
+Accuracy: 0.6190 (0.0071)
+F1 score: 0.0637 (0.0008)
+ROC AUC: 0.7851 (0.0111)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 22
+Accuracy: 0.6290 (0.0127)
+F1 score: 0.0557 (0.0023)
+ROC AUC: 0.7770 (0.0018)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 22
+Accuracy: 0.6318 (0.0034)
+F1 score: 0.0541 (0.0022)
+ROC AUC: 0.7967 (0.0283)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 22
+Accuracy: 0.6244 (0.0065)
+F1 score: 0.0531 (0.0020)
+ROC AUC: 0.7814 (0.0269)
+-- Predicting Brain_Nucleus with Brain_Putamen community 22
+Accuracy: 0.6146 (0.0136)
+F1 score: 0.0627 (0.0006)
+ROC AUC: 0.7820 (0.0172)
+-- Predicting Brain_Putamen with Brain_Putamen community 22
+Accuracy: 0.6270 (0.0122)
+F1 score: 0.0543 (0.0024)
+ROC AUC: 0.7824 (0.0152)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 22
+Accuracy: 0.6085 (0.0048)
+F1 score: 0.0369 (0.0014)
+ROC AUC: 0.7684 (0.0172)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 22
+Accuracy: 0.5828 (0.0286)
+F1 score: 0.0324 (0.0011)
+ROC AUC: 0.7518 (0.0049)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 22
+Accuracy: 0.8396 (0.0301)
+F1 score: 0.2400 (0.0328)
+ROC AUC: 0.9436 (0.0071)
+-- Predicting Cells_Cultured with Brain_Putamen community 22
+Accuracy: 0.9856 (0.0179)
+F1 score: 0.8538 (0.1684)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Putamen community 22
+Accuracy: 0.8713 (0.0412)
+F1 score: 0.1356 (0.0344)
+ROC AUC: 0.9379 (0.0239)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 22
+Accuracy: 0.5987 (0.0215)
+F1 score: 0.0845 (0.0026)
+ROC AUC: 0.7784 (0.0113)
+-- Predicting Colon_Transverse with Brain_Putamen community 22
+Accuracy: 0.6066 (0.0181)
+F1 score: 0.0972 (0.0063)
+ROC AUC: 0.7780 (0.0251)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 22
+Accuracy: 0.9412 (0.0365)
+F1 score: 0.4941 (0.2150)
+ROC AUC: 0.9826 (0.0179)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 22
+Accuracy: 0.9489 (0.0386)
+F1 score: 0.6364 (0.2399)
+ROC AUC: 0.9863 (0.0134)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 22
+Accuracy: 0.9844 (0.0183)
+F1 score: 0.8376 (0.1710)
+ROC AUC: 0.9989 (0.0015)
+-- Predicting Heart_Atrial with Brain_Putamen community 22
+Accuracy: 0.9216 (0.0465)
+F1 score: 0.4671 (0.2282)
+ROC AUC: 0.9670 (0.0223)
+-- Predicting Heart_L_Vent with Brain_Putamen community 22
+Accuracy: 0.9501 (0.0689)
+F1 score: 0.7371 (0.3400)
+ROC AUC: 0.9992 (0.0010)
+-- Predicting Kidney_Cortex with Brain_Putamen community 22
+Accuracy: 0.9676 (0.0264)
+F1 score: 0.4046 (0.3097)
+ROC AUC: 0.9970 (0.0038)
+-- Predicting Liver with Brain_Putamen community 22
+Accuracy: 0.9340 (0.0789)
+F1 score: 0.5668 (0.3538)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Lung with Brain_Putamen community 22
+Accuracy: 0.8460 (0.0626)
+F1 score: 0.3191 (0.0761)
+ROC AUC: 0.9493 (0.0260)
+-- Predicting Minor_Salivary with Brain_Putamen community 22
+Accuracy: 0.6320 (0.0206)
+F1 score: 0.0397 (0.0045)
+ROC AUC: 0.7642 (0.0312)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 22
+Accuracy: 0.9724 (0.0365)
+F1 score: 0.8342 (0.2089)
+ROC AUC: 0.9997 (0.0005)
+-- Predicting Nerve_Tibial with Brain_Putamen community 22
+Accuracy: 0.9989 (0.0004)
+F1 score: 0.9852 (0.0056)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Ovary with Brain_Putamen community 22
+Accuracy: 0.9139 (0.0709)
+F1 score: 0.3778 (0.3095)
+ROC AUC: 0.9514 (0.0457)
+-- Predicting Pancreas with Brain_Putamen community 22
+Accuracy: 0.8987 (0.0721)
+F1 score: 0.4472 (0.3287)
+ROC AUC: 0.9838 (0.0111)
+-- Predicting Pituitary with Brain_Putamen community 22
+Accuracy: 0.8631 (0.0463)
+F1 score: 0.2021 (0.0658)
+ROC AUC: 0.9478 (0.0238)
+-- Predicting Prostate with Brain_Putamen community 22
+Accuracy: 0.9128 (0.0715)
+F1 score: 0.3824 (0.2437)
+ROC AUC: 0.9563 (0.0391)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 22
+Accuracy: 0.6187 (0.0270)
+F1 score: 0.1409 (0.0109)
+ROC AUC: 0.7912 (0.0266)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 22
+Accuracy: 0.6252 (0.0420)
+F1 score: 0.1650 (0.0155)
+ROC AUC: 0.7928 (0.0222)
+-- Predicting Small_Intestine with Brain_Putamen community 22
+Accuracy: 0.5931 (0.0106)
+F1 score: 0.0442 (0.0008)
+ROC AUC: 0.7443 (0.0167)
+-- Predicting Spleen with Brain_Putamen community 22
+Accuracy: 0.9420 (0.0547)
+F1 score: 0.5225 (0.3257)
+ROC AUC: 0.9689 (0.0306)
+-- Predicting Stomach with Brain_Putamen community 22
+Accuracy: 0.9231 (0.0815)
+F1 score: 0.5198 (0.2411)
+ROC AUC: 0.9680 (0.0442)
+-- Predicting Testis with Brain_Putamen community 22
+Accuracy: 0.5859 (0.0110)
+F1 score: 0.0860 (0.0016)
+ROC AUC: 0.7588 (0.0035)
+-- Predicting Thyroid with Brain_Putamen community 22
+Accuracy: 0.8637 (0.0398)
+F1 score: 0.3656 (0.0609)
+ROC AUC: 0.9528 (0.0269)
+-- Predicting Uterus with Brain_Putamen community 22
+Accuracy: 0.9097 (0.0710)
+F1 score: 0.3254 (0.2892)
+ROC AUC: 0.9539 (0.0400)
+-- Predicting Vagina with Brain_Putamen community 22
+Accuracy: 0.6223 (0.0291)
+F1 score: 0.0370 (0.0032)
+ROC AUC: 0.7452 (0.0178)
+-- Predicting Whole_Blood with Brain_Putamen community 22
+Accuracy: 0.9711 (0.0199)
+F1 score: 0.7786 (0.1505)
+ROC AUC: 0.9917 (0.0109)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 23
+Accuracy: 0.2300 (0.0663)
+F1 score: 0.0727 (0.0024)
+ROC AUC: 0.4998 (0.0073)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 23
+Accuracy: 0.2088 (0.0945)
+F1 score: 0.0651 (0.0013)
+ROC AUC: 0.4926 (0.0101)
+-- Predicting Adrenal_Gland with Brain_Putamen community 23
+Accuracy: 0.3817 (0.1641)
+F1 score: 0.0272 (0.0014)
+ROC AUC: 0.4841 (0.0162)
+-- Predicting Artery_Aorta with Brain_Putamen community 23
+Accuracy: 0.2912 (0.0860)
+F1 score: 0.0480 (0.0026)
+ROC AUC: 0.4950 (0.0287)
+-- Predicting Artery_Coronary with Brain_Putamen community 23
+Accuracy: 0.2264 (0.0660)
+F1 score: 0.0275 (0.0003)
+ROC AUC: 0.4978 (0.0068)
+-- Predicting Artery_Tibial with Brain_Putamen community 23
+Accuracy: 0.2612 (0.0771)
+F1 score: 0.0744 (0.0054)
+ROC AUC: 0.4995 (0.0214)
+-- Predicting Brain_Amygdala with Brain_Putamen community 23
+Accuracy: 0.2825 (0.1279)
+F1 score: 0.0171 (0.0012)
+ROC AUC: 0.4827 (0.0198)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 23
+Accuracy: 0.2749 (0.0719)
+F1 score: 0.0190 (0.0009)
+ROC AUC: 0.4773 (0.0042)
+-- Predicting Brain_Caudate with Brain_Putamen community 23
+Accuracy: 0.2755 (0.0865)
+F1 score: 0.0273 (0.0019)
+ROC AUC: 0.4820 (0.0049)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 23
+Accuracy: 0.9657 (0.0316)
+F1 score: 0.5583 (0.3106)
+ROC AUC: 0.9829 (0.0164)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 23
+Accuracy: 0.3399 (0.0745)
+F1 score: 0.0225 (0.0019)
+ROC AUC: 0.4566 (0.0125)
+-- Predicting Brain_Cortex with Brain_Putamen community 23
+Accuracy: 0.3312 (0.0900)
+F1 score: 0.0261 (0.0006)
+ROC AUC: 0.4672 (0.0047)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 23
+Accuracy: 0.2739 (0.1463)
+F1 score: 0.0236 (0.0008)
+ROC AUC: 0.4946 (0.0158)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 23
+Accuracy: 0.2881 (0.1306)
+F1 score: 0.0214 (0.0019)
+ROC AUC: 0.4742 (0.0202)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 23
+Accuracy: 0.3084 (0.1481)
+F1 score: 0.0205 (0.0017)
+ROC AUC: 0.4681 (0.0264)
+-- Predicting Brain_Nucleus with Brain_Putamen community 23
+Accuracy: 0.2886 (0.1197)
+F1 score: 0.0267 (0.0012)
+ROC AUC: 0.4662 (0.0091)
+-- Predicting Brain_Putamen with Brain_Putamen community 23
+Accuracy: 0.2710 (0.0684)
+F1 score: 0.0229 (0.0014)
+ROC AUC: 0.4701 (0.0196)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 23
+Accuracy: 0.3565 (0.1479)
+F1 score: 0.0150 (0.0013)
+ROC AUC: 0.4590 (0.0147)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 23
+Accuracy: 0.3022 (0.1455)
+F1 score: 0.0150 (0.0010)
+ROC AUC: 0.4618 (0.0077)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 23
+Accuracy: 0.2998 (0.0732)
+F1 score: 0.0457 (0.0025)
+ROC AUC: 0.4973 (0.0174)
+-- Predicting Cells_Cultured with Brain_Putamen community 23
+Accuracy: 0.2352 (0.1081)
+F1 score: 0.0640 (0.0028)
+ROC AUC: 0.5009 (0.0012)
+-- Predicting Cells_EBV with Brain_Putamen community 23
+Accuracy: 0.3937 (0.0134)
+F1 score: 0.0173 (0.0012)
+ROC AUC: 0.4888 (0.0205)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 23
+Accuracy: 0.2827 (0.0837)
+F1 score: 0.0401 (0.0008)
+ROC AUC: 0.4924 (0.0228)
+-- Predicting Colon_Transverse with Brain_Putamen community 23
+Accuracy: 0.2802 (0.1227)
+F1 score: 0.0470 (0.0022)
+ROC AUC: 0.4831 (0.0132)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 23
+Accuracy: 0.2999 (0.0687)
+F1 score: 0.0418 (0.0003)
+ROC AUC: 0.4932 (0.0083)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 23
+Accuracy: 0.1725 (0.0816)
+F1 score: 0.0677 (0.0020)
+ROC AUC: 0.5073 (0.0048)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 23
+Accuracy: 0.3271 (0.0705)
+F1 score: 0.0572 (0.0024)
+ROC AUC: 0.4882 (0.0168)
+-- Predicting Heart_Atrial with Brain_Putamen community 23
+Accuracy: 0.3762 (0.0965)
+F1 score: 0.0427 (0.0018)
+ROC AUC: 0.4715 (0.0211)
+-- Predicting Heart_L_Vent with Brain_Putamen community 23
+Accuracy: 0.9795 (0.0147)
+F1 score: 0.7485 (0.1747)
+ROC AUC: 0.9897 (0.0076)
+-- Predicting Kidney_Cortex with Brain_Putamen community 23
+Accuracy: 0.3489 (0.1021)
+F1 score: 0.0092 (0.0005)
+ROC AUC: 0.4540 (0.0178)
+-- Predicting Liver with Brain_Putamen community 23
+Accuracy: 0.1959 (0.0563)
+F1 score: 0.0304 (0.0015)
+ROC AUC: 0.4890 (0.0109)
+-- Predicting Lung with Brain_Putamen community 23
+Accuracy: 0.2381 (0.1209)
+F1 score: 0.0661 (0.0018)
+ROC AUC: 0.5066 (0.0042)
+-- Predicting Minor_Salivary with Brain_Putamen community 23
+Accuracy: 0.4343 (0.0390)
+F1 score: 0.0158 (0.0008)
+ROC AUC: 0.4442 (0.0193)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 23
+Accuracy: 0.2148 (0.0686)
+F1 score: 0.0884 (0.0007)
+ROC AUC: 0.5143 (0.0134)
+-- Predicting Nerve_Tibial with Brain_Putamen community 23
+Accuracy: 0.1774 (0.0413)
+F1 score: 0.0706 (0.0018)
+ROC AUC: 0.5124 (0.0172)
+-- Predicting Ovary with Brain_Putamen community 23
+Accuracy: 0.4718 (0.0260)
+F1 score: 0.0181 (0.0017)
+ROC AUC: 0.4502 (0.0184)
+-- Predicting Pancreas with Brain_Putamen community 23
+Accuracy: 0.1913 (0.0673)
+F1 score: 0.0445 (0.0020)
+ROC AUC: 0.5001 (0.0035)
+-- Predicting Pituitary with Brain_Putamen community 23
+Accuracy: 0.3212 (0.0845)
+F1 score: 0.0301 (0.0004)
+ROC AUC: 0.4863 (0.0228)
+-- Predicting Prostate with Brain_Putamen community 23
+Accuracy: 0.2447 (0.0554)
+F1 score: 0.0292 (0.0026)
+ROC AUC: 0.4851 (0.0313)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 23
+Accuracy: 0.2952 (0.0828)
+F1 score: 0.0631 (0.0017)
+ROC AUC: 0.4724 (0.0101)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 23
+Accuracy: 0.2233 (0.1022)
+F1 score: 0.0800 (0.0005)
+ROC AUC: 0.5035 (0.0164)
+-- Predicting Small_Intestine with Brain_Putamen community 23
+Accuracy: 0.3643 (0.0404)
+F1 score: 0.0210 (0.0018)
+ROC AUC: 0.4504 (0.0185)
+-- Predicting Spleen with Brain_Putamen community 23
+Accuracy: 0.4229 (0.0647)
+F1 score: 0.0254 (0.0026)
+ROC AUC: 0.4612 (0.0132)
+-- Predicting Stomach with Brain_Putamen community 23
+Accuracy: 0.1817 (0.0233)
+F1 score: 0.0469 (0.0014)
+ROC AUC: 0.4923 (0.0257)
+-- Predicting Testis with Brain_Putamen community 23
+Accuracy: 0.3597 (0.1458)
+F1 score: 0.0400 (0.0016)
+ROC AUC: 0.5103 (0.0155)
+-- Predicting Thyroid with Brain_Putamen community 23
+Accuracy: 0.1983 (0.0498)
+F1 score: 0.0800 (0.0005)
+ROC AUC: 0.4909 (0.0160)
+-- Predicting Uterus with Brain_Putamen community 23
+Accuracy: 0.9626 (0.0311)
+F1 score: 0.4948 (0.3462)
+ROC AUC: 0.9806 (0.0163)
+-- Predicting Vagina with Brain_Putamen community 23
+Accuracy: 0.4189 (0.1197)
+F1 score: 0.0144 (0.0010)
+ROC AUC: 0.4433 (0.0122)
+-- Predicting Whole_Blood with Brain_Putamen community 23
+Accuracy: 0.2482 (0.1433)
+F1 score: 0.0859 (0.0048)
+ROC AUC: 0.5041 (0.0103)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 24
+Accuracy: 0.3529 (0.0886)
+F1 score: 0.0724 (0.0033)
+ROC AUC: 0.4794 (0.0009)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 24
+Accuracy: 0.4041 (0.1161)
+F1 score: 0.0527 (0.0041)
+ROC AUC: 0.4566 (0.0136)
+-- Predicting Adrenal_Gland with Brain_Putamen community 24
+Accuracy: 0.3788 (0.0323)
+F1 score: 0.0290 (0.0012)
+ROC AUC: 0.4764 (0.0150)
+-- Predicting Artery_Aorta with Brain_Putamen community 24
+Accuracy: 0.3971 (0.0730)
+F1 score: 0.0441 (0.0028)
+ROC AUC: 0.4551 (0.0124)
+-- Predicting Artery_Coronary with Brain_Putamen community 24
+Accuracy: 0.2308 (0.0596)
+F1 score: 0.0302 (0.0001)
+ROC AUC: 0.4755 (0.0133)
+-- Predicting Artery_Tibial with Brain_Putamen community 24
+Accuracy: 0.4035 (0.0280)
+F1 score: 0.0646 (0.0033)
+ROC AUC: 0.4536 (0.0114)
+-- Predicting Brain_Amygdala with Brain_Putamen community 24
+Accuracy: 0.4420 (0.0254)
+F1 score: 0.0142 (0.0003)
+ROC AUC: 0.4380 (0.0148)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 24
+Accuracy: 0.4820 (0.0737)
+F1 score: 0.0176 (0.0012)
+ROC AUC: 0.4613 (0.0047)
+-- Predicting Brain_Caudate with Brain_Putamen community 24
+Accuracy: 0.3829 (0.0255)
+F1 score: 0.0233 (0.0008)
+ROC AUC: 0.4527 (0.0119)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 24
+Accuracy: 0.6902 (0.0690)
+F1 score: 0.0239 (0.0017)
+ROC AUC: 0.4740 (0.0155)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 24
+Accuracy: 0.5456 (0.1402)
+F1 score: 0.0266 (0.0023)
+ROC AUC: 0.4483 (0.0126)
+-- Predicting Brain_Cortex with Brain_Putamen community 24
+Accuracy: 0.4927 (0.0501)
+F1 score: 0.0251 (0.0008)
+ROC AUC: 0.4638 (0.0118)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 24
+Accuracy: 0.3176 (0.0984)
+F1 score: 0.0208 (0.0023)
+ROC AUC: 0.4612 (0.0029)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 24
+Accuracy: 0.3744 (0.0657)
+F1 score: 0.0206 (0.0023)
+ROC AUC: 0.4641 (0.0144)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 24
+Accuracy: 0.3594 (0.0081)
+F1 score: 0.0215 (0.0020)
+ROC AUC: 0.4635 (0.0061)
+-- Predicting Brain_Nucleus with Brain_Putamen community 24
+Accuracy: 0.3187 (0.0808)
+F1 score: 0.0256 (0.0004)
+ROC AUC: 0.4701 (0.0120)
+-- Predicting Brain_Putamen with Brain_Putamen community 24
+Accuracy: 0.4281 (0.0769)
+F1 score: 0.0189 (0.0018)
+ROC AUC: 0.4523 (0.0152)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 24
+Accuracy: 0.3774 (0.1164)
+F1 score: 0.0151 (0.0019)
+ROC AUC: 0.4593 (0.0152)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 24
+Accuracy: 0.3829 (0.0692)
+F1 score: 0.0121 (0.0008)
+ROC AUC: 0.4234 (0.0122)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 24
+Accuracy: 0.4392 (0.0935)
+F1 score: 0.0441 (0.0053)
+ROC AUC: 0.4626 (0.0135)
+-- Predicting Cells_Cultured with Brain_Putamen community 24
+Accuracy: 0.8684 (0.0212)
+F1 score: 0.1194 (0.0141)
+ROC AUC: 0.4580 (0.0231)
+-- Predicting Cells_EBV with Brain_Putamen community 24
+Accuracy: 0.6450 (0.0573)
+F1 score: 0.0167 (0.0029)
+ROC AUC: 0.4362 (0.0177)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 24
+Accuracy: 0.4973 (0.1419)
+F1 score: 0.0370 (0.0036)
+ROC AUC: 0.4607 (0.0201)
+-- Predicting Colon_Transverse with Brain_Putamen community 24
+Accuracy: 0.4494 (0.1008)
+F1 score: 0.0439 (0.0025)
+ROC AUC: 0.4517 (0.0128)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 24
+Accuracy: 0.4128 (0.0882)
+F1 score: 0.0370 (0.0011)
+ROC AUC: 0.4548 (0.0191)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 24
+Accuracy: 0.4564 (0.0137)
+F1 score: 0.0547 (0.0028)
+ROC AUC: 0.4624 (0.0043)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 24
+Accuracy: 0.5077 (0.1052)
+F1 score: 0.0498 (0.0026)
+ROC AUC: 0.4508 (0.0042)
+-- Predicting Heart_Atrial with Brain_Putamen community 24
+Accuracy: 0.4805 (0.1691)
+F1 score: 0.0430 (0.0011)
+ROC AUC: 0.4841 (0.0164)
+-- Predicting Heart_L_Vent with Brain_Putamen community 24
+Accuracy: 0.5121 (0.0830)
+F1 score: 0.0420 (0.0009)
+ROC AUC: 0.4568 (0.0096)
+-- Predicting Kidney_Cortex with Brain_Putamen community 24
+Accuracy: 0.4454 (0.0942)
+F1 score: 0.0073 (0.0002)
+ROC AUC: 0.4199 (0.0201)
+-- Predicting Liver with Brain_Putamen community 24
+Accuracy: 0.4605 (0.1054)
+F1 score: 0.0252 (0.0017)
+ROC AUC: 0.4638 (0.0008)
+-- Predicting Lung with Brain_Putamen community 24
+Accuracy: 0.3942 (0.0541)
+F1 score: 0.0604 (0.0003)
+ROC AUC: 0.4689 (0.0053)
+-- Predicting Minor_Salivary with Brain_Putamen community 24
+Accuracy: 0.3833 (0.1916)
+F1 score: 0.0146 (0.0031)
+ROC AUC: 0.4216 (0.0232)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 24
+Accuracy: 0.4347 (0.0454)
+F1 score: 0.0807 (0.0002)
+ROC AUC: 0.4743 (0.0057)
+-- Predicting Nerve_Tibial with Brain_Putamen community 24
+Accuracy: 0.4302 (0.0571)
+F1 score: 0.0594 (0.0040)
+ROC AUC: 0.4663 (0.0112)
+-- Predicting Ovary with Brain_Putamen community 24
+Accuracy: 0.4604 (0.0111)
+F1 score: 0.0196 (0.0007)
+ROC AUC: 0.4526 (0.0180)
+-- Predicting Pancreas with Brain_Putamen community 24
+Accuracy: 0.4225 (0.0666)
+F1 score: 0.0347 (0.0022)
+ROC AUC: 0.4527 (0.0086)
+-- Predicting Pituitary with Brain_Putamen community 24
+Accuracy: 0.4720 (0.0667)
+F1 score: 0.0259 (0.0019)
+ROC AUC: 0.4394 (0.0201)
+-- Predicting Prostate with Brain_Putamen community 24
+Accuracy: 0.5567 (0.0480)
+F1 score: 0.0269 (0.0018)
+ROC AUC: 0.4687 (0.0094)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 24
+Accuracy: 0.5230 (0.0284)
+F1 score: 0.0524 (0.0059)
+ROC AUC: 0.4532 (0.0184)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 24
+Accuracy: 0.4296 (0.0411)
+F1 score: 0.0668 (0.0041)
+ROC AUC: 0.4717 (0.0087)
+-- Predicting Small_Intestine with Brain_Putamen community 24
+Accuracy: 0.5285 (0.0741)
+F1 score: 0.0179 (0.0011)
+ROC AUC: 0.4284 (0.0037)
+-- Predicting Spleen with Brain_Putamen community 24
+Accuracy: 0.3318 (0.0778)
+F1 score: 0.0297 (0.0011)
+ROC AUC: 0.4750 (0.0037)
+-- Predicting Stomach with Brain_Putamen community 24
+Accuracy: 0.5974 (0.2810)
+F1 score: 0.0431 (0.0079)
+ROC AUC: 0.4881 (0.0070)
+-- Predicting Testis with Brain_Putamen community 24
+Accuracy: 0.4841 (0.1191)
+F1 score: 0.0360 (0.0030)
+ROC AUC: 0.4693 (0.0082)
+-- Predicting Thyroid with Brain_Putamen community 24
+Accuracy: 0.3735 (0.1309)
+F1 score: 0.0660 (0.0040)
+ROC AUC: 0.4718 (0.0065)
+-- Predicting Uterus with Brain_Putamen community 24
+Accuracy: 0.5066 (0.1289)
+F1 score: 0.0148 (0.0011)
+ROC AUC: 0.4283 (0.0138)
+-- Predicting Vagina with Brain_Putamen community 24
+Accuracy: 0.5309 (0.0395)
+F1 score: 0.0137 (0.0018)
+ROC AUC: 0.4203 (0.0275)
+-- Predicting Whole_Blood with Brain_Putamen community 24
+Accuracy: 0.3613 (0.0573)
+F1 score: 0.0829 (0.0023)
+ROC AUC: 0.4817 (0.0005)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 25
+Accuracy: 0.4824 (0.0247)
+F1 score: 0.0628 (0.0032)
+ROC AUC: 0.4523 (0.0120)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 25
+Accuracy: 0.5658 (0.0088)
+F1 score: 0.0465 (0.0034)
+ROC AUC: 0.4414 (0.0176)
+-- Predicting Adrenal_Gland with Brain_Putamen community 25
+Accuracy: 0.5657 (0.0464)
+F1 score: 0.0232 (0.0017)
+ROC AUC: 0.4238 (0.0108)
+-- Predicting Artery_Aorta with Brain_Putamen community 25
+Accuracy: 0.5076 (0.0082)
+F1 score: 0.0420 (0.0017)
+ROC AUC: 0.4380 (0.0174)
+-- Predicting Artery_Coronary with Brain_Putamen community 25
+Accuracy: 0.5507 (0.0082)
+F1 score: 0.0228 (0.0032)
+ROC AUC: 0.4358 (0.0034)
+-- Predicting Artery_Tibial with Brain_Putamen community 25
+Accuracy: 0.4633 (0.0177)
+F1 score: 0.0618 (0.0040)
+ROC AUC: 0.4430 (0.0076)
+-- Predicting Brain_Amygdala with Brain_Putamen community 25
+Accuracy: 0.4773 (0.0530)
+F1 score: 0.0127 (0.0019)
+ROC AUC: 0.4098 (0.0367)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 25
+Accuracy: 0.4836 (0.0454)
+F1 score: 0.0139 (0.0018)
+ROC AUC: 0.4025 (0.0187)
+-- Predicting Brain_Caudate with Brain_Putamen community 25
+Accuracy: 0.5128 (0.0731)
+F1 score: 0.0219 (0.0016)
+ROC AUC: 0.4301 (0.0214)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 25
+Accuracy: 0.4910 (0.0305)
+F1 score: 0.0190 (0.0020)
+ROC AUC: 0.4383 (0.0060)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 25
+Accuracy: 0.5296 (0.0438)
+F1 score: 0.0214 (0.0010)
+ROC AUC: 0.4317 (0.0065)
+-- Predicting Brain_Cortex with Brain_Putamen community 25
+Accuracy: 0.4919 (0.0482)
+F1 score: 0.0196 (0.0024)
+ROC AUC: 0.4155 (0.0402)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 25
+Accuracy: 0.5679 (0.0332)
+F1 score: 0.0159 (0.0028)
+ROC AUC: 0.4049 (0.0192)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 25
+Accuracy: 0.5367 (0.0330)
+F1 score: 0.0173 (0.0013)
+ROC AUC: 0.4467 (0.0057)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 25
+Accuracy: 0.4808 (0.0373)
+F1 score: 0.0168 (0.0015)
+ROC AUC: 0.4252 (0.0104)
+-- Predicting Brain_Nucleus with Brain_Putamen community 25
+Accuracy: 0.4817 (0.0405)
+F1 score: 0.0202 (0.0026)
+ROC AUC: 0.4203 (0.0215)
+-- Predicting Brain_Putamen with Brain_Putamen community 25
+Accuracy: 0.4941 (0.0364)
+F1 score: 0.0153 (0.0012)
+ROC AUC: 0.4100 (0.0143)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 25
+Accuracy: 0.4360 (0.0069)
+F1 score: 0.0134 (0.0010)
+ROC AUC: 0.4097 (0.0015)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 25
+Accuracy: 0.5204 (0.0308)
+F1 score: 0.0129 (0.0012)
+ROC AUC: 0.4493 (0.0184)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 25
+Accuracy: 0.4633 (0.0369)
+F1 score: 0.0450 (0.0006)
+ROC AUC: 0.4493 (0.0062)
+-- Predicting Cells_Cultured with Brain_Putamen community 25
+Accuracy: 0.4419 (0.0298)
+F1 score: 0.0532 (0.0006)
+ROC AUC: 0.4608 (0.0008)
+-- Predicting Cells_EBV with Brain_Putamen community 25
+Accuracy: 0.5712 (0.0520)
+F1 score: 0.0121 (0.0015)
+ROC AUC: 0.3919 (0.0224)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 25
+Accuracy: 0.5013 (0.0438)
+F1 score: 0.0342 (0.0023)
+ROC AUC: 0.4479 (0.0154)
+-- Predicting Colon_Transverse with Brain_Putamen community 25
+Accuracy: 0.5107 (0.0307)
+F1 score: 0.0381 (0.0015)
+ROC AUC: 0.4350 (0.0140)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 25
+Accuracy: 0.4488 (0.0463)
+F1 score: 0.0365 (0.0008)
+ROC AUC: 0.4450 (0.0072)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 25
+Accuracy: 0.5095 (0.0486)
+F1 score: 0.0501 (0.0063)
+ROC AUC: 0.4314 (0.0243)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 25
+Accuracy: 0.4752 (0.0436)
+F1 score: 0.0516 (0.0009)
+ROC AUC: 0.4638 (0.0049)
+-- Predicting Heart_Atrial with Brain_Putamen community 25
+Accuracy: 0.5396 (0.0234)
+F1 score: 0.0370 (0.0047)
+ROC AUC: 0.4317 (0.0255)
+-- Predicting Heart_L_Vent with Brain_Putamen community 25
+Accuracy: 0.4631 (0.0330)
+F1 score: 0.0405 (0.0008)
+ROC AUC: 0.4471 (0.0084)
+-- Predicting Kidney_Cortex with Brain_Putamen community 25
+Accuracy: 0.5225 (0.0389)
+F1 score: 0.0065 (0.0020)
+ROC AUC: 0.3933 (0.0442)
+-- Predicting Liver with Brain_Putamen community 25
+Accuracy: 0.5295 (0.0129)
+F1 score: 0.0198 (0.0028)
+ROC AUC: 0.4146 (0.0099)
+-- Predicting Lung with Brain_Putamen community 25
+Accuracy: 0.5471 (0.0386)
+F1 score: 0.0532 (0.0021)
+ROC AUC: 0.4488 (0.0019)
+-- Predicting Minor_Salivary with Brain_Putamen community 25
+Accuracy: 0.5248 (0.0165)
+F1 score: 0.0147 (0.0005)
+ROC AUC: 0.4069 (0.0172)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 25
+Accuracy: 0.4455 (0.0332)
+F1 score: 0.0761 (0.0031)
+ROC AUC: 0.4500 (0.0031)
+-- Predicting Nerve_Tibial with Brain_Putamen community 25
+Accuracy: 0.5085 (0.0797)
+F1 score: 0.0577 (0.0038)
+ROC AUC: 0.4639 (0.0046)
+-- Predicting Ovary with Brain_Putamen community 25
+Accuracy: 0.5525 (0.0496)
+F1 score: 0.0216 (0.0010)
+ROC AUC: 0.4409 (0.0052)
+-- Predicting Pancreas with Brain_Putamen community 25
+Accuracy: 0.4931 (0.0062)
+F1 score: 0.0350 (0.0029)
+ROC AUC: 0.4465 (0.0128)
+-- Predicting Pituitary with Brain_Putamen community 25
+Accuracy: 0.4790 (0.0467)
+F1 score: 0.0251 (0.0012)
+ROC AUC: 0.4246 (0.0146)
+-- Predicting Prostate with Brain_Putamen community 25
+Accuracy: 0.5255 (0.0485)
+F1 score: 0.0206 (0.0032)
+ROC AUC: 0.4182 (0.0127)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 25
+Accuracy: 0.4372 (0.0485)
+F1 score: 0.0583 (0.0027)
+ROC AUC: 0.4623 (0.0060)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 25
+Accuracy: 0.4752 (0.0501)
+F1 score: 0.0657 (0.0042)
+ROC AUC: 0.4568 (0.0095)
+-- Predicting Small_Intestine with Brain_Putamen community 25
+Accuracy: 0.4726 (0.0950)
+F1 score: 0.0168 (0.0036)
+ROC AUC: 0.3984 (0.0346)
+-- Predicting Spleen with Brain_Putamen community 25
+Accuracy: 0.5569 (0.0228)
+F1 score: 0.0232 (0.0006)
+ROC AUC: 0.4115 (0.0106)
+-- Predicting Stomach with Brain_Putamen community 25
+Accuracy: 0.4854 (0.0533)
+F1 score: 0.0362 (0.0027)
+ROC AUC: 0.4367 (0.0226)
+-- Predicting Testis with Brain_Putamen community 25
+Accuracy: 0.4932 (0.0666)
+F1 score: 0.0333 (0.0015)
+ROC AUC: 0.4377 (0.0113)
+-- Predicting Thyroid with Brain_Putamen community 25
+Accuracy: 0.4900 (0.0390)
+F1 score: 0.0601 (0.0036)
+ROC AUC: 0.4465 (0.0105)
+-- Predicting Uterus with Brain_Putamen community 25
+Accuracy: 0.5288 (0.0238)
+F1 score: 0.0123 (0.0021)
+ROC AUC: 0.3850 (0.0259)
+-- Predicting Vagina with Brain_Putamen community 25
+Accuracy: 0.5385 (0.0300)
+F1 score: 0.0123 (0.0018)
+ROC AUC: 0.3830 (0.0393)
+-- Predicting Whole_Blood with Brain_Putamen community 25
+Accuracy: 0.4509 (0.0458)
+F1 score: 0.0688 (0.0022)
+ROC AUC: 0.4501 (0.0054)
+-- Predicting Adipose_Subcutaneous with Brain_Putamen community 26
+Accuracy: 0.5011 (0.0440)
+F1 score: 0.0626 (0.0040)
+ROC AUC: 0.4541 (0.0034)
+-- Predicting Adipose_Visceral_Omentum with Brain_Putamen community 26
+Accuracy: 0.4483 (0.0546)
+F1 score: 0.0472 (0.0066)
+ROC AUC: 0.4296 (0.0159)
+-- Predicting Adrenal_Gland with Brain_Putamen community 26
+Accuracy: 0.5573 (0.0033)
+F1 score: 0.0244 (0.0014)
+ROC AUC: 0.4239 (0.0118)
+-- Predicting Artery_Aorta with Brain_Putamen community 26
+Accuracy: 0.5313 (0.0280)
+F1 score: 0.0379 (0.0048)
+ROC AUC: 0.4145 (0.0226)
+-- Predicting Artery_Coronary with Brain_Putamen community 26
+Accuracy: 0.4843 (0.0309)
+F1 score: 0.0200 (0.0006)
+ROC AUC: 0.4112 (0.0055)
+-- Predicting Artery_Tibial with Brain_Putamen community 26
+Accuracy: 0.4612 (0.0041)
+F1 score: 0.0582 (0.0022)
+ROC AUC: 0.4247 (0.0025)
+-- Predicting Brain_Amygdala with Brain_Putamen community 26
+Accuracy: 0.4565 (0.0325)
+F1 score: 0.0148 (0.0007)
+ROC AUC: 0.4299 (0.0138)
+-- Predicting Brain_Anterior_cingulate with Brain_Putamen community 26
+Accuracy: 0.4910 (0.0810)
+F1 score: 0.0114 (0.0022)
+ROC AUC: 0.3553 (0.0189)
+-- Predicting Brain_Caudate with Brain_Putamen community 26
+Accuracy: 0.5242 (0.0249)
+F1 score: 0.0138 (0.0028)
+ROC AUC: 0.3472 (0.0172)
+-- Predicting Brain_Cerebellar with Brain_Putamen community 26
+Accuracy: 0.4714 (0.0404)
+F1 score: 0.0167 (0.0020)
+ROC AUC: 0.4036 (0.0193)
+-- Predicting Brain_Cerebellum with Brain_Putamen community 26
+Accuracy: 0.5742 (0.0153)
+F1 score: 0.0188 (0.0013)
+ROC AUC: 0.3978 (0.0138)
+-- Predicting Brain_Cortex with Brain_Putamen community 26
+Accuracy: 0.5756 (0.0458)
+F1 score: 0.0192 (0.0017)
+ROC AUC: 0.3840 (0.0059)
+-- Predicting Brain_Frontal_Cortex with Brain_Putamen community 26
+Accuracy: 0.5086 (0.0530)
+F1 score: 0.0144 (0.0011)
+ROC AUC: 0.3740 (0.0054)
+-- Predicting Brain_Hippocampus with Brain_Putamen community 26
+Accuracy: 0.4250 (0.0227)
+F1 score: 0.0155 (0.0004)
+ROC AUC: 0.4015 (0.0179)
+-- Predicting Brain_Hypothalamus with Brain_Putamen community 26
+Accuracy: 0.5212 (0.0355)
+F1 score: 0.0160 (0.0019)
+ROC AUC: 0.3823 (0.0261)
+-- Predicting Brain_Nucleus with Brain_Putamen community 26
+Accuracy: 0.4939 (0.0237)
+F1 score: 0.0158 (0.0018)
+ROC AUC: 0.3836 (0.0192)
+-- Predicting Brain_Putamen with Brain_Putamen community 26
+Accuracy: 0.5114 (0.1073)
+F1 score: 0.0173 (0.0025)
+ROC AUC: 0.3929 (0.0172)
+-- Predicting Brain_Spinal_cord with Brain_Putamen community 26
+Accuracy: 0.4694 (0.0190)
+F1 score: 0.0122 (0.0018)
+ROC AUC: 0.3992 (0.0178)
+-- Predicting Brain_Substantia_nigra with Brain_Putamen community 26
+Accuracy: 0.5198 (0.0148)
+F1 score: 0.0087 (0.0019)
+ROC AUC: 0.3607 (0.0274)
+-- Predicting Breast_Mammary_Tissue with Brain_Putamen community 26
+Accuracy: 0.4802 (0.0282)
+F1 score: 0.0408 (0.0031)
+ROC AUC: 0.4304 (0.0063)
+-- Predicting Cells_Cultured with Brain_Putamen community 26
+Accuracy: 0.4916 (0.0206)
+F1 score: 0.0476 (0.0006)
+ROC AUC: 0.4183 (0.0067)
+-- Predicting Cells_EBV with Brain_Putamen community 26
+Accuracy: 0.6551 (0.0363)
+F1 score: 0.0174 (0.0019)
+ROC AUC: 0.4003 (0.0252)
+-- Predicting Colon_Sigmoid with Brain_Putamen community 26
+Accuracy: 0.5131 (0.0186)
+F1 score: 0.0297 (0.0026)
+ROC AUC: 0.4098 (0.0156)
+-- Predicting Colon_Transverse with Brain_Putamen community 26
+Accuracy: 0.5154 (0.0432)
+F1 score: 0.0343 (0.0029)
+ROC AUC: 0.4227 (0.0098)
+-- Predicting Esophagus_Gastro with Brain_Putamen community 26
+Accuracy: 0.5467 (0.0410)
+F1 score: 0.0338 (0.0014)
+ROC AUC: 0.4123 (0.0150)
+-- Predicting Esophagus_Mucosa with Brain_Putamen community 26
+Accuracy: 0.5042 (0.0373)
+F1 score: 0.0463 (0.0038)
+ROC AUC: 0.4118 (0.0048)
+-- Predicting Esophagus_Muscularis with Brain_Putamen community 26
+Accuracy: 0.5056 (0.0690)
+F1 score: 0.0457 (0.0054)
+ROC AUC: 0.4233 (0.0133)
+-- Predicting Heart_Atrial with Brain_Putamen community 26
+Accuracy: 0.4972 (0.0041)
+F1 score: 0.0329 (0.0048)
+ROC AUC: 0.4024 (0.0167)
+-- Predicting Heart_L_Vent with Brain_Putamen community 26
+Accuracy: 0.5034 (0.0451)
+F1 score: 0.0352 (0.0008)
+ROC AUC: 0.4115 (0.0083)
+-- Predicting Kidney_Cortex with Brain_Putamen community 26
+Accuracy: 0.5876 (0.0325)
+F1 score: 0.0060 (0.0004)
+ROC AUC: 0.3712 (0.0215)
+-- Predicting Liver with Brain_Putamen community 26
+Accuracy: 0.5539 (0.0512)
+F1 score: 0.0172 (0.0013)
+ROC AUC: 0.3667 (0.0118)
+-- Predicting Lung with Brain_Putamen community 26
+Accuracy: 0.5077 (0.0236)
+F1 score: 0.0487 (0.0029)
+ROC AUC: 0.4150 (0.0095)
+-- Predicting Minor_Salivary with Brain_Putamen community 26
+Accuracy: 0.5827 (0.0585)
+F1 score: 0.0100 (0.0024)
+ROC AUC: 0.3474 (0.0251)
+-- Predicting Muscle_Skeletal with Brain_Putamen community 26
+Accuracy: 0.4851 (0.0353)
+F1 score: 0.0622 (0.0057)
+ROC AUC: 0.4263 (0.0140)
+-- Predicting Nerve_Tibial with Brain_Putamen community 26
+Accuracy: 0.4704 (0.0401)
+F1 score: 0.0549 (0.0005)
+ROC AUC: 0.4337 (0.0039)
+-- Predicting Ovary with Brain_Putamen community 26
+Accuracy: 0.6147 (0.0271)
+F1 score: 0.0147 (0.0011)
+ROC AUC: 0.3716 (0.0200)
+-- Predicting Pancreas with Brain_Putamen community 26
+Accuracy: 0.5490 (0.0401)
+F1 score: 0.0294 (0.0032)
+ROC AUC: 0.4164 (0.0204)
+-- Predicting Pituitary with Brain_Putamen community 26
+Accuracy: 0.5590 (0.0220)
+F1 score: 0.0208 (0.0012)
+ROC AUC: 0.3794 (0.0199)
+-- Predicting Prostate with Brain_Putamen community 26
+Accuracy: 0.5527 (0.0316)
+F1 score: 0.0191 (0.0022)
+ROC AUC: 0.3768 (0.0145)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Putamen community 26
+Accuracy: 0.5135 (0.0242)
+F1 score: 0.0477 (0.0036)
+ROC AUC: 0.4113 (0.0121)
+-- Predicting Skin_Sun_Epsd with Brain_Putamen community 26
+Accuracy: 0.5169 (0.0348)
+F1 score: 0.0510 (0.0019)
+ROC AUC: 0.4028 (0.0033)
+-- Predicting Small_Intestine with Brain_Putamen community 26
+Accuracy: 0.5140 (0.0126)
+F1 score: 0.0162 (0.0007)
+ROC AUC: 0.3895 (0.0082)
+-- Predicting Spleen with Brain_Putamen community 26
+Accuracy: 0.4961 (0.0168)
+F1 score: 0.0186 (0.0015)
+ROC AUC: 0.3955 (0.0079)
+-- Predicting Stomach with Brain_Putamen community 26
+Accuracy: 0.5264 (0.0369)
+F1 score: 0.0344 (0.0006)
+ROC AUC: 0.4292 (0.0147)
+-- Predicting Testis with Brain_Putamen community 26
+Accuracy: 0.5625 (0.0523)
+F1 score: 0.0271 (0.0035)
+ROC AUC: 0.3745 (0.0303)
+-- Predicting Thyroid with Brain_Putamen community 26
+Accuracy: 0.4829 (0.0080)
+F1 score: 0.0559 (0.0022)
+ROC AUC: 0.4255 (0.0059)
+-- Predicting Uterus with Brain_Putamen community 26
+Accuracy: 0.5187 (0.0281)
+F1 score: 0.0107 (0.0027)
+ROC AUC: 0.3568 (0.0265)
+-- Predicting Vagina with Brain_Putamen community 26
+Accuracy: 0.5473 (0.0205)
+F1 score: 0.0109 (0.0009)
+ROC AUC: 0.3552 (0.0147)
+-- Predicting Whole_Blood with Brain_Putamen community 26
+Accuracy: 0.4827 (0.0010)
+F1 score: 0.0667 (0.0027)
+ROC AUC: 0.4300 (0.0105)

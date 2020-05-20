@@ -1,0 +1,1032 @@
+----- FINAL SUMMARY -----
+Adipose_Subcutaneous
+q1 = 0.8641563091179074
+q1 = 0.8641563091179074
+Number of communitites: 15854
+Communitites of size 1: 15770
+Communitites of size 2: 57
+Communitites of size 3: 12
+Communitites of size 4: 3
+Communitites of size 5: 3
+Communitites of size 6: 2
+Communitites of size 8: 1
+Communitites of size 9: 1
+Communitites of size 10: 3
+Communitites of size 12: 1
+Communitites of size 18: 1
+Adipose_Visceral_Omentum
+q1 = 0.8405637748180665
+q1 = 0.8405637748180665
+Number of communitites: 15821
+Communitites of size 1: 15730
+Communitites of size 2: 53
+Communitites of size 3: 9
+Communitites of size 4: 7
+Communitites of size 5: 5
+Communitites of size 6: 3
+Communitites of size 7: 2
+Communitites of size 8: 4
+Communitites of size 9: 2
+Communitites of size 10: 2
+Communitites of size 11: 1
+Communitites of size 19: 1
+Communitites of size 25: 1
+Communitites of size 26: 1
+Adrenal_Gland
+q1 = 0.9251052963518349
+q1 = 0.9251052963518349
+Number of communitites: 15385
+Communitites of size 1: 15260
+Communitites of size 2: 81
+Communitites of size 3: 12
+Communitites of size 4: 5
+Communitites of size 5: 4
+Communitites of size 6: 2
+Communitites of size 7: 3
+Communitites of size 8: 1
+Communitites of size 9: 1
+Communitites of size 10: 2
+Communitites of size 11: 2
+Communitites of size 12: 1
+Communitites of size 13: 2
+Communitites of size 16: 1
+Communitites of size 17: 2
+Communitites of size 18: 2
+Communitites of size 20: 2
+Communitites of size 22: 1
+Communitites of size 65: 1
+Artery_Aorta
+q1 = 0.8967124263873316
+q1 = 0.8967124263873316
+Number of communitites: 15563
+Communitites of size 1: 15463
+Communitites of size 2: 61
+Communitites of size 3: 12
+Communitites of size 4: 7
+Communitites of size 5: 2
+Communitites of size 6: 2
+Communitites of size 8: 3
+Communitites of size 9: 1
+Communitites of size 10: 4
+Communitites of size 11: 1
+Communitites of size 12: 2
+Communitites of size 13: 1
+Communitites of size 15: 1
+Communitites of size 21: 1
+Communitites of size 22: 1
+Communitites of size 23: 1
+Artery_Coronary
+q1 = 0.8932925820585812
+q1 = 0.8932925820585812
+Number of communitites: 15602
+Communitites of size 1: 15490
+Communitites of size 2: 69
+Communitites of size 3: 11
+Communitites of size 4: 7
+Communitites of size 5: 5
+Communitites of size 6: 1
+Communitites of size 7: 2
+Communitites of size 8: 2
+Communitites of size 9: 1
+Communitites of size 14: 4
+Communitites of size 16: 1
+Communitites of size 18: 1
+Communitites of size 20: 1
+Communitites of size 23: 2
+Communitites of size 24: 2
+Communitites of size 26: 1
+Communitites of size 27: 1
+Communitites of size 66: 1
+Artery_Tibial
+q1 = 0.8544572165550728
+q1 = 0.8544572165550728
+Number of communitites: 15480
+Communitites of size 1: 15402
+Communitites of size 2: 50
+Communitites of size 3: 8
+Communitites of size 4: 5
+Communitites of size 5: 5
+Communitites of size 6: 2
+Communitites of size 7: 1
+Communitites of size 9: 2
+Communitites of size 10: 1
+Communitites of size 14: 1
+Communitites of size 15: 1
+Communitites of size 21: 1
+Communitites of size 24: 1
+Brain_Amygdala
+q1 = 0.795110910053162
+q1 = 0.795110910053162
+Number of communitites: 15532
+Communitites of size 1: 15430
+Communitites of size 2: 54
+Communitites of size 3: 17
+Communitites of size 4: 3
+Communitites of size 5: 3
+Communitites of size 6: 5
+Communitites of size 7: 4
+Communitites of size 8: 1
+Communitites of size 9: 1
+Communitites of size 10: 1
+Communitites of size 15: 1
+Communitites of size 18: 2
+Communitites of size 19: 1
+Communitites of size 21: 2
+Communitites of size 30: 1
+Communitites of size 36: 2
+Communitites of size 38: 1
+Communitites of size 62: 1
+Communitites of size 71: 1
+Communitites of size 84: 1
+Brain_Anterior_cingulate
+q1 = 0.8915893395608787
+q1 = 0.8915893395608787
+Number of communitites: 15595
+Communitites of size 1: 15499
+Communitites of size 2: 52
+Communitites of size 3: 15
+Communitites of size 4: 3
+Communitites of size 5: 2
+Communitites of size 6: 2
+Communitites of size 7: 2
+Communitites of size 8: 1
+Communitites of size 9: 1
+Communitites of size 10: 3
+Communitites of size 11: 1
+Communitites of size 12: 3
+Communitites of size 13: 1
+Communitites of size 17: 1
+Communitites of size 18: 1
+Communitites of size 19: 2
+Communitites of size 23: 1
+Communitites of size 43: 1
+Communitites of size 48: 1
+Communitites of size 49: 1
+Communitites of size 61: 1
+Communitites of size 65: 1
+Brain_Caudate
+q1 = 0.9091354590496126
+q1 = 0.9091354590496126
+Number of communitites: 15837
+Communitites of size 1: 15748
+Communitites of size 2: 47
+Communitites of size 3: 10
+Communitites of size 4: 10
+Communitites of size 5: 3
+Communitites of size 6: 1
+Communitites of size 7: 3
+Communitites of size 8: 3
+Communitites of size 11: 1
+Communitites of size 12: 2
+Communitites of size 15: 2
+Communitites of size 16: 1
+Communitites of size 17: 1
+Communitites of size 20: 1
+Communitites of size 21: 1
+Communitites of size 25: 1
+Communitites of size 28: 1
+Communitites of size 55: 1
+Brain_Cerebellar
+q1 = 0.9323546625077131
+q1 = 0.9323546625077131
+Number of communitites: 15538
+Communitites of size 1: 15402
+Communitites of size 2: 89
+Communitites of size 3: 17
+Communitites of size 4: 5
+Communitites of size 5: 5
+Communitites of size 7: 1
+Communitites of size 8: 2
+Communitites of size 9: 1
+Communitites of size 10: 1
+Communitites of size 12: 1
+Communitites of size 13: 1
+Communitites of size 14: 1
+Communitites of size 16: 3
+Communitites of size 17: 1
+Communitites of size 23: 1
+Communitites of size 24: 1
+Communitites of size 25: 1
+Communitites of size 26: 1
+Communitites of size 33: 1
+Communitites of size 34: 1
+Communitites of size 48: 1
+Communitites of size 51: 1
+Brain_Cerebellum
+q1 = 0.9015993482193312
+q1 = 0.9015993482193312
+Number of communitites: 15826
+Communitites of size 1: 15713
+Communitites of size 2: 69
+Communitites of size 3: 19
+Communitites of size 4: 3
+Communitites of size 5: 3
+Communitites of size 6: 1
+Communitites of size 7: 2
+Communitites of size 8: 3
+Communitites of size 9: 1
+Communitites of size 11: 1
+Communitites of size 12: 1
+Communitites of size 13: 1
+Communitites of size 14: 1
+Communitites of size 15: 2
+Communitites of size 16: 1
+Communitites of size 19: 2
+Communitites of size 24: 1
+Communitites of size 26: 1
+Communitites of size 30: 1
+Brain_Cortex
+q1 = 0.8479041145261441
+q1 = 0.8479041145261441
+Number of communitites: 15856
+Communitites of size 1: 15765
+Communitites of size 2: 51
+Communitites of size 3: 9
+Communitites of size 4: 8
+Communitites of size 5: 3
+Communitites of size 6: 1
+Communitites of size 7: 1
+Communitites of size 8: 1
+Communitites of size 9: 2
+Communitites of size 10: 3
+Communitites of size 11: 2
+Communitites of size 12: 1
+Communitites of size 18: 2
+Communitites of size 19: 1
+Communitites of size 20: 2
+Communitites of size 23: 1
+Communitites of size 26: 1
+Communitites of size 37: 1
+Communitites of size 63: 1
+Brain_Frontal_Cortex
+q1 = 0.9124632849080869
+q1 = 0.9124632849080869
+Number of communitites: 15727
+Communitites of size 1: 15638
+Communitites of size 2: 47
+Communitites of size 3: 11
+Communitites of size 4: 5
+Communitites of size 5: 4
+Communitites of size 6: 1
+Communitites of size 7: 2
+Communitites of size 8: 3
+Communitites of size 9: 1
+Communitites of size 13: 1
+Communitites of size 14: 1
+Communitites of size 16: 1
+Communitites of size 17: 1
+Communitites of size 18: 2
+Communitites of size 22: 1
+Communitites of size 23: 2
+Communitites of size 24: 2
+Communitites of size 33: 1
+Communitites of size 44: 1
+Communitites of size 46: 1
+Communitites of size 50: 1
+Brain_Hippocampus
+q1 = 0.8907861008819369
+q1 = 0.8907861008819369
+Number of communitites: 15745
+Communitites of size 1: 15642
+Communitites of size 2: 57
+Communitites of size 3: 10
+Communitites of size 4: 5
+Communitites of size 5: 6
+Communitites of size 6: 5
+Communitites of size 7: 1
+Communitites of size 8: 2
+Communitites of size 9: 2
+Communitites of size 10: 2
+Communitites of size 11: 1
+Communitites of size 12: 2
+Communitites of size 15: 2
+Communitites of size 16: 1
+Communitites of size 17: 1
+Communitites of size 23: 2
+Communitites of size 26: 1
+Communitites of size 28: 1
+Communitites of size 66: 1
+Communitites of size 67: 1
+Brain_Hypothalamus
+q1 = 0.887674280024396
+q1 = 0.887674280024396
+Number of communitites: 15979
+Communitites of size 1: 15885
+Communitites of size 2: 51
+Communitites of size 3: 15
+Communitites of size 4: 5
+Communitites of size 5: 4
+Communitites of size 6: 1
+Communitites of size 7: 2
+Communitites of size 8: 1
+Communitites of size 9: 2
+Communitites of size 10: 1
+Communitites of size 15: 3
+Communitites of size 17: 1
+Communitites of size 21: 1
+Communitites of size 23: 2
+Communitites of size 25: 1
+Communitites of size 28: 1
+Communitites of size 29: 1
+Communitites of size 61: 1
+Communitites of size 70: 1
+Brain_Nucleus
+q1 = 0.9133687111818116
+q1 = 0.9133687111818114
+Number of communitites: 15811
+Communitites of size 1: 15725
+Communitites of size 2: 46
+Communitites of size 3: 17
+Communitites of size 4: 3
+Communitites of size 6: 2
+Communitites of size 7: 1
+Communitites of size 8: 2
+Communitites of size 10: 2
+Communitites of size 11: 1
+Communitites of size 12: 2
+Communitites of size 13: 1
+Communitites of size 14: 1
+Communitites of size 15: 1
+Communitites of size 17: 1
+Communitites of size 20: 1
+Communitites of size 22: 1
+Communitites of size 26: 1
+Communitites of size 31: 1
+Communitites of size 32: 1
+Communitites of size 56: 1
+Brain_Putamen
+q1 = 0.8494158295983693
+q1 = 0.8494158295983694
+Number of communitites: 15566
+Communitites of size 1: 15470
+Communitites of size 2: 56
+Communitites of size 3: 14
+Communitites of size 4: 3
+Communitites of size 5: 2
+Communitites of size 6: 1
+Communitites of size 7: 4
+Communitites of size 8: 3
+Communitites of size 9: 1
+Communitites of size 10: 1
+Communitites of size 11: 1
+Communitites of size 12: 1
+Communitites of size 16: 1
+Communitites of size 21: 2
+Communitites of size 22: 1
+Communitites of size 23: 1
+Communitites of size 27: 1
+Communitites of size 29: 1
+Communitites of size 35: 1
+Communitites of size 68: 1
+Brain_Spinal_cord
+q1 = 0.8718639988451449
+q1 = 0.8718639988451449
+Number of communitites: 15679
+Communitites of size 1: 15550
+Communitites of size 2: 79
+Communitites of size 3: 14
+Communitites of size 4: 5
+Communitites of size 5: 8
+Communitites of size 6: 3
+Communitites of size 7: 2
+Communitites of size 8: 2
+Communitites of size 9: 1
+Communitites of size 10: 1
+Communitites of size 15: 2
+Communitites of size 19: 1
+Communitites of size 20: 3
+Communitites of size 24: 1
+Communitites of size 30: 1
+Communitites of size 33: 4
+Communitites of size 80: 1
+Communitites of size 103: 1
+Brain_Substantia_nigra
+q1 = 0.8881408080285181
+q1 = 0.8881408080285182
+Number of communitites: 15380
+Communitites of size 1: 15241
+Communitites of size 2: 80
+Communitites of size 3: 19
+Communitites of size 4: 6
+Communitites of size 5: 3
+Communitites of size 6: 5
+Communitites of size 7: 3
+Communitites of size 8: 2
+Communitites of size 9: 2
+Communitites of size 10: 1
+Communitites of size 12: 1
+Communitites of size 13: 1
+Communitites of size 14: 1
+Communitites of size 15: 1
+Communitites of size 23: 2
+Communitites of size 24: 1
+Communitites of size 27: 1
+Communitites of size 29: 2
+Communitites of size 30: 1
+Communitites of size 31: 1
+Communitites of size 34: 1
+Communitites of size 37: 1
+Communitites of size 44: 1
+Communitites of size 47: 1
+Communitites of size 56: 1
+Communitites of size 88: 1
+Breast_Mammary_Tissue
+q1 = 0.8521909390536531
+q1 = 0.8521909390536531
+Number of communitites: 16148
+Communitites of size 1: 16050
+Communitites of size 2: 66
+Communitites of size 3: 11
+Communitites of size 4: 7
+Communitites of size 5: 3
+Communitites of size 7: 1
+Communitites of size 8: 3
+Communitites of size 9: 1
+Communitites of size 10: 2
+Communitites of size 12: 1
+Communitites of size 24: 1
+Communitites of size 27: 1
+Communitites of size 32: 1
+Cells_Cultured
+q1 = 0.8133962941199767
+q1 = 0.8133962941199766
+Number of communitites: 14619
+Communitites of size 1: 14525
+Communitites of size 2: 62
+Communitites of size 3: 13
+Communitites of size 4: 6
+Communitites of size 5: 3
+Communitites of size 6: 2
+Communitites of size 8: 2
+Communitites of size 9: 1
+Communitites of size 10: 2
+Communitites of size 11: 1
+Communitites of size 23: 1
+Communitites of size 57: 1
+Cells_EBV
+q1 = 0.9084816744004764
+q1 = 0.9084816744004764
+Number of communitites: 14237
+Communitites of size 1: 14052
+Communitites of size 2: 131
+Communitites of size 3: 20
+Communitites of size 4: 7
+Communitites of size 5: 3
+Communitites of size 6: 5
+Communitites of size 7: 3
+Communitites of size 9: 1
+Communitites of size 10: 1
+Communitites of size 11: 2
+Communitites of size 12: 1
+Communitites of size 13: 1
+Communitites of size 14: 3
+Communitites of size 15: 2
+Communitites of size 17: 1
+Communitites of size 20: 2
+Communitites of size 25: 1
+Communitites of size 64: 1
+Colon_Sigmoid
+q1 = 0.8805391072742035
+q1 = 0.8805391072742035
+Number of communitites: 15903
+Communitites of size 1: 15811
+Communitites of size 2: 58
+Communitites of size 3: 12
+Communitites of size 4: 5
+Communitites of size 5: 2
+Communitites of size 6: 3
+Communitites of size 7: 1
+Communitites of size 9: 1
+Communitites of size 12: 3
+Communitites of size 14: 1
+Communitites of size 15: 2
+Communitites of size 18: 1
+Communitites of size 20: 1
+Communitites of size 25: 1
+Communitites of size 45: 1
+Colon_Transverse
+q1 = 0.916114149910459
+q1 = 0.9161141499104591
+Number of communitites: 16062
+Communitites of size 1: 15946
+Communitites of size 2: 69
+Communitites of size 3: 14
+Communitites of size 4: 9
+Communitites of size 5: 1
+Communitites of size 6: 4
+Communitites of size 7: 4
+Communitites of size 8: 3
+Communitites of size 9: 2
+Communitites of size 11: 2
+Communitites of size 12: 1
+Communitites of size 13: 1
+Communitites of size 15: 2
+Communitites of size 17: 2
+Communitites of size 21: 1
+Communitites of size 24: 1
+Esophagus_Gastro
+q1 = 0.8688436854001471
+q1 = 0.8688436854001471
+Number of communitites: 15695
+Communitites of size 1: 15609
+Communitites of size 2: 50
+Communitites of size 3: 10
+Communitites of size 4: 5
+Communitites of size 5: 5
+Communitites of size 6: 3
+Communitites of size 8: 2
+Communitites of size 10: 3
+Communitites of size 12: 1
+Communitites of size 13: 1
+Communitites of size 14: 1
+Communitites of size 17: 1
+Communitites of size 18: 1
+Communitites of size 22: 1
+Communitites of size 25: 1
+Communitites of size 39: 1
+Esophagus_Mucosa
+q1 = 0.873399623651363
+q1 = 0.873399623651363
+Number of communitites: 15661
+Communitites of size 1: 15556
+Communitites of size 2: 64
+Communitites of size 3: 13
+Communitites of size 4: 7
+Communitites of size 5: 4
+Communitites of size 6: 3
+Communitites of size 7: 3
+Communitites of size 8: 1
+Communitites of size 9: 1
+Communitites of size 10: 1
+Communitites of size 11: 1
+Communitites of size 12: 1
+Communitites of size 15: 1
+Communitites of size 17: 2
+Communitites of size 23: 1
+Communitites of size 24: 2
+Esophagus_Muscularis
+q1 = 0.811411328719515
+q1 = 0.811411328719515
+Number of communitites: 15659
+Communitites of size 1: 15573
+Communitites of size 2: 55
+Communitites of size 3: 9
+Communitites of size 4: 3
+Communitites of size 5: 4
+Communitites of size 6: 6
+Communitites of size 10: 1
+Communitites of size 11: 1
+Communitites of size 12: 2
+Communitites of size 13: 1
+Communitites of size 15: 1
+Communitites of size 20: 1
+Communitites of size 26: 1
+Communitites of size 32: 1
+Heart_Atrial
+q1 = 0.8653061119526986
+q1 = 0.8653061119526986
+Number of communitites: 15341
+Communitites of size 1: 15265
+Communitites of size 2: 38
+Communitites of size 3: 13
+Communitites of size 4: 4
+Communitites of size 5: 4
+Communitites of size 6: 1
+Communitites of size 7: 1
+Communitites of size 8: 3
+Communitites of size 9: 3
+Communitites of size 10: 1
+Communitites of size 11: 3
+Communitites of size 12: 1
+Communitites of size 14: 1
+Communitites of size 25: 2
+Communitites of size 39: 1
+Heart_L_Vent
+q1 = 0.8143753546016385
+q1 = 0.8143753546016386
+Number of communitites: 14730
+Communitites of size 1: 14654
+Communitites of size 2: 43
+Communitites of size 3: 8
+Communitites of size 4: 6
+Communitites of size 5: 3
+Communitites of size 6: 3
+Communitites of size 7: 4
+Communitites of size 8: 1
+Communitites of size 9: 2
+Communitites of size 10: 1
+Communitites of size 11: 1
+Communitites of size 15: 1
+Communitites of size 16: 1
+Communitites of size 25: 1
+Communitites of size 27: 1
+Kidney_Cortex
+q1 = 0.8889999549598977
+q1 = 0.8889999549598978
+Number of communitites: 14918
+Communitites of size 1: 14667
+Communitites of size 2: 162
+Communitites of size 3: 30
+Communitites of size 4: 9
+Communitites of size 5: 6
+Communitites of size 6: 6
+Communitites of size 7: 2
+Communitites of size 8: 3
+Communitites of size 9: 4
+Communitites of size 10: 3
+Communitites of size 11: 2
+Communitites of size 13: 1
+Communitites of size 14: 2
+Communitites of size 15: 2
+Communitites of size 16: 1
+Communitites of size 17: 1
+Communitites of size 18: 1
+Communitites of size 20: 2
+Communitites of size 21: 3
+Communitites of size 22: 1
+Communitites of size 23: 1
+Communitites of size 26: 1
+Communitites of size 28: 1
+Communitites of size 47: 1
+Communitites of size 55: 1
+Communitites of size 72: 1
+Communitites of size 82: 1
+Communitites of size 89: 1
+Communitites of size 104: 1
+Communitites of size 120: 1
+Liver
+q1 = 0.8781181225648125
+q1 = 0.8781181225648125
+Number of communitites: 14885
+Communitites of size 1: 14769
+Communitites of size 2: 65
+Communitites of size 3: 15
+Communitites of size 4: 8
+Communitites of size 5: 7
+Communitites of size 6: 3
+Communitites of size 7: 3
+Communitites of size 8: 2
+Communitites of size 9: 2
+Communitites of size 10: 1
+Communitites of size 12: 1
+Communitites of size 14: 1
+Communitites of size 15: 1
+Communitites of size 16: 1
+Communitites of size 19: 1
+Communitites of size 25: 1
+Communitites of size 26: 1
+Communitites of size 30: 1
+Communitites of size 33: 1
+Communitites of size 68: 1
+Lung
+q1 = 0.8805504240195415
+q1 = 0.8805504240195415
+Number of communitites: 16189
+Communitites of size 1: 16090
+Communitites of size 2: 60
+Communitites of size 3: 14
+Communitites of size 4: 3
+Communitites of size 5: 4
+Communitites of size 6: 3
+Communitites of size 8: 4
+Communitites of size 11: 4
+Communitites of size 12: 2
+Communitites of size 13: 1
+Communitites of size 14: 1
+Communitites of size 19: 1
+Communitites of size 24: 1
+Communitites of size 29: 1
+Minor_Salivary
+q1 = 0.614302643258716
+q1 = 0.614302643258716
+Number of communitites: 15682
+Communitites of size 1: 15545
+Communitites of size 2: 79
+Communitites of size 3: 18
+Communitites of size 4: 10
+Communitites of size 5: 3
+Communitites of size 6: 2
+Communitites of size 7: 2
+Communitites of size 8: 1
+Communitites of size 10: 4
+Communitites of size 11: 1
+Communitites of size 12: 1
+Communitites of size 13: 1
+Communitites of size 14: 1
+Communitites of size 15: 3
+Communitites of size 16: 1
+Communitites of size 23: 1
+Communitites of size 25: 2
+Communitites of size 26: 2
+Communitites of size 28: 1
+Communitites of size 32: 1
+Communitites of size 35: 1
+Communitites of size 57: 1
+Communitites of size 110: 1
+Muscle_Skeletal
+q1 = 0.7666081864681646
+q1 = 0.7666081864681646
+Number of communitites: 14819
+Communitites of size 1: 14746
+Communitites of size 2: 55
+Communitites of size 3: 8
+Communitites of size 4: 1
+Communitites of size 5: 3
+Communitites of size 6: 2
+Communitites of size 7: 1
+Communitites of size 9: 2
+Communitites of size 19: 1
+Nerve_Tibial
+q1 = 0.8537845730456337
+q1 = 0.8537845730456337
+Number of communitites: 16059
+Communitites of size 1: 15975
+Communitites of size 2: 56
+Communitites of size 3: 10
+Communitites of size 4: 3
+Communitites of size 5: 3
+Communitites of size 8: 3
+Communitites of size 10: 4
+Communitites of size 11: 1
+Communitites of size 13: 2
+Communitites of size 21: 1
+Communitites of size 28: 1
+Ovary
+q1 = 0.7884365477797391
+q1 = 0.7884365477797393
+Number of communitites: 15620
+Communitites of size 1: 15478
+Communitites of size 2: 89
+Communitites of size 3: 20
+Communitites of size 4: 10
+Communitites of size 5: 4
+Communitites of size 6: 3
+Communitites of size 7: 1
+Communitites of size 9: 1
+Communitites of size 10: 3
+Communitites of size 11: 1
+Communitites of size 13: 1
+Communitites of size 17: 1
+Communitites of size 18: 1
+Communitites of size 20: 2
+Communitites of size 23: 1
+Communitites of size 24: 2
+Communitites of size 36: 1
+Communitites of size 88: 1
+Pancreas
+q1 = 0.9498860444295151
+q1 = 0.9498860444295151
+Number of communitites: 15377
+Communitites of size 1: 15297
+Communitites of size 2: 45
+Communitites of size 3: 14
+Communitites of size 4: 5
+Communitites of size 5: 2
+Communitites of size 6: 1
+Communitites of size 7: 4
+Communitites of size 8: 3
+Communitites of size 9: 1
+Communitites of size 10: 2
+Communitites of size 14: 1
+Communitites of size 16: 1
+Communitites of size 42: 1
+Pituitary
+q1 = 0.9044178417090541
+q1 = 0.904417841709054
+Number of communitites: 16426
+Communitites of size 1: 16318
+Communitites of size 2: 71
+Communitites of size 3: 10
+Communitites of size 4: 6
+Communitites of size 5: 5
+Communitites of size 6: 3
+Communitites of size 7: 1
+Communitites of size 8: 1
+Communitites of size 9: 1
+Communitites of size 10: 1
+Communitites of size 11: 2
+Communitites of size 12: 1
+Communitites of size 13: 1
+Communitites of size 19: 2
+Communitites of size 20: 1
+Communitites of size 29: 1
+Communitites of size 36: 1
+Prostate
+q1 = 0.8801447411020622
+q1 = 0.8801447411020622
+Number of communitites: 16264
+Communitites of size 1: 16149
+Communitites of size 2: 72
+Communitites of size 3: 15
+Communitites of size 4: 3
+Communitites of size 5: 7
+Communitites of size 6: 2
+Communitites of size 7: 2
+Communitites of size 9: 3
+Communitites of size 10: 2
+Communitites of size 12: 2
+Communitites of size 13: 1
+Communitites of size 15: 1
+Communitites of size 17: 2
+Communitites of size 18: 1
+Communitites of size 24: 1
+Communitites of size 56: 1
+Skin_Not_Sun_Epsd
+q1 = 0.8970117438572855
+q1 = 0.8970117438572855
+Number of communitites: 16122
+Communitites of size 1: 16023
+Communitites of size 2: 66
+Communitites of size 3: 8
+Communitites of size 4: 6
+Communitites of size 5: 2
+Communitites of size 6: 2
+Communitites of size 7: 2
+Communitites of size 8: 4
+Communitites of size 9: 1
+Communitites of size 10: 1
+Communitites of size 11: 1
+Communitites of size 13: 2
+Communitites of size 14: 1
+Communitites of size 19: 1
+Communitites of size 20: 1
+Communitites of size 33: 1
+Skin_Sun_Epsd
+q1 = 0.8857410077984936
+q1 = 0.8857410077984936
+Number of communitites: 16169
+Communitites of size 1: 16082
+Communitites of size 2: 52
+Communitites of size 3: 12
+Communitites of size 4: 4
+Communitites of size 5: 7
+Communitites of size 6: 3
+Communitites of size 7: 1
+Communitites of size 9: 3
+Communitites of size 11: 1
+Communitites of size 12: 1
+Communitites of size 14: 2
+Communitites of size 19: 1
+Small_Intestine
+q1 = 0.8495010308457178
+q1 = 0.8495010308457178
+Number of communitites: 15825
+Communitites of size 1: 15680
+Communitites of size 2: 79
+Communitites of size 3: 22
+Communitites of size 4: 10
+Communitites of size 5: 5
+Communitites of size 6: 5
+Communitites of size 7: 1
+Communitites of size 8: 4
+Communitites of size 10: 1
+Communitites of size 11: 1
+Communitites of size 12: 3
+Communitites of size 13: 1
+Communitites of size 16: 1
+Communitites of size 17: 1
+Communitites of size 18: 1
+Communitites of size 19: 3
+Communitites of size 27: 2
+Communitites of size 29: 1
+Communitites of size 31: 1
+Communitites of size 72: 1
+Communitites of size 85: 1
+Communitites of size 88: 1
+Spleen
+q1 = 0.8978039873730961
+q1 = 0.8978039873730961
+Number of communitites: 15566
+Communitites of size 1: 15455
+Communitites of size 2: 70
+Communitites of size 3: 13
+Communitites of size 4: 3
+Communitites of size 5: 9
+Communitites of size 6: 2
+Communitites of size 7: 1
+Communitites of size 8: 1
+Communitites of size 11: 1
+Communitites of size 14: 1
+Communitites of size 18: 2
+Communitites of size 19: 2
+Communitites of size 20: 1
+Communitites of size 26: 2
+Communitites of size 37: 1
+Communitites of size 59: 1
+Communitites of size 63: 1
+Stomach
+q1 = 0.9296489383027136
+q1 = 0.9296489383027136
+Number of communitites: 15863
+Communitites of size 1: 15767
+Communitites of size 2: 59
+Communitites of size 3: 8
+Communitites of size 4: 5
+Communitites of size 5: 3
+Communitites of size 6: 2
+Communitites of size 7: 4
+Communitites of size 8: 1
+Communitites of size 9: 2
+Communitites of size 10: 2
+Communitites of size 11: 2
+Communitites of size 13: 1
+Communitites of size 17: 3
+Communitites of size 18: 2
+Communitites of size 34: 1
+Communitites of size 52: 1
+Testis
+q1 = 0.8468936695692135
+q1 = 0.8468936695692135
+Number of communitites: 17770
+Communitites of size 1: 17679
+Communitites of size 2: 54
+Communitites of size 3: 16
+Communitites of size 4: 5
+Communitites of size 5: 4
+Communitites of size 6: 4
+Communitites of size 7: 1
+Communitites of size 8: 1
+Communitites of size 10: 1
+Communitites of size 11: 1
+Communitites of size 12: 2
+Communitites of size 21: 2
+Thyroid
+q1 = 0.8481647582792537
+q1 = 0.8481647582792537
+Number of communitites: 16105
+Communitites of size 1: 15994
+Communitites of size 2: 71
+Communitites of size 3: 22
+Communitites of size 4: 2
+Communitites of size 5: 2
+Communitites of size 6: 4
+Communitites of size 7: 1
+Communitites of size 8: 4
+Communitites of size 10: 2
+Communitites of size 12: 1
+Communitites of size 13: 1
+Communitites of size 23: 1
+Uterus
+q1 = 0.8444924028080372
+q1 = 0.8444924028080372
+Number of communitites: 15621
+Communitites of size 1: 15473
+Communitites of size 2: 95
+Communitites of size 3: 18
+Communitites of size 4: 6
+Communitites of size 5: 7
+Communitites of size 6: 3
+Communitites of size 7: 3
+Communitites of size 8: 2
+Communitites of size 10: 1
+Communitites of size 11: 1
+Communitites of size 13: 1
+Communitites of size 14: 1
+Communitites of size 17: 2
+Communitites of size 18: 1
+Communitites of size 20: 1
+Communitites of size 24: 1
+Communitites of size 26: 1
+Communitites of size 27: 3
+Communitites of size 79: 1
+Vagina
+q1 = 0.8127368551236688
+q1 = 0.8127368551236688
+Number of communitites: 15728
+Communitites of size 1: 15596
+Communitites of size 2: 85
+Communitites of size 3: 14
+Communitites of size 4: 6
+Communitites of size 5: 4
+Communitites of size 6: 3
+Communitites of size 7: 1
+Communitites of size 8: 2
+Communitites of size 10: 2
+Communitites of size 11: 4
+Communitites of size 12: 1
+Communitites of size 17: 1
+Communitites of size 24: 1
+Communitites of size 25: 1
+Communitites of size 27: 1
+Communitites of size 34: 1
+Communitites of size 37: 1
+Communitites of size 44: 1
+Communitites of size 70: 1
+Communitites of size 78: 1
+Communitites of size 93: 1
+Whole_Blood
+q1 = 0.833841884308333
+q1 = 0.833841884308333
+Number of communitites: 14146
+Communitites of size 1: 14061
+Communitites of size 2: 56
+Communitites of size 3: 13
+Communitites of size 4: 4
+Communitites of size 5: 3
+Communitites of size 6: 1
+Communitites of size 7: 2
+Communitites of size 10: 1
+Communitites of size 13: 2
+Communitites of size 14: 1
+Communitites of size 19: 1
+Communitites of size 22: 1

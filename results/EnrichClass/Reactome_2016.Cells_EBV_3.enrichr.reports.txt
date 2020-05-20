@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	ECM proteoglycans_Homo sapiens_R-HSA-3000178	1/55	0.024484164739851957	1.0	0	0	40.4040404040404	149.88802858772758	TNN
+Reactome_2016	Factors involved in megakaryocyte development and platelet production_Homo sapiens_R-HSA-983231	1/141	0.061701568990739364	1.0	0	0	15.760441292356186	43.89985688016765	MYB
+Reactome_2016	Extracellular matrix organization_Homo sapiens_R-HSA-1474244	1/283	0.12039738324636627	1.0	0	0	7.8523753435414205	16.623144720673473	TNN
+Reactome_2016	Hemostasis_Homo sapiens_R-HSA-109582	1/552	0.22271085980788866	1.0	0	0	4.025764895330113	6.0462195717209495	MYB

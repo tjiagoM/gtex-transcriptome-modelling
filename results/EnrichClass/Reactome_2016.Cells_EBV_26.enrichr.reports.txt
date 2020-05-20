@@ -1,0 +1,16 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC) Homo sapiens R-HSA-5083625	1/18	0.009857921634816495	1.0	0	0	101.010101010101	466.6141333465025	MUC21
+Reactome_2016	Defective GALNT12 causes colorectal cancer 1 (CRCS1) Homo sapiens R-HSA-5083636	1/18	0.009857921634816495	1.0	0	0	101.010101010101	466.6141333465025	MUC21
+Reactome_2016	Defective C1GALT1C1 causes Tn polyagglutination syndrome (TNPS) Homo sapiens R-HSA-5083632	1/20	0.01094777970285598	1.0	0	0	90.9090909090909	410.4198736492794	MUC21
+Reactome_2016	Termination of O-glycan biosynthesis Homo sapiens R-HSA-977068	1/26	0.014210815676953212	1.0	0	0	69.93006993006993	297.46517041295465	MUC21
+Reactome_2016	Amine compound SLC transporters Homo sapiens R-HSA-425428	1/30	0.01638073395054089	1.0	0	0	60.6060606060606	249.19087235367996	RHCG
+Reactome_2016	Diseases associated with O-glycosylation of proteins Homo sapiens R-HSA-3906995	1/62	0.03358440490598319	1.0	0	0	29.325513196480934	99.52180233026488	MUC21
+Reactome_2016	O-linked glycosylation of mucins Homo sapiens R-HSA-913709	1/66	0.035715520145024535	1.0	0	0	27.54820936639118	91.79531533641432	MUC21
+Reactome_2016	Diseases of glycosylation Homo sapiens R-HSA-3781865	1/88	0.04736048219236788	1.0	0	0	20.661157024793386	63.015849318833276	MUC21
+Reactome_2016	Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds Homo sapiens R-HSA-425366	1/101	0.05418135902506024	1.0	0	0	18.001800180018	52.48277874204786	RHCG
+Reactome_2016	O-linked glycosylation Homo sapiens R-HSA-5173105	1/110	0.05887746455604018	1.0	0	0	16.528925619834713	46.814824242929475	MUC21
+Reactome_2016	SLC-mediated transmembrane transport Homo sapiens R-HSA-425407	1/268	0.1379426117806564	1.0	0	0	6.784260515603799	13.439060630795142	RHCG
+Reactome_2016	Post-translational protein modification Homo sapiens R-HSA-597592	1/521	0.25205167542219986	1.0	0	0	3.489792357354737	4.809356661293601	MUC21
+Reactome_2016	Transmembrane transport of small molecules Homo sapiens R-HSA-382551	1/594	0.28232128128032724	1.0	0	0	3.0609121518212423	3.87116486448765	RHCG
+Reactome_2016	Disease Homo sapiens R-HSA-1643685	1/725	0.3338627745037221	1.0	0	0	2.5078369905956106	2.751160439394762	MUC21
+Reactome_2016	Metabolism of proteins Homo sapiens R-HSA-392499	1/1074	0.4551839017674699	1.0	0	0	1.6929067208396815	1.332408603319921	MUC21

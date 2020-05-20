@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Glyoxylate metabolism and glycine degradation_Homo sapiens_R-HSA-389661	1/25	0.01490124437014844	1.0	0	0	66.66666666666667	280.42070364952167	DDO
+Reactome_2016	Metabolism of amino acids and derivatives_Homo sapiens_R-HSA-71291	1/335	0.1835243199231721	1.0	0	0	4.975124378109453	8.434866102627135	DDO
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.6998564383550973	1.0	0	0	0.8735150244584208	0.3117400882567366	DDO

@@ -1,0 +1,4901 @@
+Going with Brain_Cerebellum
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 1
+Accuracy: 0.4236 (0.0553)
+F1 score: 0.0676 (0.0014)
+ROC AUC: 0.4695 (0.0038)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 1
+Accuracy: 0.4359 (0.0449)
+F1 score: 0.0533 (0.0011)
+ROC AUC: 0.4577 (0.0015)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 1
+Accuracy: 0.5560 (0.0706)
+F1 score: 0.0249 (0.0021)
+ROC AUC: 0.4381 (0.0059)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 1
+Accuracy: 0.5063 (0.0297)
+F1 score: 0.0407 (0.0034)
+ROC AUC: 0.4451 (0.0072)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 1
+Accuracy: 0.5158 (0.0360)
+F1 score: 0.0207 (0.0004)
+ROC AUC: 0.4411 (0.0158)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 1
+Accuracy: 0.4006 (0.0417)
+F1 score: 0.0668 (0.0034)
+ROC AUC: 0.4626 (0.0036)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 1
+Accuracy: 0.6185 (0.0213)
+F1 score: 0.0106 (0.0002)
+ROC AUC: 0.3680 (0.0074)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 1
+Accuracy: 0.5135 (0.0053)
+F1 score: 0.0125 (0.0015)
+ROC AUC: 0.3818 (0.0285)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 1
+Accuracy: 0.4044 (0.0438)
+F1 score: 0.0216 (0.0009)
+ROC AUC: 0.4347 (0.0144)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 1
+Accuracy: 0.5273 (0.0968)
+F1 score: 0.0172 (0.0015)
+ROC AUC: 0.4169 (0.0184)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 1
+Accuracy: 0.4662 (0.0091)
+F1 score: 0.0229 (0.0021)
+ROC AUC: 0.4420 (0.0145)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 1
+Accuracy: 0.5669 (0.0256)
+F1 score: 0.0204 (0.0021)
+ROC AUC: 0.4026 (0.0034)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 1
+Accuracy: 0.4837 (0.0600)
+F1 score: 0.0172 (0.0021)
+ROC AUC: 0.4209 (0.0176)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 1
+Accuracy: 0.5361 (0.0180)
+F1 score: 0.0168 (0.0013)
+ROC AUC: 0.4261 (0.0225)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 1
+Accuracy: 0.5037 (0.0695)
+F1 score: 0.0176 (0.0013)
+ROC AUC: 0.4055 (0.0202)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 1
+Accuracy: 0.5477 (0.0665)
+F1 score: 0.0213 (0.0021)
+ROC AUC: 0.4276 (0.0134)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 1
+Accuracy: 0.4408 (0.1021)
+F1 score: 0.0205 (0.0030)
+ROC AUC: 0.4591 (0.0161)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 1
+Accuracy: 0.5434 (0.0971)
+F1 score: 0.0125 (0.0017)
+ROC AUC: 0.3860 (0.0288)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 1
+Accuracy: 0.5333 (0.0745)
+F1 score: 0.0112 (0.0006)
+ROC AUC: 0.3985 (0.0120)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 1
+Accuracy: 0.5306 (0.0903)
+F1 score: 0.0426 (0.0021)
+ROC AUC: 0.4646 (0.0012)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 1
+Accuracy: 0.6063 (0.1219)
+F1 score: 0.0610 (0.0056)
+ROC AUC: 0.4607 (0.0111)
+-- Predicting Cells_EBV with Brain_Cerebellum community 1
+Accuracy: 0.6552 (0.0384)
+F1 score: 0.0186 (0.0022)
+ROC AUC: 0.4203 (0.0164)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 1
+Accuracy: 0.4958 (0.0673)
+F1 score: 0.0370 (0.0052)
+ROC AUC: 0.4592 (0.0174)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 1
+Accuracy: 0.4281 (0.0613)
+F1 score: 0.0455 (0.0030)
+ROC AUC: 0.4615 (0.0104)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 1
+Accuracy: 0.5146 (0.0723)
+F1 score: 0.0374 (0.0007)
+ROC AUC: 0.4574 (0.0046)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 1
+Accuracy: 0.4780 (0.1074)
+F1 score: 0.0570 (0.0016)
+ROC AUC: 0.4666 (0.0072)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 1
+Accuracy: 0.4810 (0.0675)
+F1 score: 0.0514 (0.0041)
+ROC AUC: 0.4650 (0.0103)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 1
+Accuracy: 0.4627 (0.0771)
+F1 score: 0.0412 (0.0006)
+ROC AUC: 0.4396 (0.0102)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 1
+Accuracy: 0.4656 (0.0479)
+F1 score: 0.0433 (0.0027)
+ROC AUC: 0.4627 (0.0049)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 1
+Accuracy: 0.5176 (0.0845)
+F1 score: 0.0068 (0.0019)
+ROC AUC: 0.3977 (0.0234)
+-- Predicting Liver with Brain_Cerebellum community 1
+Accuracy: 0.5146 (0.0318)
+F1 score: 0.0235 (0.0014)
+ROC AUC: 0.4513 (0.0015)
+-- Predicting Lung with Brain_Cerebellum community 1
+Accuracy: 0.5159 (0.0326)
+F1 score: 0.0562 (0.0035)
+ROC AUC: 0.4558 (0.0037)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 1
+Accuracy: 0.5246 (0.0684)
+F1 score: 0.0139 (0.0014)
+ROC AUC: 0.4118 (0.0105)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 1
+Accuracy: 0.4995 (0.0417)
+F1 score: 0.0725 (0.0041)
+ROC AUC: 0.4581 (0.0025)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 1
+Accuracy: 0.3602 (0.0442)
+F1 score: 0.0659 (0.0003)
+ROC AUC: 0.4663 (0.0055)
+-- Predicting Ovary with Brain_Cerebellum community 1
+Accuracy: 0.5381 (0.0326)
+F1 score: 0.0152 (0.0012)
+ROC AUC: 0.4176 (0.0233)
+-- Predicting Pancreas with Brain_Cerebellum community 1
+Accuracy: 0.5432 (0.0608)
+F1 score: 0.0336 (0.0046)
+ROC AUC: 0.4442 (0.0256)
+-- Predicting Pituitary with Brain_Cerebellum community 1
+Accuracy: 0.4197 (0.0433)
+F1 score: 0.0259 (0.0042)
+ROC AUC: 0.4397 (0.0182)
+-- Predicting Prostate with Brain_Cerebellum community 1
+Accuracy: 0.4597 (0.0339)
+F1 score: 0.0229 (0.0008)
+ROC AUC: 0.4146 (0.0191)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 1
+Accuracy: 0.3791 (0.0367)
+F1 score: 0.0625 (0.0024)
+ROC AUC: 0.4657 (0.0063)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 1
+Accuracy: 0.4146 (0.0355)
+F1 score: 0.0681 (0.0011)
+ROC AUC: 0.4567 (0.0070)
+-- Predicting Small_Intestine with Brain_Cerebellum community 1
+Accuracy: 0.4904 (0.0363)
+F1 score: 0.0173 (0.0016)
+ROC AUC: 0.4222 (0.0203)
+-- Predicting Spleen with Brain_Cerebellum community 1
+Accuracy: 0.5859 (0.0179)
+F1 score: 0.0218 (0.0028)
+ROC AUC: 0.4225 (0.0211)
+-- Predicting Stomach with Brain_Cerebellum community 1
+Accuracy: 0.4610 (0.0413)
+F1 score: 0.0375 (0.0024)
+ROC AUC: 0.4583 (0.0101)
+-- Predicting Testis with Brain_Cerebellum community 1
+Accuracy: 0.5574 (0.0102)
+F1 score: 0.0347 (0.0014)
+ROC AUC: 0.4345 (0.0046)
+-- Predicting Thyroid with Brain_Cerebellum community 1
+Accuracy: 0.4137 (0.0635)
+F1 score: 0.0684 (0.0053)
+ROC AUC: 0.4744 (0.0052)
+-- Predicting Uterus with Brain_Cerebellum community 1
+Accuracy: 0.5315 (0.0263)
+F1 score: 0.0124 (0.0011)
+ROC AUC: 0.4056 (0.0229)
+-- Predicting Vagina with Brain_Cerebellum community 1
+Accuracy: 0.4374 (0.0196)
+F1 score: 0.0154 (0.0012)
+ROC AUC: 0.4231 (0.0161)
+-- Predicting Whole_Blood with Brain_Cerebellum community 1
+Accuracy: 0.5627 (0.0258)
+F1 score: 0.0686 (0.0041)
+ROC AUC: 0.4451 (0.0094)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 2
+Accuracy: 0.2007 (0.1928)
+F1 score: 0.0719 (0.0049)
+ROC AUC: 0.4919 (0.0077)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 2
+Accuracy: 0.2587 (0.1080)
+F1 score: 0.0582 (0.0029)
+ROC AUC: 0.4781 (0.0085)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 2
+Accuracy: 0.3183 (0.1090)
+F1 score: 0.0291 (0.0004)
+ROC AUC: 0.4695 (0.0043)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 2
+Accuracy: 0.2801 (0.1287)
+F1 score: 0.0481 (0.0039)
+ROC AUC: 0.4647 (0.0158)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 2
+Accuracy: 0.2677 (0.1477)
+F1 score: 0.0268 (0.0014)
+ROC AUC: 0.4706 (0.0188)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 2
+Accuracy: 0.2854 (0.1822)
+F1 score: 0.0707 (0.0042)
+ROC AUC: 0.4774 (0.0051)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 2
+Accuracy: 0.3721 (0.1341)
+F1 score: 0.0133 (0.0031)
+ROC AUC: 0.4145 (0.0153)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 2
+Accuracy: 0.3075 (0.1469)
+F1 score: 0.0196 (0.0014)
+ROC AUC: 0.4730 (0.0113)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 2
+Accuracy: 0.3255 (0.0818)
+F1 score: 0.0239 (0.0015)
+ROC AUC: 0.4522 (0.0181)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 2
+Accuracy: 0.3862 (0.1607)
+F1 score: 0.0211 (0.0012)
+ROC AUC: 0.4451 (0.0182)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 2
+Accuracy: 0.5630 (0.1582)
+F1 score: 0.0250 (0.0034)
+ROC AUC: 0.4275 (0.0259)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 2
+Accuracy: 0.3379 (0.0709)
+F1 score: 0.0223 (0.0018)
+ROC AUC: 0.4571 (0.0080)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 2
+Accuracy: 0.3410 (0.1561)
+F1 score: 0.0194 (0.0030)
+ROC AUC: 0.4526 (0.0200)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 2
+Accuracy: 0.3334 (0.0953)
+F1 score: 0.0188 (0.0026)
+ROC AUC: 0.4399 (0.0309)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 2
+Accuracy: 0.2105 (0.1323)
+F1 score: 0.0237 (0.0009)
+ROC AUC: 0.4831 (0.0131)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 2
+Accuracy: 0.1576 (0.1376)
+F1 score: 0.0282 (0.0018)
+ROC AUC: 0.4868 (0.0159)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 2
+Accuracy: 0.3077 (0.0584)
+F1 score: 0.0235 (0.0025)
+ROC AUC: 0.4695 (0.0248)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 2
+Accuracy: 0.2931 (0.0486)
+F1 score: 0.0162 (0.0019)
+ROC AUC: 0.4424 (0.0269)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 2
+Accuracy: 0.2881 (0.1055)
+F1 score: 0.0141 (0.0020)
+ROC AUC: 0.4187 (0.0198)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 2
+Accuracy: 0.2419 (0.0434)
+F1 score: 0.0499 (0.0015)
+ROC AUC: 0.4874 (0.0183)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 2
+Accuracy: 0.9997 (0.0001)
+F1 score: 0.9959 (0.0015)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Cerebellum community 2
+Accuracy: 0.6149 (0.0198)
+F1 score: 0.0160 (0.0027)
+ROC AUC: 0.4020 (0.0251)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 2
+Accuracy: 0.2244 (0.1942)
+F1 score: 0.0379 (0.0029)
+ROC AUC: 0.4693 (0.0076)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 2
+Accuracy: 0.2418 (0.1217)
+F1 score: 0.0429 (0.0045)
+ROC AUC: 0.4288 (0.0155)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 2
+Accuracy: 0.3135 (0.1309)
+F1 score: 0.0385 (0.0025)
+ROC AUC: 0.4524 (0.0102)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 2
+Accuracy: 0.1913 (0.1773)
+F1 score: 0.0576 (0.0079)
+ROC AUC: 0.4516 (0.0354)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 2
+Accuracy: 0.2322 (0.1383)
+F1 score: 0.0546 (0.0044)
+ROC AUC: 0.4419 (0.0244)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 2
+Accuracy: 0.1991 (0.1318)
+F1 score: 0.0450 (0.0033)
+ROC AUC: 0.4495 (0.0229)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 2
+Accuracy: 0.2595 (0.2070)
+F1 score: 0.0419 (0.0069)
+ROC AUC: 0.4301 (0.0334)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 2
+Accuracy: 0.4506 (0.0615)
+F1 score: 0.0078 (0.0006)
+ROC AUC: 0.4106 (0.0125)
+-- Predicting Liver with Brain_Cerebellum community 2
+Accuracy: 0.3456 (0.0310)
+F1 score: 0.0245 (0.0007)
+ROC AUC: 0.4359 (0.0117)
+-- Predicting Lung with Brain_Cerebellum community 2
+Accuracy: 0.1866 (0.1909)
+F1 score: 0.0621 (0.0051)
+ROC AUC: 0.4612 (0.0297)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 2
+Accuracy: 0.3403 (0.1509)
+F1 score: 0.0154 (0.0020)
+ROC AUC: 0.4159 (0.0365)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 2
+Accuracy: 0.2062 (0.1941)
+F1 score: 0.0813 (0.0068)
+ROC AUC: 0.4617 (0.0282)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 2
+Accuracy: 0.1842 (0.1453)
+F1 score: 0.0638 (0.0059)
+ROC AUC: 0.4576 (0.0268)
+-- Predicting Ovary with Brain_Cerebellum community 2
+Accuracy: 0.3376 (0.0302)
+F1 score: 0.0174 (0.0012)
+ROC AUC: 0.4009 (0.0089)
+-- Predicting Pancreas with Brain_Cerebellum community 2
+Accuracy: 0.2517 (0.1554)
+F1 score: 0.0363 (0.0036)
+ROC AUC: 0.4374 (0.0161)
+-- Predicting Pituitary with Brain_Cerebellum community 2
+Accuracy: 0.3604 (0.0360)
+F1 score: 0.0238 (0.0009)
+ROC AUC: 0.3976 (0.0101)
+-- Predicting Prostate with Brain_Cerebellum community 2
+Accuracy: 0.3244 (0.1744)
+F1 score: 0.0264 (0.0005)
+ROC AUC: 0.4668 (0.0141)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 2
+Accuracy: 0.3037 (0.1734)
+F1 score: 0.0570 (0.0048)
+ROC AUC: 0.4458 (0.0294)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 2
+Accuracy: 0.2422 (0.1612)
+F1 score: 0.0702 (0.0033)
+ROC AUC: 0.4717 (0.0231)
+-- Predicting Small_Intestine with Brain_Cerebellum community 2
+Accuracy: 0.4438 (0.0135)
+F1 score: 0.0170 (0.0014)
+ROC AUC: 0.3981 (0.0230)
+-- Predicting Spleen with Brain_Cerebellum community 2
+Accuracy: 0.2249 (0.1739)
+F1 score: 0.0285 (0.0005)
+ROC AUC: 0.4742 (0.0151)
+-- Predicting Stomach with Brain_Cerebellum community 2
+Accuracy: 0.4052 (0.1171)
+F1 score: 0.0322 (0.0027)
+ROC AUC: 0.4143 (0.0152)
+-- Predicting Testis with Brain_Cerebellum community 2
+Accuracy: 0.3352 (0.2370)
+F1 score: 0.0356 (0.0008)
+ROC AUC: 0.4692 (0.0083)
+-- Predicting Thyroid with Brain_Cerebellum community 2
+Accuracy: 0.2144 (0.2175)
+F1 score: 0.0723 (0.0011)
+ROC AUC: 0.4919 (0.0143)
+-- Predicting Uterus with Brain_Cerebellum community 2
+Accuracy: 0.3893 (0.1100)
+F1 score: 0.0123 (0.0019)
+ROC AUC: 0.3976 (0.0389)
+-- Predicting Vagina with Brain_Cerebellum community 2
+Accuracy: 0.4319 (0.0454)
+F1 score: 0.0130 (0.0034)
+ROC AUC: 0.3900 (0.0354)
+-- Predicting Whole_Blood with Brain_Cerebellum community 2
+Accuracy: 0.2448 (0.1039)
+F1 score: 0.0791 (0.0063)
+ROC AUC: 0.4559 (0.0040)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 3
+Accuracy: 0.4040 (0.0255)
+F1 score: 0.0659 (0.0011)
+ROC AUC: 0.4569 (0.0070)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 3
+Accuracy: 0.4154 (0.0139)
+F1 score: 0.0519 (0.0022)
+ROC AUC: 0.4506 (0.0039)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 3
+Accuracy: 0.4794 (0.1078)
+F1 score: 0.0267 (0.0012)
+ROC AUC: 0.4408 (0.0127)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 3
+Accuracy: 0.4425 (0.0203)
+F1 score: 0.0406 (0.0035)
+ROC AUC: 0.4482 (0.0159)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 3
+Accuracy: 0.4450 (0.0360)
+F1 score: 0.0234 (0.0039)
+ROC AUC: 0.4299 (0.0263)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 3
+Accuracy: 0.4404 (0.0208)
+F1 score: 0.0662 (0.0028)
+ROC AUC: 0.4588 (0.0044)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 3
+Accuracy: 0.5460 (0.0298)
+F1 score: 0.0101 (0.0008)
+ROC AUC: 0.3757 (0.0204)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 3
+Accuracy: 0.5343 (0.0917)
+F1 score: 0.0138 (0.0019)
+ROC AUC: 0.3937 (0.0121)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 3
+Accuracy: 0.5243 (0.0182)
+F1 score: 0.0156 (0.0010)
+ROC AUC: 0.3823 (0.0005)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 3
+Accuracy: 0.4904 (0.0585)
+F1 score: 0.0161 (0.0011)
+ROC AUC: 0.4103 (0.0055)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 3
+Accuracy: 0.5749 (0.0374)
+F1 score: 0.0218 (0.0006)
+ROC AUC: 0.4247 (0.0035)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 3
+Accuracy: 0.5346 (0.0373)
+F1 score: 0.0210 (0.0014)
+ROC AUC: 0.4169 (0.0236)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 3
+Accuracy: 0.5054 (0.0755)
+F1 score: 0.0160 (0.0004)
+ROC AUC: 0.3852 (0.0132)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 3
+Accuracy: 0.5068 (0.0032)
+F1 score: 0.0155 (0.0009)
+ROC AUC: 0.4000 (0.0147)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 3
+Accuracy: 0.4756 (0.0230)
+F1 score: 0.0156 (0.0001)
+ROC AUC: 0.4020 (0.0112)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 3
+Accuracy: 0.4403 (0.0451)
+F1 score: 0.0230 (0.0027)
+ROC AUC: 0.4513 (0.0189)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 3
+Accuracy: 0.5719 (0.0527)
+F1 score: 0.0175 (0.0005)
+ROC AUC: 0.4284 (0.0110)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 3
+Accuracy: 0.4998 (0.0070)
+F1 score: 0.0114 (0.0008)
+ROC AUC: 0.3902 (0.0086)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 3
+Accuracy: 0.5379 (0.0563)
+F1 score: 0.0113 (0.0002)
+ROC AUC: 0.4067 (0.0040)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 3
+Accuracy: 0.4324 (0.0808)
+F1 score: 0.0446 (0.0024)
+ROC AUC: 0.4534 (0.0043)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 3
+Accuracy: 0.5843 (0.0787)
+F1 score: 0.0557 (0.0022)
+ROC AUC: 0.4418 (0.0117)
+-- Predicting Cells_EBV with Brain_Cerebellum community 3
+Accuracy: 0.4547 (0.0245)
+F1 score: 0.0168 (0.0011)
+ROC AUC: 0.4351 (0.0128)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 3
+Accuracy: 0.4948 (0.0638)
+F1 score: 0.0334 (0.0043)
+ROC AUC: 0.4378 (0.0168)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 3
+Accuracy: 0.5940 (0.0251)
+F1 score: 0.0350 (0.0015)
+ROC AUC: 0.4293 (0.0110)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 3
+Accuracy: 0.4462 (0.0365)
+F1 score: 0.0375 (0.0011)
+ROC AUC: 0.4545 (0.0102)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 3
+Accuracy: 0.5005 (0.0409)
+F1 score: 0.0515 (0.0022)
+ROC AUC: 0.4476 (0.0174)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 3
+Accuracy: 0.4562 (0.0501)
+F1 score: 0.0473 (0.0012)
+ROC AUC: 0.4484 (0.0098)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 3
+Accuracy: 0.4721 (0.0222)
+F1 score: 0.0406 (0.0019)
+ROC AUC: 0.4400 (0.0125)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 3
+Accuracy: 0.3732 (0.0303)
+F1 score: 0.0469 (0.0009)
+ROC AUC: 0.4565 (0.0053)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 3
+Accuracy: 0.5236 (0.0916)
+F1 score: 0.0062 (0.0005)
+ROC AUC: 0.3629 (0.0088)
+-- Predicting Liver with Brain_Cerebellum community 3
+Accuracy: 0.5160 (0.0651)
+F1 score: 0.0207 (0.0029)
+ROC AUC: 0.4058 (0.0160)
+-- Predicting Lung with Brain_Cerebellum community 3
+Accuracy: 0.4222 (0.0455)
+F1 score: 0.0583 (0.0036)
+ROC AUC: 0.4556 (0.0104)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 3
+Accuracy: 0.5058 (0.0343)
+F1 score: 0.0142 (0.0015)
+ROC AUC: 0.4139 (0.0154)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 3
+Accuracy: 0.5108 (0.0266)
+F1 score: 0.0733 (0.0026)
+ROC AUC: 0.4538 (0.0064)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 3
+Accuracy: 0.4329 (0.0492)
+F1 score: 0.0581 (0.0029)
+ROC AUC: 0.4541 (0.0049)
+-- Predicting Ovary with Brain_Cerebellum community 3
+Accuracy: 0.5067 (0.0288)
+F1 score: 0.0180 (0.0031)
+ROC AUC: 0.4370 (0.0224)
+-- Predicting Pancreas with Brain_Cerebellum community 3
+Accuracy: 0.5575 (0.0715)
+F1 score: 0.0318 (0.0029)
+ROC AUC: 0.4214 (0.0118)
+-- Predicting Pituitary with Brain_Cerebellum community 3
+Accuracy: 0.4323 (0.0298)
+F1 score: 0.0244 (0.0026)
+ROC AUC: 0.4301 (0.0161)
+-- Predicting Prostate with Brain_Cerebellum community 3
+Accuracy: 0.4704 (0.0396)
+F1 score: 0.0233 (0.0012)
+ROC AUC: 0.4189 (0.0043)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 3
+Accuracy: 0.4823 (0.0420)
+F1 score: 0.0541 (0.0021)
+ROC AUC: 0.4359 (0.0115)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 3
+Accuracy: 0.4466 (0.0474)
+F1 score: 0.0659 (0.0032)
+ROC AUC: 0.4598 (0.0074)
+-- Predicting Small_Intestine with Brain_Cerebellum community 3
+Accuracy: 0.5968 (0.0297)
+F1 score: 0.0178 (0.0025)
+ROC AUC: 0.3978 (0.0124)
+-- Predicting Spleen with Brain_Cerebellum community 3
+Accuracy: 0.5471 (0.0792)
+F1 score: 0.0224 (0.0039)
+ROC AUC: 0.4203 (0.0347)
+-- Predicting Stomach with Brain_Cerebellum community 3
+Accuracy: 0.4242 (0.0196)
+F1 score: 0.0379 (0.0024)
+ROC AUC: 0.4500 (0.0132)
+-- Predicting Testis with Brain_Cerebellum community 3
+Accuracy: 0.4537 (0.0447)
+F1 score: 0.0363 (0.0024)
+ROC AUC: 0.4533 (0.0031)
+-- Predicting Thyroid with Brain_Cerebellum community 3
+Accuracy: 0.4289 (0.0221)
+F1 score: 0.0648 (0.0011)
+ROC AUC: 0.4550 (0.0029)
+-- Predicting Uterus with Brain_Cerebellum community 3
+Accuracy: 0.5113 (0.0496)
+F1 score: 0.0107 (0.0023)
+ROC AUC: 0.3882 (0.0300)
+-- Predicting Vagina with Brain_Cerebellum community 3
+Accuracy: 0.6001 (0.0939)
+F1 score: 0.0125 (0.0014)
+ROC AUC: 0.3976 (0.0030)
+-- Predicting Whole_Blood with Brain_Cerebellum community 3
+Accuracy: 0.5104 (0.0459)
+F1 score: 0.0688 (0.0007)
+ROC AUC: 0.4556 (0.0040)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 4
+Accuracy: 0.4143 (0.1675)
+F1 score: 0.1221 (0.0264)
+ROC AUC: 0.6736 (0.1001)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 4
+Accuracy: 0.4070 (0.1580)
+F1 score: 0.0993 (0.0210)
+ROC AUC: 0.6765 (0.1238)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 4
+Accuracy: 0.3914 (0.1389)
+F1 score: 0.0501 (0.0098)
+ROC AUC: 0.7001 (0.0661)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 4
+Accuracy: 0.4016 (0.1511)
+F1 score: 0.0823 (0.0170)
+ROC AUC: 0.6997 (0.0890)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 4
+Accuracy: 0.3902 (0.1374)
+F1 score: 0.0459 (0.0091)
+ROC AUC: 0.6841 (0.0848)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 4
+Accuracy: 0.4145 (0.1678)
+F1 score: 0.1227 (0.0265)
+ROC AUC: 0.6962 (0.0871)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 4
+Accuracy: 0.6452 (0.1264)
+F1 score: 0.0512 (0.0209)
+ROC AUC: 0.8127 (0.0683)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 4
+Accuracy: 0.6461 (0.1282)
+F1 score: 0.0585 (0.0252)
+ROC AUC: 0.8103 (0.0653)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 4
+Accuracy: 0.6474 (0.1311)
+F1 score: 0.0732 (0.0306)
+ROC AUC: 0.8193 (0.0624)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 4
+Accuracy: 0.6474 (0.1295)
+F1 score: 0.0688 (0.0278)
+ROC AUC: 0.8016 (0.0795)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 4
+Accuracy: 0.6509 (0.1306)
+F1 score: 0.0835 (0.0360)
+ROC AUC: 0.8100 (0.0716)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 4
+Accuracy: 0.6484 (0.1312)
+F1 score: 0.0807 (0.0324)
+ROC AUC: 0.7994 (0.0782)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 4
+Accuracy: 0.6474 (0.1297)
+F1 score: 0.0685 (0.0292)
+ROC AUC: 0.8049 (0.0774)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 4
+Accuracy: 0.6468 (0.1305)
+F1 score: 0.0645 (0.0260)
+ROC AUC: 0.8081 (0.0675)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 4
+Accuracy: 0.6466 (0.1302)
+F1 score: 0.0658 (0.0295)
+ROC AUC: 0.7993 (0.0844)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 4
+Accuracy: 0.6480 (0.1317)
+F1 score: 0.0775 (0.0331)
+ROC AUC: 0.8146 (0.0702)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 4
+Accuracy: 0.3874 (0.1343)
+F1 score: 0.0367 (0.0070)
+ROC AUC: 0.6879 (0.0768)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 4
+Accuracy: 0.6433 (0.1280)
+F1 score: 0.0493 (0.0207)
+ROC AUC: 0.8104 (0.0692)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 4
+Accuracy: 0.6409 (0.1265)
+F1 score: 0.0438 (0.0185)
+ROC AUC: 0.8046 (0.0871)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 4
+Accuracy: 0.4021 (0.1518)
+F1 score: 0.0842 (0.0174)
+ROC AUC: 0.6969 (0.0632)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 4
+Accuracy: 0.6634 (0.1582)
+F1 score: 0.1910 (0.0956)
+ROC AUC: 0.8224 (0.0836)
+-- Predicting Cells_EBV with Brain_Cerebellum community 4
+Accuracy: 0.3860 (0.1204)
+F1 score: 0.0317 (0.0059)
+ROC AUC: 0.6883 (0.0367)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 4
+Accuracy: 0.3973 (0.1204)
+F1 score: 0.0672 (0.0124)
+ROC AUC: 0.6641 (0.0638)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 4
+Accuracy: 0.4006 (0.1204)
+F1 score: 0.0773 (0.0139)
+ROC AUC: 0.7015 (0.0376)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 4
+Accuracy: 0.3981 (0.1204)
+F1 score: 0.0697 (0.0128)
+ROC AUC: 0.6664 (0.1098)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 4
+Accuracy: 0.6655 (0.1607)
+F1 score: 0.2006 (0.1052)
+ROC AUC: 0.8189 (0.0887)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 4
+Accuracy: 0.4069 (0.1204)
+F1 score: 0.0967 (0.0176)
+ROC AUC: 0.7032 (0.0646)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 4
+Accuracy: 0.4008 (0.1204)
+F1 score: 0.0782 (0.0143)
+ROC AUC: 0.7113 (0.0788)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 4
+Accuracy: 0.4018 (0.1204)
+F1 score: 0.0809 (0.0146)
+ROC AUC: 0.7043 (0.0457)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 4
+Accuracy: 0.3811 (0.1204)
+F1 score: 0.0158 (0.0030)
+ROC AUC: 0.6453 (0.0691)
+-- Predicting Liver with Brain_Cerebellum community 4
+Accuracy: 0.3900 (0.1204)
+F1 score: 0.0445 (0.0083)
+ROC AUC: 0.6995 (0.0681)
+-- Predicting Lung with Brain_Cerebellum community 4
+Accuracy: 0.4102 (0.1204)
+F1 score: 0.1065 (0.0190)
+ROC AUC: 0.6675 (0.1048)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 4
+Accuracy: 0.6444 (0.1316)
+F1 score: 0.0579 (0.0243)
+ROC AUC: 0.8120 (0.0688)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 4
+Accuracy: 0.4228 (0.1204)
+F1 score: 0.1432 (0.0254)
+ROC AUC: 0.6866 (0.0715)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 4
+Accuracy: 0.4114 (0.1204)
+F1 score: 0.1099 (0.0198)
+ROC AUC: 0.6748 (0.0836)
+-- Predicting Ovary with Brain_Cerebellum community 4
+Accuracy: 0.3874 (0.1204)
+F1 score: 0.0358 (0.0064)
+ROC AUC: 0.6711 (0.1022)
+-- Predicting Pancreas with Brain_Cerebellum community 4
+Accuracy: 0.3964 (0.1204)
+F1 score: 0.0645 (0.0117)
+ROC AUC: 0.6903 (0.0559)
+-- Predicting Pituitary with Brain_Cerebellum community 4
+Accuracy: 0.6506 (0.1016)
+F1 score: 0.0882 (0.0285)
+ROC AUC: 0.8091 (0.0597)
+-- Predicting Prostate with Brain_Cerebellum community 4
+Accuracy: 0.6491 (0.1022)
+F1 score: 0.0833 (0.0267)
+ROC AUC: 0.8075 (0.0620)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 4
+Accuracy: 0.6673 (0.0845)
+F1 score: 0.1761 (0.0445)
+ROC AUC: 0.8116 (0.0601)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 4
+Accuracy: 0.6727 (0.0811)
+F1 score: 0.2022 (0.0492)
+ROC AUC: 0.8176 (0.0499)
+-- Predicting Small_Intestine with Brain_Cerebellum community 4
+Accuracy: 0.3878 (0.1204)
+F1 score: 0.0374 (0.0070)
+ROC AUC: 0.6900 (0.0372)
+-- Predicting Spleen with Brain_Cerebellum community 4
+Accuracy: 0.3913 (0.1204)
+F1 score: 0.0484 (0.0087)
+ROC AUC: 0.6900 (0.0429)
+-- Predicting Stomach with Brain_Cerebellum community 4
+Accuracy: 0.3977 (0.1204)
+F1 score: 0.0684 (0.0126)
+ROC AUC: 0.7065 (0.0523)
+-- Predicting Testis with Brain_Cerebellum community 4
+Accuracy: 0.6543 (0.0957)
+F1 score: 0.1156 (0.0333)
+ROC AUC: 0.8084 (0.0677)
+-- Predicting Thyroid with Brain_Cerebellum community 4
+Accuracy: 0.6677 (0.0814)
+F1 score: 0.1818 (0.0405)
+ROC AUC: 0.8192 (0.0544)
+-- Predicting Uterus with Brain_Cerebellum community 4
+Accuracy: 0.3848 (0.1204)
+F1 score: 0.0278 (0.0052)
+ROC AUC: 0.6990 (0.0561)
+-- Predicting Vagina with Brain_Cerebellum community 4
+Accuracy: 0.6441 (0.1077)
+F1 score: 0.0547 (0.0181)
+ROC AUC: 0.8044 (0.0712)
+-- Predicting Whole_Blood with Brain_Cerebellum community 4
+Accuracy: 0.4204 (0.1204)
+F1 score: 0.1364 (0.0242)
+ROC AUC: 0.6913 (0.0669)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 5
+Accuracy: 0.9941 (0.0064)
+F1 score: 0.9331 (0.0697)
+ROC AUC: 0.9999 (0.0001)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 5
+Accuracy: 0.8707 (0.1233)
+F1 score: 0.5231 (0.3476)
+ROC AUC: 0.9892 (0.0149)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 5
+Accuracy: 0.9993 (0.0008)
+F1 score: 0.9795 (0.0247)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 5
+Accuracy: 0.9175 (0.0587)
+F1 score: 0.5281 (0.3339)
+ROC AUC: 0.9802 (0.0271)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 5
+Accuracy: 0.9380 (0.0280)
+F1 score: 0.3391 (0.0897)
+ROC AUC: 0.9858 (0.0168)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 5
+Accuracy: 0.9305 (0.0542)
+F1 score: 0.6229 (0.2723)
+ROC AUC: 0.9869 (0.0185)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 5
+Accuracy: 0.9036 (0.1318)
+F1 score: 0.5931 (0.3959)
+ROC AUC: 0.9470 (0.0749)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 5
+Accuracy: 0.9041 (0.1299)
+F1 score: 0.5729 (0.3594)
+ROC AUC: 0.9539 (0.0652)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 5
+Accuracy: 0.8993 (0.1204)
+F1 score: 0.4777 (0.3208)
+ROC AUC: 0.9557 (0.0626)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 5
+Accuracy: 0.8953 (0.0571)
+F1 score: 0.2127 (0.0728)
+ROC AUC: 0.9717 (0.0109)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 5
+Accuracy: 0.8915 (0.0452)
+F1 score: 0.2245 (0.0685)
+ROC AUC: 0.9757 (0.0119)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 5
+Accuracy: 0.9049 (0.1225)
+F1 score: 0.5374 (0.3150)
+ROC AUC: 0.9556 (0.0628)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 5
+Accuracy: 0.9050 (0.1267)
+F1 score: 0.5691 (0.3519)
+ROC AUC: 0.9559 (0.0623)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 5
+Accuracy: 0.8978 (0.1232)
+F1 score: 0.4233 (0.2547)
+ROC AUC: 0.9522 (0.0674)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 5
+Accuracy: 0.8904 (0.1175)
+F1 score: 0.3491 (0.2179)
+ROC AUC: 0.9538 (0.0645)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 5
+Accuracy: 0.9063 (0.1237)
+F1 score: 0.5892 (0.3763)
+ROC AUC: 0.9543 (0.0646)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 5
+Accuracy: 0.9050 (0.1270)
+F1 score: 0.5671 (0.3499)
+ROC AUC: 0.9493 (0.0717)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 5
+Accuracy: 0.8767 (0.0754)
+F1 score: 0.1502 (0.0615)
+ROC AUC: 0.9348 (0.0420)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 5
+Accuracy: 0.8643 (0.1215)
+F1 score: 0.2148 (0.1782)
+ROC AUC: 0.9423 (0.0520)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 5
+Accuracy: 0.9937 (0.0057)
+F1 score: 0.9000 (0.0825)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 5
+Accuracy: 0.9753 (0.0176)
+F1 score: 0.7544 (0.1740)
+ROC AUC: 0.9997 (0.0003)
+-- Predicting Cells_EBV with Brain_Cerebellum community 5
+Accuracy: 0.9555 (0.0618)
+F1 score: 0.6842 (0.3945)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 5
+Accuracy: 0.9086 (0.0390)
+F1 score: 0.3360 (0.0849)
+ROC AUC: 0.9906 (0.0033)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 5
+Accuracy: 0.9826 (0.0234)
+F1 score: 0.8175 (0.2333)
+ROC AUC: 0.9995 (0.0007)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 5
+Accuracy: 0.9089 (0.0598)
+F1 score: 0.4508 (0.2922)
+ROC AUC: 0.9795 (0.0185)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 5
+Accuracy: 0.9999 (0.0001)
+F1 score: 0.9990 (0.0014)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 5
+Accuracy: 0.9459 (0.0384)
+F1 score: 0.6098 (0.2496)
+ROC AUC: 0.9858 (0.0142)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 5
+Accuracy: 0.9259 (0.1000)
+F1 score: 0.6871 (0.3586)
+ROC AUC: 0.9992 (0.0012)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 5
+Accuracy: 0.9993 (0.0008)
+F1 score: 0.9875 (0.0151)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 5
+Accuracy: 0.9893 (0.0090)
+F1 score: 0.5949 (0.2846)
+ROC AUC: 0.9999 (0.0001)
+-- Predicting Liver with Brain_Cerebellum community 5
+Accuracy: 0.9998 (0.0003)
+F1 score: 0.9929 (0.0100)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Lung with Brain_Cerebellum community 5
+Accuracy: 0.9880 (0.0155)
+F1 score: 0.8780 (0.1506)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 5
+Accuracy: 0.9713 (0.0285)
+F1 score: 0.5441 (0.2568)
+ROC AUC: 0.9989 (0.0009)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 5
+Accuracy: 1.0000 (0.0000)
+F1 score: 1.0000 (0.0000)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 5
+Accuracy: 0.8660 (0.0949)
+F1 score: 0.5030 (0.3456)
+ROC AUC: 0.9557 (0.0427)
+-- Predicting Ovary with Brain_Cerebellum community 5
+Accuracy: 0.8566 (0.1274)
+F1 score: 0.3594 (0.3509)
+ROC AUC: 0.9675 (0.0243)
+-- Predicting Pancreas with Brain_Cerebellum community 5
+Accuracy: 0.9999 (0.0001)
+F1 score: 0.9984 (0.0023)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Pituitary with Brain_Cerebellum community 5
+Accuracy: 0.8588 (0.1349)
+F1 score: 0.3369 (0.2297)
+ROC AUC: 0.9574 (0.0532)
+-- Predicting Prostate with Brain_Cerebellum community 5
+Accuracy: 0.8416 (0.1170)
+F1 score: 0.4073 (0.4194)
+ROC AUC: 0.9477 (0.0587)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 5
+Accuracy: 0.8916 (0.0986)
+F1 score: 0.5036 (0.2289)
+ROC AUC: 0.9870 (0.0061)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 5
+Accuracy: 0.8852 (0.0818)
+F1 score: 0.5432 (0.3199)
+ROC AUC: 0.9595 (0.0415)
+-- Predicting Small_Intestine with Brain_Cerebellum community 5
+Accuracy: 0.8869 (0.0939)
+F1 score: 0.2503 (0.1225)
+ROC AUC: 0.9903 (0.0093)
+-- Predicting Spleen with Brain_Cerebellum community 5
+Accuracy: 0.9861 (0.0150)
+F1 score: 0.7574 (0.2202)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Stomach with Brain_Cerebellum community 5
+Accuracy: 0.8563 (0.1294)
+F1 score: 0.3789 (0.2435)
+ROC AUC: 0.9743 (0.0220)
+-- Predicting Testis with Brain_Cerebellum community 5
+Accuracy: 0.9475 (0.0398)
+F1 score: 0.5196 (0.1930)
+ROC AUC: 0.9818 (0.0234)
+-- Predicting Thyroid with Brain_Cerebellum community 5
+Accuracy: 0.9130 (0.0806)
+F1 score: 0.5896 (0.2647)
+ROC AUC: 0.9974 (0.0023)
+-- Predicting Uterus with Brain_Cerebellum community 5
+Accuracy: 0.9980 (0.0028)
+F1 score: 0.9138 (0.1219)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Vagina with Brain_Cerebellum community 5
+Accuracy: 0.8417 (0.1162)
+F1 score: 0.3646 (0.4130)
+ROC AUC: 0.9469 (0.0595)
+-- Predicting Whole_Blood with Brain_Cerebellum community 5
+Accuracy: 0.9999 (0.0001)
+F1 score: 0.9993 (0.0011)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 6
+Accuracy: 0.3421 (0.2132)
+F1 score: 0.1111 (0.0337)
+ROC AUC: 0.6354 (0.1221)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 6
+Accuracy: 0.3270 (0.2114)
+F1 score: 0.0869 (0.0243)
+ROC AUC: 0.6333 (0.1140)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 6
+Accuracy: 0.3542 (0.2105)
+F1 score: 0.0429 (0.0101)
+ROC AUC: 0.6022 (0.1152)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 6
+Accuracy: 0.3201 (0.2141)
+F1 score: 0.0734 (0.0208)
+ROC AUC: 0.6206 (0.0986)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 6
+Accuracy: 0.3234 (0.2007)
+F1 score: 0.0396 (0.0104)
+ROC AUC: 0.6070 (0.1078)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 6
+Accuracy: 0.7912 (0.1615)
+F1 score: 0.4646 (0.3661)
+ROC AUC: 0.8850 (0.0902)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 6
+Accuracy: 0.9922 (0.0111)
+F1 score: 0.8065 (0.2736)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 6
+Accuracy: 0.9533 (0.0661)
+F1 score: 0.7071 (0.4142)
+ROC AUC: 0.9767 (0.0329)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 6
+Accuracy: 0.9801 (0.0279)
+F1 score: 0.7621 (0.3257)
+ROC AUC: 0.9887 (0.0160)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 6
+Accuracy: 0.3490 (0.2104)
+F1 score: 0.0329 (0.0067)
+ROC AUC: 0.5948 (0.1140)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 6
+Accuracy: 0.3433 (0.2108)
+F1 score: 0.0386 (0.0084)
+ROC AUC: 0.6098 (0.0972)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 6
+Accuracy: 0.9333 (0.0734)
+F1 score: 0.5223 (0.3332)
+ROC AUC: 0.9676 (0.0356)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 6
+Accuracy: 0.9551 (0.0634)
+F1 score: 0.7158 (0.4019)
+ROC AUC: 0.9757 (0.0344)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 6
+Accuracy: 0.9545 (0.0644)
+F1 score: 0.7124 (0.4067)
+ROC AUC: 0.9759 (0.0341)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 6
+Accuracy: 0.9786 (0.0301)
+F1 score: 0.7505 (0.3466)
+ROC AUC: 0.9892 (0.0152)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 6
+Accuracy: 0.7659 (0.1744)
+F1 score: 0.3678 (0.4169)
+ROC AUC: 0.9179 (0.0580)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 6
+Accuracy: 0.7641 (0.1755)
+F1 score: 0.3600 (0.4224)
+ROC AUC: 0.9009 (0.0700)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 6
+Accuracy: 0.9519 (0.0680)
+F1 score: 0.7010 (0.4228)
+ROC AUC: 0.9768 (0.0329)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 6
+Accuracy: 0.9511 (0.0691)
+F1 score: 0.6976 (0.4277)
+ROC AUC: 0.9773 (0.0321)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 6
+Accuracy: 0.3323 (0.2266)
+F1 score: 0.0707 (0.0158)
+ROC AUC: 0.6215 (0.1006)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 6
+Accuracy: 0.7847 (0.1750)
+F1 score: 0.4477 (0.3839)
+ROC AUC: 0.9122 (0.0643)
+-- Predicting Cells_EBV with Brain_Cerebellum community 6
+Accuracy: 0.9295 (0.0985)
+F1 score: 0.6692 (0.4142)
+ROC AUC: 0.9575 (0.0601)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 6
+Accuracy: 0.3293 (0.1931)
+F1 score: 0.0550 (0.0100)
+ROC AUC: 0.5984 (0.0846)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 6
+Accuracy: 0.3153 (0.1897)
+F1 score: 0.0683 (0.0155)
+ROC AUC: 0.6186 (0.1129)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 6
+Accuracy: 0.3092 (0.1743)
+F1 score: 0.0607 (0.0142)
+ROC AUC: 0.6145 (0.1283)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 6
+Accuracy: 0.3415 (0.1986)
+F1 score: 0.0911 (0.0215)
+ROC AUC: 0.6256 (0.0947)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 6
+Accuracy: 0.3317 (0.1948)
+F1 score: 0.0845 (0.0197)
+ROC AUC: 0.6266 (0.0995)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 6
+Accuracy: 0.3141 (0.1748)
+F1 score: 0.0648 (0.0134)
+ROC AUC: 0.6060 (0.0973)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 6
+Accuracy: 0.7783 (0.1752)
+F1 score: 0.4226 (0.3985)
+ROC AUC: 0.8809 (0.0985)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 6
+Accuracy: 0.3947 (0.1868)
+F1 score: 0.0108 (0.0014)
+ROC AUC: 0.5369 (0.0730)
+-- Predicting Liver with Brain_Cerebellum community 6
+Accuracy: 0.3542 (0.2051)
+F1 score: 0.0423 (0.0112)
+ROC AUC: 0.6108 (0.0894)
+-- Predicting Lung with Brain_Cerebellum community 6
+Accuracy: 0.3449 (0.1947)
+F1 score: 0.0927 (0.0206)
+ROC AUC: 0.6361 (0.0924)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 6
+Accuracy: 0.3625 (0.1925)
+F1 score: 0.0256 (0.0058)
+ROC AUC: 0.6020 (0.0950)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 6
+Accuracy: 0.7994 (0.1761)
+F1 score: 0.5063 (0.3489)
+ROC AUC: 0.9164 (0.0661)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 6
+Accuracy: 0.3221 (0.1536)
+F1 score: 0.0913 (0.0187)
+ROC AUC: 0.6265 (0.0852)
+-- Predicting Ovary with Brain_Cerebellum community 6
+Accuracy: 0.3336 (0.1948)
+F1 score: 0.0299 (0.0065)
+ROC AUC: 0.6061 (0.0860)
+-- Predicting Pancreas with Brain_Cerebellum community 6
+Accuracy: 0.3367 (0.1876)
+F1 score: 0.0558 (0.0116)
+ROC AUC: 0.6290 (0.0747)
+-- Predicting Pituitary with Brain_Cerebellum community 6
+Accuracy: 0.3604 (0.1954)
+F1 score: 0.0432 (0.0114)
+ROC AUC: 0.6015 (0.1079)
+-- Predicting Prostate with Brain_Cerebellum community 6
+Accuracy: 0.3674 (0.2023)
+F1 score: 0.0388 (0.0069)
+ROC AUC: 0.6043 (0.0995)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 6
+Accuracy: 0.3336 (0.1612)
+F1 score: 0.0886 (0.0165)
+ROC AUC: 0.6247 (0.0972)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 6
+Accuracy: 0.3303 (0.1460)
+F1 score: 0.1038 (0.0185)
+ROC AUC: 0.6295 (0.0785)
+-- Predicting Small_Intestine with Brain_Cerebellum community 6
+Accuracy: 0.3605 (0.1877)
+F1 score: 0.0313 (0.0068)
+ROC AUC: 0.5999 (0.1069)
+-- Predicting Spleen with Brain_Cerebellum community 6
+Accuracy: 0.3381 (0.1560)
+F1 score: 0.0395 (0.0098)
+ROC AUC: 0.5978 (0.1046)
+-- Predicting Stomach with Brain_Cerebellum community 6
+Accuracy: 0.3481 (0.1795)
+F1 score: 0.0589 (0.0133)
+ROC AUC: 0.6063 (0.1038)
+-- Predicting Testis with Brain_Cerebellum community 6
+Accuracy: 0.3394 (0.1497)
+F1 score: 0.0534 (0.0126)
+ROC AUC: 0.6146 (0.1138)
+-- Predicting Thyroid with Brain_Cerebellum community 6
+Accuracy: 0.3273 (0.1552)
+F1 score: 0.1013 (0.0199)
+ROC AUC: 0.6303 (0.0901)
+-- Predicting Uterus with Brain_Cerebellum community 6
+Accuracy: 0.3396 (0.1901)
+F1 score: 0.0239 (0.0054)
+ROC AUC: 0.5882 (0.0921)
+-- Predicting Vagina with Brain_Cerebellum community 6
+Accuracy: 0.4044 (0.2496)
+F1 score: 0.0217 (0.0029)
+ROC AUC: 0.5727 (0.0605)
+-- Predicting Whole_Blood with Brain_Cerebellum community 6
+Accuracy: 0.3432 (0.1512)
+F1 score: 0.1230 (0.0268)
+ROC AUC: 0.6358 (0.0853)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 7
+Accuracy: 0.4881 (0.0805)
+F1 score: 0.0636 (0.0019)
+ROC AUC: 0.4635 (0.0092)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 7
+Accuracy: 0.5424 (0.0896)
+F1 score: 0.0470 (0.0020)
+ROC AUC: 0.4528 (0.0110)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 7
+Accuracy: 0.5097 (0.0567)
+F1 score: 0.0194 (0.0013)
+ROC AUC: 0.3759 (0.0323)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 7
+Accuracy: 0.5109 (0.0917)
+F1 score: 0.0404 (0.0024)
+ROC AUC: 0.4320 (0.0234)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 7
+Accuracy: 0.4748 (0.0637)
+F1 score: 0.0191 (0.0029)
+ROC AUC: 0.4159 (0.0151)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 7
+Accuracy: 0.5053 (0.0706)
+F1 score: 0.0598 (0.0021)
+ROC AUC: 0.4577 (0.0094)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 7
+Accuracy: 0.4458 (0.0551)
+F1 score: 0.0146 (0.0017)
+ROC AUC: 0.4434 (0.0200)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 7
+Accuracy: 0.4977 (0.0253)
+F1 score: 0.0141 (0.0013)
+ROC AUC: 0.4022 (0.0108)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 7
+Accuracy: 0.5021 (0.0876)
+F1 score: 0.0216 (0.0016)
+ROC AUC: 0.4403 (0.0191)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 7
+Accuracy: 0.4774 (0.0489)
+F1 score: 0.0199 (0.0014)
+ROC AUC: 0.4542 (0.0024)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 7
+Accuracy: 0.4904 (0.0768)
+F1 score: 0.0213 (0.0032)
+ROC AUC: 0.4427 (0.0144)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 7
+Accuracy: 0.5737 (0.0601)
+F1 score: 0.0187 (0.0019)
+ROC AUC: 0.4108 (0.0257)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 7
+Accuracy: 0.5135 (0.0144)
+F1 score: 0.0155 (0.0021)
+ROC AUC: 0.4142 (0.0185)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 7
+Accuracy: 0.5061 (0.0225)
+F1 score: 0.0169 (0.0023)
+ROC AUC: 0.4183 (0.0040)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 7
+Accuracy: 0.4975 (0.0986)
+F1 score: 0.0198 (0.0009)
+ROC AUC: 0.4542 (0.0091)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 7
+Accuracy: 0.5391 (0.0664)
+F1 score: 0.0217 (0.0010)
+ROC AUC: 0.4437 (0.0052)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 7
+Accuracy: 0.4726 (0.0150)
+F1 score: 0.0191 (0.0018)
+ROC AUC: 0.4373 (0.0217)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 7
+Accuracy: 0.5040 (0.0813)
+F1 score: 0.0147 (0.0011)
+ROC AUC: 0.4276 (0.0197)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 7
+Accuracy: 0.5665 (0.0340)
+F1 score: 0.0127 (0.0026)
+ROC AUC: 0.4109 (0.0158)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 7
+Accuracy: 0.5270 (0.1153)
+F1 score: 0.0415 (0.0025)
+ROC AUC: 0.4618 (0.0061)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 7
+Accuracy: 0.5008 (0.0235)
+F1 score: 0.0531 (0.0002)
+ROC AUC: 0.4475 (0.0128)
+-- Predicting Cells_EBV with Brain_Cerebellum community 7
+Accuracy: 0.5546 (0.0538)
+F1 score: 0.0124 (0.0019)
+ROC AUC: 0.4105 (0.0250)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 7
+Accuracy: 0.5601 (0.0947)
+F1 score: 0.0269 (0.0029)
+ROC AUC: 0.4098 (0.0338)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 7
+Accuracy: 0.5127 (0.0802)
+F1 score: 0.0362 (0.0027)
+ROC AUC: 0.4132 (0.0310)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 7
+Accuracy: 0.4740 (0.0299)
+F1 score: 0.0299 (0.0003)
+ROC AUC: 0.4063 (0.0086)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 7
+Accuracy: 0.5059 (0.0601)
+F1 score: 0.0451 (0.0037)
+ROC AUC: 0.3928 (0.0296)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 7
+Accuracy: 0.4883 (0.0970)
+F1 score: 0.0487 (0.0027)
+ROC AUC: 0.4389 (0.0258)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 7
+Accuracy: 0.5552 (0.0183)
+F1 score: 0.0390 (0.0027)
+ROC AUC: 0.4305 (0.0052)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 7
+Accuracy: 0.4960 (0.0559)
+F1 score: 0.0381 (0.0056)
+ROC AUC: 0.4381 (0.0152)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 7
+Accuracy: 0.5077 (0.0314)
+F1 score: 0.0079 (0.0015)
+ROC AUC: 0.4379 (0.0076)
+-- Predicting Liver with Brain_Cerebellum community 7
+Accuracy: 0.5106 (0.0579)
+F1 score: 0.0187 (0.0024)
+ROC AUC: 0.3723 (0.0269)
+-- Predicting Lung with Brain_Cerebellum community 7
+Accuracy: 0.5315 (0.0568)
+F1 score: 0.0522 (0.0042)
+ROC AUC: 0.4409 (0.0207)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 7
+Accuracy: 0.4771 (0.0495)
+F1 score: 0.0124 (0.0030)
+ROC AUC: 0.4014 (0.0362)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 7
+Accuracy: 0.5215 (0.0541)
+F1 score: 0.0733 (0.0023)
+ROC AUC: 0.4519 (0.0138)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 7
+Accuracy: 0.4835 (0.1139)
+F1 score: 0.0638 (0.0022)
+ROC AUC: 0.4795 (0.0066)
+-- Predicting Ovary with Brain_Cerebellum community 7
+Accuracy: 0.4979 (0.0618)
+F1 score: 0.0163 (0.0019)
+ROC AUC: 0.3933 (0.0408)
+-- Predicting Pancreas with Brain_Cerebellum community 7
+Accuracy: 0.5713 (0.0192)
+F1 score: 0.0286 (0.0044)
+ROC AUC: 0.3905 (0.0371)
+-- Predicting Pituitary with Brain_Cerebellum community 7
+Accuracy: 0.3364 (0.0352)
+F1 score: 0.0324 (0.0031)
+ROC AUC: 0.4490 (0.0039)
+-- Predicting Prostate with Brain_Cerebellum community 7
+Accuracy: 0.5200 (0.0222)
+F1 score: 0.0232 (0.0016)
+ROC AUC: 0.4234 (0.0226)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 7
+Accuracy: 0.4773 (0.0351)
+F1 score: 0.0540 (0.0046)
+ROC AUC: 0.4377 (0.0140)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 7
+Accuracy: 0.5240 (0.0601)
+F1 score: 0.0629 (0.0023)
+ROC AUC: 0.4634 (0.0130)
+-- Predicting Small_Intestine with Brain_Cerebellum community 7
+Accuracy: 0.5290 (0.0793)
+F1 score: 0.0146 (0.0062)
+ROC AUC: 0.3605 (0.0830)
+-- Predicting Spleen with Brain_Cerebellum community 7
+Accuracy: 0.5481 (0.0290)
+F1 score: 0.0189 (0.0034)
+ROC AUC: 0.3799 (0.0309)
+-- Predicting Stomach with Brain_Cerebellum community 7
+Accuracy: 0.5657 (0.0204)
+F1 score: 0.0333 (0.0027)
+ROC AUC: 0.4042 (0.0322)
+-- Predicting Testis with Brain_Cerebellum community 7
+Accuracy: 0.5427 (0.0597)
+F1 score: 0.0316 (0.0018)
+ROC AUC: 0.4140 (0.0223)
+-- Predicting Thyroid with Brain_Cerebellum community 7
+Accuracy: 0.4721 (0.0662)
+F1 score: 0.0580 (0.0044)
+ROC AUC: 0.4457 (0.0195)
+-- Predicting Uterus with Brain_Cerebellum community 7
+Accuracy: 0.5734 (0.0489)
+F1 score: 0.0099 (0.0016)
+ROC AUC: 0.3726 (0.0403)
+-- Predicting Vagina with Brain_Cerebellum community 7
+Accuracy: 0.5435 (0.0760)
+F1 score: 0.0144 (0.0023)
+ROC AUC: 0.3937 (0.0320)
+-- Predicting Whole_Blood with Brain_Cerebellum community 7
+Accuracy: 0.5212 (0.0784)
+F1 score: 0.0646 (0.0059)
+ROC AUC: 0.4396 (0.0173)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 8
+Accuracy: 0.7626 (0.1158)
+F1 score: 0.2738 (0.0966)
+ROC AUC: 0.9040 (0.0617)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 8
+Accuracy: 0.9557 (0.0180)
+F1 score: 0.5987 (0.1145)
+ROC AUC: 0.9944 (0.0046)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 8
+Accuracy: 0.9384 (0.0869)
+F1 score: 0.7122 (0.4025)
+ROC AUC: 0.9776 (0.0316)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 8
+Accuracy: 0.8507 (0.1294)
+F1 score: 0.4541 (0.3473)
+ROC AUC: 0.9646 (0.0257)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 8
+Accuracy: 0.5451 (0.0907)
+F1 score: 0.0517 (0.0097)
+ROC AUC: 0.7589 (0.0509)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 8
+Accuracy: 0.8619 (0.1321)
+F1 score: 0.5324 (0.3122)
+ROC AUC: 0.9682 (0.0232)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 8
+Accuracy: 0.5585 (0.1189)
+F1 score: 0.0390 (0.0099)
+ROC AUC: 0.7575 (0.0671)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 8
+Accuracy: 0.5713 (0.1304)
+F1 score: 0.0472 (0.0150)
+ROC AUC: 0.7668 (0.0717)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 8
+Accuracy: 0.5632 (0.1132)
+F1 score: 0.0580 (0.0151)
+ROC AUC: 0.7606 (0.0753)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 8
+Accuracy: 0.5684 (0.1163)
+F1 score: 0.0540 (0.0146)
+ROC AUC: 0.7649 (0.0690)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 8
+Accuracy: 0.5706 (0.1179)
+F1 score: 0.0642 (0.0181)
+ROC AUC: 0.7642 (0.0708)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 8
+Accuracy: 0.5838 (0.1336)
+F1 score: 0.0677 (0.0231)
+ROC AUC: 0.7683 (0.0740)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 8
+Accuracy: 0.5781 (0.1316)
+F1 score: 0.0562 (0.0173)
+ROC AUC: 0.7672 (0.0653)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 8
+Accuracy: 0.5727 (0.1231)
+F1 score: 0.0525 (0.0153)
+ROC AUC: 0.7587 (0.0795)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 8
+Accuracy: 0.5796 (0.1296)
+F1 score: 0.0557 (0.0182)
+ROC AUC: 0.7626 (0.0841)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 8
+Accuracy: 0.5679 (0.1134)
+F1 score: 0.0618 (0.0160)
+ROC AUC: 0.7663 (0.0712)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 8
+Accuracy: 0.5650 (0.1135)
+F1 score: 0.0523 (0.0138)
+ROC AUC: 0.7622 (0.0785)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 8
+Accuracy: 0.5602 (0.1063)
+F1 score: 0.0385 (0.0095)
+ROC AUC: 0.7557 (0.0723)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 8
+Accuracy: 0.5698 (0.1234)
+F1 score: 0.0359 (0.0104)
+ROC AUC: 0.7613 (0.0735)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 8
+Accuracy: 0.5421 (0.0711)
+F1 score: 0.1012 (0.0150)
+ROC AUC: 0.7684 (0.0384)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 8
+Accuracy: 0.9995 (0.0006)
+F1 score: 0.9919 (0.0094)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Cerebellum community 8
+Accuracy: 0.9313 (0.0490)
+F1 score: 0.3755 (0.2946)
+ROC AUC: 0.9912 (0.0073)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 8
+Accuracy: 0.5375 (0.1068)
+F1 score: 0.0811 (0.0190)
+ROC AUC: 0.7505 (0.0665)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 8
+Accuracy: 0.7799 (0.1186)
+F1 score: 0.2074 (0.0691)
+ROC AUC: 0.8984 (0.0520)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 8
+Accuracy: 0.4986 (0.0719)
+F1 score: 0.0755 (0.0115)
+ROC AUC: 0.7397 (0.0569)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 8
+Accuracy: 0.9087 (0.0637)
+F1 score: 0.5428 (0.3106)
+ROC AUC: 0.9821 (0.0148)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 8
+Accuracy: 0.5144 (0.0807)
+F1 score: 0.1072 (0.0184)
+ROC AUC: 0.7566 (0.0512)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 8
+Accuracy: 0.8455 (0.1074)
+F1 score: 0.4277 (0.3569)
+ROC AUC: 0.9598 (0.0441)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 8
+Accuracy: 0.9993 (0.0007)
+F1 score: 0.9861 (0.0124)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 8
+Accuracy: 0.9357 (0.0529)
+F1 score: 0.3869 (0.4072)
+ROC AUC: 0.9746 (0.0267)
+-- Predicting Liver with Brain_Cerebellum community 8
+Accuracy: 0.9985 (0.0021)
+F1 score: 0.9524 (0.0673)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Lung with Brain_Cerebellum community 8
+Accuracy: 0.7711 (0.1240)
+F1 score: 0.2635 (0.0999)
+ROC AUC: 0.9035 (0.0524)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 8
+Accuracy: 0.8978 (0.0725)
+F1 score: 0.4034 (0.4144)
+ROC AUC: 0.9730 (0.0257)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 8
+Accuracy: 0.9699 (0.0213)
+F1 score: 0.7823 (0.1540)
+ROC AUC: 0.9920 (0.0114)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 8
+Accuracy: 0.5628 (0.0841)
+F1 score: 0.1378 (0.0222)
+ROC AUC: 0.7722 (0.0361)
+-- Predicting Ovary with Brain_Cerebellum community 8
+Accuracy: 0.5305 (0.1000)
+F1 score: 0.0413 (0.0085)
+ROC AUC: 0.7513 (0.0648)
+-- Predicting Pancreas with Brain_Cerebellum community 8
+Accuracy: 0.9639 (0.0266)
+F1 score: 0.6122 (0.2526)
+ROC AUC: 0.9895 (0.0148)
+-- Predicting Pituitary with Brain_Cerebellum community 8
+Accuracy: 0.5166 (0.0879)
+F1 score: 0.0581 (0.0100)
+ROC AUC: 0.7504 (0.0565)
+-- Predicting Prostate with Brain_Cerebellum community 8
+Accuracy: 0.5366 (0.0982)
+F1 score: 0.0524 (0.0121)
+ROC AUC: 0.7432 (0.0544)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 8
+Accuracy: 0.5177 (0.0703)
+F1 score: 0.1197 (0.0144)
+ROC AUC: 0.7619 (0.0486)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 8
+Accuracy: 0.5546 (0.0845)
+F1 score: 0.1484 (0.0226)
+ROC AUC: 0.7700 (0.0491)
+-- Predicting Small_Intestine with Brain_Cerebellum community 8
+Accuracy: 0.7700 (0.0899)
+F1 score: 0.1009 (0.0324)
+ROC AUC: 0.8979 (0.0351)
+-- Predicting Spleen with Brain_Cerebellum community 8
+Accuracy: 0.9554 (0.0434)
+F1 score: 0.5575 (0.2897)
+ROC AUC: 0.9804 (0.0252)
+-- Predicting Stomach with Brain_Cerebellum community 8
+Accuracy: 0.9773 (0.0279)
+F1 score: 0.7595 (0.2505)
+ROC AUC: 0.9901 (0.0138)
+-- Predicting Testis with Brain_Cerebellum community 8
+Accuracy: 0.5396 (0.1018)
+F1 score: 0.0793 (0.0151)
+ROC AUC: 0.7577 (0.0464)
+-- Predicting Thyroid with Brain_Cerebellum community 8
+Accuracy: 0.7512 (0.0289)
+F1 score: 0.2260 (0.0179)
+ROC AUC: 0.8982 (0.0099)
+-- Predicting Uterus with Brain_Cerebellum community 8
+Accuracy: 0.8953 (0.0842)
+F1 score: 0.3882 (0.4019)
+ROC AUC: 0.9667 (0.0394)
+-- Predicting Vagina with Brain_Cerebellum community 8
+Accuracy: 0.5082 (0.0745)
+F1 score: 0.0354 (0.0053)
+ROC AUC: 0.7450 (0.0456)
+-- Predicting Whole_Blood with Brain_Cerebellum community 8
+Accuracy: 0.9623 (0.0483)
+F1 score: 0.7925 (0.2404)
+ROC AUC: 0.9988 (0.0016)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 9
+Accuracy: 0.2751 (0.2682)
+F1 score: 0.0748 (0.0049)
+ROC AUC: 0.5246 (0.0202)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 9
+Accuracy: 0.2830 (0.2904)
+F1 score: 0.0641 (0.0078)
+ROC AUC: 0.5315 (0.0266)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 9
+Accuracy: 0.2070 (0.1976)
+F1 score: 0.0299 (0.0007)
+ROC AUC: 0.4777 (0.0288)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 9
+Accuracy: 0.1677 (0.1306)
+F1 score: 0.0477 (0.0037)
+ROC AUC: 0.4610 (0.0355)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 9
+Accuracy: 0.2721 (0.2714)
+F1 score: 0.0285 (0.0011)
+ROC AUC: 0.5232 (0.0233)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 9
+Accuracy: 0.2227 (0.1942)
+F1 score: 0.0713 (0.0052)
+ROC AUC: 0.4571 (0.0208)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 9
+Accuracy: 0.9284 (0.0998)
+F1 score: 0.6553 (0.4119)
+ROC AUC: 0.9660 (0.0480)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 9
+Accuracy: 0.2431 (0.2371)
+F1 score: 0.0201 (0.0009)
+ROC AUC: 0.5188 (0.0437)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 9
+Accuracy: 0.9327 (0.0938)
+F1 score: 0.6799 (0.4007)
+ROC AUC: 0.9667 (0.0470)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 9
+Accuracy: 0.2423 (0.2419)
+F1 score: 0.0234 (0.0006)
+ROC AUC: 0.5232 (0.0328)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 9
+Accuracy: 0.2234 (0.2189)
+F1 score: 0.0296 (0.0028)
+ROC AUC: 0.5297 (0.0459)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 9
+Accuracy: 0.2300 (0.2299)
+F1 score: 0.0279 (0.0016)
+ROC AUC: 0.5351 (0.0523)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 9
+Accuracy: 0.9315 (0.0955)
+F1 score: 0.6737 (0.4043)
+ROC AUC: 0.9654 (0.0488)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 9
+Accuracy: 0.9308 (0.0965)
+F1 score: 0.6699 (0.4067)
+ROC AUC: 0.9629 (0.0524)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 9
+Accuracy: 0.9311 (0.0960)
+F1 score: 0.6717 (0.4054)
+ROC AUC: 0.9638 (0.0512)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 9
+Accuracy: 0.9332 (0.0930)
+F1 score: 0.6827 (0.3988)
+ROC AUC: 0.9651 (0.0494)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 9
+Accuracy: 0.9311 (0.0960)
+F1 score: 0.6717 (0.4054)
+ROC AUC: 0.9643 (0.0504)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 9
+Accuracy: 0.2493 (0.2317)
+F1 score: 0.0171 (0.0014)
+ROC AUC: 0.5100 (0.0463)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 9
+Accuracy: 0.2634 (0.2909)
+F1 score: 0.0143 (0.0016)
+ROC AUC: 0.5143 (0.0157)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 9
+Accuracy: 0.2401 (0.2291)
+F1 score: 0.0535 (0.0043)
+ROC AUC: 0.5251 (0.0416)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 9
+Accuracy: 0.2097 (0.1932)
+F1 score: 0.0680 (0.0063)
+ROC AUC: 0.5211 (0.0279)
+-- Predicting Cells_EBV with Brain_Cerebellum community 9
+Accuracy: 0.2410 (0.2670)
+F1 score: 0.0178 (0.0025)
+ROC AUC: 0.5348 (0.0199)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 9
+Accuracy: 0.2578 (0.2554)
+F1 score: 0.0420 (0.0034)
+ROC AUC: 0.5344 (0.0227)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 9
+Accuracy: 0.2569 (0.2154)
+F1 score: 0.0433 (0.0062)
+ROC AUC: 0.4639 (0.0154)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 9
+Accuracy: 0.2437 (0.2401)
+F1 score: 0.0439 (0.0022)
+ROC AUC: 0.5285 (0.0306)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 9
+Accuracy: 0.2661 (0.2601)
+F1 score: 0.0639 (0.0012)
+ROC AUC: 0.5362 (0.0324)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 9
+Accuracy: 0.1790 (0.1047)
+F1 score: 0.0531 (0.0077)
+ROC AUC: 0.4209 (0.0518)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 9
+Accuracy: 0.2486 (0.2504)
+F1 score: 0.0496 (0.0029)
+ROC AUC: 0.5349 (0.0288)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 9
+Accuracy: 0.1924 (0.1482)
+F1 score: 0.0436 (0.0071)
+ROC AUC: 0.4570 (0.0533)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 9
+Accuracy: 0.2582 (0.2168)
+F1 score: 0.0095 (0.0005)
+ROC AUC: 0.5164 (0.0469)
+-- Predicting Liver with Brain_Cerebellum community 9
+Accuracy: 0.1754 (0.1465)
+F1 score: 0.0239 (0.0032)
+ROC AUC: 0.4214 (0.0577)
+-- Predicting Lung with Brain_Cerebellum community 9
+Accuracy: 0.2521 (0.2384)
+F1 score: 0.0699 (0.0035)
+ROC AUC: 0.5385 (0.0382)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 9
+Accuracy: 0.2427 (0.2267)
+F1 score: 0.0181 (0.0009)
+ROC AUC: 0.4554 (0.0250)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 9
+Accuracy: 0.2248 (0.1889)
+F1 score: 0.0962 (0.0075)
+ROC AUC: 0.5348 (0.0489)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 9
+Accuracy: 0.2624 (0.2611)
+F1 score: 0.0722 (0.0049)
+ROC AUC: 0.5366 (0.0491)
+-- Predicting Ovary with Brain_Cerebellum community 9
+Accuracy: 0.2013 (0.1588)
+F1 score: 0.0188 (0.0039)
+ROC AUC: 0.4425 (0.0488)
+-- Predicting Pancreas with Brain_Cerebellum community 9
+Accuracy: 0.3174 (0.3183)
+F1 score: 0.0453 (0.0097)
+ROC AUC: 0.4950 (0.0224)
+-- Predicting Pituitary with Brain_Cerebellum community 9
+Accuracy: 0.2079 (0.2020)
+F1 score: 0.0322 (0.0028)
+ROC AUC: 0.5446 (0.0305)
+-- Predicting Prostate with Brain_Cerebellum community 9
+Accuracy: 0.2875 (0.2968)
+F1 score: 0.0294 (0.0014)
+ROC AUC: 0.4664 (0.0181)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 9
+Accuracy: 0.2587 (0.2542)
+F1 score: 0.0680 (0.0016)
+ROC AUC: 0.5369 (0.0378)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 9
+Accuracy: 0.2624 (0.2508)
+F1 score: 0.0765 (0.0009)
+ROC AUC: 0.5315 (0.0355)
+-- Predicting Small_Intestine with Brain_Cerebellum community 9
+Accuracy: 0.2382 (0.1923)
+F1 score: 0.0197 (0.0044)
+ROC AUC: 0.4427 (0.0446)
+-- Predicting Spleen with Brain_Cerebellum community 9
+Accuracy: 0.2850 (0.2962)
+F1 score: 0.0307 (0.0038)
+ROC AUC: 0.5291 (0.0275)
+-- Predicting Stomach with Brain_Cerebellum community 9
+Accuracy: 0.1564 (0.0861)
+F1 score: 0.0446 (0.0030)
+ROC AUC: 0.4938 (0.0158)
+-- Predicting Testis with Brain_Cerebellum community 9
+Accuracy: 0.2191 (0.1922)
+F1 score: 0.0338 (0.0078)
+ROC AUC: 0.4365 (0.0679)
+-- Predicting Thyroid with Brain_Cerebellum community 9
+Accuracy: 0.2730 (0.2706)
+F1 score: 0.0740 (0.0018)
+ROC AUC: 0.5305 (0.0324)
+-- Predicting Uterus with Brain_Cerebellum community 9
+Accuracy: 0.2757 (0.1833)
+F1 score: 0.0171 (0.0023)
+ROC AUC: 0.4926 (0.0525)
+-- Predicting Vagina with Brain_Cerebellum community 9
+Accuracy: 0.1995 (0.1701)
+F1 score: 0.0164 (0.0033)
+ROC AUC: 0.4440 (0.0404)
+-- Predicting Whole_Blood with Brain_Cerebellum community 9
+Accuracy: 0.1896 (0.1361)
+F1 score: 0.0810 (0.0065)
+ROC AUC: 0.4586 (0.0318)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 10
+Accuracy: 0.7469 (0.0336)
+F1 score: 0.2330 (0.0226)
+ROC AUC: 0.8769 (0.0176)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 10
+Accuracy: 0.5443 (0.1226)
+F1 score: 0.1096 (0.0258)
+ROC AUC: 0.7383 (0.0625)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 10
+Accuracy: 0.5657 (0.1029)
+F1 score: 0.0548 (0.0113)
+ROC AUC: 0.7186 (0.0651)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 10
+Accuracy: 0.5421 (0.1195)
+F1 score: 0.0989 (0.0279)
+ROC AUC: 0.7367 (0.0641)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 10
+Accuracy: 0.5352 (0.1020)
+F1 score: 0.0510 (0.0086)
+ROC AUC: 0.7118 (0.0647)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 10
+Accuracy: 0.7375 (0.0342)
+F1 score: 0.2277 (0.0242)
+ROC AUC: 0.8771 (0.0169)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 10
+Accuracy: 0.9023 (0.0692)
+F1 score: 0.3841 (0.3967)
+ROC AUC: 0.9516 (0.0344)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 10
+Accuracy: 0.6785 (0.0884)
+F1 score: 0.0582 (0.0166)
+ROC AUC: 0.8548 (0.0250)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 10
+Accuracy: 0.9072 (0.0657)
+F1 score: 0.4341 (0.3948)
+ROC AUC: 0.9507 (0.0349)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 10
+Accuracy: 0.5411 (0.1044)
+F1 score: 0.0454 (0.0095)
+ROC AUC: 0.7191 (0.0384)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 10
+Accuracy: 0.5341 (0.1026)
+F1 score: 0.0541 (0.0131)
+ROC AUC: 0.7261 (0.0641)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 10
+Accuracy: 0.9977 (0.0007)
+F1 score: 0.9212 (0.0206)
+ROC AUC: 0.9998 (0.0000)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 10
+Accuracy: 0.6892 (0.0796)
+F1 score: 0.0689 (0.0147)
+ROC AUC: 0.8541 (0.0152)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 10
+Accuracy: 0.9052 (0.0885)
+F1 score: 0.3604 (0.2666)
+ROC AUC: 0.9541 (0.0440)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 10
+Accuracy: 0.9052 (0.0889)
+F1 score: 0.3756 (0.2856)
+ROC AUC: 0.9528 (0.0468)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 10
+Accuracy: 0.9917 (0.0117)
+F1 score: 0.8397 (0.2267)
+ROC AUC: 0.9957 (0.0060)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 10
+Accuracy: 0.9056 (0.0670)
+F1 score: 0.4215 (0.4030)
+ROC AUC: 0.9469 (0.0384)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 10
+Accuracy: 0.9867 (0.0188)
+F1 score: 0.7646 (0.3330)
+ROC AUC: 0.9936 (0.0091)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 10
+Accuracy: 0.9015 (0.0875)
+F1 score: 0.3414 (0.3237)
+ROC AUC: 0.9525 (0.0437)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 10
+Accuracy: 0.5417 (0.1172)
+F1 score: 0.1008 (0.0245)
+ROC AUC: 0.7333 (0.0607)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 10
+Accuracy: 0.7285 (0.0471)
+F1 score: 0.1910 (0.0277)
+ROC AUC: 0.8746 (0.0356)
+-- Predicting Cells_EBV with Brain_Cerebellum community 10
+Accuracy: 0.7344 (0.0463)
+F1 score: 0.0687 (0.0108)
+ROC AUC: 0.8546 (0.0367)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 10
+Accuracy: 0.5406 (0.0916)
+F1 score: 0.0778 (0.0126)
+ROC AUC: 0.7289 (0.0579)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 10
+Accuracy: 0.5481 (0.0893)
+F1 score: 0.0891 (0.0146)
+ROC AUC: 0.7311 (0.0579)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 10
+Accuracy: 0.7390 (0.0484)
+F1 score: 0.1461 (0.0216)
+ROC AUC: 0.8709 (0.0267)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 10
+Accuracy: 0.5474 (0.0907)
+F1 score: 0.1213 (0.0249)
+ROC AUC: 0.7282 (0.0626)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 10
+Accuracy: 0.5479 (0.0910)
+F1 score: 0.1136 (0.0210)
+ROC AUC: 0.7349 (0.0601)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 10
+Accuracy: 0.7144 (0.0495)
+F1 score: 0.1484 (0.0231)
+ROC AUC: 0.8673 (0.0337)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 10
+Accuracy: 0.9219 (0.0567)
+F1 score: 0.5214 (0.2969)
+ROC AUC: 0.9591 (0.0307)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 10
+Accuracy: 0.5613 (0.0949)
+F1 score: 0.0181 (0.0021)
+ROC AUC: 0.6889 (0.0289)
+-- Predicting Liver with Brain_Cerebellum community 10
+Accuracy: 0.5336 (0.0825)
+F1 score: 0.0524 (0.0097)
+ROC AUC: 0.7262 (0.0623)
+-- Predicting Lung with Brain_Cerebellum community 10
+Accuracy: 0.5441 (0.0922)
+F1 score: 0.1205 (0.0212)
+ROC AUC: 0.7353 (0.0441)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 10
+Accuracy: 0.5440 (0.0843)
+F1 score: 0.0346 (0.0048)
+ROC AUC: 0.7128 (0.0581)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 10
+Accuracy: 0.9430 (0.0384)
+F1 score: 0.6733 (0.2083)
+ROC AUC: 0.9702 (0.0213)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 10
+Accuracy: 0.5457 (0.0787)
+F1 score: 0.1245 (0.0184)
+ROC AUC: 0.7381 (0.0429)
+-- Predicting Ovary with Brain_Cerebellum community 10
+Accuracy: 0.5394 (0.0899)
+F1 score: 0.0412 (0.0076)
+ROC AUC: 0.7148 (0.0352)
+-- Predicting Pancreas with Brain_Cerebellum community 10
+Accuracy: 0.5501 (0.0757)
+F1 score: 0.0817 (0.0136)
+ROC AUC: 0.7397 (0.0513)
+-- Predicting Pituitary with Brain_Cerebellum community 10
+Accuracy: 0.5442 (0.0836)
+F1 score: 0.0558 (0.0087)
+ROC AUC: 0.7189 (0.0361)
+-- Predicting Prostate with Brain_Cerebellum community 10
+Accuracy: 0.5358 (0.0800)
+F1 score: 0.0517 (0.0085)
+ROC AUC: 0.7180 (0.0651)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 10
+Accuracy: 0.7321 (0.1039)
+F1 score: 0.2249 (0.0867)
+ROC AUC: 0.8768 (0.0424)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 10
+Accuracy: 0.7525 (0.1024)
+F1 score: 0.2752 (0.1118)
+ROC AUC: 0.8760 (0.0501)
+-- Predicting Small_Intestine with Brain_Cerebellum community 10
+Accuracy: 0.5384 (0.0821)
+F1 score: 0.0464 (0.0073)
+ROC AUC: 0.7317 (0.0557)
+-- Predicting Spleen with Brain_Cerebellum community 10
+Accuracy: 0.5396 (0.0792)
+F1 score: 0.0547 (0.0122)
+ROC AUC: 0.7192 (0.0607)
+-- Predicting Stomach with Brain_Cerebellum community 10
+Accuracy: 0.5430 (0.0789)
+F1 score: 0.0796 (0.0146)
+ROC AUC: 0.7326 (0.0568)
+-- Predicting Testis with Brain_Cerebellum community 10
+Accuracy: 0.5519 (0.0792)
+F1 score: 0.0832 (0.0161)
+ROC AUC: 0.7424 (0.0413)
+-- Predicting Thyroid with Brain_Cerebellum community 10
+Accuracy: 0.5479 (0.0754)
+F1 score: 0.1387 (0.0214)
+ROC AUC: 0.7377 (0.0427)
+-- Predicting Uterus with Brain_Cerebellum community 10
+Accuracy: 0.5411 (0.0829)
+F1 score: 0.0325 (0.0051)
+ROC AUC: 0.7119 (0.0490)
+-- Predicting Vagina with Brain_Cerebellum community 10
+Accuracy: 0.5556 (0.0797)
+F1 score: 0.0338 (0.0054)
+ROC AUC: 0.6876 (0.0492)
+-- Predicting Whole_Blood with Brain_Cerebellum community 10
+Accuracy: 0.9367 (0.0892)
+F1 score: 0.7705 (0.3198)
+ROC AUC: 0.9754 (0.0348)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 11
+Accuracy: 0.4150 (0.1056)
+F1 score: 0.1174 (0.0167)
+ROC AUC: 0.7250 (0.0405)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 11
+Accuracy: 0.4104 (0.1079)
+F1 score: 0.0968 (0.0147)
+ROC AUC: 0.7332 (0.0214)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 11
+Accuracy: 0.8853 (0.0867)
+F1 score: 0.4316 (0.3893)
+ROC AUC: 0.9739 (0.0324)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 11
+Accuracy: 0.4010 (0.1058)
+F1 score: 0.0797 (0.0116)
+ROC AUC: 0.7231 (0.0166)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 11
+Accuracy: 0.4005 (0.1158)
+F1 score: 0.0452 (0.0075)
+ROC AUC: 0.7318 (0.0208)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 11
+Accuracy: 0.4163 (0.1064)
+F1 score: 0.1190 (0.0176)
+ROC AUC: 0.7037 (0.0462)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 11
+Accuracy: 0.7275 (0.0870)
+F1 score: 0.0625 (0.0173)
+ROC AUC: 0.8615 (0.0418)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 11
+Accuracy: 0.7044 (0.0828)
+F1 score: 0.0650 (0.0184)
+ROC AUC: 0.8565 (0.0405)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 11
+Accuracy: 0.7212 (0.0805)
+F1 score: 0.0832 (0.0222)
+ROC AUC: 0.8567 (0.0368)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 11
+Accuracy: 0.6982 (0.0701)
+F1 score: 0.0745 (0.0168)
+ROC AUC: 0.8436 (0.0257)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 11
+Accuracy: 0.6978 (0.0669)
+F1 score: 0.0875 (0.0204)
+ROC AUC: 0.8404 (0.0309)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 11
+Accuracy: 0.7049 (0.0779)
+F1 score: 0.0864 (0.0219)
+ROC AUC: 0.8551 (0.0347)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 11
+Accuracy: 0.7119 (0.0785)
+F1 score: 0.0770 (0.0197)
+ROC AUC: 0.8566 (0.0434)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 11
+Accuracy: 0.7172 (0.0840)
+F1 score: 0.0715 (0.0188)
+ROC AUC: 0.8582 (0.0413)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 11
+Accuracy: 0.7008 (0.0756)
+F1 score: 0.0727 (0.0203)
+ROC AUC: 0.8515 (0.0475)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 11
+Accuracy: 0.7103 (0.0781)
+F1 score: 0.0847 (0.0216)
+ROC AUC: 0.8531 (0.0491)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 11
+Accuracy: 0.7161 (0.0831)
+F1 score: 0.0722 (0.0204)
+ROC AUC: 0.8540 (0.0488)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 11
+Accuracy: 0.6923 (0.0803)
+F1 score: 0.0533 (0.0149)
+ROC AUC: 0.8390 (0.0521)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 11
+Accuracy: 0.6925 (0.0827)
+F1 score: 0.0482 (0.0145)
+ROC AUC: 0.8516 (0.0321)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 11
+Accuracy: 0.4071 (0.1087)
+F1 score: 0.0827 (0.0127)
+ROC AUC: 0.7289 (0.0189)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 11
+Accuracy: 0.9759 (0.0282)
+F1 score: 0.7915 (0.2081)
+ROC AUC: 0.9998 (0.0002)
+-- Predicting Cells_EBV with Brain_Cerebellum community 11
+Accuracy: 0.9991 (0.0012)
+F1 score: 0.9576 (0.0530)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 11
+Accuracy: 0.3979 (0.1098)
+F1 score: 0.0643 (0.0085)
+ROC AUC: 0.7385 (0.0125)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 11
+Accuracy: 0.4017 (0.1069)
+F1 score: 0.0756 (0.0110)
+ROC AUC: 0.6976 (0.0439)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 11
+Accuracy: 0.4002 (0.1066)
+F1 score: 0.0684 (0.0097)
+ROC AUC: 0.7118 (0.0268)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 11
+Accuracy: 0.4106 (0.1071)
+F1 score: 0.1010 (0.0144)
+ROC AUC: 0.6798 (0.0639)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 11
+Accuracy: 0.4029 (0.1049)
+F1 score: 0.0938 (0.0132)
+ROC AUC: 0.7296 (0.0162)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 11
+Accuracy: 0.7007 (0.1252)
+F1 score: 0.1615 (0.0731)
+ROC AUC: 0.8444 (0.0596)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 11
+Accuracy: 0.4010 (0.1093)
+F1 score: 0.0785 (0.0110)
+ROC AUC: 0.6890 (0.0545)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 11
+Accuracy: 0.3855 (0.1082)
+F1 score: 0.0159 (0.0028)
+ROC AUC: 0.7157 (0.0111)
+-- Predicting Liver with Brain_Cerebellum community 11
+Accuracy: 0.9924 (0.0100)
+F1 score: 0.8383 (0.2000)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Lung with Brain_Cerebellum community 11
+Accuracy: 0.7144 (0.1363)
+F1 score: 0.2225 (0.1113)
+ROC AUC: 0.8552 (0.0686)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 11
+Accuracy: 0.6965 (0.1081)
+F1 score: 0.0624 (0.0238)
+ROC AUC: 0.8572 (0.0474)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 11
+Accuracy: 0.9639 (0.0273)
+F1 score: 0.7573 (0.1768)
+ROC AUC: 0.9892 (0.0151)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 11
+Accuracy: 0.3909 (0.1025)
+F1 score: 0.1035 (0.0138)
+ROC AUC: 0.7085 (0.0443)
+-- Predicting Ovary with Brain_Cerebellum community 11
+Accuracy: 0.3876 (0.1059)
+F1 score: 0.0353 (0.0053)
+ROC AUC: 0.7256 (0.0208)
+-- Predicting Pancreas with Brain_Cerebellum community 11
+Accuracy: 0.9384 (0.0682)
+F1 score: 0.5972 (0.3249)
+ROC AUC: 0.9633 (0.0433)
+-- Predicting Pituitary with Brain_Cerebellum community 11
+Accuracy: 0.7185 (0.0973)
+F1 score: 0.1050 (0.0280)
+ROC AUC: 0.8604 (0.0566)
+-- Predicting Prostate with Brain_Cerebellum community 11
+Accuracy: 0.3962 (0.1098)
+F1 score: 0.0468 (0.0071)
+ROC AUC: 0.7036 (0.0290)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 11
+Accuracy: 0.4063 (0.1050)
+F1 score: 0.1043 (0.0150)
+ROC AUC: 0.7327 (0.0077)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 11
+Accuracy: 0.4159 (0.1057)
+F1 score: 0.1204 (0.0159)
+ROC AUC: 0.6886 (0.0759)
+-- Predicting Small_Intestine with Brain_Cerebellum community 11
+Accuracy: 0.6937 (0.0895)
+F1 score: 0.0748 (0.0210)
+ROC AUC: 0.8459 (0.0528)
+-- Predicting Spleen with Brain_Cerebellum community 11
+Accuracy: 0.6988 (0.0961)
+F1 score: 0.0910 (0.0258)
+ROC AUC: 0.8497 (0.0481)
+-- Predicting Stomach with Brain_Cerebellum community 11
+Accuracy: 0.3898 (0.1075)
+F1 score: 0.0662 (0.0099)
+ROC AUC: 0.7162 (0.0282)
+-- Predicting Testis with Brain_Cerebellum community 11
+Accuracy: 0.7055 (0.0990)
+F1 score: 0.1316 (0.0353)
+ROC AUC: 0.8531 (0.0493)
+-- Predicting Thyroid with Brain_Cerebellum community 11
+Accuracy: 0.3909 (0.1021)
+F1 score: 0.1119 (0.0163)
+ROC AUC: 0.6784 (0.0985)
+-- Predicting Uterus with Brain_Cerebellum community 11
+Accuracy: 0.6942 (0.0984)
+F1 score: 0.0559 (0.0162)
+ROC AUC: 0.8475 (0.0477)
+-- Predicting Vagina with Brain_Cerebellum community 11
+Accuracy: 0.3973 (0.1148)
+F1 score: 0.0296 (0.0042)
+ROC AUC: 0.7271 (0.0314)
+-- Predicting Whole_Blood with Brain_Cerebellum community 11
+Accuracy: 0.9499 (0.0160)
+F1 score: 0.6433 (0.0713)
+ROC AUC: 0.9870 (0.0085)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 12
+Accuracy: 0.4625 (0.0264)
+F1 score: 0.0542 (0.0025)
+ROC AUC: 0.4124 (0.0092)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 12
+Accuracy: 0.5282 (0.0320)
+F1 score: 0.0383 (0.0022)
+ROC AUC: 0.3881 (0.0015)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 12
+Accuracy: 0.4988 (0.0149)
+F1 score: 0.0161 (0.0014)
+ROC AUC: 0.3428 (0.0177)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 12
+Accuracy: 0.4990 (0.0482)
+F1 score: 0.0345 (0.0067)
+ROC AUC: 0.3883 (0.0267)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 12
+Accuracy: 0.5321 (0.0242)
+F1 score: 0.0163 (0.0012)
+ROC AUC: 0.3590 (0.0013)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 12
+Accuracy: 0.5117 (0.0491)
+F1 score: 0.0484 (0.0049)
+ROC AUC: 0.3818 (0.0177)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 12
+Accuracy: 0.4384 (0.0287)
+F1 score: 0.0118 (0.0009)
+ROC AUC: 0.3658 (0.0205)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 12
+Accuracy: 0.4860 (0.0217)
+F1 score: 0.0106 (0.0012)
+ROC AUC: 0.3406 (0.0198)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 12
+Accuracy: 0.5429 (0.0360)
+F1 score: 0.0123 (0.0013)
+ROC AUC: 0.3073 (0.0014)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 12
+Accuracy: 0.4631 (0.0225)
+F1 score: 0.0149 (0.0009)
+ROC AUC: 0.3743 (0.0030)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 12
+Accuracy: 0.5155 (0.0307)
+F1 score: 0.0159 (0.0020)
+ROC AUC: 0.3478 (0.0044)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 12
+Accuracy: 0.5708 (0.0414)
+F1 score: 0.0137 (0.0035)
+ROC AUC: 0.3435 (0.0103)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 12
+Accuracy: 0.5162 (0.0587)
+F1 score: 0.0122 (0.0012)
+ROC AUC: 0.3253 (0.0228)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 12
+Accuracy: 0.4845 (0.0547)
+F1 score: 0.0125 (0.0013)
+ROC AUC: 0.3431 (0.0074)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 12
+Accuracy: 0.4451 (0.0252)
+F1 score: 0.0124 (0.0010)
+ROC AUC: 0.3596 (0.0136)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 12
+Accuracy: 0.4771 (0.0506)
+F1 score: 0.0161 (0.0007)
+ROC AUC: 0.3596 (0.0021)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 12
+Accuracy: 0.5419 (0.0116)
+F1 score: 0.0103 (0.0016)
+ROC AUC: 0.3125 (0.0074)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 12
+Accuracy: 0.3975 (0.0390)
+F1 score: 0.0109 (0.0017)
+ROC AUC: 0.3572 (0.0052)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 12
+Accuracy: 0.4400 (0.0167)
+F1 score: 0.0081 (0.0017)
+ROC AUC: 0.3361 (0.0454)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 12
+Accuracy: 0.4769 (0.0087)
+F1 score: 0.0345 (0.0013)
+ROC AUC: 0.3817 (0.0059)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 12
+Accuracy: 0.4264 (0.0300)
+F1 score: 0.0465 (0.0034)
+ROC AUC: 0.4099 (0.0198)
+-- Predicting Cells_EBV with Brain_Cerebellum community 12
+Accuracy: 0.5925 (0.0466)
+F1 score: 0.0131 (0.0017)
+ROC AUC: 0.3546 (0.0187)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 12
+Accuracy: 0.5022 (0.0193)
+F1 score: 0.0221 (0.0030)
+ROC AUC: 0.3441 (0.0253)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 12
+Accuracy: 0.5205 (0.0316)
+F1 score: 0.0313 (0.0035)
+ROC AUC: 0.3872 (0.0156)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 12
+Accuracy: 0.5411 (0.0122)
+F1 score: 0.0257 (0.0016)
+ROC AUC: 0.3627 (0.0017)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 12
+Accuracy: 0.5902 (0.0175)
+F1 score: 0.0337 (0.0024)
+ROC AUC: 0.3496 (0.0234)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 12
+Accuracy: 0.5458 (0.0107)
+F1 score: 0.0368 (0.0039)
+ROC AUC: 0.3688 (0.0060)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 12
+Accuracy: 0.5732 (0.0098)
+F1 score: 0.0255 (0.0031)
+ROC AUC: 0.3423 (0.0126)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 12
+Accuracy: 0.6114 (0.0180)
+F1 score: 0.0309 (0.0035)
+ROC AUC: 0.3595 (0.0122)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 12
+Accuracy: 0.5192 (0.0424)
+F1 score: 0.0041 (0.0003)
+ROC AUC: 0.2902 (0.0333)
+-- Predicting Liver with Brain_Cerebellum community 12
+Accuracy: 0.5283 (0.0084)
+F1 score: 0.0132 (0.0040)
+ROC AUC: 0.3184 (0.0223)
+-- Predicting Lung with Brain_Cerebellum community 12
+Accuracy: 0.5571 (0.0150)
+F1 score: 0.0324 (0.0038)
+ROC AUC: 0.3422 (0.0063)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 12
+Accuracy: 0.5357 (0.0141)
+F1 score: 0.0078 (0.0019)
+ROC AUC: 0.3100 (0.0316)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 12
+Accuracy: 0.5463 (0.0233)
+F1 score: 0.0519 (0.0055)
+ROC AUC: 0.3693 (0.0186)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 12
+Accuracy: 0.4724 (0.0256)
+F1 score: 0.0475 (0.0053)
+ROC AUC: 0.4058 (0.0193)
+-- Predicting Ovary with Brain_Cerebellum community 12
+Accuracy: 0.4444 (0.0181)
+F1 score: 0.0137 (0.0024)
+ROC AUC: 0.3421 (0.0244)
+-- Predicting Pancreas with Brain_Cerebellum community 12
+Accuracy: 0.5444 (0.0204)
+F1 score: 0.0275 (0.0007)
+ROC AUC: 0.3935 (0.0117)
+-- Predicting Pituitary with Brain_Cerebellum community 12
+Accuracy: 0.5374 (0.0277)
+F1 score: 0.0169 (0.0025)
+ROC AUC: 0.3112 (0.0201)
+-- Predicting Prostate with Brain_Cerebellum community 12
+Accuracy: 0.5513 (0.0333)
+F1 score: 0.0153 (0.0009)
+ROC AUC: 0.3328 (0.0133)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 12
+Accuracy: 0.5239 (0.0337)
+F1 score: 0.0424 (0.0043)
+ROC AUC: 0.3739 (0.0212)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 12
+Accuracy: 0.4572 (0.0103)
+F1 score: 0.0516 (0.0034)
+ROC AUC: 0.3883 (0.0095)
+-- Predicting Small_Intestine with Brain_Cerebellum community 12
+Accuracy: 0.5200 (0.0169)
+F1 score: 0.0122 (0.0017)
+ROC AUC: 0.3317 (0.0116)
+-- Predicting Spleen with Brain_Cerebellum community 12
+Accuracy: 0.4898 (0.0331)
+F1 score: 0.0166 (0.0035)
+ROC AUC: 0.3607 (0.0231)
+-- Predicting Stomach with Brain_Cerebellum community 12
+Accuracy: 0.5561 (0.0189)
+F1 score: 0.0234 (0.0024)
+ROC AUC: 0.3456 (0.0138)
+-- Predicting Testis with Brain_Cerebellum community 12
+Accuracy: 0.6109 (0.0362)
+F1 score: 0.0261 (0.0012)
+ROC AUC: 0.3550 (0.0140)
+-- Predicting Thyroid with Brain_Cerebellum community 12
+Accuracy: 0.4994 (0.0298)
+F1 score: 0.0482 (0.0060)
+ROC AUC: 0.3930 (0.0135)
+-- Predicting Uterus with Brain_Cerebellum community 12
+Accuracy: 0.5484 (0.0290)
+F1 score: 0.0086 (0.0007)
+ROC AUC: 0.2921 (0.0061)
+-- Predicting Vagina with Brain_Cerebellum community 12
+Accuracy: 0.5923 (0.0302)
+F1 score: 0.0086 (0.0025)
+ROC AUC: 0.2927 (0.0078)
+-- Predicting Whole_Blood with Brain_Cerebellum community 12
+Accuracy: 0.4330 (0.0188)
+F1 score: 0.0630 (0.0019)
+ROC AUC: 0.4099 (0.0019)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 13
+Accuracy: 0.4514 (0.0216)
+F1 score: 0.0619 (0.0031)
+ROC AUC: 0.4552 (0.0059)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 13
+Accuracy: 0.5283 (0.0235)
+F1 score: 0.0457 (0.0023)
+ROC AUC: 0.4153 (0.0096)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 13
+Accuracy: 0.5064 (0.0035)
+F1 score: 0.0193 (0.0023)
+ROC AUC: 0.3813 (0.0152)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 13
+Accuracy: 0.4825 (0.0350)
+F1 score: 0.0432 (0.0020)
+ROC AUC: 0.4470 (0.0122)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 13
+Accuracy: 0.4540 (0.0261)
+F1 score: 0.0217 (0.0007)
+ROC AUC: 0.4283 (0.0087)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 13
+Accuracy: 0.3965 (0.0127)
+F1 score: 0.0701 (0.0030)
+ROC AUC: 0.4501 (0.0030)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 13
+Accuracy: 0.4836 (0.0428)
+F1 score: 0.0113 (0.0011)
+ROC AUC: 0.3927 (0.0095)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 13
+Accuracy: 0.5216 (0.0312)
+F1 score: 0.0098 (0.0015)
+ROC AUC: 0.3503 (0.0166)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 13
+Accuracy: 0.4773 (0.0312)
+F1 score: 0.0148 (0.0014)
+ROC AUC: 0.3636 (0.0071)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 13
+Accuracy: 0.4641 (0.0130)
+F1 score: 0.0157 (0.0014)
+ROC AUC: 0.3941 (0.0121)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 13
+Accuracy: 0.4721 (0.0290)
+F1 score: 0.0215 (0.0017)
+ROC AUC: 0.4337 (0.0146)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 13
+Accuracy: 0.4872 (0.0453)
+F1 score: 0.0185 (0.0014)
+ROC AUC: 0.3953 (0.0161)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 13
+Accuracy: 0.5436 (0.0228)
+F1 score: 0.0167 (0.0017)
+ROC AUC: 0.3750 (0.0080)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 13
+Accuracy: 0.4944 (0.0676)
+F1 score: 0.0127 (0.0031)
+ROC AUC: 0.3828 (0.0269)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 13
+Accuracy: 0.5187 (0.0436)
+F1 score: 0.0153 (0.0001)
+ROC AUC: 0.3728 (0.0020)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 13
+Accuracy: 0.4537 (0.0571)
+F1 score: 0.0205 (0.0022)
+ROC AUC: 0.4229 (0.0183)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 13
+Accuracy: 0.4711 (0.0613)
+F1 score: 0.0174 (0.0006)
+ROC AUC: 0.4093 (0.0060)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 13
+Accuracy: 0.4700 (0.0312)
+F1 score: 0.0105 (0.0026)
+ROC AUC: 0.3749 (0.0149)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 13
+Accuracy: 0.5323 (0.0369)
+F1 score: 0.0088 (0.0018)
+ROC AUC: 0.3711 (0.0135)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 13
+Accuracy: 0.5374 (0.0173)
+F1 score: 0.0384 (0.0047)
+ROC AUC: 0.4190 (0.0163)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 13
+Accuracy: 0.4598 (0.0549)
+F1 score: 0.0501 (0.0016)
+ROC AUC: 0.4439 (0.0084)
+-- Predicting Cells_EBV with Brain_Cerebellum community 13
+Accuracy: 0.4823 (0.0842)
+F1 score: 0.0129 (0.0009)
+ROC AUC: 0.3810 (0.0202)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 13
+Accuracy: 0.5474 (0.0803)
+F1 score: 0.0328 (0.0069)
+ROC AUC: 0.4336 (0.0255)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 13
+Accuracy: 0.5646 (0.0333)
+F1 score: 0.0376 (0.0010)
+ROC AUC: 0.4150 (0.0078)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 13
+Accuracy: 0.5098 (0.0822)
+F1 score: 0.0307 (0.0045)
+ROC AUC: 0.4009 (0.0266)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 13
+Accuracy: 0.5957 (0.0859)
+F1 score: 0.0483 (0.0002)
+ROC AUC: 0.4254 (0.0068)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 13
+Accuracy: 0.4764 (0.0582)
+F1 score: 0.0513 (0.0024)
+ROC AUC: 0.4452 (0.0048)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 13
+Accuracy: 0.5801 (0.0572)
+F1 score: 0.0351 (0.0017)
+ROC AUC: 0.4036 (0.0108)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 13
+Accuracy: 0.6869 (0.0569)
+F1 score: 0.0400 (0.0038)
+ROC AUC: 0.3994 (0.0303)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 13
+Accuracy: 0.5386 (0.0399)
+F1 score: 0.0053 (0.0013)
+ROC AUC: 0.3196 (0.0417)
+-- Predicting Liver with Brain_Cerebellum community 13
+Accuracy: 0.6423 (0.0648)
+F1 score: 0.0174 (0.0012)
+ROC AUC: 0.3542 (0.0274)
+-- Predicting Lung with Brain_Cerebellum community 13
+Accuracy: 0.4940 (0.0121)
+F1 score: 0.0552 (0.0023)
+ROC AUC: 0.4371 (0.0071)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 13
+Accuracy: 0.4155 (0.0957)
+F1 score: 0.0146 (0.0042)
+ROC AUC: 0.4014 (0.0168)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 13
+Accuracy: 0.3916 (0.0209)
+F1 score: 0.0846 (0.0046)
+ROC AUC: 0.4582 (0.0072)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 13
+Accuracy: 0.4582 (0.0496)
+F1 score: 0.0565 (0.0049)
+ROC AUC: 0.4451 (0.0035)
+-- Predicting Ovary with Brain_Cerebellum community 13
+Accuracy: 0.5863 (0.0718)
+F1 score: 0.0130 (0.0017)
+ROC AUC: 0.3644 (0.0160)
+-- Predicting Pancreas with Brain_Cerebellum community 13
+Accuracy: 0.6071 (0.0728)
+F1 score: 0.0280 (0.0010)
+ROC AUC: 0.3996 (0.0021)
+-- Predicting Pituitary with Brain_Cerebellum community 13
+Accuracy: 0.6654 (0.1192)
+F1 score: 0.0248 (0.0039)
+ROC AUC: 0.3787 (0.0367)
+-- Predicting Prostate with Brain_Cerebellum community 13
+Accuracy: 0.5167 (0.0294)
+F1 score: 0.0202 (0.0013)
+ROC AUC: 0.4106 (0.0094)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 13
+Accuracy: 0.5802 (0.0582)
+F1 score: 0.0572 (0.0022)
+ROC AUC: 0.4336 (0.0051)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 13
+Accuracy: 0.4914 (0.0771)
+F1 score: 0.0663 (0.0033)
+ROC AUC: 0.4496 (0.0057)
+-- Predicting Small_Intestine with Brain_Cerebellum community 13
+Accuracy: 0.6417 (0.0231)
+F1 score: 0.0138 (0.0018)
+ROC AUC: 0.3691 (0.0179)
+-- Predicting Spleen with Brain_Cerebellum community 13
+Accuracy: 0.5436 (0.0219)
+F1 score: 0.0215 (0.0020)
+ROC AUC: 0.3969 (0.0165)
+-- Predicting Stomach with Brain_Cerebellum community 13
+Accuracy: 0.6759 (0.1642)
+F1 score: 0.0376 (0.0050)
+ROC AUC: 0.4026 (0.0296)
+-- Predicting Testis with Brain_Cerebellum community 13
+Accuracy: 0.6704 (0.1148)
+F1 score: 0.0341 (0.0036)
+ROC AUC: 0.3788 (0.0309)
+-- Predicting Thyroid with Brain_Cerebellum community 13
+Accuracy: 0.4500 (0.0745)
+F1 score: 0.0596 (0.0005)
+ROC AUC: 0.4401 (0.0073)
+-- Predicting Uterus with Brain_Cerebellum community 13
+Accuracy: 0.5517 (0.0616)
+F1 score: 0.0118 (0.0009)
+ROC AUC: 0.3714 (0.0008)
+-- Predicting Vagina with Brain_Cerebellum community 13
+Accuracy: 0.5027 (0.0364)
+F1 score: 0.0119 (0.0016)
+ROC AUC: 0.3768 (0.0277)
+-- Predicting Whole_Blood with Brain_Cerebellum community 13
+Accuracy: 0.4341 (0.0550)
+F1 score: 0.0711 (0.0027)
+ROC AUC: 0.4327 (0.0127)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 14
+Accuracy: 0.3175 (0.1409)
+F1 score: 0.0930 (0.0120)
+ROC AUC: 0.6096 (0.0523)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 14
+Accuracy: 0.3154 (0.1455)
+F1 score: 0.0749 (0.0146)
+ROC AUC: 0.5852 (0.0741)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 14
+Accuracy: 0.9200 (0.0989)
+F1 score: 0.5716 (0.3536)
+ROC AUC: 0.9628 (0.0476)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 14
+Accuracy: 0.3142 (0.1532)
+F1 score: 0.0611 (0.0089)
+ROC AUC: 0.5857 (0.0556)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 14
+Accuracy: 0.3233 (0.1562)
+F1 score: 0.0335 (0.0051)
+ROC AUC: 0.5503 (0.0668)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 14
+Accuracy: 0.3055 (0.1473)
+F1 score: 0.0926 (0.0157)
+ROC AUC: 0.5906 (0.0713)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 14
+Accuracy: 0.9903 (0.0136)
+F1 score: 0.7859 (0.2947)
+ROC AUC: 0.9957 (0.0061)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 14
+Accuracy: 0.9914 (0.0120)
+F1 score: 0.8066 (0.2664)
+ROC AUC: 0.9964 (0.0051)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 14
+Accuracy: 0.8659 (0.0919)
+F1 score: 0.2093 (0.0878)
+ROC AUC: 0.9428 (0.0339)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 14
+Accuracy: 0.9154 (0.1038)
+F1 score: 0.5224 (0.3574)
+ROC AUC: 0.9599 (0.0533)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 14
+Accuracy: 0.3149 (0.1214)
+F1 score: 0.0342 (0.0037)
+ROC AUC: 0.5762 (0.0619)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 14
+Accuracy: 0.3651 (0.1011)
+F1 score: 0.0337 (0.0043)
+ROC AUC: 0.5698 (0.0606)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 14
+Accuracy: 0.9159 (0.1041)
+F1 score: 0.5343 (0.3712)
+ROC AUC: 0.9501 (0.0670)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 14
+Accuracy: 0.3419 (0.1051)
+F1 score: 0.0267 (0.0016)
+ROC AUC: 0.5766 (0.0382)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 14
+Accuracy: 0.3082 (0.1430)
+F1 score: 0.0273 (0.0025)
+ROC AUC: 0.5502 (0.0557)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 14
+Accuracy: 0.9163 (0.1008)
+F1 score: 0.5342 (0.3658)
+ROC AUC: 0.9602 (0.0486)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 14
+Accuracy: 0.9996 (0.0003)
+F1 score: 0.9830 (0.0138)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 14
+Accuracy: 0.9214 (0.0644)
+F1 score: 0.2595 (0.1322)
+ROC AUC: 0.9688 (0.0435)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 14
+Accuracy: 0.9127 (0.1103)
+F1 score: 0.4900 (0.3701)
+ROC AUC: 0.9577 (0.0523)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 14
+Accuracy: 0.3277 (0.1675)
+F1 score: 0.0585 (0.0073)
+ROC AUC: 0.5566 (0.0594)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 14
+Accuracy: 0.9823 (0.0186)
+F1 score: 0.8189 (0.1613)
+ROC AUC: 0.9938 (0.0083)
+-- Predicting Cells_EBV with Brain_Cerebellum community 14
+Accuracy: 0.3374 (0.1588)
+F1 score: 0.0206 (0.0008)
+ROC AUC: 0.5482 (0.0396)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 14
+Accuracy: 0.3095 (0.1048)
+F1 score: 0.0513 (0.0094)
+ROC AUC: 0.5696 (0.0746)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 14
+Accuracy: 0.3028 (0.1420)
+F1 score: 0.0569 (0.0052)
+ROC AUC: 0.5882 (0.0245)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 14
+Accuracy: 0.2986 (0.1235)
+F1 score: 0.0499 (0.0042)
+ROC AUC: 0.5681 (0.0428)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 14
+Accuracy: 0.3271 (0.1428)
+F1 score: 0.0772 (0.0065)
+ROC AUC: 0.5911 (0.0324)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 14
+Accuracy: 0.2939 (0.1193)
+F1 score: 0.0736 (0.0094)
+ROC AUC: 0.5869 (0.0601)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 14
+Accuracy: 0.3120 (0.1214)
+F1 score: 0.0580 (0.0081)
+ROC AUC: 0.5698 (0.0492)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 14
+Accuracy: 0.8765 (0.1260)
+F1 score: 0.4759 (0.2793)
+ROC AUC: 0.9550 (0.0441)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 14
+Accuracy: 0.9680 (0.0244)
+F1 score: 0.4433 (0.3805)
+ROC AUC: 0.9995 (0.0007)
+-- Predicting Liver with Brain_Cerebellum community 14
+Accuracy: 0.8918 (0.1048)
+F1 score: 0.3456 (0.2019)
+ROC AUC: 0.9913 (0.0097)
+-- Predicting Lung with Brain_Cerebellum community 14
+Accuracy: 0.2984 (0.1229)
+F1 score: 0.0819 (0.0095)
+ROC AUC: 0.5984 (0.0390)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 14
+Accuracy: 0.3736 (0.1139)
+F1 score: 0.0206 (0.0015)
+ROC AUC: 0.5433 (0.0359)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 14
+Accuracy: 0.3220 (0.1164)
+F1 score: 0.1107 (0.0120)
+ROC AUC: 0.6004 (0.0484)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 14
+Accuracy: 0.2997 (0.1321)
+F1 score: 0.0840 (0.0128)
+ROC AUC: 0.5952 (0.0510)
+-- Predicting Ovary with Brain_Cerebellum community 14
+Accuracy: 0.8521 (0.1122)
+F1 score: 0.2617 (0.2267)
+ROC AUC: 0.9736 (0.0284)
+-- Predicting Pancreas with Brain_Cerebellum community 14
+Accuracy: 0.9947 (0.0070)
+F1 score: 0.9022 (0.1249)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Pituitary with Brain_Cerebellum community 14
+Accuracy: 0.8495 (0.1049)
+F1 score: 0.2498 (0.1481)
+ROC AUC: 0.9713 (0.0291)
+-- Predicting Prostate with Brain_Cerebellum community 14
+Accuracy: 0.8499 (0.1063)
+F1 score: 0.2483 (0.1602)
+ROC AUC: 0.9721 (0.0267)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 14
+Accuracy: 0.3035 (0.1059)
+F1 score: 0.0903 (0.0141)
+ROC AUC: 0.6111 (0.0421)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 14
+Accuracy: 0.3359 (0.0909)
+F1 score: 0.1079 (0.0137)
+ROC AUC: 0.6212 (0.0256)
+-- Predicting Small_Intestine with Brain_Cerebellum community 14
+Accuracy: 0.3581 (0.0952)
+F1 score: 0.0244 (0.0038)
+ROC AUC: 0.5415 (0.0559)
+-- Predicting Spleen with Brain_Cerebellum community 14
+Accuracy: 0.9342 (0.0434)
+F1 score: 0.3860 (0.1718)
+ROC AUC: 0.9743 (0.0269)
+-- Predicting Stomach with Brain_Cerebellum community 14
+Accuracy: 0.3100 (0.1178)
+F1 score: 0.0498 (0.0055)
+ROC AUC: 0.5633 (0.0512)
+-- Predicting Testis with Brain_Cerebellum community 14
+Accuracy: 0.3308 (0.1428)
+F1 score: 0.0445 (0.0034)
+ROC AUC: 0.5571 (0.0412)
+-- Predicting Thyroid with Brain_Cerebellum community 14
+Accuracy: 0.3022 (0.1307)
+F1 score: 0.0928 (0.0120)
+ROC AUC: 0.6053 (0.0308)
+-- Predicting Uterus with Brain_Cerebellum community 14
+Accuracy: 0.3375 (0.1062)
+F1 score: 0.0206 (0.0024)
+ROC AUC: 0.5743 (0.0321)
+-- Predicting Vagina with Brain_Cerebellum community 14
+Accuracy: 0.3598 (0.1205)
+F1 score: 0.0233 (0.0014)
+ROC AUC: 0.5795 (0.0160)
+-- Predicting Whole_Blood with Brain_Cerebellum community 14
+Accuracy: 0.3140 (0.1270)
+F1 score: 0.0991 (0.0081)
+ROC AUC: 0.5962 (0.0366)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 15
+Accuracy: 0.2164 (0.1571)
+F1 score: 0.0708 (0.0046)
+ROC AUC: 0.5015 (0.0054)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 15
+Accuracy: 0.1399 (0.0482)
+F1 score: 0.0617 (0.0026)
+ROC AUC: 0.5065 (0.0059)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 15
+Accuracy: 0.3313 (0.1812)
+F1 score: 0.0276 (0.0019)
+ROC AUC: 0.4718 (0.0099)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 15
+Accuracy: 0.1550 (0.1205)
+F1 score: 0.0508 (0.0011)
+ROC AUC: 0.5097 (0.0435)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 15
+Accuracy: 0.2935 (0.2259)
+F1 score: 0.0275 (0.0012)
+ROC AUC: 0.4870 (0.0069)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 15
+Accuracy: 0.2447 (0.2212)
+F1 score: 0.0684 (0.0085)
+ROC AUC: 0.5025 (0.0141)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 15
+Accuracy: 0.3717 (0.1336)
+F1 score: 0.0154 (0.0019)
+ROC AUC: 0.4761 (0.0338)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 15
+Accuracy: 0.4115 (0.0727)
+F1 score: 0.0165 (0.0035)
+ROC AUC: 0.4467 (0.0378)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 15
+Accuracy: 0.4912 (0.0532)
+F1 score: 0.0203 (0.0019)
+ROC AUC: 0.4253 (0.0266)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 15
+Accuracy: 0.4662 (0.0595)
+F1 score: 0.0193 (0.0015)
+ROC AUC: 0.4575 (0.0421)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 15
+Accuracy: 0.2198 (0.1016)
+F1 score: 0.0273 (0.0012)
+ROC AUC: 0.5017 (0.0195)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 15
+Accuracy: 0.3103 (0.1366)
+F1 score: 0.0241 (0.0009)
+ROC AUC: 0.4819 (0.0215)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 15
+Accuracy: 0.4536 (0.0961)
+F1 score: 0.0183 (0.0018)
+ROC AUC: 0.4462 (0.0195)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 15
+Accuracy: 0.3525 (0.1071)
+F1 score: 0.0180 (0.0022)
+ROC AUC: 0.4584 (0.0162)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 15
+Accuracy: 0.3741 (0.1916)
+F1 score: 0.0183 (0.0036)
+ROC AUC: 0.4593 (0.0331)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 15
+Accuracy: 0.2731 (0.1059)
+F1 score: 0.0257 (0.0007)
+ROC AUC: 0.4711 (0.0066)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 15
+Accuracy: 0.2554 (0.1110)
+F1 score: 0.0202 (0.0005)
+ROC AUC: 0.4757 (0.0350)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 15
+Accuracy: 0.3781 (0.0976)
+F1 score: 0.0134 (0.0018)
+ROC AUC: 0.4371 (0.0239)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 15
+Accuracy: 0.3858 (0.0269)
+F1 score: 0.0123 (0.0015)
+ROC AUC: 0.4350 (0.0421)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 15
+Accuracy: 0.2071 (0.1452)
+F1 score: 0.0499 (0.0018)
+ROC AUC: 0.4987 (0.0134)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 15
+Accuracy: 0.9993 (0.0007)
+F1 score: 0.9889 (0.0114)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Cerebellum community 15
+Accuracy: 0.5483 (0.0596)
+F1 score: 0.0157 (0.0015)
+ROC AUC: 0.4375 (0.0413)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 15
+Accuracy: 0.2943 (0.1376)
+F1 score: 0.0342 (0.0030)
+ROC AUC: 0.4397 (0.0207)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 15
+Accuracy: 0.4056 (0.0376)
+F1 score: 0.0367 (0.0038)
+ROC AUC: 0.4342 (0.0273)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 15
+Accuracy: 0.2683 (0.1360)
+F1 score: 0.0374 (0.0042)
+ROC AUC: 0.4329 (0.0226)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 15
+Accuracy: 0.2235 (0.1357)
+F1 score: 0.0564 (0.0062)
+ROC AUC: 0.4385 (0.0394)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 15
+Accuracy: 0.2154 (0.1701)
+F1 score: 0.0554 (0.0070)
+ROC AUC: 0.4469 (0.0321)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 15
+Accuracy: 0.1548 (0.1263)
+F1 score: 0.0464 (0.0036)
+ROC AUC: 0.4673 (0.0219)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 15
+Accuracy: 0.2586 (0.0954)
+F1 score: 0.0502 (0.0004)
+ROC AUC: 0.4723 (0.0200)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 15
+Accuracy: 0.3819 (0.1538)
+F1 score: 0.0077 (0.0013)
+ROC AUC: 0.4013 (0.0215)
+-- Predicting Liver with Brain_Cerebellum community 15
+Accuracy: 0.2906 (0.0650)
+F1 score: 0.0249 (0.0006)
+ROC AUC: 0.4362 (0.0071)
+-- Predicting Lung with Brain_Cerebellum community 15
+Accuracy: 0.2320 (0.2281)
+F1 score: 0.0644 (0.0027)
+ROC AUC: 0.5022 (0.0274)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 15
+Accuracy: 0.2972 (0.1096)
+F1 score: 0.0153 (0.0010)
+ROC AUC: 0.4203 (0.0446)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 15
+Accuracy: 0.2939 (0.1431)
+F1 score: 0.0754 (0.0114)
+ROC AUC: 0.4432 (0.0479)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 15
+Accuracy: 0.2792 (0.1996)
+F1 score: 0.0634 (0.0035)
+ROC AUC: 0.4855 (0.0248)
+-- Predicting Ovary with Brain_Cerebellum community 15
+Accuracy: 0.3198 (0.1225)
+F1 score: 0.0160 (0.0032)
+ROC AUC: 0.4163 (0.0489)
+-- Predicting Pancreas with Brain_Cerebellum community 15
+Accuracy: 0.4546 (0.0978)
+F1 score: 0.0293 (0.0048)
+ROC AUC: 0.4024 (0.0396)
+-- Predicting Pituitary with Brain_Cerebellum community 15
+Accuracy: 0.3739 (0.2414)
+F1 score: 0.0261 (0.0040)
+ROC AUC: 0.4709 (0.0042)
+-- Predicting Prostate with Brain_Cerebellum community 15
+Accuracy: 0.3648 (0.0300)
+F1 score: 0.0237 (0.0012)
+ROC AUC: 0.4276 (0.0208)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 15
+Accuracy: 0.2485 (0.0985)
+F1 score: 0.0580 (0.0029)
+ROC AUC: 0.4552 (0.0407)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 15
+Accuracy: 0.3765 (0.0567)
+F1 score: 0.0650 (0.0064)
+ROC AUC: 0.4495 (0.0193)
+-- Predicting Small_Intestine with Brain_Cerebellum community 15
+Accuracy: 0.4937 (0.0716)
+F1 score: 0.0169 (0.0033)
+ROC AUC: 0.4328 (0.0603)
+-- Predicting Spleen with Brain_Cerebellum community 15
+Accuracy: 0.2177 (0.1456)
+F1 score: 0.0295 (0.0016)
+ROC AUC: 0.4505 (0.0374)
+-- Predicting Stomach with Brain_Cerebellum community 15
+Accuracy: 0.2961 (0.1296)
+F1 score: 0.0343 (0.0042)
+ROC AUC: 0.4387 (0.0482)
+-- Predicting Testis with Brain_Cerebellum community 15
+Accuracy: 0.3928 (0.1276)
+F1 score: 0.0350 (0.0033)
+ROC AUC: 0.4273 (0.0336)
+-- Predicting Thyroid with Brain_Cerebellum community 15
+Accuracy: 0.1864 (0.1466)
+F1 score: 0.0745 (0.0005)
+ROC AUC: 0.5067 (0.0300)
+-- Predicting Uterus with Brain_Cerebellum community 15
+Accuracy: 0.4725 (0.0709)
+F1 score: 0.0117 (0.0018)
+ROC AUC: 0.4000 (0.0356)
+-- Predicting Vagina with Brain_Cerebellum community 15
+Accuracy: 0.2818 (0.1368)
+F1 score: 0.0157 (0.0029)
+ROC AUC: 0.4327 (0.0383)
+-- Predicting Whole_Blood with Brain_Cerebellum community 15
+Accuracy: 0.2369 (0.1084)
+F1 score: 0.0813 (0.0092)
+ROC AUC: 0.4296 (0.0283)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 16
+Accuracy: 0.8738 (0.0529)
+F1 score: 0.4108 (0.1295)
+ROC AUC: 0.9504 (0.0270)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 16
+Accuracy: 0.8695 (0.0586)
+F1 score: 0.3602 (0.1301)
+ROC AUC: 0.9462 (0.0342)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 16
+Accuracy: 0.8486 (0.0774)
+F1 score: 0.2144 (0.1130)
+ROC AUC: 0.9394 (0.0426)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 16
+Accuracy: 0.7030 (0.1223)
+F1 score: 0.1722 (0.0746)
+ROC AUC: 0.8449 (0.0693)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 16
+Accuracy: 0.6916 (0.1285)
+F1 score: 0.1024 (0.0506)
+ROC AUC: 0.8394 (0.0696)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 16
+Accuracy: 0.7161 (0.1157)
+F1 score: 0.2413 (0.0896)
+ROC AUC: 0.8534 (0.0552)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 16
+Accuracy: 0.6860 (0.1315)
+F1 score: 0.0646 (0.0340)
+ROC AUC: 0.8408 (0.0732)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 16
+Accuracy: 0.6872 (0.1308)
+F1 score: 0.0730 (0.0379)
+ROC AUC: 0.8546 (0.0595)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 16
+Accuracy: 0.9996 (0.0002)
+F1 score: 0.9848 (0.0062)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 16
+Accuracy: 0.9065 (0.0216)
+F1 score: 0.2033 (0.0466)
+ROC AUC: 0.9728 (0.0063)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 16
+Accuracy: 0.5699 (0.2264)
+F1 score: 0.0724 (0.0329)
+ROC AUC: 0.7817 (0.1164)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 16
+Accuracy: 0.9046 (0.0228)
+F1 score: 0.2280 (0.0463)
+ROC AUC: 0.9689 (0.0132)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 16
+Accuracy: 0.9095 (0.1021)
+F1 score: 0.4146 (0.2499)
+ROC AUC: 0.9706 (0.0324)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 16
+Accuracy: 0.9540 (0.0534)
+F1 score: 0.5565 (0.3221)
+ROC AUC: 0.9792 (0.0277)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 16
+Accuracy: 0.9362 (0.0705)
+F1 score: 0.4520 (0.2358)
+ROC AUC: 0.9860 (0.0144)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 16
+Accuracy: 0.6909 (0.1289)
+F1 score: 0.0975 (0.0483)
+ROC AUC: 0.8415 (0.0676)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 16
+Accuracy: 0.6887 (0.1301)
+F1 score: 0.0831 (0.0418)
+ROC AUC: 0.8372 (0.0675)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 16
+Accuracy: 0.6858 (0.1316)
+F1 score: 0.0632 (0.0334)
+ROC AUC: 0.8442 (0.0670)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 16
+Accuracy: 0.6850 (0.1321)
+F1 score: 0.0576 (0.0307)
+ROC AUC: 0.8328 (0.0798)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 16
+Accuracy: 0.6168 (0.2367)
+F1 score: 0.1755 (0.1178)
+ROC AUC: 0.8097 (0.1196)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 16
+Accuracy: 0.7094 (0.1286)
+F1 score: 0.2090 (0.0839)
+ROC AUC: 0.8464 (0.0652)
+-- Predicting Cells_EBV with Brain_Cerebellum community 16
+Accuracy: 0.9531 (0.0369)
+F1 score: 0.4544 (0.3173)
+ROC AUC: 0.9790 (0.0177)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 16
+Accuracy: 0.5922 (0.2379)
+F1 score: 0.1155 (0.0576)
+ROC AUC: 0.8069 (0.0881)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 16
+Accuracy: 0.6068 (0.2246)
+F1 score: 0.1353 (0.0623)
+ROC AUC: 0.8092 (0.0951)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 16
+Accuracy: 0.8634 (0.1059)
+F1 score: 0.3203 (0.1365)
+ROC AUC: 0.9423 (0.0650)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 16
+Accuracy: 0.6026 (0.2166)
+F1 score: 0.1627 (0.0691)
+ROC AUC: 0.8027 (0.1058)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 16
+Accuracy: 0.9730 (0.0195)
+F1 score: 0.7316 (0.1736)
+ROC AUC: 0.9883 (0.0082)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 16
+Accuracy: 0.7021 (0.1289)
+F1 score: 0.1675 (0.0731)
+ROC AUC: 0.8447 (0.0734)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 16
+Accuracy: 0.7030 (0.1288)
+F1 score: 0.1727 (0.0740)
+ROC AUC: 0.8500 (0.0709)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 16
+Accuracy: 0.9359 (0.0618)
+F1 score: 0.4070 (0.4079)
+ROC AUC: 0.9860 (0.0100)
+-- Predicting Liver with Brain_Cerebellum community 16
+Accuracy: 0.5967 (0.1849)
+F1 score: 0.0731 (0.0298)
+ROC AUC: 0.7996 (0.0933)
+-- Predicting Lung with Brain_Cerebellum community 16
+Accuracy: 0.6062 (0.2203)
+F1 score: 0.1734 (0.0760)
+ROC AUC: 0.8007 (0.1136)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 16
+Accuracy: 0.5669 (0.2511)
+F1 score: 0.0558 (0.0298)
+ROC AUC: 0.7833 (0.1132)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 16
+Accuracy: 0.7241 (0.1302)
+F1 score: 0.2854 (0.0978)
+ROC AUC: 0.8524 (0.0695)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 16
+Accuracy: 0.9307 (0.0666)
+F1 score: 0.6292 (0.2821)
+ROC AUC: 0.9868 (0.0095)
+-- Predicting Ovary with Brain_Cerebellum community 16
+Accuracy: 0.5532 (0.2058)
+F1 score: 0.0509 (0.0195)
+ROC AUC: 0.7794 (0.0873)
+-- Predicting Pancreas with Brain_Cerebellum community 16
+Accuracy: 0.5862 (0.2055)
+F1 score: 0.1077 (0.0512)
+ROC AUC: 0.7938 (0.0922)
+-- Predicting Pituitary with Brain_Cerebellum community 16
+Accuracy: 0.5505 (0.2328)
+F1 score: 0.0756 (0.0352)
+ROC AUC: 0.7873 (0.0859)
+-- Predicting Prostate with Brain_Cerebellum community 16
+Accuracy: 0.5619 (0.2279)
+F1 score: 0.0734 (0.0363)
+ROC AUC: 0.7864 (0.1006)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 16
+Accuracy: 0.9090 (0.0929)
+F1 score: 0.5668 (0.2411)
+ROC AUC: 0.9717 (0.0304)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 16
+Accuracy: 0.9146 (0.0848)
+F1 score: 0.6004 (0.2321)
+ROC AUC: 0.9744 (0.0260)
+-- Predicting Small_Intestine with Brain_Cerebellum community 16
+Accuracy: 0.5687 (0.1992)
+F1 score: 0.0583 (0.0250)
+ROC AUC: 0.7997 (0.0889)
+-- Predicting Spleen with Brain_Cerebellum community 16
+Accuracy: 0.8502 (0.1144)
+F1 score: 0.3623 (0.3334)
+ROC AUC: 0.9449 (0.0564)
+-- Predicting Stomach with Brain_Cerebellum community 16
+Accuracy: 0.5689 (0.2370)
+F1 score: 0.1145 (0.0614)
+ROC AUC: 0.7860 (0.1012)
+-- Predicting Testis with Brain_Cerebellum community 16
+Accuracy: 0.5782 (0.2183)
+F1 score: 0.1091 (0.0560)
+ROC AUC: 0.7994 (0.0916)
+-- Predicting Thyroid with Brain_Cerebellum community 16
+Accuracy: 0.5832 (0.1906)
+F1 score: 0.1721 (0.0724)
+ROC AUC: 0.7846 (0.0940)
+-- Predicting Uterus with Brain_Cerebellum community 16
+Accuracy: 0.8970 (0.0082)
+F1 score: 0.1411 (0.0085)
+ROC AUC: 0.9710 (0.0129)
+-- Predicting Vagina with Brain_Cerebellum community 16
+Accuracy: 0.5388 (0.1996)
+F1 score: 0.0410 (0.0152)
+ROC AUC: 0.7619 (0.1082)
+-- Predicting Whole_Blood with Brain_Cerebellum community 16
+Accuracy: 0.7215 (0.1542)
+F1 score: 0.3083 (0.1657)
+ROC AUC: 0.8523 (0.0813)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 17
+Accuracy: 0.5802 (0.1461)
+F1 score: 0.1646 (0.0600)
+ROC AUC: 0.7729 (0.0835)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 17
+Accuracy: 0.5783 (0.1375)
+F1 score: 0.1325 (0.0454)
+ROC AUC: 0.7747 (0.0714)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 17
+Accuracy: 0.9061 (0.1041)
+F1 score: 0.4896 (0.3383)
+ROC AUC: 0.9495 (0.0567)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 17
+Accuracy: 0.6794 (0.1804)
+F1 score: 0.2134 (0.1573)
+ROC AUC: 0.8633 (0.0817)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 17
+Accuracy: 0.6680 (0.1803)
+F1 score: 0.1268 (0.0980)
+ROC AUC: 0.8105 (0.1113)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 17
+Accuracy: 0.6929 (0.1811)
+F1 score: 0.2996 (0.2109)
+ROC AUC: 0.8211 (0.1101)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 17
+Accuracy: 0.9590 (0.0573)
+F1 score: 0.6891 (0.4015)
+ROC AUC: 0.9811 (0.0267)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 17
+Accuracy: 0.9602 (0.0556)
+F1 score: 0.6973 (0.3943)
+ROC AUC: 0.9823 (0.0250)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 17
+Accuracy: 0.8719 (0.0992)
+F1 score: 0.4060 (0.3996)
+ROC AUC: 0.9594 (0.0297)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 17
+Accuracy: 0.6660 (0.1811)
+F1 score: 0.1071 (0.0841)
+ROC AUC: 0.8380 (0.0867)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 17
+Accuracy: 0.9048 (0.1034)
+F1 score: 0.4761 (0.3646)
+ROC AUC: 0.9510 (0.0543)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 17
+Accuracy: 0.6682 (0.1809)
+F1 score: 0.1238 (0.0964)
+ROC AUC: 0.8327 (0.0970)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 17
+Accuracy: 0.9620 (0.0530)
+F1 score: 0.7099 (0.3814)
+ROC AUC: 0.9822 (0.0251)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 17
+Accuracy: 0.9614 (0.0539)
+F1 score: 0.7052 (0.3866)
+ROC AUC: 0.9813 (0.0265)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 17
+Accuracy: 0.8709 (0.1008)
+F1 score: 0.3903 (0.3964)
+ROC AUC: 0.9586 (0.0294)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 17
+Accuracy: 0.8726 (0.0982)
+F1 score: 0.4008 (0.3840)
+ROC AUC: 0.9610 (0.0293)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 17
+Accuracy: 0.5621 (0.1058)
+F1 score: 0.0491 (0.0128)
+ROC AUC: 0.7644 (0.0619)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 17
+Accuracy: 0.9588 (0.0575)
+F1 score: 0.6877 (0.4026)
+ROC AUC: 0.9823 (0.0250)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 17
+Accuracy: 0.8665 (0.1050)
+F1 score: 0.3477 (0.3850)
+ROC AUC: 0.9590 (0.0299)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 17
+Accuracy: 0.5731 (0.1320)
+F1 score: 0.1125 (0.0365)
+ROC AUC: 0.7729 (0.0676)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 17
+Accuracy: 0.6857 (0.1803)
+F1 score: 0.2557 (0.1835)
+ROC AUC: 0.8651 (0.0761)
+-- Predicting Cells_EBV with Brain_Cerebellum community 17
+Accuracy: 0.6641 (0.1809)
+F1 score: 0.0914 (0.0726)
+ROC AUC: 0.8420 (0.0892)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 17
+Accuracy: 0.6749 (0.1799)
+F1 score: 0.1804 (0.1354)
+ROC AUC: 0.8101 (0.1127)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 17
+Accuracy: 0.5630 (0.1024)
+F1 score: 0.0980 (0.0219)
+ROC AUC: 0.7674 (0.0508)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 17
+Accuracy: 0.5599 (0.1051)
+F1 score: 0.0896 (0.0214)
+ROC AUC: 0.7686 (0.0567)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 17
+Accuracy: 0.5712 (0.1101)
+F1 score: 0.1351 (0.0282)
+ROC AUC: 0.7807 (0.0542)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 17
+Accuracy: 0.5704 (0.1048)
+F1 score: 0.1254 (0.0282)
+ROC AUC: 0.7707 (0.0581)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 17
+Accuracy: 0.6786 (0.1801)
+F1 score: 0.2064 (0.1528)
+ROC AUC: 0.8020 (0.1202)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 17
+Accuracy: 0.6794 (0.1800)
+F1 score: 0.2122 (0.1562)
+ROC AUC: 0.8501 (0.0854)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 17
+Accuracy: 0.5460 (0.1091)
+F1 score: 0.0210 (0.0060)
+ROC AUC: 0.7674 (0.0420)
+-- Predicting Liver with Brain_Cerebellum community 17
+Accuracy: 0.5530 (0.0987)
+F1 score: 0.0549 (0.0136)
+ROC AUC: 0.7667 (0.0495)
+-- Predicting Lung with Brain_Cerebellum community 17
+Accuracy: 0.5855 (0.0958)
+F1 score: 0.1414 (0.0298)
+ROC AUC: 0.7754 (0.0649)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 17
+Accuracy: 0.5540 (0.1014)
+F1 score: 0.0425 (0.0092)
+ROC AUC: 0.7732 (0.0533)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 17
+Accuracy: 0.7003 (0.1814)
+F1 score: 0.3433 (0.2321)
+ROC AUC: 0.8219 (0.1154)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 17
+Accuracy: 0.6891 (0.1806)
+F1 score: 0.2766 (0.1962)
+ROC AUC: 0.8095 (0.1187)
+-- Predicting Ovary with Brain_Cerebellum community 17
+Accuracy: 0.9032 (0.0840)
+F1 score: 0.4235 (0.3912)
+ROC AUC: 0.9472 (0.0466)
+-- Predicting Pancreas with Brain_Cerebellum community 17
+Accuracy: 0.5738 (0.0910)
+F1 score: 0.0835 (0.0171)
+ROC AUC: 0.7789 (0.0347)
+-- Predicting Pituitary with Brain_Cerebellum community 17
+Accuracy: 0.9067 (0.0772)
+F1 score: 0.4321 (0.3295)
+ROC AUC: 0.9509 (0.0415)
+-- Predicting Prostate with Brain_Cerebellum community 17
+Accuracy: 0.9062 (0.0793)
+F1 score: 0.4413 (0.3651)
+ROC AUC: 0.9496 (0.0447)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 17
+Accuracy: 0.5805 (0.0932)
+F1 score: 0.1390 (0.0286)
+ROC AUC: 0.7811 (0.0482)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 17
+Accuracy: 0.5772 (0.0957)
+F1 score: 0.1598 (0.0365)
+ROC AUC: 0.7783 (0.0565)
+-- Predicting Small_Intestine with Brain_Cerebellum community 17
+Accuracy: 0.5545 (0.0919)
+F1 score: 0.0479 (0.0098)
+ROC AUC: 0.7689 (0.0479)
+-- Predicting Spleen with Brain_Cerebellum community 17
+Accuracy: 0.5596 (0.0870)
+F1 score: 0.0645 (0.0140)
+ROC AUC: 0.7722 (0.0470)
+-- Predicting Stomach with Brain_Cerebellum community 17
+Accuracy: 0.5654 (0.0878)
+F1 score: 0.0860 (0.0176)
+ROC AUC: 0.7673 (0.0529)
+-- Predicting Testis with Brain_Cerebellum community 17
+Accuracy: 0.9198 (0.0662)
+F1 score: 0.5195 (0.3449)
+ROC AUC: 0.9561 (0.0358)
+-- Predicting Thyroid with Brain_Cerebellum community 17
+Accuracy: 0.5607 (0.0890)
+F1 score: 0.1437 (0.0282)
+ROC AUC: 0.7694 (0.0529)
+-- Predicting Uterus with Brain_Cerebellum community 17
+Accuracy: 0.9010 (0.0870)
+F1 score: 0.4019 (0.4004)
+ROC AUC: 0.9482 (0.0485)
+-- Predicting Vagina with Brain_Cerebellum community 17
+Accuracy: 0.9021 (0.0861)
+F1 score: 0.4173 (0.4066)
+ROC AUC: 0.9506 (0.0412)
+-- Predicting Whole_Blood with Brain_Cerebellum community 17
+Accuracy: 0.9041 (0.1309)
+F1 score: 0.7223 (0.3420)
+ROC AUC: 0.9777 (0.0310)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 18
+Accuracy: 0.3814 (0.0334)
+F1 score: 0.0684 (0.0070)
+ROC AUC: 0.4687 (0.0112)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 18
+Accuracy: 0.4004 (0.1382)
+F1 score: 0.0546 (0.0058)
+ROC AUC: 0.4807 (0.0137)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 18
+Accuracy: 0.5591 (0.0624)
+F1 score: 0.0240 (0.0014)
+ROC AUC: 0.4332 (0.0036)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 18
+Accuracy: 0.4087 (0.0100)
+F1 score: 0.0436 (0.0046)
+ROC AUC: 0.4468 (0.0052)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 18
+Accuracy: 0.4310 (0.0420)
+F1 score: 0.0231 (0.0017)
+ROC AUC: 0.4515 (0.0207)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 18
+Accuracy: 0.3787 (0.0357)
+F1 score: 0.0717 (0.0020)
+ROC AUC: 0.4773 (0.0103)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 18
+Accuracy: 0.6012 (0.0320)
+F1 score: 0.0139 (0.0024)
+ROC AUC: 0.3979 (0.0490)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 18
+Accuracy: 0.5512 (0.0322)
+F1 score: 0.0159 (0.0007)
+ROC AUC: 0.4137 (0.0303)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 18
+Accuracy: 0.5742 (0.0360)
+F1 score: 0.0191 (0.0022)
+ROC AUC: 0.4155 (0.0200)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 18
+Accuracy: 0.6666 (0.0821)
+F1 score: 0.0184 (0.0025)
+ROC AUC: 0.4139 (0.0249)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 18
+Accuracy: 0.4919 (0.1294)
+F1 score: 0.0219 (0.0035)
+ROC AUC: 0.4514 (0.0099)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 18
+Accuracy: 0.5529 (0.0209)
+F1 score: 0.0198 (0.0019)
+ROC AUC: 0.4040 (0.0173)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 18
+Accuracy: 0.6767 (0.0127)
+F1 score: 0.0207 (0.0028)
+ROC AUC: 0.4000 (0.0145)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 18
+Accuracy: 0.5027 (0.0410)
+F1 score: 0.0190 (0.0025)
+ROC AUC: 0.4461 (0.0205)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 18
+Accuracy: 0.5232 (0.0602)
+F1 score: 0.0175 (0.0014)
+ROC AUC: 0.4298 (0.0422)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 18
+Accuracy: 0.5408 (0.1066)
+F1 score: 0.0208 (0.0023)
+ROC AUC: 0.4516 (0.0151)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 18
+Accuracy: 0.6108 (0.0213)
+F1 score: 0.0175 (0.0011)
+ROC AUC: 0.4208 (0.0189)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 18
+Accuracy: 0.6105 (0.1138)
+F1 score: 0.0104 (0.0026)
+ROC AUC: 0.3737 (0.0131)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 18
+Accuracy: 0.5162 (0.0458)
+F1 score: 0.0113 (0.0004)
+ROC AUC: 0.3944 (0.0066)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 18
+Accuracy: 0.4926 (0.0505)
+F1 score: 0.0421 (0.0039)
+ROC AUC: 0.4485 (0.0155)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 18
+Accuracy: 0.5973 (0.0335)
+F1 score: 0.0579 (0.0026)
+ROC AUC: 0.4710 (0.0110)
+-- Predicting Cells_EBV with Brain_Cerebellum community 18
+Accuracy: 0.6881 (0.1418)
+F1 score: 0.0233 (0.0034)
+ROC AUC: 0.4491 (0.0228)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 18
+Accuracy: 0.3904 (0.0476)
+F1 score: 0.0347 (0.0036)
+ROC AUC: 0.4507 (0.0126)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 18
+Accuracy: 0.3048 (0.0269)
+F1 score: 0.0499 (0.0016)
+ROC AUC: 0.4604 (0.0101)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 18
+Accuracy: 0.4321 (0.0451)
+F1 score: 0.0360 (0.0025)
+ROC AUC: 0.4607 (0.0058)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 18
+Accuracy: 0.3590 (0.0035)
+F1 score: 0.0606 (0.0006)
+ROC AUC: 0.4509 (0.0047)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 18
+Accuracy: 0.4273 (0.0479)
+F1 score: 0.0527 (0.0019)
+ROC AUC: 0.4572 (0.0038)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 18
+Accuracy: 0.6340 (0.1383)
+F1 score: 0.0525 (0.0107)
+ROC AUC: 0.4590 (0.0019)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 18
+Accuracy: 0.7447 (0.0083)
+F1 score: 0.0506 (0.0056)
+ROC AUC: 0.4274 (0.0048)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 18
+Accuracy: 0.6446 (0.0710)
+F1 score: 0.0064 (0.0016)
+ROC AUC: 0.3546 (0.0564)
+-- Predicting Liver with Brain_Cerebellum community 18
+Accuracy: 0.6365 (0.0246)
+F1 score: 0.0226 (0.0011)
+ROC AUC: 0.4174 (0.0069)
+-- Predicting Lung with Brain_Cerebellum community 18
+Accuracy: 0.3825 (0.0894)
+F1 score: 0.0600 (0.0028)
+ROC AUC: 0.4557 (0.0054)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 18
+Accuracy: 0.4964 (0.1029)
+F1 score: 0.0167 (0.0008)
+ROC AUC: 0.4262 (0.0169)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 18
+Accuracy: 0.4413 (0.0426)
+F1 score: 0.0774 (0.0042)
+ROC AUC: 0.4586 (0.0092)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 18
+Accuracy: 0.3684 (0.0614)
+F1 score: 0.0643 (0.0021)
+ROC AUC: 0.4701 (0.0122)
+-- Predicting Ovary with Brain_Cerebellum community 18
+Accuracy: 0.4468 (0.0336)
+F1 score: 0.0166 (0.0018)
+ROC AUC: 0.4148 (0.0087)
+-- Predicting Pancreas with Brain_Cerebellum community 18
+Accuracy: 0.5540 (0.1091)
+F1 score: 0.0339 (0.0050)
+ROC AUC: 0.4570 (0.0178)
+-- Predicting Pituitary with Brain_Cerebellum community 18
+Accuracy: 0.5560 (0.0957)
+F1 score: 0.0241 (0.0018)
+ROC AUC: 0.4349 (0.0092)
+-- Predicting Prostate with Brain_Cerebellum community 18
+Accuracy: 0.2964 (0.0673)
+F1 score: 0.0295 (0.0022)
+ROC AUC: 0.4601 (0.0117)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 18
+Accuracy: 0.3816 (0.0671)
+F1 score: 0.0650 (0.0040)
+ROC AUC: 0.4820 (0.0054)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 18
+Accuracy: 0.4199 (0.0341)
+F1 score: 0.0669 (0.0005)
+ROC AUC: 0.4662 (0.0069)
+-- Predicting Small_Intestine with Brain_Cerebellum community 18
+Accuracy: 0.4596 (0.0792)
+F1 score: 0.0175 (0.0032)
+ROC AUC: 0.4267 (0.0254)
+-- Predicting Spleen with Brain_Cerebellum community 18
+Accuracy: 0.3994 (0.0292)
+F1 score: 0.0269 (0.0017)
+ROC AUC: 0.4502 (0.0151)
+-- Predicting Stomach with Brain_Cerebellum community 18
+Accuracy: 0.4602 (0.0241)
+F1 score: 0.0346 (0.0019)
+ROC AUC: 0.4467 (0.0178)
+-- Predicting Testis with Brain_Cerebellum community 18
+Accuracy: 0.6859 (0.0450)
+F1 score: 0.0370 (0.0028)
+ROC AUC: 0.4082 (0.0207)
+-- Predicting Thyroid with Brain_Cerebellum community 18
+Accuracy: 0.4362 (0.0261)
+F1 score: 0.0639 (0.0039)
+ROC AUC: 0.4693 (0.0079)
+-- Predicting Uterus with Brain_Cerebellum community 18
+Accuracy: 0.3554 (0.0694)
+F1 score: 0.0141 (0.0028)
+ROC AUC: 0.4402 (0.0221)
+-- Predicting Vagina with Brain_Cerebellum community 18
+Accuracy: 0.2641 (0.0477)
+F1 score: 0.0189 (0.0015)
+ROC AUC: 0.4243 (0.0135)
+-- Predicting Whole_Blood with Brain_Cerebellum community 18
+Accuracy: 0.6109 (0.0652)
+F1 score: 0.0746 (0.0072)
+ROC AUC: 0.4531 (0.0068)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 19
+Accuracy: 0.3363 (0.0989)
+F1 score: 0.1008 (0.0113)
+ROC AUC: 0.6377 (0.0560)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 19
+Accuracy: 0.3316 (0.0979)
+F1 score: 0.0816 (0.0103)
+ROC AUC: 0.6283 (0.0700)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 19
+Accuracy: 0.3391 (0.0997)
+F1 score: 0.0406 (0.0043)
+ROC AUC: 0.6096 (0.0516)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 19
+Accuracy: 0.3263 (0.0980)
+F1 score: 0.0697 (0.0094)
+ROC AUC: 0.6315 (0.0540)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 19
+Accuracy: 0.3303 (0.0931)
+F1 score: 0.0384 (0.0047)
+ROC AUC: 0.6126 (0.0659)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 19
+Accuracy: 0.3390 (0.1032)
+F1 score: 0.1017 (0.0123)
+ROC AUC: 0.6317 (0.0469)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 19
+Accuracy: 0.9870 (0.0172)
+F1 score: 0.7378 (0.3006)
+ROC AUC: 0.9940 (0.0085)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 19
+Accuracy: 0.9356 (0.0909)
+F1 score: 0.6937 (0.4261)
+ROC AUC: 0.9749 (0.0355)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 19
+Accuracy: 0.9394 (0.0856)
+F1 score: 0.7054 (0.4113)
+ROC AUC: 0.9761 (0.0338)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 19
+Accuracy: 0.7359 (0.0939)
+F1 score: 0.0920 (0.0378)
+ROC AUC: 0.8788 (0.0368)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 19
+Accuracy: 0.3225 (0.1111)
+F1 score: 0.0375 (0.0052)
+ROC AUC: 0.6210 (0.0569)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 19
+Accuracy: 0.9238 (0.1021)
+F1 score: 0.6184 (0.3603)
+ROC AUC: 0.9752 (0.0349)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 19
+Accuracy: 0.7363 (0.0942)
+F1 score: 0.0927 (0.0379)
+ROC AUC: 0.8811 (0.0382)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 19
+Accuracy: 0.9377 (0.0880)
+F1 score: 0.6984 (0.4202)
+ROC AUC: 0.9766 (0.0331)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 19
+Accuracy: 0.9212 (0.1028)
+F1 score: 0.5596 (0.3378)
+ROC AUC: 0.9442 (0.0783)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 19
+Accuracy: 0.9376 (0.0881)
+F1 score: 0.7060 (0.4105)
+ROC AUC: 0.9766 (0.0331)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 19
+Accuracy: 0.9740 (0.0367)
+F1 score: 0.7413 (0.3658)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 19
+Accuracy: 0.9693 (0.0434)
+F1 score: 0.7176 (0.3994)
+ROC AUC: 0.9999 (0.0001)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 19
+Accuracy: 0.9178 (0.1106)
+F1 score: 0.5503 (0.3505)
+ROC AUC: 0.9853 (0.0206)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 19
+Accuracy: 0.3287 (0.0998)
+F1 score: 0.0721 (0.0088)
+ROC AUC: 0.6263 (0.0497)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 19
+Accuracy: 0.3333 (0.1068)
+F1 score: 0.0866 (0.0118)
+ROC AUC: 0.6367 (0.0547)
+-- Predicting Cells_EBV with Brain_Cerebellum community 19
+Accuracy: 0.3130 (0.0767)
+F1 score: 0.0240 (0.0025)
+ROC AUC: 0.5849 (0.0461)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 19
+Accuracy: 0.3271 (0.0968)
+F1 score: 0.0570 (0.0066)
+ROC AUC: 0.6235 (0.0400)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 19
+Accuracy: 0.3300 (0.0975)
+F1 score: 0.0648 (0.0076)
+ROC AUC: 0.6265 (0.0420)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 19
+Accuracy: 0.3201 (0.1008)
+F1 score: 0.0608 (0.0080)
+ROC AUC: 0.6337 (0.0458)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 19
+Accuracy: 0.3382 (0.1028)
+F1 score: 0.0917 (0.0125)
+ROC AUC: 0.6431 (0.0584)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 19
+Accuracy: 0.3285 (0.0987)
+F1 score: 0.0833 (0.0107)
+ROC AUC: 0.6367 (0.0677)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 19
+Accuracy: 0.7487 (0.1051)
+F1 score: 0.1846 (0.0637)
+ROC AUC: 0.8484 (0.0827)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 19
+Accuracy: 0.7497 (0.1052)
+F1 score: 0.1901 (0.0639)
+ROC AUC: 0.8877 (0.0353)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 19
+Accuracy: 0.7328 (0.1049)
+F1 score: 0.0413 (0.0181)
+ROC AUC: 0.8833 (0.0454)
+-- Predicting Liver with Brain_Cerebellum community 19
+Accuracy: 0.3365 (0.1136)
+F1 score: 0.0363 (0.0044)
+ROC AUC: 0.5978 (0.0415)
+-- Predicting Lung with Brain_Cerebellum community 19
+Accuracy: 0.3331 (0.1020)
+F1 score: 0.0913 (0.0111)
+ROC AUC: 0.6344 (0.0555)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 19
+Accuracy: 0.3184 (0.0964)
+F1 score: 0.0265 (0.0027)
+ROC AUC: 0.6262 (0.0463)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 19
+Accuracy: 0.7708 (0.1137)
+F1 score: 0.3208 (0.0924)
+ROC AUC: 0.8928 (0.0403)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 19
+Accuracy: 0.3321 (0.0836)
+F1 score: 0.0927 (0.0092)
+ROC AUC: 0.6300 (0.0305)
+-- Predicting Ovary with Brain_Cerebellum community 19
+Accuracy: 0.3439 (0.0964)
+F1 score: 0.0272 (0.0031)
+ROC AUC: 0.6017 (0.0445)
+-- Predicting Pancreas with Brain_Cerebellum community 19
+Accuracy: 0.3231 (0.0861)
+F1 score: 0.0519 (0.0067)
+ROC AUC: 0.6204 (0.0631)
+-- Predicting Pituitary with Brain_Cerebellum community 19
+Accuracy: 0.3390 (0.1040)
+F1 score: 0.0421 (0.0048)
+ROC AUC: 0.6213 (0.0515)
+-- Predicting Prostate with Brain_Cerebellum community 19
+Accuracy: 0.3214 (0.0932)
+F1 score: 0.0395 (0.0057)
+ROC AUC: 0.6255 (0.0542)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 19
+Accuracy: 0.3418 (0.0888)
+F1 score: 0.0919 (0.0107)
+ROC AUC: 0.6316 (0.0371)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 19
+Accuracy: 0.3433 (0.0796)
+F1 score: 0.1048 (0.0096)
+ROC AUC: 0.6380 (0.0423)
+-- Predicting Small_Intestine with Brain_Cerebellum community 19
+Accuracy: 0.3514 (0.0945)
+F1 score: 0.0302 (0.0034)
+ROC AUC: 0.5930 (0.0603)
+-- Predicting Spleen with Brain_Cerebellum community 19
+Accuracy: 0.3279 (0.1035)
+F1 score: 0.0390 (0.0040)
+ROC AUC: 0.6103 (0.0524)
+-- Predicting Stomach with Brain_Cerebellum community 19
+Accuracy: 0.3281 (0.0878)
+F1 score: 0.0555 (0.0036)
+ROC AUC: 0.6112 (0.0248)
+-- Predicting Testis with Brain_Cerebellum community 19
+Accuracy: 0.3603 (0.1099)
+F1 score: 0.0537 (0.0056)
+ROC AUC: 0.6178 (0.0358)
+-- Predicting Thyroid with Brain_Cerebellum community 19
+Accuracy: 0.3353 (0.0817)
+F1 score: 0.0990 (0.0104)
+ROC AUC: 0.6344 (0.0379)
+-- Predicting Uterus with Brain_Cerebellum community 19
+Accuracy: 0.3432 (0.1062)
+F1 score: 0.0222 (0.0029)
+ROC AUC: 0.6037 (0.0411)
+-- Predicting Vagina with Brain_Cerebellum community 19
+Accuracy: 0.2971 (0.0740)
+F1 score: 0.0250 (0.0018)
+ROC AUC: 0.6031 (0.0362)
+-- Predicting Whole_Blood with Brain_Cerebellum community 19
+Accuracy: 0.7690 (0.1285)
+F1 score: 0.3348 (0.1512)
+ROC AUC: 0.8576 (0.0952)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 20
+Accuracy: 0.2586 (0.0363)
+F1 score: 0.0826 (0.0032)
+ROC AUC: 0.5695 (0.0379)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 20
+Accuracy: 0.2691 (0.0544)
+F1 score: 0.0635 (0.0052)
+ROC AUC: 0.5701 (0.0565)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 20
+Accuracy: 0.8793 (0.0736)
+F1 score: 0.2646 (0.1365)
+ROC AUC: 0.9399 (0.0391)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 20
+Accuracy: 0.2502 (0.0598)
+F1 score: 0.0537 (0.0053)
+ROC AUC: 0.5593 (0.0343)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 20
+Accuracy: 0.3029 (0.0866)
+F1 score: 0.0273 (0.0031)
+ROC AUC: 0.5368 (0.0491)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 20
+Accuracy: 0.2497 (0.0321)
+F1 score: 0.0836 (0.0016)
+ROC AUC: 0.5759 (0.0246)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 20
+Accuracy: 0.2160 (0.0713)
+F1 score: 0.0214 (0.0019)
+ROC AUC: 0.5342 (0.0447)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 20
+Accuracy: 0.2093 (0.0699)
+F1 score: 0.0241 (0.0022)
+ROC AUC: 0.5359 (0.0519)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 20
+Accuracy: 0.2167 (0.0722)
+F1 score: 0.0318 (0.0030)
+ROC AUC: 0.5330 (0.0326)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 20
+Accuracy: 0.2172 (0.0811)
+F1 score: 0.0289 (0.0029)
+ROC AUC: 0.5450 (0.0205)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 20
+Accuracy: 0.2008 (0.0607)
+F1 score: 0.0335 (0.0026)
+ROC AUC: 0.5482 (0.0316)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 20
+Accuracy: 0.2170 (0.0777)
+F1 score: 0.0334 (0.0030)
+ROC AUC: 0.5458 (0.0308)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 20
+Accuracy: 0.2089 (0.0769)
+F1 score: 0.0284 (0.0024)
+ROC AUC: 0.5468 (0.0247)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 20
+Accuracy: 0.2010 (0.0686)
+F1 score: 0.0266 (0.0023)
+ROC AUC: 0.5517 (0.0364)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 20
+Accuracy: 0.1987 (0.0688)
+F1 score: 0.0274 (0.0025)
+ROC AUC: 0.5480 (0.0408)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 20
+Accuracy: 0.2132 (0.0735)
+F1 score: 0.0328 (0.0027)
+ROC AUC: 0.5410 (0.0295)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 20
+Accuracy: 0.2260 (0.0763)
+F1 score: 0.0284 (0.0029)
+ROC AUC: 0.5353 (0.0385)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 20
+Accuracy: 0.2128 (0.0773)
+F1 score: 0.0208 (0.0021)
+ROC AUC: 0.5333 (0.0445)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 20
+Accuracy: 0.2141 (0.0993)
+F1 score: 0.0190 (0.0025)
+ROC AUC: 0.5435 (0.0245)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 20
+Accuracy: 0.2599 (0.0640)
+F1 score: 0.0525 (0.0015)
+ROC AUC: 0.5671 (0.0290)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 20
+Accuracy: 0.8957 (0.0442)
+F1 score: 0.4091 (0.1172)
+ROC AUC: 0.9490 (0.0215)
+-- Predicting Cells_EBV with Brain_Cerebellum community 20
+Accuracy: 0.3160 (0.1652)
+F1 score: 0.0187 (0.0013)
+ROC AUC: 0.5297 (0.0307)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 20
+Accuracy: 0.2478 (0.0978)
+F1 score: 0.0455 (0.0050)
+ROC AUC: 0.5659 (0.0458)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 20
+Accuracy: 0.2383 (0.0984)
+F1 score: 0.0574 (0.0069)
+ROC AUC: 0.5503 (0.0473)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 20
+Accuracy: 0.2950 (0.1277)
+F1 score: 0.0451 (0.0062)
+ROC AUC: 0.5498 (0.0623)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 20
+Accuracy: 0.8966 (0.0432)
+F1 score: 0.4168 (0.1165)
+ROC AUC: 0.9487 (0.0220)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 20
+Accuracy: 0.2583 (0.1065)
+F1 score: 0.0648 (0.0064)
+ROC AUC: 0.5652 (0.0331)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 20
+Accuracy: 0.2634 (0.1219)
+F1 score: 0.0521 (0.0038)
+ROC AUC: 0.5618 (0.0220)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 20
+Accuracy: 0.2424 (0.1060)
+F1 score: 0.0583 (0.0063)
+ROC AUC: 0.5696 (0.0213)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 20
+Accuracy: 0.8688 (0.0789)
+F1 score: 0.0962 (0.0546)
+ROC AUC: 0.9354 (0.0401)
+-- Predicting Liver with Brain_Cerebellum community 20
+Accuracy: 0.8776 (0.0671)
+F1 score: 0.2265 (0.1033)
+ROC AUC: 0.9368 (0.0346)
+-- Predicting Lung with Brain_Cerebellum community 20
+Accuracy: 0.2454 (0.1064)
+F1 score: 0.0769 (0.0075)
+ROC AUC: 0.5551 (0.0498)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 20
+Accuracy: 0.3331 (0.1858)
+F1 score: 0.0187 (0.0004)
+ROC AUC: 0.5391 (0.0436)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 20
+Accuracy: 0.2546 (0.1047)
+F1 score: 0.1030 (0.0120)
+ROC AUC: 0.5712 (0.0368)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 20
+Accuracy: 0.2560 (0.0973)
+F1 score: 0.0777 (0.0070)
+ROC AUC: 0.5658 (0.0348)
+-- Predicting Ovary with Brain_Cerebellum community 20
+Accuracy: 0.2667 (0.1440)
+F1 score: 0.0261 (0.0031)
+ROC AUC: 0.5502 (0.0231)
+-- Predicting Pancreas with Brain_Cerebellum community 20
+Accuracy: 0.8840 (0.0961)
+F1 score: 0.3490 (0.1493)
+ROC AUC: 0.9377 (0.0564)
+-- Predicting Pituitary with Brain_Cerebellum community 20
+Accuracy: 0.2388 (0.1115)
+F1 score: 0.0350 (0.0023)
+ROC AUC: 0.5618 (0.0211)
+-- Predicting Prostate with Brain_Cerebellum community 20
+Accuracy: 0.3233 (0.1498)
+F1 score: 0.0309 (0.0021)
+ROC AUC: 0.5507 (0.0411)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 20
+Accuracy: 0.2916 (0.1438)
+F1 score: 0.0699 (0.0045)
+ROC AUC: 0.5605 (0.0184)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 20
+Accuracy: 0.2569 (0.1069)
+F1 score: 0.0867 (0.0067)
+ROC AUC: 0.5710 (0.0319)
+-- Predicting Small_Intestine with Brain_Cerebellum community 20
+Accuracy: 0.3457 (0.1603)
+F1 score: 0.0234 (0.0050)
+ROC AUC: 0.5206 (0.0424)
+-- Predicting Spleen with Brain_Cerebellum community 20
+Accuracy: 0.8789 (0.0926)
+F1 score: 0.2695 (0.1182)
+ROC AUC: 0.9412 (0.0441)
+-- Predicting Stomach with Brain_Cerebellum community 20
+Accuracy: 0.2743 (0.1126)
+F1 score: 0.0444 (0.0046)
+ROC AUC: 0.5531 (0.0443)
+-- Predicting Testis with Brain_Cerebellum community 20
+Accuracy: 0.2492 (0.1186)
+F1 score: 0.0516 (0.0056)
+ROC AUC: 0.5410 (0.0461)
+-- Predicting Thyroid with Brain_Cerebellum community 20
+Accuracy: 0.2501 (0.0983)
+F1 score: 0.0836 (0.0104)
+ROC AUC: 0.5658 (0.0474)
+-- Predicting Uterus with Brain_Cerebellum community 20
+Accuracy: 0.2470 (0.1070)
+F1 score: 0.0182 (0.0020)
+ROC AUC: 0.5425 (0.0411)
+-- Predicting Vagina with Brain_Cerebellum community 20
+Accuracy: 0.3502 (0.1228)
+F1 score: 0.0180 (0.0024)
+ROC AUC: 0.5256 (0.0609)
+-- Predicting Whole_Blood with Brain_Cerebellum community 20
+Accuracy: 0.2431 (0.0934)
+F1 score: 0.0995 (0.0109)
+ROC AUC: 0.5690 (0.0525)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 21
+Accuracy: 0.5883 (0.0156)
+F1 score: 0.0600 (0.0037)
+ROC AUC: 0.4385 (0.0029)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 21
+Accuracy: 0.4620 (0.0288)
+F1 score: 0.0509 (0.0015)
+ROC AUC: 0.4444 (0.0049)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 21
+Accuracy: 0.3602 (0.0228)
+F1 score: 0.0272 (0.0001)
+ROC AUC: 0.4368 (0.0120)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 21
+Accuracy: 0.5737 (0.0529)
+F1 score: 0.0415 (0.0060)
+ROC AUC: 0.4288 (0.0331)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 21
+Accuracy: 0.5249 (0.0752)
+F1 score: 0.0205 (0.0018)
+ROC AUC: 0.4180 (0.0111)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 21
+Accuracy: 0.5254 (0.0191)
+F1 score: 0.0656 (0.0016)
+ROC AUC: 0.4575 (0.0022)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 21
+Accuracy: 0.4073 (0.0208)
+F1 score: 0.0134 (0.0006)
+ROC AUC: 0.4182 (0.0107)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 21
+Accuracy: 0.4934 (0.0338)
+F1 score: 0.0145 (0.0008)
+ROC AUC: 0.3885 (0.0067)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 21
+Accuracy: 0.5052 (0.0399)
+F1 score: 0.0173 (0.0027)
+ROC AUC: 0.4048 (0.0098)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 21
+Accuracy: 0.4726 (0.0370)
+F1 score: 0.0150 (0.0012)
+ROC AUC: 0.3846 (0.0304)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 21
+Accuracy: 0.5404 (0.0111)
+F1 score: 0.0210 (0.0006)
+ROC AUC: 0.4192 (0.0031)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 21
+Accuracy: 0.4463 (0.0341)
+F1 score: 0.0199 (0.0026)
+ROC AUC: 0.4088 (0.0119)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 21
+Accuracy: 0.4720 (0.0245)
+F1 score: 0.0172 (0.0007)
+ROC AUC: 0.4110 (0.0105)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 21
+Accuracy: 0.3987 (0.0191)
+F1 score: 0.0189 (0.0004)
+ROC AUC: 0.4140 (0.0051)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 21
+Accuracy: 0.4039 (0.0210)
+F1 score: 0.0172 (0.0013)
+ROC AUC: 0.4203 (0.0132)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 21
+Accuracy: 0.4054 (0.0299)
+F1 score: 0.0223 (0.0006)
+ROC AUC: 0.4280 (0.0041)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 21
+Accuracy: 0.4428 (0.0138)
+F1 score: 0.0186 (0.0010)
+ROC AUC: 0.4224 (0.0132)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 21
+Accuracy: 0.4431 (0.0579)
+F1 score: 0.0120 (0.0020)
+ROC AUC: 0.4096 (0.0167)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 21
+Accuracy: 0.4323 (0.0712)
+F1 score: 0.0121 (0.0025)
+ROC AUC: 0.4180 (0.0208)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 21
+Accuracy: 0.5363 (0.0265)
+F1 score: 0.0422 (0.0029)
+ROC AUC: 0.4438 (0.0100)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 21
+Accuracy: 0.3899 (0.0251)
+F1 score: 0.0563 (0.0021)
+ROC AUC: 0.4529 (0.0095)
+-- Predicting Cells_EBV with Brain_Cerebellum community 21
+Accuracy: 0.5000 (0.0485)
+F1 score: 0.0160 (0.0005)
+ROC AUC: 0.4289 (0.0013)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 21
+Accuracy: 0.5656 (0.0392)
+F1 score: 0.0287 (0.0032)
+ROC AUC: 0.4076 (0.0181)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 21
+Accuracy: 0.3740 (0.0320)
+F1 score: 0.0441 (0.0012)
+ROC AUC: 0.4498 (0.0085)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 21
+Accuracy: 0.5973 (0.0300)
+F1 score: 0.0281 (0.0024)
+ROC AUC: 0.3977 (0.0137)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 21
+Accuracy: 0.4249 (0.1021)
+F1 score: 0.0542 (0.0081)
+ROC AUC: 0.4392 (0.0113)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 21
+Accuracy: 0.5020 (0.0486)
+F1 score: 0.0509 (0.0034)
+ROC AUC: 0.4458 (0.0045)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 21
+Accuracy: 0.4879 (0.0139)
+F1 score: 0.0380 (0.0034)
+ROC AUC: 0.4223 (0.0094)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 21
+Accuracy: 0.5017 (0.0530)
+F1 score: 0.0421 (0.0013)
+ROC AUC: 0.4517 (0.0028)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 21
+Accuracy: 0.5394 (0.0972)
+F1 score: 0.0058 (0.0010)
+ROC AUC: 0.3365 (0.0422)
+-- Predicting Liver with Brain_Cerebellum community 21
+Accuracy: 0.5099 (0.0504)
+F1 score: 0.0195 (0.0037)
+ROC AUC: 0.3992 (0.0250)
+-- Predicting Lung with Brain_Cerebellum community 21
+Accuracy: 0.4078 (0.0265)
+F1 score: 0.0603 (0.0011)
+ROC AUC: 0.4428 (0.0036)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 21
+Accuracy: 0.5067 (0.0340)
+F1 score: 0.0121 (0.0038)
+ROC AUC: 0.3851 (0.0281)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 21
+Accuracy: 0.5808 (0.0411)
+F1 score: 0.0746 (0.0012)
+ROC AUC: 0.4414 (0.0059)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 21
+Accuracy: 0.4277 (0.0424)
+F1 score: 0.0586 (0.0042)
+ROC AUC: 0.4528 (0.0018)
+-- Predicting Ovary with Brain_Cerebellum community 21
+Accuracy: 0.4981 (0.0582)
+F1 score: 0.0158 (0.0012)
+ROC AUC: 0.3917 (0.0122)
+-- Predicting Pancreas with Brain_Cerebellum community 21
+Accuracy: 0.4333 (0.0145)
+F1 score: 0.0313 (0.0020)
+ROC AUC: 0.4265 (0.0094)
+-- Predicting Pituitary with Brain_Cerebellum community 21
+Accuracy: 0.4694 (0.0542)
+F1 score: 0.0233 (0.0019)
+ROC AUC: 0.4035 (0.0107)
+-- Predicting Prostate with Brain_Cerebellum community 21
+Accuracy: 0.4783 (0.0211)
+F1 score: 0.0187 (0.0023)
+ROC AUC: 0.3981 (0.0202)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 21
+Accuracy: 0.4818 (0.0825)
+F1 score: 0.0572 (0.0007)
+ROC AUC: 0.4599 (0.0049)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 21
+Accuracy: 0.4660 (0.0234)
+F1 score: 0.0613 (0.0020)
+ROC AUC: 0.4346 (0.0149)
+-- Predicting Small_Intestine with Brain_Cerebellum community 21
+Accuracy: 0.4423 (0.0497)
+F1 score: 0.0190 (0.0026)
+ROC AUC: 0.4298 (0.0144)
+-- Predicting Spleen with Brain_Cerebellum community 21
+Accuracy: 0.5356 (0.0743)
+F1 score: 0.0233 (0.0031)
+ROC AUC: 0.4118 (0.0210)
+-- Predicting Stomach with Brain_Cerebellum community 21
+Accuracy: 0.4117 (0.0400)
+F1 score: 0.0376 (0.0013)
+ROC AUC: 0.4430 (0.0091)
+-- Predicting Testis with Brain_Cerebellum community 21
+Accuracy: 0.5987 (0.0245)
+F1 score: 0.0289 (0.0008)
+ROC AUC: 0.3907 (0.0023)
+-- Predicting Thyroid with Brain_Cerebellum community 21
+Accuracy: 0.5063 (0.0708)
+F1 score: 0.0540 (0.0045)
+ROC AUC: 0.4306 (0.0066)
+-- Predicting Uterus with Brain_Cerebellum community 21
+Accuracy: 0.4628 (0.0384)
+F1 score: 0.0122 (0.0025)
+ROC AUC: 0.3917 (0.0221)
+-- Predicting Vagina with Brain_Cerebellum community 21
+Accuracy: 0.4604 (0.0209)
+F1 score: 0.0139 (0.0004)
+ROC AUC: 0.3989 (0.0178)
+-- Predicting Whole_Blood with Brain_Cerebellum community 21
+Accuracy: 0.5371 (0.0523)
+F1 score: 0.0714 (0.0047)
+ROC AUC: 0.4450 (0.0050)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 22
+Accuracy: 0.4463 (0.0466)
+F1 score: 0.0594 (0.0050)
+ROC AUC: 0.4505 (0.0179)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 22
+Accuracy: 0.5475 (0.0712)
+F1 score: 0.0474 (0.0021)
+ROC AUC: 0.4381 (0.0136)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 22
+Accuracy: 0.5024 (0.0613)
+F1 score: 0.0237 (0.0010)
+ROC AUC: 0.4353 (0.0055)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 22
+Accuracy: 0.4275 (0.0399)
+F1 score: 0.0437 (0.0026)
+ROC AUC: 0.4500 (0.0086)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 22
+Accuracy: 0.4135 (0.0507)
+F1 score: 0.0225 (0.0015)
+ROC AUC: 0.4296 (0.0226)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 22
+Accuracy: 0.4691 (0.0796)
+F1 score: 0.0666 (0.0017)
+ROC AUC: 0.4718 (0.0091)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 22
+Accuracy: 0.4994 (0.0205)
+F1 score: 0.0106 (0.0013)
+ROC AUC: 0.3880 (0.0148)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 22
+Accuracy: 0.5518 (0.0670)
+F1 score: 0.0148 (0.0013)
+ROC AUC: 0.4007 (0.0027)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 22
+Accuracy: 0.5511 (0.0458)
+F1 score: 0.0164 (0.0030)
+ROC AUC: 0.3949 (0.0288)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 22
+Accuracy: 0.5188 (0.0422)
+F1 score: 0.0152 (0.0019)
+ROC AUC: 0.3929 (0.0238)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 22
+Accuracy: 0.4417 (0.0423)
+F1 score: 0.0229 (0.0034)
+ROC AUC: 0.4427 (0.0200)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 22
+Accuracy: 0.5284 (0.0249)
+F1 score: 0.0202 (0.0044)
+ROC AUC: 0.4159 (0.0265)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 22
+Accuracy: 0.4894 (0.0540)
+F1 score: 0.0148 (0.0027)
+ROC AUC: 0.3779 (0.0159)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 22
+Accuracy: 0.5375 (0.0360)
+F1 score: 0.0178 (0.0015)
+ROC AUC: 0.4427 (0.0086)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 22
+Accuracy: 0.5438 (0.0387)
+F1 score: 0.0176 (0.0015)
+ROC AUC: 0.4069 (0.0264)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 22
+Accuracy: 0.4715 (0.0141)
+F1 score: 0.0204 (0.0026)
+ROC AUC: 0.4426 (0.0098)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 22
+Accuracy: 0.4589 (0.0270)
+F1 score: 0.0184 (0.0009)
+ROC AUC: 0.4289 (0.0115)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 22
+Accuracy: 0.5075 (0.0406)
+F1 score: 0.0100 (0.0012)
+ROC AUC: 0.3762 (0.0104)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 22
+Accuracy: 0.4636 (0.0603)
+F1 score: 0.0089 (0.0016)
+ROC AUC: 0.3936 (0.0067)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 22
+Accuracy: 0.4814 (0.0271)
+F1 score: 0.0383 (0.0057)
+ROC AUC: 0.4316 (0.0139)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 22
+Accuracy: 0.4795 (0.1333)
+F1 score: 0.0587 (0.0048)
+ROC AUC: 0.4733 (0.0173)
+-- Predicting Cells_EBV with Brain_Cerebellum community 22
+Accuracy: 0.5162 (0.0603)
+F1 score: 0.0152 (0.0013)
+ROC AUC: 0.4196 (0.0110)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 22
+Accuracy: 0.5432 (0.1245)
+F1 score: 0.0362 (0.0013)
+ROC AUC: 0.4541 (0.0077)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 22
+Accuracy: 0.5748 (0.0293)
+F1 score: 0.0379 (0.0019)
+ROC AUC: 0.4282 (0.0126)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 22
+Accuracy: 0.5451 (0.0725)
+F1 score: 0.0320 (0.0044)
+ROC AUC: 0.4209 (0.0203)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 22
+Accuracy: 0.5157 (0.1424)
+F1 score: 0.0585 (0.0024)
+ROC AUC: 0.4526 (0.0101)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 22
+Accuracy: 0.5797 (0.0308)
+F1 score: 0.0465 (0.0031)
+ROC AUC: 0.4282 (0.0100)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 22
+Accuracy: 0.3012 (0.0327)
+F1 score: 0.0498 (0.0018)
+ROC AUC: 0.4586 (0.0102)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 22
+Accuracy: 0.3977 (0.0721)
+F1 score: 0.0451 (0.0012)
+ROC AUC: 0.4587 (0.0056)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 22
+Accuracy: 0.5032 (0.0855)
+F1 score: 0.0048 (0.0015)
+ROC AUC: 0.3415 (0.0350)
+-- Predicting Liver with Brain_Cerebellum community 22
+Accuracy: 0.4917 (0.0475)
+F1 score: 0.0198 (0.0008)
+ROC AUC: 0.4162 (0.0017)
+-- Predicting Lung with Brain_Cerebellum community 22
+Accuracy: 0.5112 (0.0685)
+F1 score: 0.0544 (0.0036)
+ROC AUC: 0.4502 (0.0164)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 22
+Accuracy: 0.5002 (0.0348)
+F1 score: 0.0122 (0.0030)
+ROC AUC: 0.4024 (0.0232)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 22
+Accuracy: 0.4829 (0.0527)
+F1 score: 0.0790 (0.0040)
+ROC AUC: 0.4707 (0.0093)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 22
+Accuracy: 0.4779 (0.0455)
+F1 score: 0.0591 (0.0010)
+ROC AUC: 0.4630 (0.0042)
+-- Predicting Ovary with Brain_Cerebellum community 22
+Accuracy: 0.5162 (0.0312)
+F1 score: 0.0164 (0.0018)
+ROC AUC: 0.4063 (0.0158)
+-- Predicting Pancreas with Brain_Cerebellum community 22
+Accuracy: 0.4787 (0.0337)
+F1 score: 0.0290 (0.0028)
+ROC AUC: 0.4248 (0.0109)
+-- Predicting Pituitary with Brain_Cerebellum community 22
+Accuracy: 0.5341 (0.0347)
+F1 score: 0.0243 (0.0015)
+ROC AUC: 0.4369 (0.0079)
+-- Predicting Prostate with Brain_Cerebellum community 22
+Accuracy: 0.5288 (0.0652)
+F1 score: 0.0222 (0.0026)
+ROC AUC: 0.4267 (0.0033)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 22
+Accuracy: 0.4935 (0.0838)
+F1 score: 0.0554 (0.0020)
+ROC AUC: 0.4551 (0.0056)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 22
+Accuracy: 0.5902 (0.0984)
+F1 score: 0.0656 (0.0046)
+ROC AUC: 0.4489 (0.0036)
+-- Predicting Small_Intestine with Brain_Cerebellum community 22
+Accuracy: 0.5338 (0.0063)
+F1 score: 0.0180 (0.0022)
+ROC AUC: 0.4125 (0.0192)
+-- Predicting Spleen with Brain_Cerebellum community 22
+Accuracy: 0.4967 (0.0140)
+F1 score: 0.0215 (0.0005)
+ROC AUC: 0.4111 (0.0144)
+-- Predicting Stomach with Brain_Cerebellum community 22
+Accuracy: 0.5872 (0.1288)
+F1 score: 0.0333 (0.0047)
+ROC AUC: 0.4398 (0.0261)
+-- Predicting Testis with Brain_Cerebellum community 22
+Accuracy: 0.6182 (0.0402)
+F1 score: 0.0357 (0.0018)
+ROC AUC: 0.4268 (0.0198)
+-- Predicting Thyroid with Brain_Cerebellum community 22
+Accuracy: 0.4752 (0.0975)
+F1 score: 0.0639 (0.0080)
+ROC AUC: 0.4576 (0.0136)
+-- Predicting Uterus with Brain_Cerebellum community 22
+Accuracy: 0.4325 (0.0362)
+F1 score: 0.0146 (0.0012)
+ROC AUC: 0.4388 (0.0064)
+-- Predicting Vagina with Brain_Cerebellum community 22
+Accuracy: 0.4573 (0.0597)
+F1 score: 0.0127 (0.0028)
+ROC AUC: 0.4114 (0.0387)
+-- Predicting Whole_Blood with Brain_Cerebellum community 22
+Accuracy: 0.4638 (0.0279)
+F1 score: 0.0640 (0.0060)
+ROC AUC: 0.4359 (0.0093)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 23
+Accuracy: 0.8498 (0.0487)
+F1 score: 0.3564 (0.0890)
+ROC AUC: 0.9391 (0.0444)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 23
+Accuracy: 0.7502 (0.1167)
+F1 score: 0.2194 (0.0634)
+ROC AUC: 0.9337 (0.0236)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 23
+Accuracy: 0.9331 (0.0436)
+F1 score: 0.4163 (0.2418)
+ROC AUC: 0.9767 (0.0172)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 23
+Accuracy: 0.8371 (0.0613)
+F1 score: 0.2629 (0.0873)
+ROC AUC: 0.9350 (0.0479)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 23
+Accuracy: 0.7389 (0.1208)
+F1 score: 0.1081 (0.0334)
+ROC AUC: 0.9232 (0.0190)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 23
+Accuracy: 0.8500 (0.0485)
+F1 score: 0.3577 (0.0890)
+ROC AUC: 0.9380 (0.0443)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 23
+Accuracy: 0.6021 (0.0829)
+F1 score: 0.0397 (0.0075)
+ROC AUC: 0.7822 (0.0452)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 23
+Accuracy: 0.6132 (0.0799)
+F1 score: 0.0482 (0.0110)
+ROC AUC: 0.7848 (0.0532)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 23
+Accuracy: 0.6067 (0.0628)
+F1 score: 0.0585 (0.0115)
+ROC AUC: 0.7829 (0.0579)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 23
+Accuracy: 0.6213 (0.0674)
+F1 score: 0.0582 (0.0111)
+ROC AUC: 0.7991 (0.0484)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 23
+Accuracy: 0.6211 (0.0679)
+F1 score: 0.0687 (0.0137)
+ROC AUC: 0.7974 (0.0469)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 23
+Accuracy: 0.6234 (0.0751)
+F1 score: 0.0675 (0.0137)
+ROC AUC: 0.8015 (0.0490)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 23
+Accuracy: 0.6272 (0.0751)
+F1 score: 0.0601 (0.0133)
+ROC AUC: 0.7950 (0.0545)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 23
+Accuracy: 0.6094 (0.0653)
+F1 score: 0.0525 (0.0084)
+ROC AUC: 0.7984 (0.0463)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 23
+Accuracy: 0.6221 (0.0700)
+F1 score: 0.0556 (0.0111)
+ROC AUC: 0.7969 (0.0559)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 23
+Accuracy: 0.6142 (0.0768)
+F1 score: 0.0629 (0.0126)
+ROC AUC: 0.8028 (0.0467)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 23
+Accuracy: 0.6119 (0.0608)
+F1 score: 0.0522 (0.0118)
+ROC AUC: 0.7877 (0.0546)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 23
+Accuracy: 0.6145 (0.0616)
+F1 score: 0.0396 (0.0058)
+ROC AUC: 0.7956 (0.0272)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 23
+Accuracy: 0.6141 (0.0876)
+F1 score: 0.0340 (0.0076)
+ROC AUC: 0.7799 (0.0542)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 23
+Accuracy: 0.9449 (0.0376)
+F1 score: 0.5808 (0.2706)
+ROC AUC: 0.9803 (0.0143)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 23
+Accuracy: 0.9995 (0.0005)
+F1 score: 0.9918 (0.0076)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Cells_EBV with Brain_Cerebellum community 23
+Accuracy: 0.9172 (0.0877)
+F1 score: 0.4573 (0.3798)
+ROC AUC: 0.9693 (0.0296)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 23
+Accuracy: 0.9388 (0.0190)
+F1 score: 0.4170 (0.0864)
+ROC AUC: 0.9773 (0.0109)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 23
+Accuracy: 0.6338 (0.1120)
+F1 score: 0.1253 (0.0417)
+ROC AUC: 0.8106 (0.0778)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 23
+Accuracy: 0.8334 (0.0996)
+F1 score: 0.2505 (0.0937)
+ROC AUC: 0.9270 (0.0716)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 23
+Accuracy: 0.9506 (0.0358)
+F1 score: 0.6421 (0.2525)
+ROC AUC: 0.9923 (0.0061)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 23
+Accuracy: 0.8421 (0.1050)
+F1 score: 0.3371 (0.1207)
+ROC AUC: 0.9357 (0.0673)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 23
+Accuracy: 0.9168 (0.0203)
+F1 score: 0.3707 (0.0506)
+ROC AUC: 0.9808 (0.0074)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 23
+Accuracy: 0.9190 (0.0578)
+F1 score: 0.5257 (0.3249)
+ROC AUC: 0.9682 (0.0281)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 23
+Accuracy: 0.6095 (0.0712)
+F1 score: 0.0215 (0.0042)
+ROC AUC: 0.7595 (0.0510)
+-- Predicting Liver with Brain_Cerebellum community 23
+Accuracy: 0.9957 (0.0059)
+F1 score: 0.8920 (0.1477)
+ROC AUC: 0.9999 (0.0001)
+-- Predicting Lung with Brain_Cerebellum community 23
+Accuracy: 0.6325 (0.1154)
+F1 score: 0.1613 (0.0563)
+ROC AUC: 0.8119 (0.0802)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 23
+Accuracy: 0.6233 (0.0857)
+F1 score: 0.0483 (0.0124)
+ROC AUC: 0.7968 (0.0532)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 23
+Accuracy: 0.8613 (0.0283)
+F1 score: 0.3994 (0.0557)
+ROC AUC: 0.9268 (0.0181)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 23
+Accuracy: 0.9995 (0.0004)
+F1 score: 0.9926 (0.0053)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Ovary with Brain_Cerebellum community 23
+Accuracy: 0.7909 (0.0505)
+F1 score: 0.0977 (0.0213)
+ROC AUC: 0.9099 (0.0230)
+-- Predicting Pancreas with Brain_Cerebellum community 23
+Accuracy: 0.9524 (0.0655)
+F1 score: 0.7203 (0.3517)
+ROC AUC: 0.9979 (0.0029)
+-- Predicting Pituitary with Brain_Cerebellum community 23
+Accuracy: 0.5919 (0.0664)
+F1 score: 0.0696 (0.0133)
+ROC AUC: 0.7817 (0.0507)
+-- Predicting Prostate with Brain_Cerebellum community 23
+Accuracy: 0.6104 (0.0550)
+F1 score: 0.0682 (0.0111)
+ROC AUC: 0.8009 (0.0539)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 23
+Accuracy: 0.6211 (0.0350)
+F1 score: 0.1467 (0.0145)
+ROC AUC: 0.8090 (0.0488)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 23
+Accuracy: 0.6194 (0.0315)
+F1 score: 0.1675 (0.0112)
+ROC AUC: 0.8162 (0.0385)
+-- Predicting Small_Intestine with Brain_Cerebellum community 23
+Accuracy: 0.6266 (0.0610)
+F1 score: 0.0584 (0.0101)
+ROC AUC: 0.7994 (0.0360)
+-- Predicting Spleen with Brain_Cerebellum community 23
+Accuracy: 0.9251 (0.0556)
+F1 score: 0.4684 (0.3580)
+ROC AUC: 0.9875 (0.0102)
+-- Predicting Stomach with Brain_Cerebellum community 23
+Accuracy: 0.9843 (0.0073)
+F1 score: 0.7436 (0.1031)
+ROC AUC: 0.9991 (0.0006)
+-- Predicting Testis with Brain_Cerebellum community 23
+Accuracy: 0.6123 (0.0651)
+F1 score: 0.0950 (0.0169)
+ROC AUC: 0.7967 (0.0417)
+-- Predicting Thyroid with Brain_Cerebellum community 23
+Accuracy: 0.8395 (0.0300)
+F1 score: 0.3197 (0.0417)
+ROC AUC: 0.9253 (0.0090)
+-- Predicting Uterus with Brain_Cerebellum community 23
+Accuracy: 0.8238 (0.0362)
+F1 score: 0.0883 (0.0155)
+ROC AUC: 0.9094 (0.0197)
+-- Predicting Vagina with Brain_Cerebellum community 23
+Accuracy: 0.9297 (0.0135)
+F1 score: 0.2121 (0.0373)
+ROC AUC: 0.9731 (0.0145)
+-- Predicting Whole_Blood with Brain_Cerebellum community 23
+Accuracy: 0.9611 (0.0544)
+F1 score: 0.8076 (0.2658)
+ROC AUC: 1.0000 (0.0000)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 24
+Accuracy: 0.2570 (0.1316)
+F1 score: 0.0733 (0.0014)
+ROC AUC: 0.5154 (0.0192)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 24
+Accuracy: 0.2903 (0.1908)
+F1 score: 0.0613 (0.0008)
+ROC AUC: 0.4989 (0.0159)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 24
+Accuracy: 0.3045 (0.1135)
+F1 score: 0.0301 (0.0012)
+ROC AUC: 0.4872 (0.0337)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 24
+Accuracy: 0.3296 (0.1296)
+F1 score: 0.0498 (0.0022)
+ROC AUC: 0.4941 (0.0291)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 24
+Accuracy: 0.3915 (0.0922)
+F1 score: 0.0274 (0.0031)
+ROC AUC: 0.4850 (0.0308)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 24
+Accuracy: 0.2819 (0.1392)
+F1 score: 0.0731 (0.0009)
+ROC AUC: 0.5071 (0.0275)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 24
+Accuracy: 0.4798 (0.1729)
+F1 score: 0.0135 (0.0007)
+ROC AUC: 0.4422 (0.0147)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 24
+Accuracy: 0.4259 (0.1026)
+F1 score: 0.0149 (0.0015)
+ROC AUC: 0.4328 (0.0251)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 24
+Accuracy: 0.4141 (0.0156)
+F1 score: 0.0246 (0.0042)
+ROC AUC: 0.4677 (0.0488)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 24
+Accuracy: 0.3437 (0.1853)
+F1 score: 0.0218 (0.0021)
+ROC AUC: 0.4945 (0.0131)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 24
+Accuracy: 0.3432 (0.1691)
+F1 score: 0.0265 (0.0017)
+ROC AUC: 0.4782 (0.0019)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 24
+Accuracy: 0.4387 (0.1384)
+F1 score: 0.0245 (0.0020)
+ROC AUC: 0.4524 (0.0234)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 24
+Accuracy: 0.3824 (0.1146)
+F1 score: 0.0217 (0.0024)
+ROC AUC: 0.4776 (0.0315)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 24
+Accuracy: 0.4081 (0.0833)
+F1 score: 0.0184 (0.0006)
+ROC AUC: 0.4573 (0.0279)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 24
+Accuracy: 0.3431 (0.1243)
+F1 score: 0.0211 (0.0021)
+ROC AUC: 0.4953 (0.0285)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 24
+Accuracy: 0.3682 (0.0643)
+F1 score: 0.0259 (0.0013)
+ROC AUC: 0.4910 (0.0323)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 24
+Accuracy: 0.4035 (0.0901)
+F1 score: 0.0191 (0.0014)
+ROC AUC: 0.4408 (0.0077)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 24
+Accuracy: 0.4540 (0.1163)
+F1 score: 0.0156 (0.0004)
+ROC AUC: 0.4569 (0.0145)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 24
+Accuracy: 0.4157 (0.0890)
+F1 score: 0.0129 (0.0018)
+ROC AUC: 0.4396 (0.0252)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 24
+Accuracy: 0.2886 (0.1595)
+F1 score: 0.0513 (0.0017)
+ROC AUC: 0.5054 (0.0197)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 24
+Accuracy: 0.2342 (0.1608)
+F1 score: 0.0660 (0.0013)
+ROC AUC: 0.5088 (0.0253)
+-- Predicting Cells_EBV with Brain_Cerebellum community 24
+Accuracy: 0.9550 (0.0625)
+F1 score: 0.6833 (0.3943)
+ROC AUC: 0.9793 (0.0293)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 24
+Accuracy: 0.3531 (0.1327)
+F1 score: 0.0377 (0.0030)
+ROC AUC: 0.4809 (0.0392)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 24
+Accuracy: 0.2921 (0.1166)
+F1 score: 0.0473 (0.0004)
+ROC AUC: 0.4986 (0.0268)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 24
+Accuracy: 0.3396 (0.1791)
+F1 score: 0.0416 (0.0014)
+ROC AUC: 0.4685 (0.0272)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 24
+Accuracy: 0.3455 (0.1551)
+F1 score: 0.0607 (0.0023)
+ROC AUC: 0.4798 (0.0264)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 24
+Accuracy: 0.2895 (0.1864)
+F1 score: 0.0603 (0.0018)
+ROC AUC: 0.5085 (0.0332)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 24
+Accuracy: 0.3554 (0.1283)
+F1 score: 0.0436 (0.0032)
+ROC AUC: 0.4755 (0.0362)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 24
+Accuracy: 0.3310 (0.1262)
+F1 score: 0.0475 (0.0026)
+ROC AUC: 0.4888 (0.0235)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 24
+Accuracy: 0.4242 (0.0411)
+F1 score: 0.0073 (0.0009)
+ROC AUC: 0.4066 (0.0308)
+-- Predicting Liver with Brain_Cerebellum community 24
+Accuracy: 0.3761 (0.0734)
+F1 score: 0.0250 (0.0022)
+ROC AUC: 0.4635 (0.0381)
+-- Predicting Lung with Brain_Cerebellum community 24
+Accuracy: 0.3195 (0.1694)
+F1 score: 0.0643 (0.0016)
+ROC AUC: 0.4964 (0.0184)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 24
+Accuracy: 0.2881 (0.1719)
+F1 score: 0.0196 (0.0002)
+ROC AUC: 0.4902 (0.0176)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 24
+Accuracy: 0.2651 (0.1216)
+F1 score: 0.0925 (0.0013)
+ROC AUC: 0.5150 (0.0291)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 24
+Accuracy: 0.3334 (0.1586)
+F1 score: 0.0656 (0.0009)
+ROC AUC: 0.5069 (0.0147)
+-- Predicting Ovary with Brain_Cerebellum community 24
+Accuracy: 0.4107 (0.0624)
+F1 score: 0.0204 (0.0009)
+ROC AUC: 0.4917 (0.0164)
+-- Predicting Pancreas with Brain_Cerebellum community 24
+Accuracy: 0.3034 (0.1433)
+F1 score: 0.0389 (0.0004)
+ROC AUC: 0.5040 (0.0164)
+-- Predicting Pituitary with Brain_Cerebellum community 24
+Accuracy: 0.3551 (0.1300)
+F1 score: 0.0264 (0.0020)
+ROC AUC: 0.4613 (0.0147)
+-- Predicting Prostate with Brain_Cerebellum community 24
+Accuracy: 0.4575 (0.0570)
+F1 score: 0.0253 (0.0003)
+ROC AUC: 0.4612 (0.0237)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 24
+Accuracy: 0.2762 (0.1461)
+F1 score: 0.0691 (0.0020)
+ROC AUC: 0.5087 (0.0218)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 24
+Accuracy: 0.3150 (0.1579)
+F1 score: 0.0778 (0.0033)
+ROC AUC: 0.4980 (0.0294)
+-- Predicting Small_Intestine with Brain_Cerebellum community 24
+Accuracy: 0.4329 (0.0746)
+F1 score: 0.0215 (0.0015)
+ROC AUC: 0.4574 (0.0372)
+-- Predicting Spleen with Brain_Cerebellum community 24
+Accuracy: 0.4597 (0.0819)
+F1 score: 0.0243 (0.0020)
+ROC AUC: 0.4428 (0.0350)
+-- Predicting Stomach with Brain_Cerebellum community 24
+Accuracy: 0.2526 (0.1816)
+F1 score: 0.0433 (0.0019)
+ROC AUC: 0.5188 (0.0246)
+-- Predicting Testis with Brain_Cerebellum community 24
+Accuracy: 0.1974 (0.1469)
+F1 score: 0.0451 (0.0010)
+ROC AUC: 0.5053 (0.0190)
+-- Predicting Thyroid with Brain_Cerebellum community 24
+Accuracy: 0.2602 (0.1371)
+F1 score: 0.0737 (0.0010)
+ROC AUC: 0.5132 (0.0267)
+-- Predicting Uterus with Brain_Cerebellum community 24
+Accuracy: 0.3714 (0.0692)
+F1 score: 0.0165 (0.0003)
+ROC AUC: 0.4686 (0.0140)
+-- Predicting Vagina with Brain_Cerebellum community 24
+Accuracy: 0.3586 (0.1070)
+F1 score: 0.0173 (0.0003)
+ROC AUC: 0.4762 (0.0066)
+-- Predicting Whole_Blood with Brain_Cerebellum community 24
+Accuracy: 0.9895 (0.0131)
+F1 score: 0.9078 (0.1101)
+ROC AUC: 0.9951 (0.0069)
+-- Predicting Adipose_Subcutaneous with Brain_Cerebellum community 25
+Accuracy: 0.4849 (0.0339)
+F1 score: 0.0586 (0.0015)
+ROC AUC: 0.4393 (0.0092)
+-- Predicting Adipose_Visceral_Omentum with Brain_Cerebellum community 25
+Accuracy: 0.5035 (0.0407)
+F1 score: 0.0448 (0.0029)
+ROC AUC: 0.4261 (0.0115)
+-- Predicting Adrenal_Gland with Brain_Cerebellum community 25
+Accuracy: 0.5209 (0.0576)
+F1 score: 0.0237 (0.0011)
+ROC AUC: 0.4186 (0.0108)
+-- Predicting Artery_Aorta with Brain_Cerebellum community 25
+Accuracy: 0.4923 (0.0302)
+F1 score: 0.0385 (0.0062)
+ROC AUC: 0.4237 (0.0346)
+-- Predicting Artery_Coronary with Brain_Cerebellum community 25
+Accuracy: 0.5156 (0.0370)
+F1 score: 0.0219 (0.0019)
+ROC AUC: 0.4209 (0.0110)
+-- Predicting Artery_Tibial with Brain_Cerebellum community 25
+Accuracy: 0.4734 (0.0317)
+F1 score: 0.0621 (0.0006)
+ROC AUC: 0.4430 (0.0045)
+-- Predicting Brain_Amygdala with Brain_Cerebellum community 25
+Accuracy: 0.5093 (0.0263)
+F1 score: 0.0093 (0.0011)
+ROC AUC: 0.3694 (0.0055)
+-- Predicting Brain_Anterior_cingulate with Brain_Cerebellum community 25
+Accuracy: 0.5264 (0.0449)
+F1 score: 0.0134 (0.0014)
+ROC AUC: 0.3701 (0.0200)
+-- Predicting Brain_Caudate with Brain_Cerebellum community 25
+Accuracy: 0.5207 (0.0455)
+F1 score: 0.0189 (0.0023)
+ROC AUC: 0.4092 (0.0073)
+-- Predicting Brain_Cerebellar with Brain_Cerebellum community 25
+Accuracy: 0.5133 (0.0320)
+F1 score: 0.0171 (0.0026)
+ROC AUC: 0.3994 (0.0291)
+-- Predicting Brain_Cerebellum with Brain_Cerebellum community 25
+Accuracy: 0.5276 (0.0174)
+F1 score: 0.0188 (0.0024)
+ROC AUC: 0.3986 (0.0172)
+-- Predicting Brain_Cortex with Brain_Cerebellum community 25
+Accuracy: 0.4988 (0.0281)
+F1 score: 0.0171 (0.0010)
+ROC AUC: 0.3929 (0.0093)
+-- Predicting Brain_Frontal_Cortex with Brain_Cerebellum community 25
+Accuracy: 0.5431 (0.0389)
+F1 score: 0.0164 (0.0008)
+ROC AUC: 0.3869 (0.0089)
+-- Predicting Brain_Hippocampus with Brain_Cerebellum community 25
+Accuracy: 0.4969 (0.0547)
+F1 score: 0.0150 (0.0018)
+ROC AUC: 0.4087 (0.0253)
+-- Predicting Brain_Hypothalamus with Brain_Cerebellum community 25
+Accuracy: 0.5096 (0.0309)
+F1 score: 0.0142 (0.0022)
+ROC AUC: 0.3953 (0.0317)
+-- Predicting Brain_Nucleus with Brain_Cerebellum community 25
+Accuracy: 0.5492 (0.0437)
+F1 score: 0.0192 (0.0055)
+ROC AUC: 0.3927 (0.0356)
+-- Predicting Brain_Putamen with Brain_Cerebellum community 25
+Accuracy: 0.5368 (0.0154)
+F1 score: 0.0146 (0.0013)
+ROC AUC: 0.3643 (0.0054)
+-- Predicting Brain_Spinal_cord with Brain_Cerebellum community 25
+Accuracy: 0.5468 (0.0629)
+F1 score: 0.0120 (0.0017)
+ROC AUC: 0.3730 (0.0232)
+-- Predicting Brain_Substantia_nigra with Brain_Cerebellum community 25
+Accuracy: 0.4863 (0.0399)
+F1 score: 0.0108 (0.0011)
+ROC AUC: 0.3943 (0.0328)
+-- Predicting Breast_Mammary_Tissue with Brain_Cerebellum community 25
+Accuracy: 0.4721 (0.0061)
+F1 score: 0.0407 (0.0018)
+ROC AUC: 0.4331 (0.0115)
+-- Predicting Cells_Cultured with Brain_Cerebellum community 25
+Accuracy: 0.4516 (0.0302)
+F1 score: 0.0508 (0.0004)
+ROC AUC: 0.4521 (0.0081)
+-- Predicting Cells_EBV with Brain_Cerebellum community 25
+Accuracy: 0.5211 (0.0482)
+F1 score: 0.0150 (0.0013)
+ROC AUC: 0.4131 (0.0141)
+-- Predicting Colon_Sigmoid with Brain_Cerebellum community 25
+Accuracy: 0.4565 (0.0239)
+F1 score: 0.0332 (0.0015)
+ROC AUC: 0.4390 (0.0082)
+-- Predicting Colon_Transverse with Brain_Cerebellum community 25
+Accuracy: 0.4601 (0.0103)
+F1 score: 0.0391 (0.0011)
+ROC AUC: 0.4324 (0.0137)
+-- Predicting Esophagus_Gastro with Brain_Cerebellum community 25
+Accuracy: 0.4748 (0.0487)
+F1 score: 0.0329 (0.0031)
+ROC AUC: 0.4308 (0.0044)
+-- Predicting Esophagus_Mucosa with Brain_Cerebellum community 25
+Accuracy: 0.4767 (0.0189)
+F1 score: 0.0447 (0.0015)
+ROC AUC: 0.4078 (0.0064)
+-- Predicting Esophagus_Muscularis with Brain_Cerebellum community 25
+Accuracy: 0.4921 (0.0086)
+F1 score: 0.0481 (0.0013)
+ROC AUC: 0.4422 (0.0035)
+-- Predicting Heart_Atrial with Brain_Cerebellum community 25
+Accuracy: 0.5330 (0.0195)
+F1 score: 0.0361 (0.0002)
+ROC AUC: 0.4152 (0.0143)
+-- Predicting Heart_L_Vent with Brain_Cerebellum community 25
+Accuracy: 0.4522 (0.0325)
+F1 score: 0.0380 (0.0016)
+ROC AUC: 0.4288 (0.0048)
+-- Predicting Kidney_Cortex with Brain_Cerebellum community 25
+Accuracy: 0.5288 (0.0234)
+F1 score: 0.0052 (0.0013)
+ROC AUC: 0.3408 (0.0221)
+-- Predicting Liver with Brain_Cerebellum community 25
+Accuracy: 0.4662 (0.0313)
+F1 score: 0.0209 (0.0024)
+ROC AUC: 0.3963 (0.0115)
+-- Predicting Lung with Brain_Cerebellum community 25
+Accuracy: 0.4777 (0.0588)
+F1 score: 0.0537 (0.0022)
+ROC AUC: 0.4458 (0.0031)
+-- Predicting Minor_Salivary with Brain_Cerebellum community 25
+Accuracy: 0.5177 (0.0265)
+F1 score: 0.0133 (0.0020)
+ROC AUC: 0.3900 (0.0165)
+-- Predicting Muscle_Skeletal with Brain_Cerebellum community 25
+Accuracy: 0.4445 (0.0132)
+F1 score: 0.0762 (0.0041)
+ROC AUC: 0.4499 (0.0113)
+-- Predicting Nerve_Tibial with Brain_Cerebellum community 25
+Accuracy: 0.5051 (0.0192)
+F1 score: 0.0536 (0.0051)
+ROC AUC: 0.4332 (0.0092)
+-- Predicting Ovary with Brain_Cerebellum community 25
+Accuracy: 0.5179 (0.0279)
+F1 score: 0.0161 (0.0017)
+ROC AUC: 0.4181 (0.0090)
+-- Predicting Pancreas with Brain_Cerebellum community 25
+Accuracy: 0.4986 (0.0135)
+F1 score: 0.0320 (0.0002)
+ROC AUC: 0.4340 (0.0064)
+-- Predicting Pituitary with Brain_Cerebellum community 25
+Accuracy: 0.4890 (0.0191)
+F1 score: 0.0196 (0.0028)
+ROC AUC: 0.3905 (0.0278)
+-- Predicting Prostate with Brain_Cerebellum community 25
+Accuracy: 0.5106 (0.0119)
+F1 score: 0.0203 (0.0025)
+ROC AUC: 0.3991 (0.0071)
+-- Predicting Skin_Not_Sun_Epsd with Brain_Cerebellum community 25
+Accuracy: 0.4975 (0.0380)
+F1 score: 0.0533 (0.0022)
+ROC AUC: 0.4421 (0.0118)
+-- Predicting Skin_Sun_Epsd with Brain_Cerebellum community 25
+Accuracy: 0.4581 (0.0123)
+F1 score: 0.0671 (0.0020)
+ROC AUC: 0.4599 (0.0041)
+-- Predicting Small_Intestine with Brain_Cerebellum community 25
+Accuracy: 0.5241 (0.0196)
+F1 score: 0.0144 (0.0008)
+ROC AUC: 0.3775 (0.0181)
+-- Predicting Spleen with Brain_Cerebellum community 25
+Accuracy: 0.5521 (0.0527)
+F1 score: 0.0184 (0.0029)
+ROC AUC: 0.3789 (0.0217)
+-- Predicting Stomach with Brain_Cerebellum community 25
+Accuracy: 0.4962 (0.0564)
+F1 score: 0.0319 (0.0020)
+ROC AUC: 0.4130 (0.0080)
+-- Predicting Testis with Brain_Cerebellum community 25
+Accuracy: 0.5003 (0.0255)
+F1 score: 0.0326 (0.0006)
+ROC AUC: 0.4282 (0.0046)
+-- Predicting Thyroid with Brain_Cerebellum community 25
+Accuracy: 0.4717 (0.0216)
+F1 score: 0.0582 (0.0053)
+ROC AUC: 0.4400 (0.0118)
+-- Predicting Uterus with Brain_Cerebellum community 25
+Accuracy: 0.5303 (0.0349)
+F1 score: 0.0101 (0.0020)
+ROC AUC: 0.3429 (0.0139)
+-- Predicting Vagina with Brain_Cerebellum community 25
+Accuracy: 0.5544 (0.0447)
+F1 score: 0.0108 (0.0027)
+ROC AUC: 0.3659 (0.0312)
+-- Predicting Whole_Blood with Brain_Cerebellum community 25
+Accuracy: 0.4604 (0.0349)
+F1 score: 0.0679 (0.0063)
+ROC AUC: 0.4373 (0.0122)

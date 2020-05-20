@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	TNFs bind their physiological receptors_Homo sapiens_R-HSA-5669034	1/24	0.004791660011821214	1.0	0	0	208.3333333333333	1112.6829937093976	EDA
+Reactome_2016	TNFR2 non-canonical NF-kB pathway_Homo sapiens_R-HSA-5668541	1/95	0.018866311727459114	1.0	0	0	52.631578947368425	208.96723135001469	EDA
+Reactome_2016	Cytokine Signaling in Immune system_Homo sapiens_R-HSA-1280215	1/620	0.1183603721003416	1.0	0	0	8.064516129032258	17.209849255270992	EDA
+Reactome_2016	Immune System_Homo sapiens_R-HSA-168256	1/1547	0.2753349996712561	1.0	0	0	3.232062055591467	4.16860614761733	EDA

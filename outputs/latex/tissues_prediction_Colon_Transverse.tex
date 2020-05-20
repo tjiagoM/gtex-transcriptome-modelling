@@ -1,0 +1,708 @@
+
+\section*{Colon Transverse}
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.9\textwidth]{figures/tissue_prediction_from_Colon_Transverse.pdf}
+\end{figure}
+
+
+
+\subsection*{Community with ID 1}
+This community has the following genes: LCK, CD2, ZAP70, CD3E, CD3D, CD3G
+\\
+\begin{longtable}{p{2.4cm}p{14.5cm}}
+\caption{Enrichment for community 1}\\
+\toprule
+Adjusted \newline P-value &                                                                                                Term \\
+\midrule
+\endhead
+\midrule
+\multicolumn{2}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+             7.000333e-12 &                          Translocation of ZAP-70 to Immunological synapse Homo sapiens R-HSA-202430 \\
+             5.581097e-11 &                                  Generation of second messenger molecules Homo sapiens R-HSA-202433 \\
+             1.217401e-08 &                                Phosphorylation of CD3 and TCR zeta chains Homo sapiens R-HSA-202427 \\
+             1.284399e-08 &                                                            PD-1 signaling Homo sapiens R-HSA-389948 \\
+             1.199221e-08 &                                                             TCR signaling Homo sapiens R-HSA-202403 \\
+             5.871263e-07 &                                          Costimulation by the CD28 family Homo sapiens R-HSA-388841 \\
+             1.837469e-06 &                                                  Downstream TCR signaling Homo sapiens R-HSA-202424 \\
+             8.808808e-05 &                                                   Adaptive Immune System Homo sapiens R-HSA-1280218 \\
+             1.585760e-03 &  Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell Homo sapiens R-HSA-198933 \\
+             2.364166e-03 &                                                             Immune System Homo sapiens R-HSA-168256 \\
+\end{longtable}
+
+
+\begin{longtable}{lrrrrr}
+\caption{Connectivity of community 1}\\
+\toprule
+{} & \rot{CD2} & \rot{ZAP70} & \rot{CD3E} & \rot{CD3D} & \rot{CD3G} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{6}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+LCK   &      0.73 &        0.91 &       0.84 &       0.80 &       0.64 \\
+CD2   &           &        0.73 &       0.90 &       0.81 &       0.74 \\
+ZAP70 &           &             &       0.75 &       0.70 &       0.55 \\
+CD3E  &           &             &            &       0.97 &       0.86 \\
+CD3D  &           &             &            &            &       0.77 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_1.pdf}
+\caption{Community 1 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 4}
+This community has the following genes: FLG2, C1orf68, KPRP, LOR, CALML5, KRT5, KRT2, KRT1, KRT77, DCD, SERPINA12, KRT14, DSG1, CASP14, KRTDAP, SBSN, LGALS7B
+\\
+This community has no enriched pathways below adjusted p-value $< 0.05$.
+
+\begin{longtable}{lrrrrrrrrrrrrrrrr}
+\caption{Connectivity of community 4}\\
+\toprule
+{} & \rot{C1orf68} & \rot{KPRP} & \rot{LOR} & \rot{CALML5} & \rot{KRT5} & \rot{KRT2} & \rot{KRT1} & \rot{KRT77} & \rot{DCD} & \rot{SERPINA12} & \rot{KRT14} & \rot{DSG1} & \rot{CASP14} & \rot{KRTDAP} & \rot{SBSN} & \rot{LGALS7B} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{17}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+FLG2      &          0.76 &       0.80 &      0.97 &         1.05 &       0.43 &       0.98 &       0.92 &        0.79 &      0.77 &            0.89 &        0.87 &       0.85 &         0.97 &         0.97 &       0.87 &          0.68 \\
+C1orf68   &               &       0.68 &      0.81 &         0.81 &       0.38 &       0.80 &       0.72 &        0.58 &      0.66 &            0.70 &        0.69 &       0.60 &         0.72 &         0.71 &       0.78 &          0.59 \\
+KPRP      &               &            &      0.76 &         0.88 &       0.45 &       0.79 &       0.75 &        0.57 &      0.65 &            0.74 &        0.74 &       0.71 &         0.74 &         0.71 &       0.76 &          0.65 \\
+LOR       &               &            &           &         1.04 &       0.42 &       0.97 &       0.95 &        0.70 &      0.79 &            0.82 &        0.88 &       0.84 &         0.97 &         0.93 &       0.86 &          0.67 \\
+CALML5    &               &            &           &              &       0.52 &       1.04 &       1.01 &        0.78 &      0.83 &            0.86 &        1.00 &       0.88 &         1.04 &         0.98 &       1.02 &          0.80 \\
+KRT5      &               &            &           &              &            &       0.48 &       0.55 &        0.49 &      0.43 &            0.40 &        0.82 &       0.56 &         0.53 &         0.47 &       0.72 &          0.65 \\
+KRT2      &               &            &           &              &            &            &       0.95 &        0.68 &      0.83 &            0.85 &        0.99 &       0.90 &         0.95 &         0.80 &       0.90 &          0.68 \\
+KRT1      &               &            &           &              &            &            &            &        0.82 &      0.79 &            0.77 &        1.03 &       0.88 &         1.00 &         0.92 &       0.95 &          0.77 \\
+KRT77     &               &            &           &              &            &            &            &             &      0.62 &            0.69 &        0.83 &       0.68 &         0.82 &         0.72 &       0.82 &          0.67 \\
+DCD       &               &            &           &              &            &            &            &             &           &            0.65 &        0.77 &       0.65 &         0.80 &         0.76 &       0.74 &          0.64 \\
+SERPINA12 &               &            &           &              &            &            &            &             &           &                 &        0.74 &       0.77 &         0.84 &         0.71 &       0.73 &          0.55 \\
+KRT14     &               &            &           &              &            &            &            &             &           &                 &             &       0.95 &         1.05 &         0.85 &       1.05 &          0.84 \\
+DSG1      &               &            &           &              &            &            &            &             &           &                 &             &            &         0.84 &         0.73 &       0.83 &          0.66 \\
+CASP14    &               &            &           &              &            &            &            &             &           &                 &             &            &              &         0.97 &       0.90 &          0.72 \\
+KRTDAP    &               &            &           &              &            &            &            &             &           &                 &             &            &              &              &       0.91 &          0.62 \\
+SBSN      &               &            &           &              &            &            &            &             &           &                 &             &            &              &              &            &          0.74 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_4.pdf}
+\caption{Community 4 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 6}
+This community has the following genes: FCGR3B, CXCR2, CXCR1, AQP9
+\\
+This community has no enriched pathways below adjusted p-value $< 0.05$.
+
+\begin{longtable}{lrrr}
+\caption{Connectivity of community 6}\\
+\toprule
+{} & \rot{CXCR2} & \rot{CXCR1} & \rot{AQP9} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{4}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+FCGR3B &        0.96 &        0.99 &       0.84 \\
+CXCR2  &             &        0.99 &       0.83 \\
+CXCR1  &             &             &       0.92 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_6.pdf}
+\caption{Community 6 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 8}
+This community has the following genes: TSPAN1, PIGR, EPCAM, MUC13, LIPH, SLC44A4, CLDN3, CLDN4, TMEM45B, GUCY2C, PRSS8, CDH1, TMPRSS2
+\\
+\begin{longtable}{p{2.4cm}p{14.5cm}}
+\caption{Enrichment for community 8}\\
+\toprule
+Adjusted \newline P-value &                                                       Term \\
+\midrule
+\endhead
+\midrule
+\multicolumn{2}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+                 0.011558 &  Cell-cell junction organization Homo sapiens R-HSA-421270 \\
+                 0.016280 &       Cell junction organization Homo sapiens R-HSA-446728 \\
+                 0.038179 &         Cell-Cell communication Homo sapiens R-HSA-1500931 \\
+\end{longtable}
+
+
+\begin{longtable}{lrrrrrrrrrrrr}
+\caption{Connectivity of community 8}\\
+\toprule
+{} & \rot{PIGR} & \rot{EPCAM} & \rot{MUC13} & \rot{LIPH} & \rot{SLC44A4} & \rot{CLDN3} & \rot{CLDN4} & \rot{TMEM45B} & \rot{GUCY2C} & \rot{PRSS8} & \rot{CDH1} & \rot{TMPRSS2} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{13}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+TSPAN1  &       0.52 &        0.67 &        0.67 &       0.63 &          0.85 &        0.53 &        0.59 &          0.65 &         0.39 &        0.73 &       0.53 &          0.67 \\
+PIGR    &            &        0.41 &        0.48 &       0.26 &          0.83 &        0.34 &        0.32 &          0.57 &         0.34 &        0.56 &       0.32 &          0.48 \\
+EPCAM   &            &             &        0.92 &       0.77 &          0.75 &        0.78 &        0.80 &          0.71 &         0.80 &        1.00 &       0.87 &          0.76 \\
+MUC13   &            &             &             &       0.71 &          0.68 &        0.59 &        0.72 &          0.78 &         0.69 &        0.82 &       0.63 &          0.84 \\
+LIPH    &            &             &             &            &          0.60 &        0.57 &        0.69 &          0.56 &         0.55 &        0.65 &       0.74 &          0.81 \\
+SLC44A4 &            &             &             &            &               &        0.61 &        0.57 &          0.67 &         0.59 &        0.82 &       0.58 &          0.70 \\
+CLDN3   &            &             &             &            &               &             &        0.91 &          0.50 &         0.51 &        0.85 &       0.60 &          0.69 \\
+CLDN4   &            &             &             &            &               &             &             &          0.60 &         0.46 &        0.85 &       0.71 &          0.87 \\
+TMEM45B &            &             &             &            &               &             &             &               &         0.53 &        0.76 &       0.82 &          0.65 \\
+GUCY2C  &            &             &             &            &               &             &             &               &              &        0.61 &       0.67 &          0.55 \\
+PRSS8   &            &             &             &            &               &             &             &               &              &             &       0.77 &          0.78 \\
+CDH1    &            &             &             &            &               &             &             &               &              &             &            &          0.61 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_8.pdf}
+\caption{Community 8 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 12}
+This community has the following genes: SCGN, VIP, GAL, CALB2
+\\
+This community has no enriched pathways below adjusted p-value $< 0.05$.
+
+\begin{longtable}{lrrr}
+\caption{Connectivity of community 12}\\
+\toprule
+{} & \rot{VIP} & \rot{GAL} & \rot{CALB2} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{4}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+SCGN &      0.81 &      0.42 &        0.85 \\
+VIP  &           &      0.84 &        0.65 \\
+GAL  &           &           &        0.42 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_12.pdf}
+\caption{Community 12 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 14}
+This community has the following genes: GKN1, PGC, LIPF, PGA3, PGA5, ATP4A
+\\
+\begin{longtable}{p{2.4cm}p{14.5cm}}
+\caption{Enrichment for community 14}\\
+\toprule
+Adjusted \newline P-value &                                              Term \\
+\midrule
+\endhead
+\midrule
+\multicolumn{2}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+                 0.046421 &  Surfactant metabolism Homo sapiens R-HSA-5683826 \\
+\end{longtable}
+
+
+\begin{longtable}{lrrrrr}
+\caption{Connectivity of community 14}\\
+\toprule
+{} & \rot{PGC} & \rot{LIPF} & \rot{PGA3} & \rot{PGA5} & \rot{ATP4A} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{6}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+GKN1 &      0.73 &       0.80 &       0.72 &       0.61 &        0.74 \\
+PGC  &           &       1.55 &       1.17 &       1.18 &        0.78 \\
+LIPF &           &            &       1.24 &       1.09 &        0.89 \\
+PGA3 &           &            &            &       1.01 &        0.82 \\
+PGA5 &           &            &            &            &        0.71 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_14.pdf}
+\caption{Community 14 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 16}
+This community has the following genes: CTRC, CELA2A, CELA2B, CELA3B, CELA3A, AMY2A, CPB1, CLPS, CPA2, CPA1, PRSS1, CEL, PNLIP, PNLIPRP1, INS, PLA2G1B, GP2, CTRB2, CTRB1, SYCN, RBPJL
+\\
+\begin{longtable}{p{2.4cm}p{14.5cm}}
+\caption{Enrichment for community 16}\\
+\toprule
+Adjusted \newline P-value &                                                                             Term \\
+\midrule
+\endhead
+\midrule
+\multicolumn{2}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+                 0.000003 &                             Digestion of dietary lipid Homo sapiens R-HSA-192456 \\
+                 0.000004 &  Cobalamin (Cbl, vitamin B12) transport and metabolism Homo sapiens R-HSA-196741 \\
+                 0.000004 &                   Metabolism of vitamins and cofactors Homo sapiens R-HSA-196854 \\
+                 0.000316 &                                            Metabolism Homo sapiens R-HSA-1430728 \\
+                 0.000255 &            Lipid digestion, mobilization, and transport Homo sapiens R-HSA-73923 \\
+                 0.000776 &     Metabolism of water-soluble vitamins and cofactors Homo sapiens R-HSA-196849 \\
+                 0.001061 &               Activation of Matrix Metalloproteinases Homo sapiens R-HSA-1592389 \\
+                 0.034335 &               Degradation of the extracellular matrix Homo sapiens R-HSA-1474228 \\
+\end{longtable}
+
+
+\begin{longtable}{lrrrrrrrrrrrrrrrrrrrr}
+\caption{Connectivity of community 16}\\
+\toprule
+{} & \rot{CELA2A} & \rot{CELA2B} & \rot{CELA3B} & \rot{CELA3A} & \rot{AMY2A} & \rot{CPB1} & \rot{CLPS} & \rot{CPA2} & \rot{CPA1} & \rot{PRSS1} & \rot{CEL} & \rot{PNLIP} & \rot{PNLIPRP1} & \rot{INS} & \rot{PLA2G1B} & \rot{GP2} & \rot{CTRB2} & \rot{CTRB1} & \rot{SYCN} & \rot{RBPJL} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{21}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+CTRC     &         1.14 &         0.77 &         1.03 &         1.21 &        0.93 &       1.14 &       1.24 &       0.77 &       1.28 &        1.25 &      1.03 &        1.23 &           0.93 &      0.74 &          1.17 &      0.81 &        1.17 &        1.26 &       1.18 &        0.80 \\
+CELA2A   &              &         0.79 &         1.11 &         1.27 &        1.00 &       1.20 &       1.31 &       0.76 &       1.39 &        1.36 &      1.10 &        1.50 &           0.91 &      0.71 &          1.25 &      0.83 &        1.24 &        1.31 &       1.18 &        0.80 \\
+CELA2B   &              &              &         0.73 &         0.82 &        0.69 &       0.75 &       0.82 &       0.56 &       0.79 &        0.81 &      0.70 &        0.83 &           0.63 &      0.49 &          0.76 &      0.61 &        0.70 &        0.78 &       0.79 &        0.59 \\
+CELA3B   &              &              &              &         1.56 &        0.95 &       1.23 &       1.36 &       0.90 &       1.26 &        1.39 &      1.11 &        1.19 &           1.01 &      0.76 &          1.15 &      1.04 &        1.21 &        1.30 &       1.07 &        0.86 \\
+CELA3A   &              &              &              &              &        1.08 &       1.40 &       1.69 &       0.94 &       1.57 &        1.72 &      1.19 &        1.44 &           1.11 &      0.82 &          1.41 &      1.06 &        1.45 &        1.58 &       1.27 &        0.91 \\
+AMY2A    &              &              &              &              &             &       1.06 &       1.08 &       0.67 &       1.10 &        1.16 &      0.95 &        1.22 &           0.78 &      0.67 &          1.05 &      0.74 &        0.97 &        1.02 &       1.02 &        0.72 \\
+CPB1     &              &              &              &              &             &            &       1.51 &       0.85 &       1.51 &        1.52 &      1.10 &        1.41 &           1.02 &      0.82 &          1.26 &      0.94 &        1.36 &        1.36 &       1.19 &        0.89 \\
+CLPS     &              &              &              &              &             &            &            &       0.94 &       1.63 &        1.70 &      1.20 &        1.55 &           1.11 &      0.84 &          1.45 &      1.03 &        1.43 &        1.62 &       1.36 &        0.90 \\
+CPA2     &              &              &              &              &             &            &            &            &       0.86 &        0.97 &      0.82 &        0.81 &           0.93 &      0.60 &          0.91 &      1.00 &        0.83 &        0.86 &       0.78 &        0.70 \\
+CPA1     &              &              &              &              &             &            &            &            &            &        1.75 &      1.21 &        1.62 &           1.09 &      0.86 &          1.41 &      0.93 &        1.62 &        1.63 &       1.29 &        0.91 \\
+PRSS1    &              &              &              &              &             &            &            &            &            &             &      1.16 &        1.67 &           1.04 &      0.81 &          1.40 &      1.05 &        1.44 &        1.56 &       1.30 &        0.93 \\
+CEL      &              &              &              &              &             &            &            &            &            &             &           &        1.13 &           0.97 &      0.78 &          1.08 &      0.92 &        1.17 &        1.16 &       1.06 &        0.79 \\
+PNLIP    &              &              &              &              &             &            &            &            &            &             &           &             &           0.99 &      0.77 &          1.31 &      0.89 &        1.35 &        1.41 &       1.32 &        0.84 \\
+PNLIPRP1 &              &              &              &              &             &            &            &            &            &             &           &             &                &      0.75 &          1.05 &      0.95 &        1.08 &        1.08 &       0.93 &        0.71 \\
+INS      &              &              &              &              &             &            &            &            &            &             &           &             &                &           &          0.74 &      0.63 &        0.94 &        0.85 &       0.73 &        0.63 \\
+PLA2G1B  &              &              &              &              &             &            &            &            &            &             &           &             &                &           &               &      0.95 &        1.27 &        1.41 &       1.17 &        0.87 \\
+GP2      &              &              &              &              &             &            &            &            &            &             &           &             &                &           &               &           &        0.92 &        0.94 &       0.83 &        0.77 \\
+CTRB2    &              &              &              &              &             &            &            &            &            &             &           &             &                &           &               &           &             &        1.57 &       1.19 &        0.86 \\
+CTRB1    &              &              &              &              &             &            &            &            &            &             &           &             &                &           &               &           &             &             &       1.31 &        0.87 \\
+SYCN     &              &              &              &              &             &            &            &            &            &             &           &             &                &           &               &           &             &             &            &        0.86 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_16.pdf}
+\caption{Community 16 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 18}
+This community has the following genes: GIMAP8, GIMAP7, GIMAP4, GIMAP1
+\\
+This community has no enriched pathways below adjusted p-value $< 0.05$.
+
+\begin{longtable}{lrrr}
+\caption{Connectivity of community 18}\\
+\toprule
+{} & \rot{GIMAP7} & \rot{GIMAP4} & \rot{GIMAP1} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{4}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+GIMAP8 &         0.83 &         0.66 &         0.73 \\
+GIMAP7 &              &         0.80 &         0.81 \\
+GIMAP4 &              &              &         0.89 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_18.pdf}
+\caption{Community 18 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 20}
+This community has the following genes: SH2D6, POU2F3, SH2D7, TRPM5, GNG13, CCDC129, HTR3E
+\\
+This community has no enriched pathways below adjusted p-value $< 0.05$.
+
+\begin{longtable}{lrrrrrr}
+\caption{Connectivity of community 20}\\
+\toprule
+{} & \rot{POU2F3} & \rot{SH2D7} & \rot{TRPM5} & \rot{GNG13} & \rot{CCDC129} & \rot{HTR3E} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{7}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+SH2D6   &          0.8 &        0.99 &        1.34 &        0.81 &          0.87 &        1.01 \\
+POU2F3  &              &        0.76 &        0.86 &        0.79 &          0.71 &        0.78 \\
+SH2D7   &              &             &        0.98 &        0.86 &          0.89 &        0.93 \\
+TRPM5   &              &             &             &        0.90 &          0.87 &        1.06 \\
+GNG13   &              &             &             &             &          0.75 &        0.94 \\
+CCDC129 &              &             &             &             &               &        0.86 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_20.pdf}
+\caption{Community 20 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 21}
+This community has the following genes: HBB, HBD, HBA2, HBA1
+\\
+\begin{longtable}{p{2.4cm}p{14.5cm}}
+\caption{Enrichment for community 21}\\
+\toprule
+Adjusted \newline P-value &                                                                               Term \\
+\midrule
+\endhead
+\midrule
+\multicolumn{2}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+                 0.001285 &  Erythrocytes take up oxygen and release carbon dioxide Homo sapiens R-HSA-1247673 \\
+                 0.001514 &  Erythrocytes take up carbon dioxide and release oxygen Homo sapiens R-HSA-1237044 \\
+                 0.001009 &                         O2/CO2 exchange in erythrocytes Homo sapiens R-HSA-1480926 \\
+                 0.011842 &                          Scavenging of heme from plasma Homo sapiens R-HSA-2168880 \\
+                 0.024676 &    Binding and Uptake of Ligands by Scavenger Receptors Homo sapiens R-HSA-2173782 \\
+\end{longtable}
+
+
+\begin{longtable}{lrrr}
+\caption{Connectivity of community 21}\\
+\toprule
+{} & \rot{HBD} & \rot{HBA2} & \rot{HBA1} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{4}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+HBB  &      0.78 &       1.79 &       1.40 \\
+HBD  &           &       0.77 &       0.86 \\
+HBA2 &           &            &       1.35 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_21.pdf}
+\caption{Community 21 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 23}
+This community has the following genes: FCRL1, BLK, PAX5, MS4A1, CD19, FAM129C, TNFRSF13C, CNR2
+\\
+This community has no enriched pathways below adjusted p-value $< 0.05$.
+
+\begin{longtable}{lrrrrrrr}
+\caption{Connectivity of community 23}\\
+\toprule
+{} & \rot{BLK} & \rot{PAX5} & \rot{MS4A1} & \rot{CD19} & \rot{FAM129C} & \rot{TNFRSF13C} & \rot{CNR2} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{8}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+FCRL1     &      0.83 &       0.86 &        0.99 &       0.83 &          0.86 &            0.81 &       0.84 \\
+BLK       &           &       0.71 &        0.86 &       0.79 &          0.59 &            0.79 &       0.65 \\
+PAX5      &           &            &        1.00 &       0.73 &          0.84 &            0.81 &       0.71 \\
+MS4A1     &           &            &             &       0.83 &          0.86 &            0.86 &       0.73 \\
+CD19      &           &            &             &            &          0.62 &            0.68 &       0.68 \\
+FAM129C   &           &            &             &            &               &            0.71 &       0.74 \\
+TNFRSF13C &           &            &             &            &               &                 &       0.74 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_23.pdf}
+\caption{Community 23 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 24}
+This community has the following genes: CIDEC, ADIPOQ, LEP, RBP4, GPAM, DGAT2, GPD1, PLIN1, TUSC5, CIDEA, LIPE
+\\
+\begin{longtable}{p{2.4cm}p{14.5cm}}
+\caption{Enrichment for community 24}\\
+\toprule
+Adjusted \newline P-value &                                                                                          Term \\
+\midrule
+\endhead
+\midrule
+\multicolumn{2}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+                 0.008502 &                                            Triglyceride Biosynthesis Homo sapiens R-HSA-75109 \\
+                 0.007318 &       Transcriptional regulation of white adipocyte differentiation Homo sapiens R-HSA-381340 \\
+                 0.007642 &                               Metabolism of lipids and lipoproteins Homo sapiens R-HSA-556833 \\
+                 0.006354 &                                                         Metabolism Homo sapiens R-HSA-1430728 \\
+                 0.006312 &                                   Glycerophospholipid biosynthesis Homo sapiens R-HSA-1483206 \\
+                 0.013252 &  Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis Homo sapiens R-HSA-163560 \\
+                 0.017610 &                                            Phospholipid metabolism Homo sapiens R-HSA-1483257 \\
+                 0.019726 &                                                    Synthesis of PA Homo sapiens R-HSA-1483166 \\
+                 0.033136 &             Fatty acid, triacylglycerol, and ketone body metabolism Homo sapiens R-HSA-535734 \\
+\end{longtable}
+
+
+\begin{longtable}{lrrrrrrrrrr}
+\caption{Connectivity of community 24}\\
+\toprule
+{} & \rot{ADIPOQ} & \rot{LEP} & \rot{RBP4} & \rot{GPAM} & \rot{DGAT2} & \rot{GPD1} & \rot{PLIN1} & \rot{TUSC5} & \rot{CIDEA} & \rot{LIPE} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{11}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+CIDEC  &         0.75 &      0.52 &       0.69 &       0.64 &        0.68 &       0.90 &        0.76 &        0.68 &        0.56 &       0.59 \\
+ADIPOQ &              &      0.81 &       0.69 &       0.76 &        0.77 &       1.12 &        1.16 &        1.30 &        1.05 &       0.81 \\
+LEP    &              &           &       0.54 &       0.59 &        0.44 &       0.74 &        0.71 &        0.86 &        0.56 &       0.60 \\
+RBP4   &              &           &            &       0.70 &        0.74 &       0.84 &        0.83 &        0.72 &        0.63 &       0.62 \\
+GPAM   &              &           &            &            &        0.88 &       0.80 &        0.73 &        0.74 &        0.60 &       0.66 \\
+DGAT2  &              &           &            &            &             &       0.88 &        0.79 &        0.73 &        0.58 &       0.58 \\
+GPD1   &              &           &            &            &             &            &        1.19 &        1.08 &        0.91 &       0.88 \\
+PLIN1  &              &           &            &            &             &            &             &        1.12 &        0.95 &       0.84 \\
+TUSC5  &              &           &            &            &             &            &             &             &        0.93 &       0.91 \\
+CIDEA  &              &           &            &            &             &            &             &             &             &       0.78 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_24.pdf}
+\caption{Community 24 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 27}
+This community has the following genes: C1orf150, CDK15, CPA3, RAB44, SLC18A2, MS4A2, CMA1, CTSG, HDC, TPSB2, TPSAB1, SIGLEC6
+\\
+\begin{longtable}{p{2.4cm}p{14.5cm}}
+\caption{Enrichment for community 27}\\
+\toprule
+Adjusted \newline P-value &                                                                      Term \\
+\midrule
+\endhead
+\midrule
+\multicolumn{2}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+                 0.000141 &  Metabolism of Angiotensinogen to Angiotensins Homo sapiens R-HSA-2022377 \\
+                 0.000620 &        Activation of Matrix Metalloproteinases Homo sapiens R-HSA-1592389 \\
+                 0.006994 &                     Peptide hormone metabolism Homo sapiens R-HSA-2980736 \\
+                 0.011760 &        Degradation of the extracellular matrix Homo sapiens R-HSA-1474228 \\
+\end{longtable}
+
+
+\begin{longtable}{lrrrrrrrrrrr}
+\caption{Connectivity of community 27}\\
+\toprule
+{} & \rot{CDK15} & \rot{CPA3} & \rot{RAB44} & \rot{SLC18A2} & \rot{MS4A2} & \rot{CMA1} & \rot{CTSG} & \rot{HDC} & \rot{TPSB2} & \rot{TPSAB1} & \rot{SIGLEC6} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{12}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+C1orf150 &        0.72 &       0.97 &        0.85 &          0.77 &        0.86 &       0.57 &       0.70 &      0.70 &        0.74 &         0.85 &          0.85 \\
+CDK15    &             &       0.89 &        0.72 &          0.64 &        0.84 &       0.45 &       0.54 &      0.67 &        0.60 &         0.76 &          0.75 \\
+CPA3     &             &            &        0.93 &          0.97 &        1.05 &       0.67 &       0.82 &      0.95 &        0.82 &         1.17 &          0.96 \\
+RAB44    &             &            &             &          0.78 &        0.78 &       0.59 &       0.68 &      0.83 &        0.63 &         0.85 &          0.73 \\
+SLC18A2  &             &            &             &               &        0.83 &       0.52 &       0.67 &      0.80 &        0.57 &         0.77 &          0.79 \\
+MS4A2    &             &            &             &               &             &       0.64 &       0.80 &      0.98 &        0.66 &         0.82 &          0.93 \\
+CMA1     &             &            &             &               &             &            &       1.35 &      0.78 &        0.47 &         0.56 &          0.60 \\
+CTSG     &             &            &             &               &             &            &            &      0.96 &        0.53 &         0.66 &          0.66 \\
+HDC      &             &            &             &               &             &            &            &           &        0.60 &         0.70 &          0.68 \\
+TPSB2    &             &            &             &               &             &            &            &           &             &         0.72 &          0.58 \\
+TPSAB1   &             &            &             &               &             &            &            &           &             &              &          0.75 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_27.pdf}
+\caption{Community 27 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 30}
+This community has the following genes: HMP19, PRPH, INA, PIRT
+\\
+This community has no enriched pathways below adjusted p-value $< 0.05$.
+
+\begin{longtable}{lrrr}
+\caption{Connectivity of community 30}\\
+\toprule
+{} & \rot{PRPH} & \rot{INA} & \rot{PIRT} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{4}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+HMP19 &       0.82 &      0.82 &       0.85 \\
+PRPH  &            &      0.60 &       0.78 \\
+INA   &            &           &       0.66 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_30.pdf}
+\caption{Community 30 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+
+
+
+\subsection*{Community with ID 32}
+This community has the following genes: SLAMF7, IGJ, RP11.1280I22.1, TXNDC5, TNFRSF17, DERL3, MEI1
+\\
+This community has no enriched pathways below adjusted p-value $< 0.05$.
+
+\begin{longtable}{lrrrrrr}
+\caption{Connectivity of community 32}\\
+\toprule
+{} & \rot{IGJ} & \rot{RP11.1280I22.1} & \rot{TXNDC5} & \rot{TNFRSF17} & \rot{DERL3} & \rot{MEI1} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{7}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+SLAMF7         &      0.82 &                 0.71 &         0.69 &           0.78 &        0.57 &       0.53 \\
+IGJ            &           &                 0.86 &         0.83 &           0.79 &        0.54 &       0.55 \\
+RP11.1280I22.1 &           &                      &         0.71 &           0.60 &        0.91 &       0.61 \\
+TXNDC5         &           &                      &              &           0.81 &        0.64 &       0.81 \\
+TNFRSF17       &           &                      &              &                &        0.50 &       0.55 \\
+DERL3          &           &                      &              &                &             &       0.59 \\
+\end{longtable}
+
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=.5\textwidth]{corr_figures/corr_networkColon_Transverse_32.pdf}
+\caption{Community 32 structure. Only showing connections with correlation greater than 0.8}
+\end{figure}
+
+

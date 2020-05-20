@@ -1,0 +1,14 @@
+running
+  '/local/sdc/tmla2/miniconda/envs/r_env/lib/R/bin/R --slave --no-restore --no-save --no-restore --file=12_01_correct_confounds_tcga.R'
+
+Loading required package: mgcv
+Loading required package: nlme
+This is mgcv 1.8-31. For overview type 'help("mgcv-package")'.
+Loading required package: genefilter
+Loading required package: BiocParallel
+[1] "Tissue BreastCancer: "
+[1] "115 components"
+[1] "Tissue AML: "
+[1] "25 components"
+[1] "Tissue LungAdenocarcinoma: "
+[1] "72 components"

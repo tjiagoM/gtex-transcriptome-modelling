@@ -1,0 +1,3 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Miscellaneous transport and binding events Homo sapiens R-HSA-5223345	1/18	0.0035953576273759936	1.0	0	0	277.77777777777777	1563.364392681569	PIP
+Reactome_2016	Transmembrane transport of small molecules Homo sapiens R-HSA-382551	1/594	0.1136192884864765	1.0	0	0	8.417508417508419	18.307255842538137	PIP

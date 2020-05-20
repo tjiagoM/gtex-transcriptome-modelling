@@ -1,0 +1,3 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Metabolism of amino acids and derivatives Homo sapiens R-HSA-71291	2/335	0.0027053356110775073	1.0	0	0	23.88059701492537	141.1947296415805	DCT;TYR
+Reactome_2016	Metabolism Homo sapiens R-HSA-1430728	2/1908	0.07483527614973971	1.0	0	0	4.19287211740042	10.869877982780096	DCT;TYR

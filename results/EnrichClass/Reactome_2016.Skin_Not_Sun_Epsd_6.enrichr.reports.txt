@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Tight junction interactions Homo sapiens R-HSA-420029	1/30	0.010454323550630109	1.0	0	0	95.23809523809523	434.35615706994537	CLDN19
+Reactome_2016	Cell-cell junction organization Homo sapiens R-HSA-421270	1/61	0.021158626475049302	1.0	0	0	46.8384074941452	180.59520306725798	CLDN19
+Reactome_2016	Cell junction organization Homo sapiens R-HSA-446728	1/86	0.029718695945433443	1.0	0	0	33.222591362126245	116.80993149863545	CLDN19
+Reactome_2016	Cell-Cell communication Homo sapiens R-HSA-1500931	1/131	0.044965205761108	1.0	0	0	21.810250817884405	67.65248186691228	CLDN19

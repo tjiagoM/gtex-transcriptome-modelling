@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers Homo sapiens R-HSA-983695	1/47	0.009367518105959016	1.0	0	0	106.38297872340424	496.86245685635384	BLK
+Reactome_2016	Signaling by the B Cell Receptor (BCR) Homo sapiens R-HSA-983705	1/233	0.04579511987046996	1.0	0	0	21.45922746781116	66.17119627866275	BLK
+Reactome_2016	Adaptive Immune System Homo sapiens R-HSA-1280218	1/762	0.14391927724208972	1.0	0	0	6.561679790026246	12.719834063612804	BLK
+Reactome_2016	Immune System Homo sapiens R-HSA-168256	1/1547	0.2753349996712561	1.0	0	0	3.232062055591467	4.16860614761733	BLK

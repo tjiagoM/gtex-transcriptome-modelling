@@ -1,0 +1,8 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Erythrocytes take up oxygen and release carbon dioxide Homo sapiens R-HSA-1247673	1/8	0.0007998405838081707	1.0	0	0	1250.0	8913.872650491357	HBA1
+Reactome_2016	Erythrocytes take up carbon dioxide and release oxygen Homo sapiens R-HSA-1237044	1/12	0.0011996440770550064	0.9177277189470799	0	0	833.3333333333333	5604.775307197959	HBA1
+Reactome_2016	O2/CO2 exchange in erythrocytes Homo sapiens R-HSA-1480926	1/12	0.0011996440770550064	0.6118184792980533	0	0	833.3333333333333	5604.775307197959	HBA1
+Reactome_2016	Scavenging of heme from plasma Homo sapiens R-HSA-2168880	1/46	0.004594760937859201	1.0	0	0	217.3913043478261	1170.1822937193815	HBA1
+Reactome_2016	Binding and Uptake of Ligands by Scavenger Receptors Homo sapiens R-HSA-2173782	1/74	0.007386408760540923	1.0	0	0	135.13513513513513	663.258597495937	HBA1
+Reactome_2016	Vesicle-mediated transport Homo sapiens R-HSA-5653656	1/492	0.04859581294808009	1.0	0	0	20.325203252032523	61.46784359997533	HBA1
+Reactome_2016	Metabolism Homo sapiens R-HSA-1430728	1/1908	0.18170280535024053	1.0	0	0	5.2410901467505235	8.93806532619091	HBA1

@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Adherens junctions interactions_Homo sapiens_R-HSA-418990	1/31	0.006185985771587277	1.0	0	0	161.29032258064515	820.2369201324119	ANG
+Reactome_2016	Cell-cell junction organization_Homo sapiens_R-HSA-421270	1/61	0.012145090247431321	1.0	0	0	81.96721311475409	361.54346604307625	ANG
+Reactome_2016	Cell junction organization_Homo sapiens_R-HSA-446728	1/86	0.017090512409021402	1.0	0	0	58.139534883720934	236.58324414711439	ANG
+Reactome_2016	Cell-Cell communication_Homo sapiens_R-HSA-1500931	1/131	0.025945461465702327	1.0	0	0	38.167938931297705	139.38009847385007	ANG

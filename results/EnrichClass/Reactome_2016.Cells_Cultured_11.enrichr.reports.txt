@@ -1,0 +1,5 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Iron uptake and transport Homo sapiens R-HSA-917937	1/43	0.0212977650246516	1.0	0	0	46.511627906976734	179.03037861359263	LCN2
+Reactome_2016	Degradation of the extracellular matrix Homo sapiens R-HSA-1474228	1/106	0.05176478059643375	1.0	0	0	18.867924528301888	55.86877872126311	KLK7
+Reactome_2016	Extracellular matrix organization Homo sapiens R-HSA-1474244	1/283	0.13284934463064907	1.0	0	0	7.067137809187279	14.265297102058609	KLK7
+Reactome_2016	Transmembrane transport of small molecules Homo sapiens R-HSA-382551	1/594	0.2603424962072657	1.0	0	0	3.3670033670033668	4.531169096737732	LCN2

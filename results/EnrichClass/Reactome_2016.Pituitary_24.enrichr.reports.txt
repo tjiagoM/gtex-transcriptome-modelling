@@ -1,0 +1,8 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Post-chaperonin tubulin folding pathway Homo sapiens R-HSA-389977	1/22	0.006582617147928667	1.0	0	0	151.51515151515153	761.109525738989	TUBA3C
+Reactome_2016	Formation of tubulin folding intermediates by CCT/TriC Homo sapiens R-HSA-389960	1/25	0.0074774468101390735	1.0	0	0	133.33333333333334	652.7818507742522	TUBA3C
+Reactome_2016	Prefoldin mediated transfer of substrate  to CCT/TriC Homo sapiens R-HSA-389957	1/27	0.00807362689081275	1.0	0	0	123.4567901234568	594.9570949153103	TUBA3C
+Reactome_2016	Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding Homo sapiens R-HSA-389958	1/32	0.009562772251265471	1.0	0	0	104.16666666666669	484.36225099106184	TUBA3C
+Reactome_2016	Chaperonin-mediated protein folding Homo sapiens R-HSA-390466	1/95	0.0281669971363706	1.0	0	0	35.087719298245624	125.249273708903	TUBA3C
+Reactome_2016	Protein folding Homo sapiens R-HSA-391251	1/101	0.029923536019453224	1.0	0	0	33.003300330033014	115.81220958384495	TUBA3C
+Reactome_2016	Metabolism of proteins Homo sapiens R-HSA-392499	1/1074	0.2819497534585737	1.0	0	0	3.103662321539417	3.929318445514412	TUBA3C

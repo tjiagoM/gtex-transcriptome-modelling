@@ -1,0 +1,9 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+Reactome_2016	Defects in cobalamin (B12) metabolism_Homo sapiens_R-HSA-3296469	1/11	0.0032958256764104637	1.0	0	0	303.03030303030306	1731.848047809752	GIF
+Reactome_2016	Defects in vitamin and cofactor metabolism_Homo sapiens_R-HSA-3296482	1/18	0.0053884659389882355	1.0	0	0	185.1851851851852	967.3138050006752	GIF
+Reactome_2016	Cobalamin (Cbl, vitamin B12) transport and metabolism_Homo sapiens_R-HSA-196741	1/21	0.006284191332539439	1.0	0	0	158.7301587301587	804.7171605525016	GIF
+Reactome_2016	Diseases of metabolism_Homo sapiens_R-HSA-5668914	1/45	0.013425837026561787	1.0	0	0	74.07407407407409	319.301799421003	GIF
+Reactome_2016	Metabolism of water-soluble vitamins and cofactors_Homo sapiens_R-HSA-196849	1/98	0.029045597564923063	1.0	0	0	34.013605442176875	120.37035217643127	GIF
+Reactome_2016	Metabolism of vitamins and cofactors_Homo sapiens_R-HSA-196854	1/148	0.04359178583983181	1.0	0	0	22.522522522522525	70.56050776002947	GIF
+Reactome_2016	Disease_Homo sapiens_R-HSA-1643685	1/725	0.1987384296363655	1.0	0	0	4.597701149425287	7.4288080129120875	GIF
+Reactome_2016	Metabolism_Homo sapiens_R-HSA-1430728	1/1908	0.4520945760771967	1.0	0	0	1.7470300489168415	1.3869040564788833	GIF
