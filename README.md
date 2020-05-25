@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/265633374.svg)](https://zenodo.org/badge/latestdoi/265633374)
+
+
 # Multilayer modelling and analysis of the human transcriptome
 
 *Tiago Azevedo, Giovanna Maria Dimitri, Pietro Lio, Eric R. Gamazon*
