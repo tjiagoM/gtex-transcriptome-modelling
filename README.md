@@ -5,7 +5,7 @@
 
 *Tiago Azevedo, Giovanna Maria Dimitri, Pietro Lio, Eric R. Gamazon*
 
-This repository contains all the code necessary to run and further extend the experiments presented in the following preprint: [https://www.biorxiv.org/content/10.1101/2020.05.21.109082v1](https://www.biorxiv.org/content/10.1101/2020.05.21.109082v1)
+This repository contains all the code necessary to run and further extend the experiments presented in the following bioRxiv preprint: [https://doi.org/10.1101/2020.05.21.109082](https://doi.org/10.1101/2020.05.21.109082)
 
 ## Abstract
 
