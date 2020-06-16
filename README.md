@@ -9,17 +9,12 @@ This repository contains all the code necessary to run and further extend the ex
 
 ## Abstract
 
-In the present work, we performed a comprehensive intra-tissue and inter-tissue network analysis of the human transcriptome.
-We generated an atlas of communities in co-expression networks in each of 49 tissues and evaluated their tissue specificity.
-UMAP embeddings of gene expression from the identified communities recovered biologically meaningful tissue clusters, based on tissue organ membership or known shared function.
-We developed an approach to quantify the conservation of global structure and estimate the sampling distribution of the distance between tissue clusters via bootstrapped manifolds.
-We found not only preserved local structure among clearly related tissues (e.g., the 13 brain regions) but also a strong correlation between the clustering of these related tissues relative to the remaining ones.
-Interestingly, brain tissues showed significantly higher variability in community size than non-brain (<img src="https://render.githubusercontent.com/render/math?math=p = 1.55 \times 10^{-4}">).
-We identified communities that capture some of our current knowledge about biological processes, but most are likely to encode novel and previously inaccessible functional information.
-For example, we found a 17-member community present across all of the brain regions, which shows significant enrichment for the nonsense-mediated decay pathway (adjusted <img src="https://render.githubusercontent.com/render/math?math=p = 1.01 \times 10^{-37}">).
-We also constructed multiplex architectures to gain insights into tissue-to-tissue mechanisms for regulation of communities in the transcriptome, including communities that are likely to play a functional role throughout the central nervous system (CNS) and communities that may participate in the interaction between the CNS and the enteric nervous system.
-Notably, new gene expression data can be embedded into our models to accelerate discoveries in high-dimensional molecular datasets.
-Our study provides a rich resource of co-expression networks, communities, multiplex architectures, and enriched pathways in a broad collection of tissues, to catalyse research into inter-tissue regulatory mechanisms and enable insights into their downstream phenotypic consequences.
+Here, we performed a comprehensive intra-tissue and inter-tissue network analysis of the human transcriptome.
+We generated an atlas of communities in co-expression networks in 49 tissues (GTEx v8), evaluated their tissue specificity, and investigated their methodological implications.
+UMAP embeddings of gene expression from the communities (representing nearly 18% of all genes) robustly identified biologically-meaningful clusters.
+Methodologically, integration of the communities into a transcriptome-wide association study of C-reactive protein (CRP) in 361,194 individuals in the UK Biobank identified genetically-determined expression changes associated with CRP and led to considerably improved performance.
+Furthermore, a deep learning framework applied to the communities in nearly 11,000 tumours profiled by The Cancer Genome Atlas across 33 different cancer types learned biologically-meaningful latent spaces, representing metastasis (<img src="https://render.githubusercontent.com/render/math?math=p < 2.2 \times 10^{-16}">) and stemness (<img src="https://render.githubusercontent.com/render/math?math=p < 2.2 \times 10^{-16}">).
+Our study provides a rich genomic resource to catalyse research into inter-tissue regulatory mechanisms and their downstream phenotypic consequences.
 
 
 ## Repository Structure
