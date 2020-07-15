@@ -19,8 +19,7 @@ Our study provides a rich genomic resource to catalyse research into inter-tissu
 
 ## Repository Structure
 
-The number of each script in the root of this repository corresponds to the order in which they are run in the paper.
-
+This repository contains all the scripts which were used in the paper. The number in each script's name (in the root of this repository) corresponds to the order in which they are run in the paper.
 
 Each folder used in this repository is explained as follows:
 
@@ -44,3 +43,89 @@ In the repository there are also some jupyter notebooks which we hope can help r
 * `12_tcga.ipynb`: the code used in the paper to analyse the TCGA dataset within the GTEx pipeline of the paper, as well as a targeted R code (`12_01_correct_confounds_tcga.R`) used to correct the data.
 
 * `13_plots_for_paper.ipynb`: the code used to generate the plots from the paper.
+
+
+## Installing Dependencies
+
+These scripts were tested in a **Linux Ubuntu 16.04** operating system, with environments created using **Anaconda**. 
+
+### Python scripts
+
+We include a working dependency file in `python_environment.yml` describing the exact dependencies used to run the python scripts. In order to install all the dependencies automatically with Anaconda, one can easily just run the following command in the terminal to create an Anaconda environment:
+
+```bash
+$ conda env create --force --file python_environment.yml
+$ conda activate gtex-env
+```
+
+To summarise the `python_environment.yml` file, the main dependencies needed to run these scripts are:
+
+* **gseapy** 0.9.16
+* **jupyterlab** 1.1.4
+* **matplotlib** 3.1.0
+* **networkx** 2.4
+* **numpy** 1.17.3
+* **pandas** 1.0.1
+* **python** 3.7.5
+* **scikit-learn** 0.21.3
+* **statsmodels** 0.10.2
+* **umap-learn** 0.4.2
+* **bctpy** 0.5.0
+
+### R scripts
+
+We used R to run the unsupervised correction package *sva*, which is briefly described in the paper. To make things easier, we also include the R dependencies in which these scripts were run, with Anaconda. Similarly to python, one can install them using the following commands:
+
+```bash
+$ conda env create --force --file r_environment.yml
+$ conda activate r_env
+```
+
+After the R environment is created and activated, one should install the *sva* package as descibred in the [original repository](https://bioconductor.org/packages/release/bioc/html/sva.html):
+
+```R
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("sva")
+```
+
+We decided to keep python and R scripts in separate environments to avoid dependency issues given they are distinct programming languages.
+
+
+### Data Requirements
+
+To details on the data used, which cannot be publicly shared in this repository, please see the paper.
+
+## Running the scripts
+
+In order to analyse and see our jupyter notebooks, one just needs to start the jupyter engine in the root of this repository:
+
+```bash
+$ jupyter lab --port=8895
+```
+
+This command will print a link in the local machine at port 8895, which can be accessed using a browser.
+
+
+To run any python script file, in the order described above, one can run the following command:
+
+```bash
+$ python -u PYTHON_FILE | tee outputs/output_file.txt
+```
+
+The previous command will run `PYTHON_FILE` and log the output of the script in *outputs/output_file.txt*.
+
+
+The following command is an example of how to run an R script:
+
+```bash
+$ Rscript --no-save --no-restore --verbose 02_01_correct_confounds.R > outputs/output_02_01.txt 2>&1
+```
+
+The previous command will run the `02_01_correct_confounds.R` script and log the output of the script in *outputs/output_02_01.txt*.
+
+
+## Questions?
+
+If you run into any problem or have a question, please just open an issue.
