@@ -126,6 +126,11 @@ $ Rscript --no-save --no-restore --verbose 02_01_correct_confounds.R > outputs/o
 The previous command will run the `02_01_correct_confounds.R` script and log the output of the script in *outputs/output_02_01.txt*.
 
 
+## Other scripts
+
+The scripts for the multilayer modeling approach to TWAS/PrediXcan (CRP in UKB) and Variational Autoencoder model (TCGA) are in this [external repository](https://github.com/gamazonlab/MultilayerModelingTranscriptome).
+
+
 ## Questions?
 
 If you run into any problem or have a question, please just open an issue.
