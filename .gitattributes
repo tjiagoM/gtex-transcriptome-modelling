@@ -2,4 +2,6 @@
 results/** linguist-vendored
 outputs/** linguist-vendored
 meta_data/** linguist-vendored
+00_Summary.ipynb linguist-vendored
+11_multiplex_enrichment.ipynb linguist-vendored
 13_plots_for_paper.ipynb linguist-vendored
