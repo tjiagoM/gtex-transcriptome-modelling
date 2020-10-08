@@ -1,3 +1,7 @@
+"""
+It prints information about the SVM analysis (i.e., how many REACTOME pathways can predict each tissue, and how many
+tissues each REACTOME pathway can predict).
+"""
 import pickle
 from collections import defaultdict
 

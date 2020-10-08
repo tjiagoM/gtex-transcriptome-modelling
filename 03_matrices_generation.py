@@ -1,3 +1,9 @@
+"""
+Script responsible to create the co-correlation matrices for each tissue, based on the files
+data_filtered/only_geneids_CORRECTED_*.csv that came from the `02_01` script.
+
+Each correlation matrix will be pickled inside data/ folder.
+"""
 from multiprocessing import Pool
 
 import numpy as np

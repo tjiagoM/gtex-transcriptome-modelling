@@ -1,3 +1,6 @@
+"""
+Script responsible to run the analysis in the multilayer section of the paper.
+"""
 import argparse
 import pickle
 
@@ -81,7 +84,8 @@ def dictionary_from_multilayer_matrix(gl2, value):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--combination", help="Which combination to try")
+    parser.add_argument("--combination",
+                        help="Which combination number to try in the array COMBINATIONS defined at the beginning of this file")
     args = parser.parse_args()
     combination = args.combination
     print("Going with", combination)

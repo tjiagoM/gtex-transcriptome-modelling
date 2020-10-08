@@ -1,3 +1,10 @@
+"""
+This script runs the SVM prediction analysis from the paper for each tissue, which is passed as a flag.
+
+It needs the pickle files defined in scripts `03` (correlation matrices) and `04_01` (Louvain communities).
+
+Results are pickled in the svm_results/ folder.
+"""
 import argparse
 import pickle
 
@@ -73,7 +80,8 @@ def calculate_svm(tissue_name):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--tissue_num", type=int)
+    parser.add_argument("--tissue_num", type=int,
+                        help='Tissue number in the TISSUES array (from definitions module), on which the code will be executed')
     args = parser.parse_args()
     print("Going with", TISSUES[args.tissue_num])
 
@@ -91,6 +99,7 @@ if __name__ == "__main__":
     all_df = all_df.sub(all_df.min()).div((all_df.max() - all_df.min()))
 
     all_df.fillna(0, inplace=True)
+
 
     # Adding tissue information to the dataframe
     def label_race(row):

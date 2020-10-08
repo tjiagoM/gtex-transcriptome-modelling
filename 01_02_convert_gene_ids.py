@@ -1,3 +1,10 @@
+"""
+This script converts all the gene names from ENSEMBL to GENE IDs. This information is based on the file
+`meta_data/genes_ENSEMBL_to_official_gene.csv`, and the data for each tissue comes from the result of script `01_01`
+(in data_filtered/ folder).
+
+The resulting CSVs are saved inside data_filtered/ folder.
+"""
 import numpy as np
 import pandas as pd
 

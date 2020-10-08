@@ -1,3 +1,8 @@
+"""
+This script runs the SVM prediction analysis from the paper for each REACTOME pathway, which is passed as a flag.
+
+Results are pickled in the svm_results/ folder.
+"""
 import argparse
 import pickle
 
@@ -61,7 +66,8 @@ def calculate_react_svm(react):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--react_name")
+    parser.add_argument("--react_name",
+                        help='Reactome pathway on which this code will be executed. For exact names, check meta_data/ReactomeData/ folder')
     args = parser.parse_args()
     print("Going with", args.react_name)
 
@@ -79,6 +85,7 @@ if __name__ == "__main__":
     all_df = all_df.sub(all_df.min()).div((all_df.max() - all_df.min()))
 
     all_df.fillna(0, inplace=True)
+
 
     # Adding tissue information to the dataframe
     def label_race(row):

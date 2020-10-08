@@ -1,0 +1,3 @@
+# Remove output files from Github language stats
+results/** linguist-vendored
+outputs/** linguist-vendored

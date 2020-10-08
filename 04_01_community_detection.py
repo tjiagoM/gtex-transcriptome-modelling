@@ -1,3 +1,11 @@
+"""
+This script is quite slow and takes a lot of RAM memory.
+
+It is responsible for running the Louvain community algorithm on each tissue. This script needs the pickle files from
+the previous script `03`.
+
+All the Louvain communities will be pickled in "results/louvain_modules_*" files, one for each tissue.
+"""
 import pickle
 from multiprocessing import Pool
 
@@ -8,7 +16,6 @@ import pandas as pd
 from definitions import TISSUES
 
 
-# This script is quite slow!
 # python -u 04_01_community_detection.py | tee outputs/output_04_01.txt
 
 def calculate_communitites(tissue_name):

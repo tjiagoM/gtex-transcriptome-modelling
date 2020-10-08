@@ -1,3 +1,7 @@
+"""
+This script does a quick sanity check about how the communities are disconnected (i.e., how many connections exist
+among different communities), using the pickle files generated in script `04_01`.
+"""
 import pickle
 
 import numpy as np

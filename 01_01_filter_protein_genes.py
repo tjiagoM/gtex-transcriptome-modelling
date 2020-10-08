@@ -1,3 +1,8 @@
+"""
+Script responsible to remove genes from the data which do not encode a protein.
+
+This is based on information in `meta_data/uniq_protein_encoding_genes.txt` and saved inside data_filtered/ folder.
+"""
 import pandas as pd
 
 from definitions import FILES

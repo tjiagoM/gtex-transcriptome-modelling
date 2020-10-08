@@ -1,3 +1,9 @@
+"""
+Script responsible to enrich all the communities (with size greater than 3) using the gseapy package.
+
+Results are saved inside results/EnrichClass/ folder for each community and inside results/enrichment/ for the
+significant enrichments.
+"""
 import argparse
 import pickle
 from time import sleep
@@ -47,9 +53,10 @@ def enrich_tissue(tissue_name, last_num):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--tissue_num", type=int)
-    parser.add_argument("--last_num", type=int, help="Community number from where to start (eg. in case previous run "
-                                                     "ended unexpectedly")
+    parser.add_argument("--tissue_num", type=int,
+                        help='Tissue number in the TISSUES array (from definitions module), on which the code will be executed')
+    parser.add_argument("--last_num", type=int,
+                        help='Community number from where to start (eg. in case previous run ended unexpectedly')
     args = parser.parse_args()
     print("Going with", TISSUES[args.tissue_num])
 

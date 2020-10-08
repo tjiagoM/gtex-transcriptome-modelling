@@ -107,14 +107,19 @@ $ jupyter lab --port=8895
 
 This command will print a link in the local machine at port 8895, which can be accessed using a browser.
 
-
-To run any python script file, in the order described above, one can run the following command:
+The python scripts in this repository are numbered, suggesting an order by which they should be executed. However, each python script contains at the beginning of the file a small documentation explaining what it does. To run python scripts from `01` to `04_02`, and `06_02`, one just needs to run the following command:
 
 ```bash
 $ python -u PYTHON_FILE | tee outputs/output_file.txt
 ```
 
-The previous command will run `PYTHON_FILE` and log the output of the script in *outputs/output_file.txt*.
+The previous command will run `PYTHON_FILE` and log the output of the script in *outputs/output_file.txt*. All the other python scripts expect one or two flags to be passed. Information about each flag can be seen in each `parser.add_argument` command in each file, which contains a small documentation of what it means. For example, python script `05_01` expects the flag `--tissue_num`; therefore, that flag needs to be passed when executing the script:
+
+```bash
+$ python -u 05_01_svms_communities.py --tissue_num NUM | tee outputs/output_05_01_NUM.txt
+```
+
+where `NUM` corresponds to the value for that flag.
 
 
 The following command is an example of how to run an R script:
