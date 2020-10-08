@@ -1,3 +1,5 @@
 # Remove output files from Github language stats
 results/** linguist-vendored
 outputs/** linguist-vendored
+meta_data/** linguist-vendored
+13_plots_for_paper.ipynb linguist-vendored
