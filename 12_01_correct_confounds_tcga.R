@@ -2,9 +2,10 @@
 library(sva)
 
 # Run script as:
-# Rscript --no-save --no-restore --verbose 12_01_correct_confounds_tcga.R > output_12_01.txt 2>&1
+# Rscript --no-save --no-restore --verbose 12_01_correct_confounds_tcga.R > outputs/output_12_01.txt 2>&1
 
-tissues <- c('BreastCancer', 'AML', 'LungAdenocarcinoma')
+tissues <- c('ACC', 'BLCA', 'BRCA', 'CESC', 'CHOL', 'COAD', 'DLBC', 'ESCA', 'GBM', 'HNSC', 'KICH', 'KIRC', 'KIRP', 'LAML', 'LGG', 'LIHC', 'LUAD', 'LUSC', 'MESO', 'OV', 'PAAD', 'PCPG', 'PRAD', 'READ', 'SARC', 'SKCM', 'STAD', 'TGCT', 'THCA', 'THYM', 'UCEC', 'UCS', 'UVM')
+
 
 for (tissue in tissues)
 {
