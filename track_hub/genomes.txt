@@ -1,2 +1,2 @@
-genome communities
-trackDb communities/trackDb.txt
+genome hg38
+trackDb hg38/trackDb.txt
