@@ -1,0 +1,6 @@
+hub GtexTranscriptomeModelling
+shortLabel Hub for (Azevedo et al. 2021)
+longLabel Hub for (Azevedo et al. 2021)
+genomesFile genomes.txt
+email  tiago.azevedo@cst.cam.ac.uk
+descriptionUrl https://github.com/tjiagoM/gtex-transcriptome-modelling

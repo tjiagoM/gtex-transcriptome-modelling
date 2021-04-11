@@ -31,6 +31,8 @@ Each folder used in this repository is explained as follows:
 
 * `svm_results`: Files with the metrics resulting from the SVM predictions.
 
+* `track_hub`: Files in the format required for [Track Hub](http://genome.ucsc.edu/cgi-bin/hgHubConnect)
+
 
 In the repository there are also some jupyter notebooks which we hope can help researchers in using our results in their own experiments, as well as improve the reproducibility of this paper:
 
@@ -40,9 +42,11 @@ In the repository there are also some jupyter notebooks which we hope can help r
 
 * `11_multiplex_enrichment.ipynb`: Instructions on how to check the group of genes identified in each multiplex network.
 
-* `12_tcga.ipynb`: the code used in the paper to analyse the TCGA dataset within the GTEx pipeline of the paper, as well as a targeted R code (`12_01_correct_confounds_tcga.R`) used to correct the data.
+* `12_tcga.ipynb`: The code used in the paper to analyse the TCGA dataset within the GTEx pipeline of the paper, as well as a targeted R code (`12_01_correct_confounds_tcga.R`) used to correct the data.
 
-* `13_plots_for_paper.ipynb`: the code used to generate the plots from the paper.
+* `13_plots_for_paper.ipynb`: The code used to generate the plots from the paper.
+
+* `14_track_hub.ipynb`: Code and explanations on how we generated the needed files for [Track Hub](http://genome.ucsc.edu/cgi-bin/hgHubConnect)
 
 
 ## Installing Dependencies
